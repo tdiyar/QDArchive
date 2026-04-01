@@ -1,0 +1,162 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Fregetta Bonaparte 1855</title>
+<meta content="text/html; charset=UTF-8" http-equiv="content-type"/>
+</head>
+<body>
+<h2>
+Multivariate analyses of
+<i>Fregetta</i>
+and suspected
+<i>F. lineata</i>
+specimens</h2>
+
+<p>
+We conducted a series of multivariate analyses on six biometrics: bill width, bill depth at gonys; and culmen, wing, tail and tarsus lengths. The sample (<i>n</i>
+= 261) comprised adults collected at colonies, held at museums worldwide, and measured by VB. Mean measurements are shown in Fig. 3. Analyses were conducted using the packages FACTORMINE and MASS from R software. Biometric characters were centred and scaled prior to analyses.</p>
+
+<p>
+<i>Principal Component Analyses</i>.—Principal Component Analysis (PCA) was performed as a descriptive multivariate analysis. In the first PCA, specimens from breeding archipelagos were grouped and averaged, including
+<i>F. tropica</i>
+(11 populations), small White-bellied Storm Petrels
+<i>F. grallaria</i>
+(six populations), the large
+<i>F.</i>
+[<i>g.</i>]
+<i>titan</i>
+(from Rapa Island), and
+<i>F. maoriana</i>
+(from New Zealand). The two Brisbane specimens and the specimens ‘
+<i>lineata</i>
+’ from Samoa and ‘
+<i>guttata</i>
+’ from Ua Pou were treated individually. Results are shown in Fig. 4A. The first principal component (Dim 1; Fig. 4A) was a body size axis (especially wing length; see Fig. 5). Dim 1 clearly separates the smallest
+<i>F. maoriana</i>
+(purple) from the largest
+<i>F.</i>
+[<i>g.</i>]
+<i>titan</i>
+(blue).
+<i>F. tropica</i>
+(green) and
+<i>F. grallaria</i>
+(orange and red) were fairly evenly spread, with
+<i>F. grallaria</i>
+having an overall smaller size and notably shorter tarsi, although some individuals (mainly from the western Pacific, but also the South Atlantic) had tarsi nearly as long as
+<i>F. tropica</i>
+(Fig. 3). QM 31216 (light green) clumped with
+<i>F. tropica</i>
+(dark green), whilst QM 14391 clumped with ‘
+<i>lineata</i>
+’ and ‘
+<i>guttata</i>
+’ (black). All three were at the small end of the size range of
+<i>F. grallaria</i>, having slightly shorter wings, a shorter tail than other
+<i>Fregetta</i>
+(but longer than
+<i>F. maoriana</i>), and tarsus length intermediate between
+<i>F. tropica</i>
+and
+<i>F. grallaria</i>
+(Fig. 3). This morphometric analysis supports the separation of
+<i>F. maoriana</i>, highlights the distinctiveness of the ‘
+<i>lineata</i>,
+<i>guttata</i>, QM 14391’ specimens within
+<i>F. grallaria</i>, and aligns QM 31216 with
+<i>F. tropica</i>.</p>
+
+<p>
+These results were confirmed by two further PCAs run on individual specimens. For the
+<i>F. maoriana</i>, ‘
+<i>lineata</i>
+’ and ‘
+<i>guttata</i>
+’ specimens, we used measurements taken by various researchers, as if they were independent samples, yielding, respectively, seven and 11 ‘specimens’ (complete list and measurements in Appendix 2). In the PCAs, individuals were grouped by breeding locality (Fig. 4B) or by taxonomy (Fig. 4C). Both PCAs indicated that ‘
+<i>lineata</i>
+’, ‘
+<i>guttata</i>
+’ and QM 14391 clumped between
+<i>F. grallaria</i>
+and
+<i>F. tropica</i>, overlapping slightly with both. Also, many
+<i>F. grallaria</i>
+specimens overlapped with
+<i>F. tropica</i>. Lastly, once again,
+<i>F. maoriana</i>
+and
+<i>F.</i>
+[<i>g.</i>]
+<i>titan</i>
+map as extreme opposites (Figs. 4B‒C).</p>
+
+<p>
+<i>Discriminant Analyses</i>.—Discriminant Analysis (DA) maximises multivariate differences between groups (taxa). It establishes classification of individuals from their biometrics based on canonical discriminant functions. DA was performed on individuals grouped by nine breeding localities (Fig. 4D), five taxa (Fig. 4E), and a reduced set of three taxa (Fig. 4F). The five taxa were ‘
+<i>F. lineata</i>
+’ (a regrouping of ‘
+<i>lineata</i>,
+<i>guttata</i>, and QM 14391’),
+<i>F. grallaria</i>,
+<i>F. tropica</i>
+(including QM 31216),
+<i>F. maoriana</i>, and
+<i>F.</i>
+[<i>g.</i>]
+<i>titan</i>. Error-classification rates are derived as apparent rates when using all individuals as a train dataset, or more robust estimates of error rates when using the cross-validation and leave one out procedure. The same six centred and scaled variables from PCA were used in DA.</p>
+
+<p>
+First, a stepwise DA indicated that all six variables entered the model (with threshold significance level for dropping a variable established at 0.01), thus all six variables were retained (data not shown). Then, using Linear Discriminant Analysis (LDA), we found apparent classification-error rate was only 10.34% (<i>n</i>
+= 261) when applied to all breeding localities as groups (Fig. 4D). Five of seven
+<i>F. lineata</i>
+were correctly assigned, as were all
+<i>F. maoriana</i>
+and all
+<i>F.</i>
+[<i>g.</i>]
+<i>titan</i>, and nearly all
+<i>F. tropica</i>
+and
+<i>F. g. segethi</i>. Using a cross-validation procedure for error-rate estimation led to a slight increase, as expected, of 13.0% error rate.</p>
+
+<p>
+A second LDA was run on the five taxa as
+<i>a priori</i>
+groups (Fig. 4E). Apparent error-rate classification was lower, at 8%, but just two
+<i>F. lineata</i>
+were correctly classified. Quadratic Discriminant Analysis (QDA) was also used, as it is less conservative (permitting different variance matrices for different groups), while using a quadratic classification decision boundary. QDA significantly improved the apparent error rate (3.8%), notably with all seven
+<i>F. lineata</i>
+specimens now being correctly assigned to their group. However, using the cross-validation calibration, the error rate was 8.8%. Restricting DA to
+<i>F. lineata</i>,
+<i>F. grallaria</i>
+and
+<i>F. tropica</i>
+did not significantly alter the results, but placed
+<i>F. lineata</i>
+between
+<i>F. grallaria</i>
+and
+<i>F. tropica</i>
+in multivariate space (Fig. 4F), notably due to intermediate values in tarsus length (Figs. 3 and 6).</p>
+
+<p>
+The three
+<i>F. lineata</i>
+specimens are larger than
+<i>F. maoriana</i>
+in all measurements (Fig. 3, Appendix 2), albeit with very slight overlap in bill width. Within each taxon, measurements vary to some extent between individuals, as reported by relatively high standard error values in wing and tail measurements (Appendix 2). Intra-taxon variation, however, is particularly pronounced for the three
+<i>F. lineata</i>
+specimens. Part of this variation is due to observer measurement error, and possibly also to specimen age. The within-individual range of variation (i.e., measurements made by three or four different observers) is actually higher than the within-population variation of
+<i>F. maoriana</i>. For example, the two specimens of
+<i>F. maoriana</i>
+held at the Muséum national d’Histoire naturelle, Paris, were measured by four different observers, and standard errors in measurements vary between 0.13 mm (culmen length in one specimen) and 2.25 mm (tail length in the other). Tarsus length also varies both within and between the three
+<i>F. lineata</i>
+specimens. Streaks on their bellies are also quite variable, as in
+<i>F. maoriana</i>
+(e.g., Flood 2003, Stephenson
+<i>et al</i>. 2008b), but are completely unique to
+<i>F. lineata</i>
+and
+<i>F. maoriana</i>. Neither taxon shows an absence of streaks, but their extent and arrangement are variable and distinctive (see below).</p>
+
+</body>
+</html>

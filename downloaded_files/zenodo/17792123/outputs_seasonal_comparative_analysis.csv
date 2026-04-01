@@ -1,0 +1,5 @@
+season,theta_gradient_med_mean,theta_gradient_med_std,theta_gradient_med_min,theta_gradient_med_max,Fine_Mode_AOD_500nm[tau_f]_mean,Fine_Mode_AOD_500nm[tau_f]_std,Fine_Mode_AOD_500nm[tau_f]_min,Fine_Mode_AOD_500nm[tau_f]_max,Coarse_Mode_AOD_500nm[tau_c]_mean,Coarse_Mode_AOD_500nm[tau_c]_std,Coarse_Mode_AOD_500nm[tau_c]_min,Coarse_Mode_AOD_500nm[tau_c]_max,rh_850_med_mean,rh_850_med_std,soundings_sum
+DJF,15.481,1.42,11.496,17.79,0.169,0.044,0.108,0.274,0.04,0.025,0.013,0.111,63.076,8.41,2674
+JJA,9.341,0.92,7.648,11.68,0.111,0.021,0.057,0.149,0.199,0.065,0.105,0.382,70.787,4.195,2904
+MAM,10.88,1.825,7.93,14.406,0.102,0.027,0.058,0.157,0.106,0.064,0.047,0.345,61.638,7.826,2676
+SON,13.207,1.778,9.876,16.728,0.151,0.072,0.091,0.48,0.145,0.076,0.02,0.273,65.139,10.047,2876

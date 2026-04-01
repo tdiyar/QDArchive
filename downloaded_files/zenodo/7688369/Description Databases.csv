@@ -1,0 +1,50 @@
+Database;Common.name;Tasks
+Card;mprF;resistance to cationic peptides
+vfdb;acpXL;acyl carrier protein
+vfdb;btpA;Tir domain containing protein
+vfdb;btpB;Tir domain containing protein
+vfdb;cgs;cyclic beta 1-2 glucan synthetase
+vfdb;fabZ;(3R)-hydroxymyristoyl ACP dehydratase
+vfdb;gmd;GDP-mannose 4,6-dehydratase
+vfdb;htrB;lipid A biosynthesis lauroyl acyltransferase
+vfdb;kdsA;2-dehydro-3-deoxyphosphooctonate aldolase 
+vfdb;kdsB;3-deoxy-manno-octulosonate cytidylyltransferase
+vfdb;lpsA;glycosyltransferase
+vfdb;lpsB.lpcC;Lipopolysaccharide core biosynthesis mannosyltransferase
+vfdb;lpxA;UDP-N-acetylglucosamine acyltransferase
+vfdb;lpxB;lipid-A-disaccharide synthase
+vfdb;lpxC;UDP-3-O-[3-hydroxymyristoyl] N-acetylglucosamine deacetylase
+vfdb;lpxD;UDP-3-O-[3-hydroxymyristoyl] glucosamine N-acyltransferase
+vfdb;lpxE;phosphatidylglycerophosphatase B
+vfdb;manAoAg;mannose-6-phosphate isomerase
+vfdb;manCoAg;mannose-1-phosphate guanylyltransferase
+vfdb;per;perosamine synthetase
+vfdb;pgm;phosphoglucomutase 
+vfdb;pmm; phosphomannomutase
+vfdb;ricA;Rab2 interacting conserved protein A
+vfdb;virB1;type IV secretion system
+vfdb;virB10;type IV secretion system
+vfdb;virB11;type IV secretion system
+vfdb;virB12;type IV secretion system
+vfdb;virB2;type IV secretion system
+vfdb;virB3;type IV secretion system
+vfdb;virB4;type IV secretion system
+vfdb;virB5;type IV secretion system
+vfdb;virB6;type IV secretion system
+vfdb;virB7;type IV secretion system
+vfdb;virB8;type IV secretion system
+vfdb;virB9;type IV secretion system
+vfdb;wbdA;mannosyltransferase
+vfdb;wbkA;mannosyltransferase
+vfdb;wbkB;perosamine synthetase WbkB
+vfdb;wbkC;GDP-mannose 4,6-dehydratase / GDP-4-amino-4,6-dideoxy-D-mannose formyltransferase
+vfdb;wboA;glycosyltransferase
+vfdb;wbpL;undecaprenyl-phosphate alpha-N-acetylglucosaminyltransferase
+vfdb;wbpZ;mannosyltransferase C 
+vfdb;wzm;O-antigen export system permease protein
+vfdb;wzt;O-antigen export system ATP-binding protein
+amrfinder;bepG;multidrug efflux RND transporter permease subunit BepG
+amrfinder;bepF;multidrug efflux RND transporter periplasmic adaptor subunit BepF
+amrfinder;bepC;multidrug efflux RND transporter outer membrane subunit BepC
+amrfinder;bepE;multidrug efflux RND transporter permease subunit BepE
+amrfinder;bepD;multidrug efflux RND transporter periplasmic adaptor subunit BepD

@@ -1,0 +1,43 @@
+{
+  "filename": "PM_033009_E_Simancas.jpg",
+  "sublocation": "Castillo",
+  "location": "Simancas",
+  "province": "Castilla y León, Valladolid",
+  "country": "Spain",
+  "header": "El castillo. Archivo Nacional. Exterior. La puerta de entrada. Siglo XVI.",
+  "description": [
+    "The castle",
+    "National archive",
+    "Exterior",
+    "The entrance gate",
+    "16th century"
+  ],
+  "author": "Photo: Paul M.R. Maeyaert",
+  "author_email": "PMRMaeyaert@gmail.com",
+  "copyright": "Paul M.R. Maeyaert",
+  "keywords": [
+    "Castilla y León",
+    "Castle",
+    "Cultural heritage",
+    "Europe",
+    "Monuments",
+    "Simancas",
+    "Spain",
+    "Valladolid"
+  ],
+  "identifier": "033009",
+  "latitude": 41.5918865,
+  "longitude": -4.828808,
+  "q_place": "Castillo de Simancas",
+  "q_osm_id": 8462457,
+  "q_location": "Simancas",
+  "q_location_lat": 41.59072,
+  "q_location_lon": -4.82796,
+  "q_country": "Spain",
+  "q_admin_1": "Castille and León",
+  "q_admin_2": "Valladolid",
+  "q_admin_3": "Simancas",
+  "q_admin_4": "",
+  "q_admin_5": "",
+  "q_method": "llm"
+}

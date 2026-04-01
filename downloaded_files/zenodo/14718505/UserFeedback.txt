@@ -1,0 +1,106 @@
+Proband 1: 
+
+Das wechseln der verschiedenen Interaktionsmodi über die Leertaste ist
+ unintuitiv. Besser wäre, wenn verschiedene Interaktionen über ein
+ Kontextmenü angewählt werden können. Dass die Kamera 
+ mit rechtsklick gesteuert wird, sich aber auch auf 
+ rechtsklick ein Kontextmenü öffnet ist ungünstig. 
+ Das Blinken der Vorschläge geht ein wenig unter, 
+ durch die ganzen kanten. Wenn man den sourcecode liest, 
+ können trotzdem noch andere klassen ausgewählt werden, 
+ was zum versehentlichen wechseln in eine andere klasse geführt hat.
+ 
+ Proband2:
+ 
+ Es gab unsicherheiten beim ersten Versuch. 
+ Beim zweiten Versuch wurden meine Vorschlaege der Zuordnung durch 
+ das makieren der einzelnen Architektur Komponenten positiver wahrgenommen.
+ Eine Art unterstuetzung die einem Psychologisch darauf hinarbeitet,
+ dass diese Klasse in diese bestimmte Architektur Komponente rein gehoert.
+ Der Gedanke beim ersten Versuch, etwas der falschen Schicht zuzuordnen 
+ hat innerlich eher Stress ausgeloest, welches auch durch 
+ den Zeitdruck zustande gekommen ist(?). 
+ Aufgabenstellung war beim zweiten versuch sehr klar und fuehlte mich wohler
+ in der Software zu navigieren und alles zuzuordnen.
+ 
+ Proband 3:
+ 
+ Reflexionsanalyse abgestürzt, endlose Fehlernachrichten.
+ Ein Baustein ließ sich nicht mehr bewegen und zeigte ein großes Blinklicht.
+ Feedbacksound teilweise störend. 
+ Kantennetz unübersichtlich: Architekturkanten waren teils im Weg.
+ Kanten teilweise farblos/durchsichtig. 
+ Legende der Steuerungsbefehle wäre hilfreich. 
+ Schalter für feste (Vogel-)Perspektiven wäre hilfreich gewesen. 
+ Teilweise schwammige Auswahl der Knoten 
+ (Kontextmenu zum falschen Knoten wurde geöffnet)
+ 
+ 
+ Proband 4: 
+ 
+ Richtung der Kanten nicht klar erkennbar.
+ 
+ Proband 5: 
+ 
+ Wünschenswert wäre eine automatisches Zuordnung 
+ der Implementierungen in die passende Architektur, 
+ das Deaktivieren von möglicherweise verbuggten Funktionen 
+ (Scrollrad) und farbliche Unterscheidung 
+ der verschiedenen Architekturebenen zur schnelleren Findung.
+ Vewirrt hat mich etwas die Verbindung aller Komponenten 
+ zum leeren Code-Facts Bereich. Ansonsten super! :)
+ 
+ Proband 6: 
+ 
+ Namen der Blöcken waren schwer zu lesen. 
+ Kanten leuchten teilweise recht stark und sind daher auch eher schwerer
+ zu erkenen.
+ 
+ Proband 7:
+ 
+ Ich fand SEE nicht unnötig komplex, aber die Thematik dahinter ist 
+ grundlegend komplex, da man allgemein Zeit braucht eine Architektur 
+ eines Systems und die Zusammenhänge zwischen den Komponenten zu verstehen.
+ Ich denke auch die Nutzung allgemein ist einfach, aber zu verstehen 
+ was die verschiedenen Aktionen eigentlich bedeuten, ist komplex. 
+ Einige Nutzerelemente wie die Farben der Richtungskanten 
+ zwischen Architekturkomponenten müssten stärker im Kontrast 
+ sein um die Richtung wahrzunehmen. Man tendiert eher zu scrollen 
+ wenn man kleine Objekte genauer beobachten möchte, statt Q und E zu nutzen.
+ 
+ Proband 8:
+ Connections were highlighted too brightly for my taste. The usage was a little bit fummelig.
+ 
+ Proband 9: 
+ 
+ Ich hab die Recommendations nicht wirklich verstanden. 
+ Scrollen im Code Editor hat layout verschoben. 
+ Ich wusste aber das ich nicht scrollen soll. 
+ Generell input nur im Code Editor lassen.
+ 
+ Proband 10:
+ 
+ Teilweise war das Hovern nicht immer möglich, sodass die Kanten und Namen nicht eingeblendet wurden. 
+ | Die Kanten für die Architektur-Vorgaben und die Abhängigkeiten könnten farblich unterschieden werden. 
+ | Die Schattierung der gerichteten Kanten ist schwer zu erkennen. 
+ | Reflexionsanalyse ist bei Aufgabe 1 abgestürzt.
+ 
+ Proband 11: 
+ /
+ 
+ Proband 12:
+ 
+ Ich fand die Architekturhilfe sehr hilfreich. 
+ Die Kanten haben einen guten Überblick über die Abhängigkeiten geben.
+ 
+ Proband 13:
+ 
+ UI von der Tree View ggf. etwas übersichtlicher machen (zu groß, zur Seite aufklappen statt nach unten um weniger zu scrollen). 
+ Architekturtemplates anbieten (spätere Erweiterung).
+ 
+ Proband 14: 
+ 
+ Die Steuerung hat nicht immer funktioniert (greifen von Knoten nur unter ganz starkem zoom), oft vergriffen. 
+ Knoten sind bei Zuordnung zu einer Schicht häufig unter die Schicht gefallen.
+ 
+ 

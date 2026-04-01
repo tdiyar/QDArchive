@@ -1,0 +1,5 @@
+category,insight,implication,evidence
+Atmospheric Dynamics,Strong stability correlates with fine-mode aerosols (r=0.582),Inversions trap combustion emissions near surface,p-value = 0.0
+Seasonal Variation,Winter shows significantly stronger inversions,Heating season exacerbates air quality issues,Winter: 15.5K vs Summer: 9.3K
+Air Quality Events,1 months with combined high stability + aerosols,Critical periods for health interventions,θ-gradient >12K and fine-mode AOD >0.3
+Moisture Effects,High humidity months show elevated fine aerosols (mean AOD: 0.116),Hygroscopic growth enhances particle concentrations,62 months with RH >70%

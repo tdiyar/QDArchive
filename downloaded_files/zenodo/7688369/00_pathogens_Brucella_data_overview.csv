@@ -1,0 +1,11 @@
+﻿number;file name;brief description;description in detail;file format;software used ;data relationship
+00;00_pathogens_Brucella_data_overview;Table of Contents;Table of Contents of supplements of publication;csv;NA;NA
+01;WGS&Genome Assembly;The WGS and genome assembly data including the average read length and the coverage of 40 Brucella isolates from ruminants and humans from Iran.;Table S1: The WGS and genome assembly data including the average read length and the coverage of 40 Brucella isolates from ruminants and humans from Iran.;csv;NA;NA
+02;AMR&virulence associated genes;The results of in-silico AMR and virulence-associated genes of 40 Brucella isolates from ruminants and humans from Iran;Table S2: The results of in silico AMR and virulence-associated genes of 40 Brucella isolates from ruminants and humans from Iran.;csv;NA;NA
+03;Description Databases;overview description of databases;overview description of databases in  table S2;csv;NA;NA
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;

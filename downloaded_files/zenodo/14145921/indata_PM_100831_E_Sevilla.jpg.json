@@ -1,0 +1,40 @@
+{
+  "filename": "PM_100831_E_Sevilla.jpg",
+  "sublocation": "Catedral",
+  "location": "Sevilla",
+  "province": "Andalucía, Sevilla",
+  "country": "Spain",
+  "header": "Avenida de la Constitución; El Archivo de Indias; Y",
+  "description": [
+    "Avenida de la Constitución",
+    "The archive (Archivo de Indias)",
+    "And the cathedral"
+  ],
+  "author": "Photo: Paul M.R. Maeyaert",
+  "author_email": "pmrmaeyaert@gmail.com",
+  "copyright": "Paul M.R. Maeyaert",
+  "keywords": [
+    "Andalucía",
+    "Cathedral",
+    "Cultural heritage",
+    "Europe",
+    "Monuments",
+    "Sevilla",
+    "Spain"
+  ],
+  "identifier": "100831",
+  "latitude": 37.385915,
+  "longitude": -5.993140616257698,
+  "q_place": "Catedral de Sevilla",
+  "q_osm_id": 0,
+  "q_location": "Seville",
+  "q_location_lat": 37.38283,
+  "q_location_lon": -5.97317,
+  "q_country": "Spain",
+  "q_admin_1": "Andalusia",
+  "q_admin_2": "Seville",
+  "q_admin_3": "Seville",
+  "q_admin_4": "",
+  "q_admin_5": "",
+  "q_method": "nominatim"
+}

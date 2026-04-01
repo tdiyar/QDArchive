@@ -1,0 +1,3 @@
+Data Privacy Encodings at the Human-Machine Interface
+
+In this presentation we describe the Qualitative Data Repository's on-going creation of machine-readable statements that encode privacy information at a dataset's collection and file levels. The goal of this work is to increase the accessibility, discovery, and sharing of valuable data collections that may contain personally identifiable information, or address sensitive concepts that prohibit their open sharing. We describe both conceptually how this work builds off of the idea of contextual integrity from the field of intellectual property studies, and practically the way our proposed encodings might enable a form of privacy interoperability for networked data repositories.

@@ -1,0 +1,48 @@
+Characters/Taxa;Anacamptis coriophora ;Anacamptis laxiflora;Anacamptis palustris;Anacamptis papilionacea;Anacamptis pyramidalis;Cephalanthera epipactoides;Cephalanthera kotschyana ;Cephalanthera longifolia;Cephalanthera rubra ;Dactylorhiza euxina ;Dactylorhiza iberica ;Dactylorhiza nieschalkiorum;Dactylorhiza osmanica ;Dactylorhiza romana ;Dactylorhiza saccifera;Dactylorhiza urvilleana;Gymnadenia conopsea ;Himantoglossum affine ;Himantoglossum caprinum;Limodorum abortivum;Neotinea tridentata;Ophrys apifera;Ophrys oestrifera ;Ophrys sphegodes subsp. mammosa ;Orchis mascula ;Orchis pallens;Orchis provincialis ;Orchis purpurea;Orchis simia;Platanthera chlorantha;Serapias felwedgiana ;Serapias parviflora ;Serapias bergonii;Serapias orientalis ;Spiranthes spiralis;Steveniella satyrioides
+Leaf shape;0;0;0;3;0;1;2;0;0;2;0;3;0;0;2;3;2;2;0;1;1;0;2;2;2;2;0;2;2;2;0;0;0;0;1;0
+Leaf number;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;1;2;2;2;2;2;0
+Midrib;1;1;1;1;1;0;0;0;0;1;1;1;1;1;1;1;1;0;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;0
+Venation;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;2;1;1;2;1;1;1;1;1;1;1;1;2;1;1;1;1;2;1
+Leaf arrangement;0;0;0;0;0;1;1;1;1;1;0;1;1;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Leaf patterning;0;0;0;0;0;0;0;0;0;1;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0
+Shoot shape;0;0;0;0;0;0;0;1;1;0;0;1;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0
+Inflorescence;1;0;0;0;2;0;0;0;0;1;0;1;1;0;1;1;1;0;0;1;2;0;0;0;1;1;0;1;1;0;0;0;0;1;3;0
+Flower number;1;0;0;0;1;1;1;0;0;1;0;1;1;0;1;1;1;1;1;1;1;0;0;0;1;1;1;1;1;1;0;0;0;0;1;1
+Flower color;1;1;1;1;1;0;0;0;1;1;1;1;1;1;1;1;3;1;1;1;1;4;4;4;1;0;0;1;1;3;2;2;2;2;0;3
+Labellum shape;1;1;1;0;1;2;2;2;2;0;1;1;0;1;1;1;1;2;2;2;2;2;2;0;1;1;1;2;2;0;2;2;2;2;0;1
+Spur shape;1;1;1;1;2;1;0;0;0;1;1;1;1;2;1;1;2;1;1;2;1;0;0;0;1;1;1;1;1;2;0;0;0;0;0;1
+Tuber shape;1;1;1;1;1;0;0;0;0;3;3;3;3;3;3;3;1;2;2;0;1;1;1;1;1;1;1;2;1;2;1;1;1;1;2;1
+Pit on root;1;1;1;1;1;0;0;0;0;1;1;1;0;1;1;1;1;0;1;1;1;1;1;1;1;1;0;1;0;1;1;0;0;0;?;1
+Xylem arch number in root ;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;2;0;1;0;1;0;1;0;0;0;0;?;0
+Crystal inslusion in root;1;0;1;1;1;1;0;1;1;1;1;0;1;1;1;1;1;1;0;0;1;1;1;1;1;0;1;0;1;1;1;1;1;1;?;1
+Exodermis in root;0;0;0;1;1;1;1;1;1;1;0;1;1;0;1;1;1;0;1;1;1;1;1;0;1;1;1;0;1;1;1;1;1;1;?;1
+Starch grains in root;0;0;1;0;0;1;0;1;1;1;1;0;1;0;0;1;0;0;0;1;1;0;1;0;1;0;0;0;0;0;1;0;0;0;?;0
+Perivasculary sclerenchymatic sheath in shoot;1;1;1;1;1;1;0;1;1;0;1;0;0;0;1;0;1;1;1;1;1;1;1;1;0;0;1;0;1;1;0;0;1;0;1;1
+Central lacuna on pits in shoot;0;0;0;1;0;0;0;0;0;1;1;0;0;1;1;0;1;1;1;1;1;0;1;1;1;1;1;1;1;1;1;1;1;1;1;0
+Sclerenchyma on vascular boundles in shoot;0;0;0;0;2;1;1;1;1;0;0;0;0;0;0;0;0;0;0;2;0;0;2;2;0;0;0;0;1;0;0;0;0;0;0;0
+Vascular boundle shape in shoot;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;1;0;1;0;0;0;0;0;1;0;1;0;1;0;1;1
+Cristal inclusion in shoot;1;0;0;1;1;0;0;1;1;1;0;0;0;1;0;1;1;1;1;0;0;1;1;1;1;0;0;0;0;1;1;0;0;0;1;0
+Hair in shoot;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0
+Stomata on upper epidermis in leaf;0;0;0;0;0;1;0;0;1;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0
+Papilla on upper epidermis in leaf;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0
+Stomata type in leaf;0;0;0;1;0;1;1;1;1;1;0;1;1;0;1;1;1;1;0;1;0;1;0;1;0;1;0;0;0;0;1;1;1;1;2;1
+Bulliform cell in leaf;0;1;0;0;1;0;0;0;0;1;1;1;1;1;1;1;0;1;1;0;1;0;1;1;1;1;0;1;1;1;0;0;1;0;0;1
+Air space in leaf;0;1;1;1;0;0;0;0;0;0;1;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;1;0;1;1;1;1;1;0;1
+Sclerenchyma on vascular boundle in leaf;0;0;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Cristal inclusion in leaf;0;0;1;1;0;0;0;0;0;1;1;1;1;1;1;1;1;1;1;0;1;1;1;0;1;1;0;1;1;1;1;1;0;1;1;1
+Labellum surface ;1;1;0;1;1;1;1;0;0;1;1;1;1;1;1;1;1;1;1;1;0;2;2;2;1;1;1;1;0;0;2;2;2;2;2;1
+Labellum patterning;2;1;1;1;1;0;0;0;0;1;1;1;1;1;1;1;1;1;1;1;2;1;1;1;1;1;1;1;2;2;0;0;0;1;1;2
+Cell shape on labellum;1;0;0;0;0;1;0;0;1;0;0;0;0;0;1;0;0;1;1;1;0;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0
+Spur surface;2;1;1;1;1;1;0;0;0;2;1;2;2;2;2;2;2;2;2;1;1;0;0;0;1;2;1;2;2;2;0;0;0;0;0;1
+Spur patterning;2;2;2;2;2;1;0;0;0;2;2;2;2;2;3;2;1;2;2;3;3;0;0;0;2;2;2;2;3;1;0;0;0;0;0;2
+Cell shape on spur;2;2;2;2;2;2;0;0;0;2;2;2;2;2;2;2;2;1;1;2;2;0;0;0;2;2;2;2;2;2;0;0;0;0;0;1
+Cell shape on upper epidermis of leaf;1;1;0;1;1;0;0;0;0;0;1;0;0;1;0;0;0;1;1;0;0;0;0;0;1;0;0;0;1;0;0;1;1;1;0;0
+Patterning on upper leaf surface;1;1;1;1;1;2;1;1;2;1;1;1;2;1;2;1;2;2;0;1;2;2;2;2;1;1;1;1;2;1;2;1;0;2;1;2
+Cell shape on lower epidermis of leaf;1;1;1;1;1;1;1;0;0;1;1;0;0;1;0;1;1;1;1;0;1;0;0;0;1;1;1;1;1;0;1;1;1;1;0;1
+Patterning on lower leaf surface;1;1;1;0;1;2;2;2;2;1;1;1;1;1;1;1;1;1;1;1;1;0;1;2;1;1;1;0;1;1;2;1;1;1;1;1
+Cell shape on fruit surface;1;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;1;1;1;1;0;0;0;0;0;1;0;0;1;0;1
+Patterning on fruit surface;1;1;2;2;2;1;1;1;1;1;1;1;2;2;2;2;2;1;2;0;2;1;2;2;1;1;1;1;1;0;2;2;2;2;2;1
+Hair on fruit surface;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0
+Seed shape;0;0;0;0;1;2;0;0;2;0;2;0;1;0;1;0;0;0;1;0;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0
+Difference beetween testa cells;1;1;1;1;1;0;0;0;0;0;1;0;0;1;0;0;1;0;1;0;1;1;1;0;0;0;0;1;1;1;1;1;1;1;0;1
+Periclinal wall ornamentation;1;1;1;1;1;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;1;1;1;1;0;0;0;1;0;1;1;1;1;1;1;1

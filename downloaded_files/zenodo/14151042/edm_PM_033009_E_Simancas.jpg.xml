@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+xmlns:crm="http://www.cidoe-crm.org/rdfs/cidoc_crm_v5.0.2_english_label.rdfs#"
+xmlns:dc="http://purl.org/dc/elements/1.1/" 
+xmlns:dcterms="http://purl.org/dc/terms/"
+xmlns:edm="http://www.europeana.eu/schemas/edm/" 
+xmlns:foaf="http://xmlns.com/foaf/0.1/"
+xmlns:ore="http://www.openarchives.org/ore/terms/" 
+xmlns:owl="http://www.w3.org/2002/07/owl#" 
+xmlns:rdaGr2="http://rdvocab.info/ElementsGr2/"
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+xmlns:skos="http://www.w3.org/2004/02/skos/core#" 
+xmlns:svcs="http://rdfs.org/sioc/services#"
+xmlns:wgs84_pos="http://www.w3.org/2003/01/geo/wgs84_pos#" 
+xmlns:xalan="http://xml.apache.org/xalan"
+>
+ 
+<edm:ProvidedCHO rdf:about="PM_033009_E_Simancas.jpg">
+    <dc:creator>Paul M.R. Maeyaert</dc:creator>
+	<dc:description xml:lang="en">The castle, National archive, Exterior, The entrance gate, 16th century</dc:description>
+    <dc:format xml:lang="en">image/jpeg</dc:format>
+	<dc:identifier>PM_033009_E_Simancas.jpg</dc:identifier>
+	<dc:language>en</dc:language>
+    <dc:title xml:lang="en">PM_033009_E_Simancas.jpg</dc:title>
+    <dc:type xml:lang="en">IMAGE</dc:type>   
+	<dc:subject xml:lang="en">Castilla y León, Castle, Cultural heritage, Europe, Monuments, Simancas, Spain, Valladolid</dc:subject>   
+    <dcterms:created/>
+	<dcterms:isPartOf xml:lang="en">https://zenodo.org/records/14151041</dcterms:isPartOf>
+    <dcterms:spatial rdf:resource="Castillo, Simancas, Castilla y León, Valladolid, Spain"/>
+    <dcterms:temporal/>   
+    <edm:type>IMAGE</edm:type>
+  </edm:ProvidedCHO>
+  
+  <edm:WebResource rdf:about="https://zenodo.org/records/14151042">
+    <dc:creator>Paul M.R. Maeyaert</dc:creator>
+    <dc:format xml:lang="en">image/jpeg</dc:format>
+    <dcterms:created>2024-11-11T12:44:00Z</dcterms:created>
+  </edm:WebResource>
+  
+  <edm:Place rdf:about="PM_033009_E_Simancas.jpg/place">
+    <wgs84_pos:lat>41.5918865</wgs84_pos:lat>
+    <wgs84_pos:long>-4.828808</wgs84_pos:long>
+    <skos:prefLabel>Simancas</skos:prefLabel>
+  </edm:Place>
+  
+<ore:Aggregation rdf:about="PM_033009_E_Simancas.jpg/ORE">
+    <edm:aggregatedCHO rdf:resource="PM_033009_E_Simancas.jpg"/>
+    <edm:dataProvider>Paul M.R. Maeyaert</edm:dataProvider>
+	<edm:isShownBy rdf:resource="https://zenodo.org/api/records/14151042/files/PM_033009_E_Simancas_1000px.jpg/content"/>   
+	<edm:object rdf:resource="https://zenodo.org/api/records/14151042/files/PM_033009_E_Simancas_1000px.jpg/content"/>
+	<edm:provider>CARARE</edm:provider>
+    <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/"/>
+  </ore:Aggregation>
+</rdf:RDF>

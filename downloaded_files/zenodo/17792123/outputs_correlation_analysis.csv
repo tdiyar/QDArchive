@@ -1,0 +1,5 @@
+metric,correlation,p_value,significant
+stability_vs_fine_aod,0.582,0.0,significant
+stability_vs_coarse_aod,-0.589,0.0,significant
+stability_vs_fine_fraction,0.752,0.0,significant
+humidity_vs_fine_aod,-0.357,0.0001,significant

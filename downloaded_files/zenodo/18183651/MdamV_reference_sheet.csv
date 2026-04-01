@@ -1,0 +1,47 @@
+survey_item_ID;item_group;data_type;item_phrasing;answer_options;comments
+CASE;paradata;integer;;;continous survey case ID
+QDa;demographics;integer;Age in ten year ranges;"""1 (Below 18)""; ""2 (18 to 24)""; ""3 (25 to 34)""; ""4 (35 to 44)""; ""5 (45 to 54""; ""6 (55 to 64)""; ""7 (65 to 74""; ""8 (75 or above)""";1==end of survey
+QDb;demographics;integer;Gender;"""1 (Male)""; ""2 (Female)""; ""3 (Diverse)""; ""4 (Inter)""; ""5 (Open)""; ""6 (Without gender entry)""; ""7 (I do not wish to make a specification here)""";
+QDc;demographics;boolean;Is your place of residence in Austria?;"""1 (Yes)""; ""2 (No)""";2==end of survey
+QDd;demographics;integer;Highest education level;"""1 (No compulsory education)""; ""2 (Compulsory school certificate)""; ""3 (Baccalaureate)""; ""4 (University of applied sciences)""; ""6 (Univsersity degree)""; ""7 (Apprenticeship or other specialized training)""; ""8 (Master craftsman degree)""; ""9 (My degree is not listed)""";
+QDe;demographics;integer;I deal a lot with the topic of climate change out of my own interest.;"""1 (I disagree)""; ""2 (I somewhat disagree)""; ""3 (Undecided)""; ""4 (I somewhat agree)""; ""5 (I agree)""";
+QDf;demographics;integer;I have a good knowledge of mathematics, especially in the field of statistics.;"""1 (I disagree)""; ""2 (I somewhat disagree)""; ""3 (Undecided)""; ""4 (I somewhat agree)""; ""5 (I agree)""";
+Qfa;feedback;text;Any other feedback or comments you would like to make on this questionnaire:;optional text field (max. 2000 characters);
+QCa;consent;boolean;I hereby confirm that I have read and understood this text [comment: see PDF file with questionnaire] and that I am over 16 years of age.;"""1 (Consent given)""; ""(0 Consent not given)""";0==end of survey
+Q1a-V1;MdamV Dimension 1);integer;The visualization seems understandable to me. The information can be clearly read.;"""1 (I disagree)""; ""2 (I somewhat disagree)""; ""3 (Undecided)""; ""4 (I somewhat agree)""; ""5 (I agree)""";V1 refers to visualization example 1.
+Q1b-V1;MdamV Dimension 1);integer;I can classify the information presented in my previous knowledge and make connections.;"""1 (I disagree)""; ""2 (I somewhat disagree)""; ""3 (Undecided)""; ""4 (I somewhat agree)""; ""5 (I agree)""";
+Q1c-V1;MdamV Dimension 1);integer;I could summarize the content of the visualization for someone.;"""1 (I disagree)""; ""2 (I somewhat disagree)""; ""3 (Undecided)""; ""4 (I somewhat agree)""; ""5 (I agree)""";
+Q2a-V1;MdamV Dimension 2);integer;I can understand the units of measurement shown here, e.g., millimeters.;"""1 (I disagree)""; ""2 (I somewhat disagree)""; ""3 (Undecided)""; ""4 (I somewhat agree)""; ""5 (I agree)""";
+Q2b-V1;MdamV Dimension 2);integer;I can easily see whether the colors used in the visualization show any specific information.;"""1 (I disagree)""; ""2 (I somewhat disagree)""; ""3 (Undecided)""; ""4 (I somewhat agree)""; ""5 (I agree)""";
+Q2c-V1;MdamV Dimension 2);integer;I am familiar with the line chart and it is not the first time that I have read information from such a chart.;"""1 (I disagree)""; ""2 (I somewhat disagree)""; ""3 (Undecided)""; ""4 (I somewhat agree)""; ""5 (I agree)""";
+Q3a-V1;MdamV Dimension 3);integer;This visualization appeals to me.;"""1 (I disagree)""; ""2 (I somewhat disagree)""; ""3 (Undecided)""; ""4 (I somewhat agree)""; ""5 (I agree)""";
+Q3b-V1;MdamV Dimension 3);integer;This visualization is pretty to look at.;"""1 (I disagree)""; ""2 (I somewhat disagree)""; ""3 (Undecided)""; ""4 (I somewhat agree)""; ""5 (I agree)""";
+Q3c-V1;MdamV Dimension 3);integer;This visualization is well designed.;"""1 (I disagree)""; ""2 (I somewhat disagree)""; ""3 (Undecided)""; ""4 (I somewhat agree)""; ""5 (I agree)""";
+Q3d-V1;MdamV Dimension 3);integer;This visualization is trustworthy.;"""1 (I disagree)""; ""2 (I somewhat disagree)""; ""3 (Undecided)""; ""4 (I somewhat agree)""; ""5 (I agree)""";
+Q4a-V1;MdamV Dimension 4);integer;I have found an error in the visualization.;"""1 (I disagree)""; ""2 (I somewhat disagree)""; ""3 (Undecided)""; ""4 (I somewhat agree)""; ""5 (I agree)""";
+Q4b-V1;MdamV Dimension 4);integer;I have a suggestion for a change to the visualization.;"""1 (I disagree)""; ""2 (I somewhat disagree)""; ""3 (Undecided)""; ""4 (I somewhat agree)""; ""5 (I agree)""";
+Q4c-V1;MdamV Dimension 4);integer;If I could, I would design something in the visualization differently.;"""1 (I disagree)""; ""2 (I somewhat disagree)""; ""3 (Undecided)""; ""4 (I somewhat agree)""; ""5 (I agree)""";
+Q4d-V1;MdamV Dimension 4);text;I would like to remark something positive about the visualization:;optional text field (max. 2000 characters);
+Q4e-V1;MdamV Dimension 4);text;I would like to remark something negative about the visualization:;optional text field (max. 2000 characters);
+Q1a-V2;MdamV Dimension 1);integer;The visualization seems understandable to me. The information can be clearly read.;"""1 (I disagree)""; ""2 (I somewhat disagree)""; ""3 (Undecided)""; ""4 (I somewhat agree)""; ""5 (I agree)""";
+Q1b-V2;MdamV Dimension 1);integer;I can classify the information presented in my previous knowledge and make connections.;"""1 (I disagree)""; ""2 (I somewhat disagree)""; ""3 (Undecided)""; ""4 (I somewhat agree)""; ""5 (I agree)""";
+Q1c-V2;MdamV Dimension 1);integer;I could summarize the content of the visualization for someone.;"""1 (I disagree)""; ""2 (I somewhat disagree)""; ""3 (Undecided)""; ""4 (I somewhat agree)""; ""5 (I agree)""";
+Q2a-V2;MdamV Dimension 2);integer;I can understand the units of measurement shown here, e.g., millimeters.;"""1 (I disagree)""; ""2 (I somewhat disagree)""; ""3 (Undecided)""; ""4 (I somewhat agree)""; ""5 (I agree)""";
+Q2b-V2;MdamV Dimension 2);integer;I can easily see whether the colors used in the visualization show any specific information.;"""1 (I disagree)""; ""2 (I somewhat disagree)""; ""3 (Undecided)""; ""4 (I somewhat agree)""; ""5 (I agree)""";
+Q2c-V2;MdamV Dimension 2);integer;I am familiar with the line chart and it is not the first time that I have read information from such a chart.;"""1 (I disagree)""; ""2 (I somewhat disagree)""; ""3 (Undecided)""; ""4 (I somewhat agree)""; ""5 (I agree)""";
+Q3a-V2;MdamV Dimension 3);integer;This visualization appeals to me.;"""1 (I disagree)""; ""2 (I somewhat disagree)""; ""3 (Undecided)""; ""4 (I somewhat agree)""; ""5 (I agree)""";
+Q3b-V2;MdamV Dimension 3);integer;This visualization is pretty to look at.;"""1 (I disagree)""; ""2 (I somewhat disagree)""; ""3 (Undecided)""; ""4 (I somewhat agree)""; ""5 (I agree)""";
+Q3c-V2;MdamV Dimension 3);integer;This visualization is well designed.;"""1 (I disagree)""; ""2 (I somewhat disagree)""; ""3 (Undecided)""; ""4 (I somewhat agree)""; ""5 (I agree)""";
+Q3d-V2;MdamV Dimension 3);integer;This visualization is trustworthy.;"""1 (I disagree)""; ""2 (I somewhat disagree)""; ""3 (Undecided)""; ""4 (I somewhat agree)""; ""5 (I agree)""";
+Q4a-V2;MdamV Dimension 4);integer;I have found an error in the visualization.;"""1 (I disagree)""; ""2 (I somewhat disagree)""; ""3 (Undecided)""; ""4 (I somewhat agree)""; ""5 (I agree)""";
+Q4b-V2;MdamV Dimension 4);integer;I have a suggestion for a change to the visualization.;"""1 (I disagree)""; ""2 (I somewhat disagree)""; ""3 (Undecided)""; ""4 (I somewhat agree)""; ""5 (I agree)""";
+Q4c-V2;MdamV Dimension 4);integer;If I could, I would design something in the visualization differently.;"""1 (I disagree)""; ""2 (I somewhat disagree)""; ""3 (Undecided)""; ""4 (I somewhat agree)""; ""5 (I agree)""";
+Q4d-V2;MdamV Dimension 4);text;I would like to remark something positive about the visualization:;optional text field (max. 2000 characters);
+Q4e-V2;MdamV Dimension 4);text;I would like to remark something negative about the visualization:;optional text field (max. 2000 characters);
+Q5a-V1;MdamV Dimension 5);integer;The sea level fluctuates, showing no trend.;"""0 (Incorrect)""; ""1 == (Correct)""";
+Q5b-V1;MdamV Dimension 5);integer;In 2021, the sea level has risen by around ten centimeters compared to 1993.;"""0 (Incorrect)""; ""1 == (Correct)""";
+Q5a-V2;MdamV Dimension 5);integer;Only Russia and Germany show a decrease in CO? emissions over the 28 years shown.;"""0 (Incorrect)""; ""1 == (Correct)""";
+Q5b-V2;MdamV Dimension 5);integer;Japan had the lowest increase in CO? emissions in 2018 compared to 1990.;"""0 (Incorrect)""; ""1 == (Correct)""";
+Q5c-attention;attention test;text;Which country is listed first in the visualization?;mandatory text field;China==correct answer
+ORDER;paradata;boolean;;"""1 (line chart drawn first)""; ""2 (bar chart drawn first)""";Drawn visualization order 
+TIME_SUM;paradata;integer;;;total length of stay (recorded in seconds)

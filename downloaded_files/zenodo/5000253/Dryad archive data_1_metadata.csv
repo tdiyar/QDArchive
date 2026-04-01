@@ -1,0 +1,45 @@
+INDIVIDUALS DATA,
+Data for each individual nestling on each day of data collection,
+,
+Brood_ID,Unique brood identification number (YEAR+SITE+NEST NUMBER)
+Year,Year of nesting attempt
+Block,Block of nesting attempt
+Initiation,Day of year (where 1 = Jan 1) when first egg appeared in nest
+Species,"Species (TRES = Tree Swallow, VGSW = Violet-green Swallow)"
+Treatment,"Assigned treatment (control, reduced, or enlarged)"
+Brood_size,Number of chicks present at the time
+Site,"Location of nest box (SF, GR, NCA, or SCA)"
+Nest,Nesting box number
+Feeding_rate,Number of times adult swallows visited the box in 1.5 hours
+PC_feeding_rate,Feeding rate divided by brood size on the day provisioning video was taken
+Nestling_origin,Whether the nestlings stayed in its natal box (natal) or was transferred to a foster nest (foster)
+BirdID,Unique individual ID (YEAR+SITE+NEST NUMBER+NESTLING NUMBER+ORIGIN)
+Nestling_age,Days since nestling was hatched (hatch day = 0)
+Measure_time,Time of data collection (HHMM)
+Age_full,"Precice nestling age, with time of measurements taken into account"
+Mass,Mass in grams
+Time,Time since capture when baseline blood sampling was completed
+Baseline_CORT,Baseline CORT (ng/ml)
+Induced_CORT,Stressor-induced CORT (ng/ml)
+,
+SAMPLE UNITS DATA,
+Data for entire broods for nestling day 15,
+,
+Brood_ID,Unique brood identification number (YEAR+SITE+NEST NUMBER)
+Year,Year of nesting attempt
+Block,Block of nesting attempt
+Species,"Species (TRES = Tree Swallow, VGSW = Violet-green Swallow)"
+Treatment,"Assigned treatment (control, reduced, or enlarged)"
+Initiation,Day of year (where 1 = Jan 1) when first egg appeared in nest
+Avrg_Brood,Observed brood size averaged over each day of data collection
+Site,"Location of nest box (SF, GR< NCA, or SCA)"
+Nest,Nesting box number
+Fate,"Whether the nest survived to nestling day 15 (survived) or failed (i.e., depredated/abandoned)"
+Avrg_Mass,Average mass of nestlings on day 15
+Avrg_Baseline,Average baseline CORT of nestlings on day 15 (ng/ml)
+Avrg_Induced,Average stressor-induced CORT of nestlings on day 15 (ng/ml)
+Feeding_Rate,Number of times adult swallows visited the box in 1.5 hours
+PC_Feeding_Rate,Feeding rate divided by brood size on the day the video was taken
+Video_time,Time of day provisioning video was taken (HHMM)
+d9_Brood,Brood size on the day provisioning video was taken
+Measure_time,Time of day data were collected for the brood
