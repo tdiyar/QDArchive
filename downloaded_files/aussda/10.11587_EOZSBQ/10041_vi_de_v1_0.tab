@@ -1,0 +1,2703 @@
+﻿variable	value	Label
+a1	Variable Label	höchster Schulabschluss
+a1	1	Pflichtschule ohne Lehre
+a1	2	Pflichtschule mit Lehre
+a1	3	berufsbildende mittlere Schule
+a1	4	allgemein bildende höhere Schule
+a1	5	berufsbildende höhere Schule
+a1	6	Hochschule
+a11	Variable Label	Erwerbstatus
+a11	1	beschäftigt/berufstätig
+a11	2	Lehrling
+a11	3	arbeitslos
+a11	4	Pensionist/Rentner
+a11	5	Hausfrau
+a11	6	Schüler/Student
+a11	7	aus anderen Gründen nicht erwerbstätig
+a12	Variable Label	Stellung im Beruf
+a12	1	Landwirte mit kleinerem Betrieb
+a12	2	Landwirte mit mittlerem Betrieb
+a12	3	Landwirte mit größerem Betrieb
+a12	4	Mithelfende Familienangehörige bei Landw. mit kl. Betrieb
+a12	5	Mithelfende Familienangehörige bei Landw. mit mittl. Betrieb
+a12	6	Mithelfende Familienangehörige bei Landw. mit gr. Betrieb
+a12	10	Selbstständige mit Kleinbetrieb ohne Arbeitnehmer
+a12	11	Selbstständige mit kleinerem Betrieb (1-4 Arbeitnehmer)
+a12	12	Selbstständige mit mittlerem Betrieb (5-9 Arbeitnehmer)
+a12	13	Selbstständige mit größerem Betrieb (10+ Arbeitnehmer)
+a12	15	Mith. Familienang. bei Selbst. mit Kleinbetr. ohne Arbeitn.
+a12	16	Mith. Familienang. bei Selbst. mit kl. Betr. (1-4 Arbeitn.)
+a12	17	Mith.  Familienang. bei Selbst. mit mi. Betr. (5-9 Arbeitn.)
+a12	18	Mith. Familienang. bei Selbst. mit gr. Betr. (10+ Arbeitn.)
+a12	20	Freiberuflich Tätige ohne Hochschulausbildung
+a12	21	Freiberuflich Tätige mit Hochschulausbildung
+a12	25	Mith. Familienang.bei freiberuflich Tätigen ohne Hochschula.
+a12	26	Mith. Familienang.bei freiberuflich Tätigen mit Hochschula.
+a12	30	Lehrling in Arbeiterberufen
+a12	31	Lehrling in Angestelltenberufen
+a12	40	Hilfstätigkeit mit vorwiegend körperlichem Einsatz
+a12	41	Hilfsarbeiter in der Land- u. Forstwirtschaft
+a12	42	AngelernteTätigkeit in Arbeiterberufen
+a12	43	Facharbeiter
+a12	44	Vorarbeiter/ Meister
+a12	50	Hilfstätigkeit in Angestelltenberufen
+a12	51	Gelernte Tätigkeit in Angestelltenberufen
+a12	52	Mittlere Tätigkeit in Angestelltenberufen
+a12	53	Höhere Tätigkeit in Angestelltenberufen
+a12	54	Hochqualifizierte Tätigkeit in Angestelltenberufen
+a12	55	Führende Tätigkeit in größeren Betrieben
+a12	60	Beamte mit hilfs- oder angelernter Arbeitertätigkeit
+a12	61	Beamte mit Facharbeiter- oder Werkmeistertätigkeit
+a12	62	Beamte mit Hilfstätigkeit
+a12	63	Beamte mit einfacher Tätigkeit
+a12	64	Beamte mit mittlerer Tätigkeit
+a12	65	Beamte mit höherer Tätigkeit
+a12	66	Beamte mit hochqualifizierter Tätigkeit
+a12	67	Beamte mit führender Tätigkeit
+a12	70	Vertragsbedienstete mit hilfs- oder angelernterTätigkeit
+a12	71	Vertragsbedienstete mit Facharbeiter- od. Werkmeistertätigk.
+a12	72	Vertragsbedienstete mit Hilfstätigkeit
+a12	73	Vertragsbedienstete mit einfacher Tätigkeit
+a12	74	Vertragsbedienstete mit mittlerer Tätigkeit
+a12	75	Vertragsbedienstete mit höherer Tätigkeit
+a12	76	Vertragsbedienstete m. hochqual. od. führender Tätigk.
+a13	Variable Label	dztg. Schulbesuch
+a13	1	Pflichtschule
+a13	2	Pflichtschule mit Lehre
+a13	3	berufsbildende mittlere Schule
+a13	4	allgemein bildende Schule
+a13	5	berufsbildende höhere Schule
+a13	6	Hochschule
+a14	Variable Label	Berufsleben unterbrochen
+a14	1	ja, einmal
+a14	2	ja, mehrere Male
+a14	3	nein
+a14	4	keine Angabe
+a15	Variable Label	Dauer Berufsunterbrechung
+a15	1	bis ca. 1 Jahr
+a15	2	ca. 2 bis 3 Jahre
+a15	3	 ca. 4 bis 6 Jahre
+a15	4	länger als 6 Jahre
+a15	5	keine Angabe
+a16	Variable Label	schon arbeitslos gewesen
+a16	1	ja
+a16	2	nein
+a16	3	keine Angabe
+a17	Variable Label	Dauer Arbeitslosigkeit
+a17	1	bis 6 Monate
+a17	2	bis 1 Jahr
+a17	3	1 bis 2 Jahre
+a17	4	länger
+a17	5	keine Angabe
+a18	Variable Label	schon berufstätig gewesen
+a18	1	ja
+a18	2	nein
+a18	3	keine Angabe
+a19	Variable Label	Stellung im Beruf
+a19	1	Landwirte mit kleinerem Betrieb
+a19	2	Landwirte mit mittlerem Betrieb
+a19	3	Landwirte mit größerem Betrieb
+a19	4	Mithelfende Familienangehörige bei Landw. mit kl. Betrieb
+a19	5	Mithelfende Familienangehörige bei Landw. mit mittl. Betrieb
+a19	6	Mithelfende Familienangehörige bei Landw. mit gr. Betrieb
+a19	10	Selbstständige mit Kleinbetrieb ohne Arbeitnehmer
+a19	11	Selbstständige mit kleinerem Betrieb (1-4 Arbeitnehmer)
+a19	12	Selbstständige mit mittlerem Betrieb (5-9 Arbeitnehmer)
+a19	13	Selbstständige mit größerem Betrieb (10+ Arbeitnehmer)
+a19	15	Mith. Familienang. bei Selbst. mit Kleinbetr. ohne Arbeitn.
+a19	16	Mith. Familienang. bei Selbst. mit kl. Betr. (1-4 Arbeitn.)
+a19	17	Mith.  Familienang. bei Selbst. mit mi. Betr. (5-9 Arbeitn.)
+a19	18	Mith. Familienang. bei Selbst. mit gr. Betr. (10+ Arbeitn.)
+a19	20	Freiberuflich Tätige ohne Hochschulausbildung
+a19	21	Freiberuflich Tätige mit Hochschulausbildung
+a19	25	Mith. Familienang.bei freiberuflich Tätigen ohne Hochschula.
+a19	26	Mith. Familienang.bei freiberuflich Tätigen mit Hochschula.
+a19	30	Lehrling in Arbeiterberufen
+a19	31	Lehrling in Angestelltenberufen
+a19	40	Hilfstätigkeit mit vorwiegend körperlichem Einsatz
+a19	41	Hilfsarbeiter in der Land- u. Forstwirtschaft
+a19	42	AngelernteTätigkeit in Arbeiterberufen
+a19	43	Facharbeiter
+a19	44	Vorarbeiter/ Meister
+a19	50	Hilfstätigkeit in Angestelltenberufen
+a19	51	Gelernte Tätigkeit in Angestelltenberufen
+a19	52	Mittlere Tätigkeit in Angestelltenberufen
+a19	53	Höhere Tätigkeit in Angestelltenberufen
+a19	54	Hochqualifizierte Tätigkeit in Angestelltenberufen
+a19	55	Führende Tätigkeit in größeren Betrieben
+a19	60	Beamte mit hilfs- oder angelernter Arbeitertätigkeit
+a19	61	Beamte mit Facharbeiter- oder Werkmeistertätigkeit
+a19	62	Beamte mit Hilfstätigkeit
+a19	63	Beamte mit einfacher Tätigkeit
+a19	64	Beamte mit mittlerer Tätigkeit
+a19	65	Beamte mit höherer Tätigkeit
+a19	66	Beamte mit hochqualifizierter Tätigkeit
+a19	67	Beamte mit führender Tätigkeit
+a19	70	Vertragsbedienstete mit hilfs- oder angelernterTätigkeit
+a19	71	Vertragsbedienstete mit Facharbeiter- od. Werkmeistertätigk.
+a19	72	Vertragsbedienstete mit Hilfstätigkeit
+a19	73	Vertragsbedienstete mit einfacher Tätigkeit
+a19	74	Vertragsbedienstete mit mittlerer Tätigkeit
+a19	75	Vertragsbedienstete mit höherer Tätigkeit
+a19	76	Vertragsbedienstete m. hochqual. od. führender Tätigk.
+a20	Variable Label	Wunsch nach Berufstätigkeit
+a20	1	ja
+a20	2	nein
+a20	3	keine Angabe
+a21a	Variable Label	keine geeignete Arbeit gefunden
+a21a	1	trifft zu
+a21a	2	trifft nicht zu
+a21a	3	keine Angabe
+a21b	Variable Label	durch Haushalt ausgelastet
+a21b	1	trifft zu
+a21b	2	trifft nicht zu
+a21b	3	keine Angabe
+a21c	Variable Label	wegen Kindern lieber zu Hause
+a21c	1	trifft zu
+a21c	2	trifft nicht zu
+a21c	3	keine Angabe
+a21d	Variable Label	Mann ist dagegen
+a21d	1	trifft zu
+a21d	2	trifft nicht zu
+a21d	3	keine Angabe
+a21e	Variable Label	gesundheitliche Gründe
+a21e	1	trifft zu
+a21e	2	trifft nicht zu
+a21e	3	keine Angabe
+a21f	Variable Label	schon zu alt
+a21f	1	trifft zu
+a21f	2	trifft nicht zu
+a21f	3	keine Angabe
+a3	Variable Label	Schulabschluss Vater
+a3	1	Pflichtschule ohne Lehre
+a3	2	Pflichtschule mit Lehre
+a3	3	berufsbildende mittlere Schule
+a3	4	allgemein bildende höhere Schule
+a3	5	berufsbildende höhere Schule
+a3	6	Hochschule
+a3	7	weiß nicht, kein Vater
+a4	Variable Label	Schulabschluss Mutter
+a4	1	Pflichtschule ohne Lehre
+a4	2	Pflichtschule mit Lehre
+a4	3	berufsbildende mittlere Schule
+a4	4	allgemein bildende höhere Schule
+a4	5	berufsbildende höhere Schule
+a4	6	Hochschule
+a4	7	weiß nicht, keine Mutter
+a5	Variable Label	Berufsstatus Vater
+a5	1	Landwirte mit kleinerem Betrieb
+a5	2	Landwirte mit mittlerem Betrieb
+a5	3	Landwirte mit größerem Betrieb
+a5	4	Mithelfende Familienangehörige bei Landw. mit kl. Betrieb
+a5	5	Mithelfende Familienangehörige bei Landw. mit mittl. Betrieb
+a5	6	Mithelfende Familienangehörige bei Landw. mit gr. Betrieb
+a5	10	Selbstständige mit Kleinbetrieb ohne Arbeitnehmer
+a5	11	Selbstständige mit kleinerem Betrieb (1-4 Arbeitnehmer)
+a5	12	Selbstständige mit mittlerem Betrieb (5-9 Arbeitnehmer)
+a5	13	Selbstständige mit größerem Betrieb (10+ Arbeitnehmer)
+a5	15	Mith. Familienang. bei Selbst. mit Kleinbetr. ohne Arbeitn.
+a5	16	Mith. Familienang. bei Selbst. mit kl. Betr. (1-4 Arbeitn.)
+a5	17	Mith.  Familienang. bei Selbst. mit mi. Betr. (5-9 Arbeitn.)
+a5	18	Mith. Familienang. bei Selbst. mit gr. Betr. (10+ Arbeitn.)
+a5	20	Freiberuflich Tätige ohne Hochschulausbildung
+a5	21	Freiberuflich Tätige mit Hochschulausbildung
+a5	25	Mith. Familienang.bei freiberuflich Tätigen ohne Hochschula.
+a5	26	Mith. Familienang.bei freiberuflich Tätigen mit Hochschula.
+a5	30	Lehrling in Arbeiterberufen
+a5	31	Lehrling in Angestelltenberufen
+a5	40	Hilfstätigkeit mit vorwiegend körperlichem Einsatz
+a5	41	Hilfsarbeiter in der Land- u. Forstwirtschaft
+a5	42	AngelernteTätigkeit in Arbeiterberufen
+a5	43	Facharbeiter
+a5	44	Vorarbeiter/ Meister
+a5	50	Hilfstätigkeit in Angestelltenberufen
+a5	51	Gelernte Tätigkeit in Angestelltenberufen
+a5	52	Mittlere Tätigkeit in Angestelltenberufen
+a5	53	Höhere Tätigkeit in Angestelltenberufen
+a5	54	Hochqualifizierte Tätigkeit in Angestelltenberufen
+a5	55	Führende Tätigkeit in größeren Betrieben
+a5	60	Beamte mit hilfs- oder angelernter Arbeitertätigkeit
+a5	61	Beamte mit Facharbeiter- oder Werkmeistertätigkeit
+a5	62	Beamte mit Hilfstätigkeit
+a5	63	Beamte mit einfacher Tätigkeit
+a5	64	Beamte mit mittlerer Tätigkeit
+a5	65	Beamte mit höherer Tätigkeit
+a5	66	Beamte mit hochqualifizierter Tätigkeit
+a5	67	Beamte mit führender Tätigkeit
+a5	70	Vertragsbedienstete mit hilfs- oder angelernterTätigkeit
+a5	71	Vertragsbedienstete mit Facharbeiter- od. Werkmeistertätigk.
+a5	72	Vertragsbedienstete mit Hilfstätigkeit
+a5	73	Vertragsbedienstete mit einfacher Tätigkeit
+a5	74	Vertragsbedienstete mit mittlerer Tätigkeit
+a5	75	Vertragsbedienstete mit höherer Tätigkeit
+a5	76	Vertragsbedienstete m. hochqual. od. führender Tätigk.
+a6	Variable Label	Berufstatus Vater zuletzt
+a6	1	Landwirte mit kleinerem Betrieb
+a6	2	Landwirte mit mittlerem Betrieb
+a6	3	Landwirte mit größerem Betrieb
+a6	4	Mithelfende Familienangehörige bei Landw. mit kl. Betrieb
+a6	5	Mithelfende Familienangehörige bei Landw. mit mittl. Betrieb
+a6	6	Mithelfende Familienangehörige bei Landw. mit gr. Betrieb
+a6	10	Selbstständige mit Kleinbetrieb ohne Arbeitnehmer
+a6	11	Selbstständige mit kleinerem Betrieb (1-4 Arbeitnehmer)
+a6	12	Selbstständige mit mittlerem Betrieb (5-9 Arbeitnehmer)
+a6	13	Selbstständige mit größerem Betrieb (10+ Arbeitnehmer)
+a6	15	Mith. Familienang. bei Selbst. mit Kleinbetr. ohne Arbeitn.
+a6	16	Mith. Familienang. bei Selbst. mit kl. Betr. (1-4 Arbeitn.)
+a6	17	Mith.  Familienang. bei Selbst. mit mi. Betr. (5-9 Arbeitn.)
+a6	18	Mith. Familienang. bei Selbst. mit gr. Betr. (10+ Arbeitn.)
+a6	20	Freiberuflich Tätige ohne Hochschulausbildung
+a6	21	Freiberuflich Tätige mit Hochschulausbildung
+a6	25	Mith. Familienang.bei freiberuflich Tätigen ohne Hochschula.
+a6	26	Mith. Familienang.bei freiberuflich Tätigen mit Hochschula.
+a6	30	Lehrling in Arbeiterberufen
+a6	31	Lehrling in Angestelltenberufen
+a6	40	Hilfstätigkeit mit vorwiegend körperlichem Einsatz
+a6	41	Hilfsarbeiter in der Land- u. Forstwirtschaft
+a6	42	AngelernteTätigkeit in Arbeiterberufen
+a6	43	Facharbeiter
+a6	44	Vorarbeiter/ Meister
+a6	50	Hilfstätigkeit in Angestelltenberufen
+a6	51	Gelernte Tätigkeit in Angestelltenberufen
+a6	52	Mittlere Tätigkeit in Angestelltenberufen
+a6	53	Höhere Tätigkeit in Angestelltenberufen
+a6	54	Hochqualifizierte Tätigkeit in Angestelltenberufen
+a6	55	Führende Tätigkeit in größeren Betrieben
+a6	60	Beamte mit hilfs- oder angelernter Arbeitertätigkeit
+a6	61	Beamte mit Facharbeiter- oder Werkmeistertätigkeit
+a6	62	Beamte mit Hilfstätigkeit
+a6	63	Beamte mit einfacher Tätigkeit
+a6	64	Beamte mit mittlerer Tätigkeit
+a6	65	Beamte mit höherer Tätigkeit
+a6	66	Beamte mit hochqualifizierter Tätigkeit
+a6	67	Beamte mit führender Tätigkeit
+a6	70	Vertragsbedienstete mit hilfs- oder angelernterTätigkeit
+a6	71	Vertragsbedienstete mit Facharbeiter- od. Werkmeistertätigk.
+a6	72	Vertragsbedienstete mit Hilfstätigkeit
+a6	73	Vertragsbedienstete mit einfacher Tätigkeit
+a6	74	Vertragsbedienstete mit mittlerer Tätigkeit
+a6	75	Vertragsbedienstete mit höherer Tätigkeit
+a6	76	Vertragsbedienstete m. hochqual. od. führender Tätigk.
+a7_ISCO_lev1	Variable Label	Berufl. Tätigkeit Vater (ISCO-88 Code, Ebene 1)
+a7_ISCO_lev1	0	Streitkräfte
+a7_ISCO_lev1	1	Angehörige gesetzgebender Körperschaften, leitende Verwaltungsbedienstete und Führungskräfte in der Privatwirtschaft
+a7_ISCO_lev1	2	Wissenschaftler
+a7_ISCO_lev1	3	Techniker und gleichrangige nichttechnische Berufe
+a7_ISCO_lev1	4	Bürokräfte, kaufmännische Angestellte
+a7_ISCO_lev1	5	Dienstleistungsberufe, Verkäufer in Geschäften und auf Märkten
+a7_ISCO_lev1	6	Fachkräfte in der Landwirtschaft und Fischerei
+a7_ISCO_lev1	7	Handwerks- und verwandte Berufe
+a7_ISCO_lev1	8	Anlagen- und Maschinenbediener sowie Montierer
+a7_ISCO_lev1	9	Hilfsarbeitskräfte
+a7_ISCO_lev2	Variable Label	Berufl. Tätigkeit Vater (ISCO-88 Code, Ebene 2)
+a7_ISCO_lev2	1	Streikräfte
+a7_ISCO_lev2	11	Angehörige gesetzgebender Körperschaften und leitende
+a7_ISCO_lev2	12	Geschäftsleiter
+a7_ISCO_lev2	13	Betriebsleiter
+a7_ISCO_lev2	21	Physiker, Mathematiker u. Ingenieurwissenschaftler
+a7_ISCO_lev2	22	Biowissenschaftler und Mediziner
+a7_ISCO_lev2	23	Wissenschaftliche Lehrkräfte
+a7_ISCO_lev2	24	Sonstige Wissenschaftler
+a7_ISCO_lev2	31	Fachkräfte in der Physik und den Ingenieurwissenschaften
+a7_ISCO_lev2	32	Biowissenschaftliche und Gesundheitsfachkräfte
+a7_ISCO_lev2	33	Nicht-wissenschaftliche Lehrkräfte
+a7_ISCO_lev2	34	Sonstige Fachkräfte (mittlere Qualifikationsebene)
+a7_ISCO_lev2	41	Büroangestellte ohne Kundenkontakt
+a7_ISCO_lev2	42	Büroangestellte mit Kundenkontakt
+a7_ISCO_lev2	51	Personenbezogene Dienstleistungsberufe und Sicherheitsbedienstete
+a7_ISCO_lev2	52	Modelle, Verkäufer und Vorführer
+a7_ISCO_lev2	61	Fachkräfte in der Landwirtschaft und Fischerei (Marktproduktion)
+a7_ISCO_lev2	62	Arbeitskräfte in der Landwirtschaft und Fischerei (Eigenbedarfsproduktion)
+a7_ISCO_lev2	71	Mineralgewinnungs- und Bauberufe
+a7_ISCO_lev2	72	Metallarbeiter, Mechaniker und verwandte Berufe
+a7_ISCO_lev2	73	Präzisionsarbeiter, Kunsthandwerker, Drucker und verwandte Berufe
+a7_ISCO_lev2	74	Sonstige Handwerks- und verwandte Berufe
+a7_ISCO_lev2	81	Bediener stationärer und verwandter Anlagen
+a7_ISCO_lev2	82	Maschinenbediener und Montierer
+a7_ISCO_lev2	83	Fahrzeugführer und Bediener mobiler Anlagen
+a7_ISCO_lev2	91	Verkaufs- und Dienstleistungshilfskräfte
+a7_ISCO_lev2	92	Landwirtschaftliche, Fischerei- und verwandte Hilfsarbeiter
+a7_ISCO_lev2	93	Hilfsarbeiter im Bergbau, Baugewerbe, Verarbeitenden Gewerbe und Transportwesen
+a7_ISCO_lev3	Variable Label	Berufl. Tätigkeit Vater (ISCO-88 Code, Ebene 3)
+a7_ISCO_lev3	11	Streikräfte
+a7_ISCO_lev3	111	Angehörige gesetzgebender Körperschaften
+a7_ISCO_lev3	112	Leitende Verwaltungsbedienstete
+a7_ISCO_lev3	113	Traditionelle Ortsvorsteher
+a7_ISCO_lev3	114	Leitende Bedienstete von Interessenorganisationen
+a7_ISCO_lev3	121	Direktoren und Hauptgeschäftsführer
+a7_ISCO_lev3	122	Produktions- und Operationsleiter
+a7_ISCO_lev3	123	Sonstige Bereichsleiter
+a7_ISCO_lev3	131	Betriebsleiter
+a7_ISCO_lev3	211	Physiker, Chemiker und verwandete Wissenschaftler
+a7_ISCO_lev3	212	Mathematiker, Statistiker und verwandte Wissenschaftler
+a7_ISCO_lev3	213	Informatiker
+a7_ISCO_lev3	214	Architekten, Ingenieure und verwandte Wissenschaftler
+a7_ISCO_lev3	221	Biowissenschaftler
+a7_ISCO_lev3	222	Mediziner (ohne Krankenpflege)
+a7_ISCO_lev3	223	Wissenschaftliche Krankenpflege- und Geburtshilfefachkräfte
+a7_ISCO_lev3	231	Universitäts- und Hochschullehrer
+a7_ISCO_lev3	232	Lehrer des Sekundarbereiches
+a7_ISCO_lev3	233	Wissenschaftliche Lehrer des Primar- und Vorschulbereiches
+a7_ISCO_lev3	234	Wissenschaftliche Sonderschullehrer
+a7_ISCO_lev3	235	Sonstige wissenschaftliche Lehrkräfte
+a7_ISCO_lev3	241	Unternehmensberatungs- und Organisationsfachkräfte
+a7_ISCO_lev3	242	Juristen
+a7_ISCO_lev3	243	Archivare, Bibliothekare und verwandte. Informationswissenschaftler
+a7_ISCO_lev3	244	Sozialwissenschaftler und verwandte Berufe
+a7_ISCO_lev3	245	Schriftsteller, bildende oder darstellende Künstler
+a7_ISCO_lev3	246	Geistliche, Seelsorger
+a7_ISCO_lev3	311	Physikalische u. ingenieurwissenschaftliche Techniker
+a7_ISCO_lev3	312	Datenverarbeitungsfachkräfte
+a7_ISCO_lev3	313	Bediener optischer und elektronischer Anlagen
+a7_ISCO_lev3	314	Schiffs- und Flugzeugführer, -ingenieure und Flugsicherungsbedienstete
+a7_ISCO_lev3	315	Sicherheits- und Qualitätskontrolleure
+a7_ISCO_lev3	321	Biotechniker und verwandte Berufe
+a7_ISCO_lev3	322	Moderne medizinische Fachberufe (ohne Krankenpflege)
+a7_ISCO_lev3	323	Nicht-wissenschaftliche Krankenpflege- und Geburtshilfefachkräfte
+a7_ISCO_lev3	324	Heilpraktiker, Geistheiler und Gesundbeter
+a7_ISCO_lev3	331	Nicht-wissenschaftliche Lehrkräfte des Primarbereiches
+a7_ISCO_lev3	332	Nicht-wissenschaftliche Lehrkräfte des Vorschulbereiches
+a7_ISCO_lev3	333	Nicht-wissenschaftliche Sonderschullehrkräfte
+a7_ISCO_lev3	334	Sonstige nicht-wissenschaftliche Lehrkräfte
+a7_ISCO_lev3	341	Finanz- und Verkaufsfachkräfte
+a7_ISCO_lev3	342	Vermittler gewerblicher Dienstleistungen und Handelsmakler
+a7_ISCO_lev3	343	Verwaltungsfachkräfte
+a7_ISCO_lev3	344	Zoll-, Steuer- und verwandte Fachkräfte der öffentlichen Verwaltung
+a7_ISCO_lev3	345	Polizeikommissare und Detektive
+a7_ISCO_lev3	346	Sozialpflegerische Berufe
+a7_ISCO_lev3	347	Künstlerische, Unterhaltungs- u. Sportberufe
+a7_ISCO_lev3	348	Ordensbrüder/ -schwestern und Seelsorgehelfer
+a7_ISCO_lev3	411	Sekretärinnen und Tastaturbediener
+a7_ISCO_lev3	412	Angestellte im Rechnungs- Statistik- und Finanzwesen
+a7_ISCO_lev3	413	Materialverwaltungs- u. Transportangestellte
+a7_ISCO_lev3	414	Bibliotheks-, Post- u. verwandte Angestellte
+a7_ISCO_lev3	419	Sonstige Büroangestellte
+a7_ISCO_lev3	421	Kassierer, Schalter- und andere Angestellte
+a7_ISCO_lev3	422	Kundeninformationsangestellte
+a7_ISCO_lev3	511	Reisebegleiter und verwandte Berufe
+a7_ISCO_lev3	512	Dienstleistungsberufe im hauswirtschaftl. Bereich und im Gaststättengewerbe
+a7_ISCO_lev3	513	Pflege- und verwandte Berufe
+a7_ISCO_lev3	514	Sonstige personenbezogenen Dienstleistungsberufe
+a7_ISCO_lev3	515	Astrologen, Wahrsager und verwandte Berufe
+a7_ISCO_lev3	516	Sicherheitsbedienstete
+a7_ISCO_lev3	521	Mannequins/Dressmen und sonstige Modelle
+a7_ISCO_lev3	522	Verkäufer und Vorführer und Geschäften
+a7_ISCO_lev3	523	Verkaufsstand und Marktstandverkäufer
+a7_ISCO_lev3	611	Gärtner und Ackerbauern (Marktproduktion)
+a7_ISCO_lev3	612	Tierwirtschaftliche und verwandte Berufe (Marktproduktion)
+a7_ISCO_lev3	613	Ackerbauern und Tierzüchter/-halter (Marktproduktion)
+a7_ISCO_lev3	614	Forstarbeitskräfte und verwandte Berufe
+a7_ISCO_lev3	615	Fischer, Jäger und Fallensteller
+a7_ISCO_lev3	621	Arbeitskräfte in Landwirtschaft u. Fischerei (Eigenbedarfsproduktion)
+a7_ISCO_lev3	711	Bergleute, Sprengmeister, Steinbearbeiter und Steinbildhauer
+a7_ISCO_lev3	712	Baukonstruktions- und verwandte Berufe
+a7_ISCO_lev3	713	Ausbau- und verwandte Berufe
+a7_ISCO_lev3	714	Maler, Gebäudereiniger und verw. Berufe
+a7_ISCO_lev3	721	Former (für Metallguß), Schweißer, Blechkaltverformer, Baumetallverformer u. verw. Berufe
+a7_ISCO_lev3	722	Grobschmiede, Werkzeugmacher u. verw. Berufe
+a7_ISCO_lev3	723	Maschinenmechaniker und -schlosser
+a7_ISCO_lev3	724	Elektro- und Elektronikmechaniker u. -monteure
+a7_ISCO_lev3	731	Präzisionsarbeiter f. Metall und verwandte Werkstoffe
+a7_ISCO_lev3	732	Töpfer, Glasmacher und verwandte Berufe
+a7_ISCO_lev3	733	Kunsthandwerker für Holz, Textilien, Leder und verwandte Materialien
+a7_ISCO_lev3	734	Drucker und verwandte Berufe
+a7_ISCO_lev3	741	Berufe in der Nahrungsmittelverarbeitung und verwandte Berufe
+a7_ISCO_lev3	742	Holztrockner und -konservierer, Möbeltischler und verwandte Berufe
+a7_ISCO_lev3	743	Textil-, Bekleidungs- u. verwandte Berufe
+a7_ISCO_lev3	744	Fell-, Lederverarbeiter und Schuhmacher
+a7_ISCO_lev3	811	Bediener v. bergbaulichen und Mineralaufbereitungsanlagen
+a7_ISCO_lev3	812	Verfahrensanlagenbediener in der Metallerzeugung und Metallumformung
+a7_ISCO_lev3	813	Bediener v. Anlagen zur Glas- und Keramikherstellung sowie verwandte Anlagenbediener
+a7_ISCO_lev3	814	Bediener von Anlagen zur Holzaufbereitung und Papierherstellung
+a7_ISCO_lev3	815	Bediener chemischer Verfahrensanlagen
+a7_ISCO_lev3	816	Bediener v. Energieerzeugungs- und verwandten Anlagen
+a7_ISCO_lev3	817	Bediener v. automatisierten Montagebändern und Industrierobotern
+a7_ISCO_lev3	821	Maschinenbediener für Metall- und Mineralerzeugnisse
+a7_ISCO_lev3	822	Maschinenbediener für chemische Erzeugnisse
+a7_ISCO_lev3	823	Maschinenbediener für Gummi- und Kunststofferzeugnisse
+a7_ISCO_lev3	824	Maschinenbediener für Holzerzeugnisse
+a7_ISCO_lev3	825	Maschinenbediener für Druck-, Buchbinde- und Papiererzeugnisse
+a7_ISCO_lev3	826	Maschinenbediener für Textil-, Pelz- und Ledererzeugnisse
+a7_ISCO_lev3	827	Maschinenbediener zur Herstellung v. Nahrungs-und Genußmitteln
+a7_ISCO_lev3	828	Montierer
+a7_ISCO_lev3	829	Sonstige Maschinenbediener und Montierer
+a7_ISCO_lev3	831	Lokomotivführer und verwandte Berufe
+a7_ISCO_lev3	832	Kraftfahrzeugführer
+a7_ISCO_lev3	833	Führer v. Landmaschinen und anderen mobilen Anlagen
+a7_ISCO_lev3	834	Deckspersonal auf Schiffen u. verw. Berufe
+a7_ISCO_lev3	911	Straßenhändler und verwandte Berufe
+a7_ISCO_lev3	912	Schuhputzer und sonstige auf der Straße ausgeübte einfache Dienstleistungstätigkeiten
+a7_ISCO_lev3	913	Haushaltshilfen u. verwandte Hilfskräfte, Reinigungspersonal und Wäscher
+a7_ISCO_lev3	914	Hausmeister, Fensterputzer u. verwandtes Reinigungspersonal
+a7_ISCO_lev3	915	Boten, Träger, Pförtner u. verwandte Berufe
+a7_ISCO_lev3	916	Müllsammler und verwandte Berufe
+a7_ISCO_lev3	921	Landwirtschaftliche, Fischerei- und verwandte Hilfsarbeiter
+a7_ISCO_lev3	931	Hilfsarbeiter im Bergbau und Baugewerbe
+a7_ISCO_lev3	932	Hilfsarbeiter in der Fertigung
+a7_ISCO_lev3	933	Transport- und Frachtarbeiter
+a8	Variable Label	Berufsstatus Mutter
+a8	1	Landwirte mit kleinerem Betrieb
+a8	2	Landwirte mit mittlerem Betrieb
+a8	3	Landwirte mit größerem Betrieb
+a8	4	Mithelfende Familienangehörige bei Landw. mit kl. Betrieb
+a8	5	Mithelfende Familienangehörige bei Landw. mit mittl. Betrieb
+a8	6	Mithelfende Familienangehörige bei Landw. mit gr. Betrieb
+a8	10	Selbstständige mit Kleinbetrieb ohne Arbeitnehmer
+a8	11	Selbstständige mit kleinerem Betrieb (1-4 Arbeitnehmer)
+a8	12	Selbstständige mit mittlerem Betrieb (5-9 Arbeitnehmer)
+a8	13	Selbstständige mit größerem Betrieb (10+ Arbeitnehmer)
+a8	15	Mith. Familienang. bei Selbst. mit Kleinbetr. ohne Arbeitn.
+a8	16	Mith. Familienang. bei Selbst. mit kl. Betr. (1-4 Arbeitn.)
+a8	17	Mith.  Familienang. bei Selbst. mit mi. Betr. (5-9 Arbeitn.)
+a8	18	Mith. Familienang. bei Selbst. mit gr. Betr. (10+ Arbeitn.)
+a8	20	Freiberuflich Tätige ohne Hochschulausbildung
+a8	21	Freiberuflich Tätige mit Hochschulausbildung
+a8	25	Mith. Familienang.bei freiberuflich Tätigen ohne Hochschula.
+a8	26	Mith. Familienang.bei freiberuflich Tätigen mit Hochschula.
+a8	30	Lehrling in Arbeiterberufen
+a8	31	Lehrling in Angestelltenberufen
+a8	40	Hilfstätigkeit mit vorwiegend körperlichem Einsatz
+a8	41	Hilfsarbeiter in der Land- u. Forstwirtschaft
+a8	42	AngelernteTätigkeit in Arbeiterberufen
+a8	43	Facharbeiter
+a8	44	Vorarbeiter/ Meister
+a8	50	Hilfstätigkeit in Angestelltenberufen
+a8	51	Gelernte Tätigkeit in Angestelltenberufen
+a8	52	Mittlere Tätigkeit in Angestelltenberufen
+a8	53	Höhere Tätigkeit in Angestelltenberufen
+a8	54	Hochqualifizierte Tätigkeit in Angestelltenberufen
+a8	55	Führende Tätigkeit in größeren Betrieben
+a8	60	Beamte mit hilfs- oder angelernter Arbeitertätigkeit
+a8	61	Beamte mit Facharbeiter- oder Werkmeistertätigkeit
+a8	62	Beamte mit Hilfstätigkeit
+a8	63	Beamte mit einfacher Tätigkeit
+a8	64	Beamte mit mittlerer Tätigkeit
+a8	65	Beamte mit höherer Tätigkeit
+a8	66	Beamte mit hochqualifizierter Tätigkeit
+a8	67	Beamte mit führender Tätigkeit
+a8	70	Vertragsbedienstete mit hilfs- oder angelernterTätigkeit
+a8	71	Vertragsbedienstete mit Facharbeiter- od. Werkmeistertätigk.
+a8	72	Vertragsbedienstete mit Hilfstätigkeit
+a8	73	Vertragsbedienstete mit einfacher Tätigkeit
+a8	74	Vertragsbedienstete mit mittlerer Tätigkeit
+a8	75	Vertragsbedienstete mit höherer Tätigkeit
+a8	76	Vertragsbedienstete m. hochqual. od. führender Tätigk.
+a9	Variable Label	Berufstatus Mutter zuletzt
+a9	1	Landwirte mit kleinerem Betrieb
+a9	2	Landwirte mit mittlerem Betrieb
+a9	3	Landwirte mit größerem Betrieb
+a9	4	Mithelfende Familienangehörige bei Landw. mit kl. Betrieb
+a9	5	Mithelfende Familienangehörige bei Landw. mit mittl. Betrieb
+a9	6	Mithelfende Familienangehörige bei Landw. mit gr. Betrieb
+a9	10	Selbstständige mit Kleinbetrieb ohne Arbeitnehmer
+a9	11	Selbstständige mit kleinerem Betrieb (1-4 Arbeitnehmer)
+a9	12	Selbstständige mit mittlerem Betrieb (5-9 Arbeitnehmer)
+a9	13	Selbstständige mit größerem Betrieb (10+ Arbeitnehmer)
+a9	15	Mith. Familienang. bei Selbst. mit Kleinbetr. ohne Arbeitn.
+a9	16	Mith. Familienang. bei Selbst. mit kl. Betr. (1-4 Arbeitn.)
+a9	17	Mith.  Familienang. bei Selbst. mit mi. Betr. (5-9 Arbeitn.)
+a9	18	Mith. Familienang. bei Selbst. mit gr. Betr. (10+ Arbeitn.)
+a9	20	Freiberuflich Tätige ohne Hochschulausbildung
+a9	21	Freiberuflich Tätige mit Hochschulausbildung
+a9	25	Mith. Familienang.bei freiberuflich Tätigen ohne Hochschula.
+a9	26	Mith. Familienang.bei freiberuflich Tätigen mit Hochschula.
+a9	30	Lehrling in Arbeiterberufen
+a9	31	Lehrling in Angestelltenberufen
+a9	40	Hilfstätigkeit mit vorwiegend körperlichem Einsatz
+a9	41	Hilfsarbeiter in der Land- u. Forstwirtschaft
+a9	42	AngelernteTätigkeit in Arbeiterberufen
+a9	43	Facharbeiter
+a9	44	Vorarbeiter/ Meister
+a9	50	Hilfstätigkeit in Angestelltenberufen
+a9	51	Gelernte Tätigkeit in Angestelltenberufen
+a9	52	Mittlere Tätigkeit in Angestelltenberufen
+a9	53	Höhere Tätigkeit in Angestelltenberufen
+a9	54	Hochqualifizierte Tätigkeit in Angestelltenberufen
+a9	55	Führende Tätigkeit in größeren Betrieben
+a9	60	Beamte mit hilfs- oder angelernter Arbeitertätigkeit
+a9	61	Beamte mit Facharbeiter- oder Werkmeistertätigkeit
+a9	62	Beamte mit Hilfstätigkeit
+a9	63	Beamte mit einfacher Tätigkeit
+a9	64	Beamte mit mittlerer Tätigkeit
+a9	65	Beamte mit höherer Tätigkeit
+a9	66	Beamte mit hochqualifizierter Tätigkeit
+a9	67	Beamte mit führender Tätigkeit
+a9	70	Vertragsbedienstete mit hilfs- oder angelernterTätigkeit
+a9	71	Vertragsbedienstete mit Facharbeiter- od. Werkmeistertätigk.
+a9	72	Vertragsbedienstete mit Hilfstätigkeit
+a9	73	Vertragsbedienstete mit einfacher Tätigkeit
+a9	74	Vertragsbedienstete mit mittlerer Tätigkeit
+a9	75	Vertragsbedienstete mit höherer Tätigkeit
+a9	76	Vertragsbedienstete m. hochqual. od. führender Tätigk.
+Alter	Variable Label	ALTER BEFRAGTE PERSON
+b22	Variable Label	Berufsstatus
+b22	1	Landwirte mit kleinerem Betrieb
+b22	2	Landwirte mit mittlerem Betrieb
+b22	3	Landwirte mit größerem Betrieb
+b22	4	Mithelfende Familienangehörige bei Landw. mit kl. Betrieb
+b22	5	Mithelfende Familienangehörige bei Landw. mit mittl. Betrieb
+b22	6	Mithelfende Familienangehörige bei Landw. mit gr. Betrieb
+b22	10	Selbstständige mit Kleinbetrieb ohne Arbeitnehmer
+b22	11	Selbstständige mit kleinerem Betrieb (1-4 Arbeitnehmer)
+b22	12	Selbstständige mit mittlerem Betrieb (5-9 Arbeitnehmer)
+b22	13	Selbstständige mit größerem Betrieb (10+ Arbeitnehmer)
+b22	15	Mith. Familienang. bei Selbst. mit Kleinbetr. ohne Arbeitn.
+b22	16	Mith. Familienang. bei Selbst. mit kl. Betr. (1-4 Arbeitn.)
+b22	17	Mith.  Familienang. bei Selbst. mit mi. Betr. (5-9 Arbeitn.)
+b22	18	Mith. Familienang. bei Selbst. mit gr. Betr. (10+ Arbeitn.)
+b22	20	Freiberuflich Tätige ohne Hochschulausbildung
+b22	21	Freiberuflich Tätige mit Hochschulausbildung
+b22	25	Mith. Familienang.bei freiberuflich Tätigen ohne Hochschula.
+b22	26	Mith. Familienang.bei freiberuflich Tätigen mit Hochschula.
+b22	30	Lehrling in Arbeiterberufen
+b22	31	Lehrling in Angestelltenberufen
+b22	40	Hilfstätigkeit mit vorwiegend körperlichem Einsatz
+b22	41	Hilfsarbeiter in der Land- u. Forstwirtschaft
+b22	42	AngelernteTätigkeit in Arbeiterberufen
+b22	43	Facharbeiter
+b22	44	Vorarbeiter/ Meister
+b22	50	Hilfstätigkeit in Angestelltenberufen
+b22	51	Gelernte Tätigkeit in Angestelltenberufen
+b22	52	Mittlere Tätigkeit in Angestelltenberufen
+b22	53	Höhere Tätigkeit in Angestelltenberufen
+b22	54	Hochqualifizierte Tätigkeit in Angestelltenberufen
+b22	55	Führende Tätigkeit in größeren Betrieben
+b22	60	Beamte mit hilfs- oder angelernter Arbeitertätigkeit
+b22	61	Beamte mit Facharbeiter- oder Werkmeistertätigkeit
+b22	62	Beamte mit Hilfstätigkeit
+b22	63	Beamte mit einfacher Tätigkeit
+b22	64	Beamte mit mittlerer Tätigkeit
+b22	65	Beamte mit höherer Tätigkeit
+b22	66	Beamte mit hochqualifizierter Tätigkeit
+b22	67	Beamte mit führender Tätigkeit
+b22	70	Vertragsbedienstete mit hilfs- oder angelernterTätigkeit
+b22	71	Vertragsbedienstete mit Facharbeiter- od. Werkmeistertätigk.
+b22	72	Vertragsbedienstete mit Hilfstätigkeit
+b22	73	Vertragsbedienstete mit einfacher Tätigkeit
+b22	74	Vertragsbedienstete mit mittlerer Tätigkeit
+b22	75	Vertragsbedienstete mit höherer Tätigkeit
+b22	76	Vertragsbedienstete m. hochqual. od. führender Tätigk.
+b23_ISCO_lev1	Variable Label	Beruf Befragter (ISCO-88 Code, Ebene 1)
+b23_ISCO_lev1	0	Streitkräfte
+b23_ISCO_lev1	1	Angehörige gesetzgebender Körperschaften, leitende Verwaltungsbedienstete und Führungskräfte in der Privatwirtschaft
+b23_ISCO_lev1	2	Wissenschaftler
+b23_ISCO_lev1	3	Techniker und gleichrangige nichttechnische Berufe
+b23_ISCO_lev1	4	Bürokräfte, kaufmännische Angestellte
+b23_ISCO_lev1	5	Dienstleistungsberufe, Verkäufer in Geschäften und auf Märkten
+b23_ISCO_lev1	6	Fachkräfte in der Landwirtschaft und Fischerei
+b23_ISCO_lev1	7	Handwerks- und verwandte Berufe
+b23_ISCO_lev1	8	Anlagen- und Maschinenbediener sowie Montierer
+b23_ISCO_lev1	9	Hilfsarbeitskräfte
+b23_ISCO_lev2	Variable Label	Beruf Befragter (ISCO-88 Code, Ebene 2)
+b23_ISCO_lev2	1	Streikräfte
+b23_ISCO_lev2	11	Angehörige gesetzgebender Körperschaften und leitende
+b23_ISCO_lev2	12	Geschäftsleiter
+b23_ISCO_lev2	13	Betriebsleiter
+b23_ISCO_lev2	21	Physiker, Mathematiker u. Ingenieurwissenschaftler
+b23_ISCO_lev2	22	Biowissenschaftler und Mediziner
+b23_ISCO_lev2	23	Wissenschaftliche Lehrkräfte
+b23_ISCO_lev2	24	Sonstige Wissenschaftler
+b23_ISCO_lev2	31	Fachkräfte in der Physik und den Ingenieurwissenschaften
+b23_ISCO_lev2	32	Biowissenschaftliche und Gesundheitsfachkräfte
+b23_ISCO_lev2	33	Nicht-wissenschaftliche Lehrkräfte
+b23_ISCO_lev2	34	Sonstige Fachkräfte (mittlere Qualifikationsebene)
+b23_ISCO_lev2	41	Büroangestellte ohne Kundenkontakt
+b23_ISCO_lev2	42	Büroangestellte mit Kundenkontakt
+b23_ISCO_lev2	51	Personenbezogene Dienstleistungsberufe und Sicherheitsbedienstete
+b23_ISCO_lev2	52	Modelle, Verkäufer und Vorführer
+b23_ISCO_lev2	61	Fachkräfte in der Landwirtschaft und Fischerei (Marktproduktion)
+b23_ISCO_lev2	62	Arbeitskräfte in der Landwirtschaft und Fischerei (Eigenbedarfsproduktion)
+b23_ISCO_lev2	71	Mineralgewinnungs- und Bauberufe
+b23_ISCO_lev2	72	Metallarbeiter, Mechaniker und verwandte Berufe
+b23_ISCO_lev2	73	Präzisionsarbeiter, Kunsthandwerker, Drucker und verwandte Berufe
+b23_ISCO_lev2	74	Sonstige Handwerks- und verwandte Berufe
+b23_ISCO_lev2	81	Bediener stationärer und verwandter Anlagen
+b23_ISCO_lev2	82	Maschinenbediener und Montierer
+b23_ISCO_lev2	83	Fahrzeugführer und Bediener mobiler Anlagen
+b23_ISCO_lev2	91	Verkaufs- und Dienstleistungshilfskräfte
+b23_ISCO_lev2	92	Landwirtschaftliche, Fischerei- und verwandte Hilfsarbeiter
+b23_ISCO_lev2	93	Hilfsarbeiter im Bergbau, Baugewerbe, Verarbeitenden Gewerbe und Transportwesen
+b23_ISCO_lev3	Variable Label	Beruf Befragter (ISCO-88 Code, Ebene 3)
+b23_ISCO_lev3	11	Streikräfte
+b23_ISCO_lev3	111	Angehörige gesetzgebender Körperschaften
+b23_ISCO_lev3	112	Leitende Verwaltungsbedienstete
+b23_ISCO_lev3	113	Traditionelle Ortsvorsteher
+b23_ISCO_lev3	114	Leitende Bedienstete von Interessenorganisationen
+b23_ISCO_lev3	121	Direktoren und Hauptgeschäftsführer
+b23_ISCO_lev3	122	Produktions- und Operationsleiter
+b23_ISCO_lev3	123	Sonstige Bereichsleiter
+b23_ISCO_lev3	131	Betriebsleiter
+b23_ISCO_lev3	211	Physiker, Chemiker und verwandete Wissenschaftler
+b23_ISCO_lev3	212	Mathematiker, Statistiker und verwandte Wissenschaftler
+b23_ISCO_lev3	213	Informatiker
+b23_ISCO_lev3	214	Architekten, Ingenieure und verwandte Wissenschaftler
+b23_ISCO_lev3	221	Biowissenschaftler
+b23_ISCO_lev3	222	Mediziner (ohne Krankenpflege)
+b23_ISCO_lev3	223	Wissenschaftliche Krankenpflege- und Geburtshilfefachkräfte
+b23_ISCO_lev3	231	Universitäts- und Hochschullehrer
+b23_ISCO_lev3	232	Lehrer des Sekundarbereiches
+b23_ISCO_lev3	233	Wissenschaftliche Lehrer des Primar- und Vorschulbereiches
+b23_ISCO_lev3	234	Wissenschaftliche Sonderschullehrer
+b23_ISCO_lev3	235	Sonstige wissenschaftliche Lehrkräfte
+b23_ISCO_lev3	241	Unternehmensberatungs- und Organisationsfachkräfte
+b23_ISCO_lev3	242	Juristen
+b23_ISCO_lev3	243	Archivare, Bibliothekare und verwandte. Informationswissenschaftler
+b23_ISCO_lev3	244	Sozialwissenschaftler und verwandte Berufe
+b23_ISCO_lev3	245	Schriftsteller, bildende oder darstellende Künstler
+b23_ISCO_lev3	246	Geistliche, Seelsorger
+b23_ISCO_lev3	311	Physikalische u. ingenieurwissenschaftliche Techniker
+b23_ISCO_lev3	312	Datenverarbeitungsfachkräfte
+b23_ISCO_lev3	313	Bediener optischer und elektronischer Anlagen
+b23_ISCO_lev3	314	Schiffs- und Flugzeugführer, -ingenieure und Flugsicherungsbedienstete
+b23_ISCO_lev3	315	Sicherheits- und Qualitätskontrolleure
+b23_ISCO_lev3	321	Biotechniker und verwandte Berufe
+b23_ISCO_lev3	322	Moderne medizinische Fachberufe (ohne Krankenpflege)
+b23_ISCO_lev3	323	Nicht-wissenschaftliche Krankenpflege- und Geburtshilfefachkräfte
+b23_ISCO_lev3	324	Heilpraktiker, Geistheiler und Gesundbeter
+b23_ISCO_lev3	331	Nicht-wissenschaftliche Lehrkräfte des Primarbereiches
+b23_ISCO_lev3	332	Nicht-wissenschaftliche Lehrkräfte des Vorschulbereiches
+b23_ISCO_lev3	333	Nicht-wissenschaftliche Sonderschullehrkräfte
+b23_ISCO_lev3	334	Sonstige nicht-wissenschaftliche Lehrkräfte
+b23_ISCO_lev3	341	Finanz- und Verkaufsfachkräfte
+b23_ISCO_lev3	342	Vermittler gewerblicher Dienstleistungen und Handelsmakler
+b23_ISCO_lev3	343	Verwaltungsfachkräfte
+b23_ISCO_lev3	344	Zoll-, Steuer- und verwandte Fachkräfte der öffentlichen Verwaltung
+b23_ISCO_lev3	345	Polizeikommissare und Detektive
+b23_ISCO_lev3	346	Sozialpflegerische Berufe
+b23_ISCO_lev3	347	Künstlerische, Unterhaltungs- u. Sportberufe
+b23_ISCO_lev3	348	Ordensbrüder/ -schwestern und Seelsorgehelfer
+b23_ISCO_lev3	411	Sekretärinnen und Tastaturbediener
+b23_ISCO_lev3	412	Angestellte im Rechnungs- Statistik- und Finanzwesen
+b23_ISCO_lev3	413	Materialverwaltungs- u. Transportangestellte
+b23_ISCO_lev3	414	Bibliotheks-, Post- u. verwandte Angestellte
+b23_ISCO_lev3	419	Sonstige Büroangestellte
+b23_ISCO_lev3	421	Kassierer, Schalter- und andere Angestellte
+b23_ISCO_lev3	422	Kundeninformationsangestellte
+b23_ISCO_lev3	511	Reisebegleiter und verwandte Berufe
+b23_ISCO_lev3	512	Dienstleistungsberufe im hauswirtschaftl. Bereich und im Gaststättengewerbe
+b23_ISCO_lev3	513	Pflege- und verwandte Berufe
+b23_ISCO_lev3	514	Sonstige personenbezogenen Dienstleistungsberufe
+b23_ISCO_lev3	515	Astrologen, Wahrsager und verwandte Berufe
+b23_ISCO_lev3	516	Sicherheitsbedienstete
+b23_ISCO_lev3	521	Mannequins/Dressmen und sonstige Modelle
+b23_ISCO_lev3	522	Verkäufer und Vorführer und Geschäften
+b23_ISCO_lev3	523	Verkaufsstand und Marktstandverkäufer
+b23_ISCO_lev3	611	Gärtner und Ackerbauern (Marktproduktion)
+b23_ISCO_lev3	612	Tierwirtschaftliche und verwandte Berufe (Marktproduktion)
+b23_ISCO_lev3	613	Ackerbauern und Tierzüchter/-halter (Marktproduktion)
+b23_ISCO_lev3	614	Forstarbeitskräfte und verwandte Berufe
+b23_ISCO_lev3	615	Fischer, Jäger und Fallensteller
+b23_ISCO_lev3	621	Arbeitskräfte in Landwirtschaft u. Fischerei (Eigenbedarfsproduktion)
+b23_ISCO_lev3	711	Bergleute, Sprengmeister, Steinbearbeiter und Steinbildhauer
+b23_ISCO_lev3	712	Baukonstruktions- und verwandte Berufe
+b23_ISCO_lev3	713	Ausbau- und verwandte Berufe
+b23_ISCO_lev3	714	Maler, Gebäudereiniger und verw. Berufe
+b23_ISCO_lev3	721	Former (für Metallguß), Schweißer, Blechkaltverformer, Baumetallverformer u. verw. Berufe
+b23_ISCO_lev3	722	Grobschmiede, Werkzeugmacher u. verw. Berufe
+b23_ISCO_lev3	723	Maschinenmechaniker und -schlosser
+b23_ISCO_lev3	724	Elektro- und Elektronikmechaniker u. -monteure
+b23_ISCO_lev3	731	Präzisionsarbeiter f. Metall und verwandte Werkstoffe
+b23_ISCO_lev3	732	Töpfer, Glasmacher und verwandte Berufe
+b23_ISCO_lev3	733	Kunsthandwerker für Holz, Textilien, Leder und verwandte Materialien
+b23_ISCO_lev3	734	Drucker und verwandte Berufe
+b23_ISCO_lev3	741	Berufe in der Nahrungsmittelverarbeitung und verwandte Berufe
+b23_ISCO_lev3	742	Holztrockner und -konservierer, Möbeltischler und verwandte Berufe
+b23_ISCO_lev3	743	Textil-, Bekleidungs- u. verwandte Berufe
+b23_ISCO_lev3	744	Fell-, Lederverarbeiter und Schuhmacher
+b23_ISCO_lev3	811	Bediener v. bergbaulichen und Mineralaufbereitungsanlagen
+b23_ISCO_lev3	812	Verfahrensanlagenbediener in der Metallerzeugung und Metallumformung
+b23_ISCO_lev3	813	Bediener v. Anlagen zur Glas- und Keramikherstellung sowie verwandte Anlagenbediener
+b23_ISCO_lev3	814	Bediener von Anlagen zur Holzaufbereitung und Papierherstellung
+b23_ISCO_lev3	815	Bediener chemischer Verfahrensanlagen
+b23_ISCO_lev3	816	Bediener v. Energieerzeugungs- und verwandten Anlagen
+b23_ISCO_lev3	817	Bediener v. automatisierten Montagebändern und Industrierobotern
+b23_ISCO_lev3	821	Maschinenbediener für Metall- und Mineralerzeugnisse
+b23_ISCO_lev3	822	Maschinenbediener für chemische Erzeugnisse
+b23_ISCO_lev3	823	Maschinenbediener für Gummi- und Kunststofferzeugnisse
+b23_ISCO_lev3	824	Maschinenbediener für Holzerzeugnisse
+b23_ISCO_lev3	825	Maschinenbediener für Druck-, Buchbinde- und Papiererzeugnisse
+b23_ISCO_lev3	826	Maschinenbediener für Textil-, Pelz- und Ledererzeugnisse
+b23_ISCO_lev3	827	Maschinenbediener zur Herstellung v. Nahrungs-und Genußmitteln
+b23_ISCO_lev3	828	Montierer
+b23_ISCO_lev3	829	Sonstige Maschinenbediener und Montierer
+b23_ISCO_lev3	831	Lokomotivführer und verwandte Berufe
+b23_ISCO_lev3	832	Kraftfahrzeugführer
+b23_ISCO_lev3	833	Führer v. Landmaschinen und anderen mobilen Anlagen
+b23_ISCO_lev3	834	Deckspersonal auf Schiffen u. verw. Berufe
+b23_ISCO_lev3	911	Straßenhändler und verwandte Berufe
+b23_ISCO_lev3	912	Schuhputzer und sonstige auf der Straße ausgeübte einfache Dienstleistungstätigkeiten
+b23_ISCO_lev3	913	Haushaltshilfen u. verwandte Hilfskräfte, Reinigungspersonal und Wäscher
+b23_ISCO_lev3	914	Hausmeister, Fensterputzer u. verwandtes Reinigungspersonal
+b23_ISCO_lev3	915	Boten, Träger, Pförtner u. verwandte Berufe
+b23_ISCO_lev3	916	Müllsammler und verwandte Berufe
+b23_ISCO_lev3	921	Landwirtschaftliche, Fischerei- und verwandte Hilfsarbeiter
+b23_ISCO_lev3	931	Hilfsarbeiter im Bergbau und Baugewerbe
+b23_ISCO_lev3	932	Hilfsarbeiter in der Fertigung
+b23_ISCO_lev3	933	Transport- und Frachtarbeiter
+b24	Variable Label	Berufszufriedenheit
+b24	1	sehr zufrieden
+b24	2	eher zufrieden
+b24	3	eher unzufrieden
+b24	4	sehr unzufrieden
+b24	5	keine Angabe
+b25	Variable Label	Berufsbranche
+b25	1	Land- und Forstwirtschaft, Tierhaltung und Fischerei
+b25	2	Energiewirtschaft und Wasserversorgung, Bergbau
+b25	3	Chemische Industrie (eins: Kohlenwerkstoffindustrie)
+b25	4	Kunststoffverarbeitung
+b25	5	Gewinnung und Verarbeitung von Steinen und Erden
+b25	6	Eisen- und Nichtmetallerzeugung
+b25	7	Stahl- und Maschinenbau
+b25	8	Fahrzeugbau
+b25	9	Elektrotechnik
+b25	10	Herstellung von Eisen-, Blech- und Metallwaren
+b25	11	Feinmechanik und Optik
+b25	12	Holzgewerbe
+b25	13	Papiergewerbe
+b25	14	Druckgewerbe
+b25	15	Leder-, Textil- und Bekleidungsgewerbe
+b25	16	Nahrungs- und Genußmittelgewerbe
+b25	17	Bauhauptgewerbe
+b25	18	Ausbau- und Bauhilfsgewerbe
+b25	19	Großhandel, Handelsvermittlung
+b25	20	Einzelhandel, Versandhandel
+b25	21	Eisenbahnen
+b25	22	Post
+b25	23	Verkehrsgewerbe (ohne Eisenbahn und Post)
+b25	24	Kredit u. sonst. Finanzierungsinstitute,Versicherungsgew.
+b25	25	Gaststätten u. Beherbergungsgewerbe, Verpflegungseinr.
+b25	26	Wäscherei und Reinigung
+b25	27	Wissenschaft, Bildung, Kunst und Publizistik
+b25	28	Gesundheits- und Veterinärwesen
+b25	29	Sonstige private Dienstleistungen
+b25	30	Kirchen, Verbände, private Haushalte
+b25	31	Öffentliche Verwaltungen,Gebietskörpersch. u. Sozialvers.
+b26	Variable Label	Personen im Betrieb
+b27	Variable Label	Befragter hat Untergebene
+b27	0	nein
+b27	9999	keine Angabe
+b28	Variable Label	Arbeitszeit (Stunden)
+b29	Variable Label	mehr oder weniger arbeiten
+b29	1	mehr arbeiten
+b29	2	weniger arbeiten
+b29	3	nicht mehr und nicht weniger arbeiten
+b29	4	keine Angabe
+b30a	Variable Label	positiv:Verdienst
+b30a	0	nicht genannt
+b30a	1	genannt
+b30b	Variable Label	positiv: Gesundheit
+b30b	0	nicht genannt
+b30b	1	genannt
+b30c	Variable Label	positiv: Aufstieg
+b30c	0	nicht genannt
+b30c	1	genannt
+b30d	Variable Label	positiv:Abwechslung
+b30d	0	nicht genannt
+b30d	1	genannt
+b30e	Variable Label	positiv: Sicherheit
+b30e	0	nicht genannt
+b30e	1	genannt
+b30f	Variable Label	positiv: Betriebsklima
+b30f	0	nicht genannt
+b30f	1	genannt
+b30g	Variable Label	positiv: Mitbestimmung
+b30g	0	nicht genannt
+b30g	1	genannt
+b30h	Variable Label	positiv: Verantwortung
+b30h	0	nicht genannt
+b30h	1	genannt
+b30i	Variable Label	positiv: wenig Stress
+b30i	0	nicht genannt
+b30i	1	genannt
+b30j	Variable Label	positiv: günstige Arbeitszeit
+b30j	0	nicht genannt
+b30j	1	genannt
+b30k	Variable Label	positiv: Allgemeinnutzen
+b30k	0	nicht genannt
+b30k	1	genannt
+b30l	Variable Label	positiv: Selbstentfaltung
+b30l	0	nicht genannt
+b30l	1	genannt
+b31a	Variable Label	negativ:Verdienst
+b31a	0	nicht genannt
+b31a	1	genannt
+b31b	Variable Label	negativ: Gesundheit
+b31b	0	nicht genannt
+b31b	1	genannt
+b31c	Variable Label	negativ: Aufstieg
+b31c	0	nicht genannt
+b31c	1	genannt
+b31d	Variable Label	negativ:Abwechslung
+b31d	0	nicht genannt
+b31d	1	genannt
+b31e	Variable Label	negativ: Sicherheit
+b31e	0	nicht genannt
+b31e	1	genannt
+b31f	Variable Label	negativ: Betriebsklima
+b31f	0	nicht genannt
+b31f	1	genannt
+b31g	Variable Label	negativ: Mitbestimmung
+b31g	0	nicht genannt
+b31g	1	genannt
+b31h	Variable Label	negativ: Verantwortung
+b31h	0	nicht genannt
+b31h	1	genannt
+b31i	Variable Label	negativ: wenig Stress
+b31i	0	nicht genannt
+b31i	1	genannt
+b31j	Variable Label	negativ: günstige Arbeitszeit
+b31j	0	nicht genannt
+b31j	1	genannt
+b31k	Variable Label	negativ: Allgemeinnutzen
+b31k	0	nicht genannt
+b31k	1	genannt
+b31l	Variable Label	negativ: Selbstentfaltung
+b31l	0	nicht genannt
+b31l	1	genannt
+b32	Variable Label	Arbeit am Computer
+b32	1	regelmäßig
+b32	2	gelegentlich
+b32	3	gar nicht
+b32	4	keine Angabe
+b33	Variable Label	erste berufliche Stellung
+b33	1	Landwirte mit kleinerem Betrieb
+b33	2	Landwirte mit mittlerem Betrieb
+b33	3	Landwirte mit größerem Betrieb
+b33	4	Mithelfende Familienangehörige bei Landw. mit kl. Betrieb
+b33	5	Mithelfende Familienangehörige bei Landw. mit mittl. Betrieb
+b33	6	Mithelfende Familienangehörige bei Landw. mit gr. Betrieb
+b33	10	Selbstständige mit Kleinbetrieb ohne Arbeitnehmer
+b33	11	Selbstständige mit kleinerem Betrieb (1-4 Arbeitnehmer)
+b33	12	Selbstständige mit mittlerem Betrieb (5-9 Arbeitnehmer)
+b33	13	Selbstständige mit größerem Betrieb (10+ Arbeitnehmer)
+b33	15	Mith. Familienang. bei Selbst. mit Kleinbetr. ohne Arbeitn.
+b33	16	Mith. Familienang. bei Selbst. mit kl. Betr. (1-4 Arbeitn.)
+b33	17	Mith.  Familienang. bei Selbst. mit mi. Betr. (5-9 Arbeitn.)
+b33	18	Mith. Familienang. bei Selbst. mit gr. Betr. (10+ Arbeitn.)
+b33	20	Freiberuflich Tätige ohne Hochschulausbildung
+b33	21	Freiberuflich Tätige mit Hochschulausbildung
+b33	25	Mith. Familienang.bei freiberuflich Tätigen ohne Hochschula.
+b33	26	Mith. Familienang.bei freiberuflich Tätigen mit Hochschula.
+b33	30	Lehrling in Arbeiterberufen
+b33	31	Lehrling in Angestelltenberufen
+b33	40	Hilfstätigkeit mit vorwiegend körperlichem Einsatz
+b33	41	Hilfsarbeiter in der Land- u. Forstwirtschaft
+b33	42	AngelernteTätigkeit in Arbeiterberufen
+b33	43	Facharbeiter
+b33	44	Vorarbeiter/ Meister
+b33	50	Hilfstätigkeit in Angestelltenberufen
+b33	51	Gelernte Tätigkeit in Angestelltenberufen
+b33	52	Mittlere Tätigkeit in Angestelltenberufen
+b33	53	Höhere Tätigkeit in Angestelltenberufen
+b33	54	Hochqualifizierte Tätigkeit in Angestelltenberufen
+b33	55	Führende Tätigkeit in größeren Betrieben
+b33	60	Beamte mit hilfs- oder angelernter Arbeitertätigkeit
+b33	61	Beamte mit Facharbeiter- oder Werkmeistertätigkeit
+b33	62	Beamte mit Hilfstätigkeit
+b33	63	Beamte mit einfacher Tätigkeit
+b33	64	Beamte mit mittlerer Tätigkeit
+b33	65	Beamte mit höherer Tätigkeit
+b33	66	Beamte mit hochqualifizierter Tätigkeit
+b33	67	Beamte mit führender Tätigkeit
+b33	70	Vertragsbedienstete mit hilfs- oder angelernterTätigkeit
+b33	71	Vertragsbedienstete mit Facharbeiter- od. Werkmeistertätigk.
+b33	72	Vertragsbedienstete mit Hilfstätigkeit
+b33	73	Vertragsbedienstete mit einfacher Tätigkeit
+b33	74	Vertragsbedienstete mit mittlerer Tätigkeit
+b33	75	Vertragsbedienstete mit höherer Tätigkeit
+b33	76	Vertragsbedienstete m. hochqual. od. führender Tätigk.
+b34	Variable Label	seit wann berufstätig
+b35_ISCO_lev1	Variable Label	erster Berufsstatus (ISCO-88 Code, Ebene 1)
+b35_ISCO_lev1	0	Streitkräfte
+b35_ISCO_lev1	1	Angehörige gesetzgebender Körperschaften, leitende Verwaltungsbedienstete und Führungskräfte in der Privatwirtschaft
+b35_ISCO_lev1	2	Wissenschaftler
+b35_ISCO_lev1	3	Techniker und gleichrangige nichttechnische Berufe
+b35_ISCO_lev1	4	Bürokräfte, kaufmännische Angestellte
+b35_ISCO_lev1	5	Dienstleistungsberufe, Verkäufer in Geschäften und auf Märkten
+b35_ISCO_lev1	6	Fachkräfte in der Landwirtschaft und Fischerei
+b35_ISCO_lev1	7	Handwerks- und verwandte Berufe
+b35_ISCO_lev1	8	Anlagen- und Maschinenbediener sowie Montierer
+b35_ISCO_lev1	9	Hilfsarbeitskräfte
+b35_ISCO_lev2	Variable Label	erster Berufsstatus (ISCO-88 Code, Ebene 2)
+b35_ISCO_lev2	1	Streikräfte
+b35_ISCO_lev2	11	Angehörige gesetzgebender Körperschaften und leitende
+b35_ISCO_lev2	12	Geschäftsleiter
+b35_ISCO_lev2	13	Betriebsleiter
+b35_ISCO_lev2	21	Physiker, Mathematiker u. Ingenieurwissenschaftler
+b35_ISCO_lev2	22	Biowissenschaftler und Mediziner
+b35_ISCO_lev2	23	Wissenschaftliche Lehrkräfte
+b35_ISCO_lev2	24	Sonstige Wissenschaftler
+b35_ISCO_lev2	31	Fachkräfte in der Physik und den Ingenieurwissenschaften
+b35_ISCO_lev2	32	Biowissenschaftliche und Gesundheitsfachkräfte
+b35_ISCO_lev2	33	Nicht-wissenschaftliche Lehrkräfte
+b35_ISCO_lev2	34	Sonstige Fachkräfte (mittlere Qualifikationsebene)
+b35_ISCO_lev2	41	Büroangestellte ohne Kundenkontakt
+b35_ISCO_lev2	42	Büroangestellte mit Kundenkontakt
+b35_ISCO_lev2	51	Personenbezogene Dienstleistungsberufe und Sicherheitsbedienstete
+b35_ISCO_lev2	52	Modelle, Verkäufer und Vorführer
+b35_ISCO_lev2	61	Fachkräfte in der Landwirtschaft und Fischerei (Marktproduktion)
+b35_ISCO_lev2	62	Arbeitskräfte in der Landwirtschaft und Fischerei (Eigenbedarfsproduktion)
+b35_ISCO_lev2	71	Mineralgewinnungs- und Bauberufe
+b35_ISCO_lev2	72	Metallarbeiter, Mechaniker und verwandte Berufe
+b35_ISCO_lev2	73	Präzisionsarbeiter, Kunsthandwerker, Drucker und verwandte Berufe
+b35_ISCO_lev2	74	Sonstige Handwerks- und verwandte Berufe
+b35_ISCO_lev2	81	Bediener stationärer und verwandter Anlagen
+b35_ISCO_lev2	82	Maschinenbediener und Montierer
+b35_ISCO_lev2	83	Fahrzeugführer und Bediener mobiler Anlagen
+b35_ISCO_lev2	91	Verkaufs- und Dienstleistungshilfskräfte
+b35_ISCO_lev2	92	Landwirtschaftliche, Fischerei- und verwandte Hilfsarbeiter
+b35_ISCO_lev2	93	Hilfsarbeiter im Bergbau, Baugewerbe, Verarbeitenden Gewerbe und Transportwesen
+b35_ISCO_lev3	Variable Label	erster Berufsstatus (ISCO-88 Code, Ebene 3)
+b35_ISCO_lev3	11	Streikräfte
+b35_ISCO_lev3	111	Angehörige gesetzgebender Körperschaften
+b35_ISCO_lev3	112	Leitende Verwaltungsbedienstete
+b35_ISCO_lev3	113	Traditionelle Ortsvorsteher
+b35_ISCO_lev3	114	Leitende Bedienstete von Interessenorganisationen
+b35_ISCO_lev3	121	Direktoren und Hauptgeschäftsführer
+b35_ISCO_lev3	122	Produktions- und Operationsleiter
+b35_ISCO_lev3	123	Sonstige Bereichsleiter
+b35_ISCO_lev3	131	Betriebsleiter
+b35_ISCO_lev3	211	Physiker, Chemiker und verwandete Wissenschaftler
+b35_ISCO_lev3	212	Mathematiker, Statistiker und verwandte Wissenschaftler
+b35_ISCO_lev3	213	Informatiker
+b35_ISCO_lev3	214	Architekten, Ingenieure und verwandte Wissenschaftler
+b35_ISCO_lev3	221	Biowissenschaftler
+b35_ISCO_lev3	222	Mediziner (ohne Krankenpflege)
+b35_ISCO_lev3	223	Wissenschaftliche Krankenpflege- und Geburtshilfefachkräfte
+b35_ISCO_lev3	231	Universitäts- und Hochschullehrer
+b35_ISCO_lev3	232	Lehrer des Sekundarbereiches
+b35_ISCO_lev3	233	Wissenschaftliche Lehrer des Primar- und Vorschulbereiches
+b35_ISCO_lev3	234	Wissenschaftliche Sonderschullehrer
+b35_ISCO_lev3	235	Sonstige wissenschaftliche Lehrkräfte
+b35_ISCO_lev3	241	Unternehmensberatungs- und Organisationsfachkräfte
+b35_ISCO_lev3	242	Juristen
+b35_ISCO_lev3	243	Archivare, Bibliothekare und verwandte. Informationswissenschaftler
+b35_ISCO_lev3	244	Sozialwissenschaftler und verwandte Berufe
+b35_ISCO_lev3	245	Schriftsteller, bildende oder darstellende Künstler
+b35_ISCO_lev3	246	Geistliche, Seelsorger
+b35_ISCO_lev3	311	Physikalische u. ingenieurwissenschaftliche Techniker
+b35_ISCO_lev3	312	Datenverarbeitungsfachkräfte
+b35_ISCO_lev3	313	Bediener optischer und elektronischer Anlagen
+b35_ISCO_lev3	314	Schiffs- und Flugzeugführer, -ingenieure und Flugsicherungsbedienstete
+b35_ISCO_lev3	315	Sicherheits- und Qualitätskontrolleure
+b35_ISCO_lev3	321	Biotechniker und verwandte Berufe
+b35_ISCO_lev3	322	Moderne medizinische Fachberufe (ohne Krankenpflege)
+b35_ISCO_lev3	323	Nicht-wissenschaftliche Krankenpflege- und Geburtshilfefachkräfte
+b35_ISCO_lev3	324	Heilpraktiker, Geistheiler und Gesundbeter
+b35_ISCO_lev3	331	Nicht-wissenschaftliche Lehrkräfte des Primarbereiches
+b35_ISCO_lev3	332	Nicht-wissenschaftliche Lehrkräfte des Vorschulbereiches
+b35_ISCO_lev3	333	Nicht-wissenschaftliche Sonderschullehrkräfte
+b35_ISCO_lev3	334	Sonstige nicht-wissenschaftliche Lehrkräfte
+b35_ISCO_lev3	341	Finanz- und Verkaufsfachkräfte
+b35_ISCO_lev3	342	Vermittler gewerblicher Dienstleistungen und Handelsmakler
+b35_ISCO_lev3	343	Verwaltungsfachkräfte
+b35_ISCO_lev3	344	Zoll-, Steuer- und verwandte Fachkräfte der öffentlichen Verwaltung
+b35_ISCO_lev3	345	Polizeikommissare und Detektive
+b35_ISCO_lev3	346	Sozialpflegerische Berufe
+b35_ISCO_lev3	347	Künstlerische, Unterhaltungs- u. Sportberufe
+b35_ISCO_lev3	348	Ordensbrüder/ -schwestern und Seelsorgehelfer
+b35_ISCO_lev3	411	Sekretärinnen und Tastaturbediener
+b35_ISCO_lev3	412	Angestellte im Rechnungs- Statistik- und Finanzwesen
+b35_ISCO_lev3	413	Materialverwaltungs- u. Transportangestellte
+b35_ISCO_lev3	414	Bibliotheks-, Post- u. verwandte Angestellte
+b35_ISCO_lev3	419	Sonstige Büroangestellte
+b35_ISCO_lev3	421	Kassierer, Schalter- und andere Angestellte
+b35_ISCO_lev3	422	Kundeninformationsangestellte
+b35_ISCO_lev3	511	Reisebegleiter und verwandte Berufe
+b35_ISCO_lev3	512	Dienstleistungsberufe im hauswirtschaftl. Bereich und im Gaststättengewerbe
+b35_ISCO_lev3	513	Pflege- und verwandte Berufe
+b35_ISCO_lev3	514	Sonstige personenbezogenen Dienstleistungsberufe
+b35_ISCO_lev3	515	Astrologen, Wahrsager und verwandte Berufe
+b35_ISCO_lev3	516	Sicherheitsbedienstete
+b35_ISCO_lev3	521	Mannequins/Dressmen und sonstige Modelle
+b35_ISCO_lev3	522	Verkäufer und Vorführer und Geschäften
+b35_ISCO_lev3	523	Verkaufsstand und Marktstandverkäufer
+b35_ISCO_lev3	611	Gärtner und Ackerbauern (Marktproduktion)
+b35_ISCO_lev3	612	Tierwirtschaftliche und verwandte Berufe (Marktproduktion)
+b35_ISCO_lev3	613	Ackerbauern und Tierzüchter/-halter (Marktproduktion)
+b35_ISCO_lev3	614	Forstarbeitskräfte und verwandte Berufe
+b35_ISCO_lev3	615	Fischer, Jäger und Fallensteller
+b35_ISCO_lev3	621	Arbeitskräfte in Landwirtschaft u. Fischerei (Eigenbedarfsproduktion)
+b35_ISCO_lev3	711	Bergleute, Sprengmeister, Steinbearbeiter und Steinbildhauer
+b35_ISCO_lev3	712	Baukonstruktions- und verwandte Berufe
+b35_ISCO_lev3	713	Ausbau- und verwandte Berufe
+b35_ISCO_lev3	714	Maler, Gebäudereiniger und verw. Berufe
+b35_ISCO_lev3	721	Former (für Metallguß), Schweißer, Blechkaltverformer, Baumetallverformer u. verw. Berufe
+b35_ISCO_lev3	722	Grobschmiede, Werkzeugmacher u. verw. Berufe
+b35_ISCO_lev3	723	Maschinenmechaniker und -schlosser
+b35_ISCO_lev3	724	Elektro- und Elektronikmechaniker u. -monteure
+b35_ISCO_lev3	731	Präzisionsarbeiter f. Metall und verwandte Werkstoffe
+b35_ISCO_lev3	732	Töpfer, Glasmacher und verwandte Berufe
+b35_ISCO_lev3	733	Kunsthandwerker für Holz, Textilien, Leder und verwandte Materialien
+b35_ISCO_lev3	734	Drucker und verwandte Berufe
+b35_ISCO_lev3	741	Berufe in der Nahrungsmittelverarbeitung und verwandte Berufe
+b35_ISCO_lev3	742	Holztrockner und -konservierer, Möbeltischler und verwandte Berufe
+b35_ISCO_lev3	743	Textil-, Bekleidungs- u. verwandte Berufe
+b35_ISCO_lev3	744	Fell-, Lederverarbeiter und Schuhmacher
+b35_ISCO_lev3	811	Bediener v. bergbaulichen und Mineralaufbereitungsanlagen
+b35_ISCO_lev3	812	Verfahrensanlagenbediener in der Metallerzeugung und Metallumformung
+b35_ISCO_lev3	813	Bediener v. Anlagen zur Glas- und Keramikherstellung sowie verwandte Anlagenbediener
+b35_ISCO_lev3	814	Bediener von Anlagen zur Holzaufbereitung und Papierherstellung
+b35_ISCO_lev3	815	Bediener chemischer Verfahrensanlagen
+b35_ISCO_lev3	816	Bediener v. Energieerzeugungs- und verwandten Anlagen
+b35_ISCO_lev3	817	Bediener v. automatisierten Montagebändern und Industrierobotern
+b35_ISCO_lev3	821	Maschinenbediener für Metall- und Mineralerzeugnisse
+b35_ISCO_lev3	822	Maschinenbediener für chemische Erzeugnisse
+b35_ISCO_lev3	823	Maschinenbediener für Gummi- und Kunststofferzeugnisse
+b35_ISCO_lev3	824	Maschinenbediener für Holzerzeugnisse
+b35_ISCO_lev3	825	Maschinenbediener für Druck-, Buchbinde- und Papiererzeugnisse
+b35_ISCO_lev3	826	Maschinenbediener für Textil-, Pelz- und Ledererzeugnisse
+b35_ISCO_lev3	827	Maschinenbediener zur Herstellung v. Nahrungs-und Genußmitteln
+b35_ISCO_lev3	828	Montierer
+b35_ISCO_lev3	829	Sonstige Maschinenbediener und Montierer
+b35_ISCO_lev3	831	Lokomotivführer und verwandte Berufe
+b35_ISCO_lev3	832	Kraftfahrzeugführer
+b35_ISCO_lev3	833	Führer v. Landmaschinen und anderen mobilen Anlagen
+b35_ISCO_lev3	834	Deckspersonal auf Schiffen u. verw. Berufe
+b35_ISCO_lev3	911	Straßenhändler und verwandte Berufe
+b35_ISCO_lev3	912	Schuhputzer und sonstige auf der Straße ausgeübte einfache Dienstleistungstätigkeiten
+b35_ISCO_lev3	913	Haushaltshilfen u. verwandte Hilfskräfte, Reinigungspersonal und Wäscher
+b35_ISCO_lev3	914	Hausmeister, Fensterputzer u. verwandtes Reinigungspersonal
+b35_ISCO_lev3	915	Boten, Träger, Pförtner u. verwandte Berufe
+b35_ISCO_lev3	916	Müllsammler und verwandte Berufe
+b35_ISCO_lev3	921	Landwirtschaftliche, Fischerei- und verwandte Hilfsarbeiter
+b35_ISCO_lev3	931	Hilfsarbeiter im Bergbau und Baugewerbe
+b35_ISCO_lev3	932	Hilfsarbeiter in der Fertigung
+b35_ISCO_lev3	933	Transport- und Frachtarbeiter
+b36	Variable Label	schon einmal Beruf gewechselt
+b36	1	einmal
+b36	2	zweimal
+b36	3	drei Mal
+b36	4	vier Mal oder öfter
+b36	5	nein, nie
+b36	6	keine Angabe
+b37a	Variable Label	Leiharbeit
+b37a	0	nicht genannt
+b37a	1	genannt
+b37b	Variable Label	Kurzarbeit
+b37b	0	nicht genannt
+b37b	1	genannt
+b37c	Variable Label	Arbeit auf Abruf
+b37c	0	nicht genannt
+b37c	1	genannt
+b37d	Variable Label	freier Dienstnehmer
+b37d	0	nicht genannt
+b37d	1	genannt
+b37e	Variable Label	befristeter Werkvertrag
+b37e	0	nicht genannt
+b37e	1	genannt
+b37f	Variable Label	nichts davon
+b37f	0	nicht genannt
+b37f	1	genannt
+b38	Variable Label	generelle Einstellung zu Arbeit
+b38	1	Arbeit gehört zu normalem Leben dazu
+b38	2	erfülltes Leben auch ohne Arbeit
+b38	3	weiß nicht
+b39	Variable Label	Einkommen in erster Linie nach...
+b39	1	Alter, Dauer der Betriebszugehörigkeit
+b39	2	Ausbildung
+b39	3	Leistung
+b39	4	Bedarf der Familie
+b39	5	keine Angabe
+b39a	Variable Label	Einkommen in zweiter Linie nach...
+b39a	1	Alter, Dauer der Betriebszugehörigkeit
+b39a	2	Ausbildung
+b39a	3	Leistung
+b39a	4	Bedarf der Familie
+b39a	5	keine Angabe
+Bundesland	Variable Label	Bundesland
+Bundesland	1	Vorarlberg
+Bundesland	2	Tirol
+Bundesland	3	Salzburg
+Bundesland	4	Oberösterreich
+Bundesland	5	Kärnten
+Bundesland	6	Steiermark
+Bundesland	7	Burgenland
+Bundesland	8	Niederösterreich
+Bundesland	9	Wien
+c40	Variable Label	Familienstand
+c40	1	verheiratet
+c40	2	geschieden
+c40	3	verwitwet
+c40	4	ledig
+c41	Variable Label	erste Ehe
+c41	1	erste Ehe
+c41	2	weitere Ehe
+c41	3	keine Angabe
+c42	Variable Label	Jahr der (letzten) Eheschließung
+c42	2005	keine Angabe
+c43	Variable Label	mit Partner im HH
+c43	1	ja, mit Ehepartner/in
+c43	2	ja, mit Lebensgefährten/in
+c43	3	nein
+c44	Variable Label	Schulabschluss derztg. Ehepartner/Lebensgefährte
+c44	1	Pflichtschule ohne Lehre
+c44	2	Pflichtschule mit Lehre
+c44	3	berufsbildende mittlere Schule
+c44	4	allgemein bildende höhere Schule
+c44	5	berufsbildende höhere Schule
+c44	6	Hochschule
+c46	Variable Label	Erwerbsstatus Ehepartner/Lebensgefährte
+c46	1	ganztags berufstätig
+c46	2	halbtags berufstätig
+c46	3	Lehrling
+c46	4	arbeitslos
+c46	5	in Karenz
+c46	6	in Pension/Rente
+c46	7	im Haushalt tätig ohne eigenes Einkommen
+c46	8	Student/Schüler
+c46	9	Witwe(r) OHNE Beruf mit Pension nach verstorbenem Ehegatten
+c47	Variable Label	Berufsstatus Partner
+c47	1	Landwirte mit kleinerem Betrieb
+c47	2	Landwirte mit mittlerem Betrieb
+c47	3	Landwirte mit größerem Betrieb
+c47	4	Mithelfende Familienangehörige bei Landw. mit kl. Betrieb
+c47	5	Mithelfende Familienangehörige bei Landw. mit mittl. Betrieb
+c47	6	Mithelfende Familienangehörige bei Landw. mit gr. Betrieb
+c47	10	Selbstständige mit Kleinbetrieb ohne Arbeitnehmer
+c47	11	Selbstständige mit kleinerem Betrieb (1-4 Arbeitnehmer)
+c47	12	Selbstständige mit mittlerem Betrieb (5-9 Arbeitnehmer)
+c47	13	Selbstständige mit größerem Betrieb (10+ Arbeitnehmer)
+c47	15	Mith. Familienang. bei Selbst. mit Kleinbetr. ohne Arbeitn.
+c47	16	Mith. Familienang. bei Selbst. mit kl. Betr. (1-4 Arbeitn.)
+c47	17	Mith.  Familienang. bei Selbst. mit mi. Betr. (5-9 Arbeitn.)
+c47	18	Mith. Familienang. bei Selbst. mit gr. Betr. (10+ Arbeitn.)
+c47	20	Freiberuflich Tätige ohne Hochschulausbildung
+c47	21	Freiberuflich Tätige mit Hochschulausbildung
+c47	25	Mith. Familienang.bei freiberuflich Tätigen ohne Hochschula.
+c47	26	Mith. Familienang.bei freiberuflich Tätigen mit Hochschula.
+c47	30	Lehrling in Arbeiterberufen
+c47	31	Lehrling in Angestelltenberufen
+c47	40	Hilfstätigkeit mit vorwiegend körperlichem Einsatz
+c47	41	Hilfsarbeiter in der Land- u. Forstwirtschaft
+c47	42	AngelernteTätigkeit in Arbeiterberufen
+c47	43	Facharbeiter
+c47	44	Vorarbeiter/ Meister
+c47	50	Hilfstätigkeit in Angestelltenberufen
+c47	51	Gelernte Tätigkeit in Angestelltenberufen
+c47	52	Mittlere Tätigkeit in Angestelltenberufen
+c47	53	Höhere Tätigkeit in Angestelltenberufen
+c47	54	Hochqualifizierte Tätigkeit in Angestelltenberufen
+c47	55	Führende Tätigkeit in größeren Betrieben
+c47	60	Beamte mit hilfs- oder angelernter Arbeitertätigkeit
+c47	61	Beamte mit Facharbeiter- oder Werkmeistertätigkeit
+c47	62	Beamte mit Hilfstätigkeit
+c47	63	Beamte mit einfacher Tätigkeit
+c47	64	Beamte mit mittlerer Tätigkeit
+c47	65	Beamte mit höherer Tätigkeit
+c47	66	Beamte mit hochqualifizierter Tätigkeit
+c47	67	Beamte mit führender Tätigkeit
+c47	70	Vertragsbedienstete mit hilfs- oder angelernterTätigkeit
+c47	71	Vertragsbedienstete mit Facharbeiter- od. Werkmeistertätigk.
+c47	72	Vertragsbedienstete mit Hilfstätigkeit
+c47	73	Vertragsbedienstete mit einfacher Tätigkeit
+c47	74	Vertragsbedienstete mit mittlerer Tätigkeit
+c47	75	Vertragsbedienstete mit höherer Tätigkeit
+c47	76	Vertragsbedienstete m. hochqual. od. führender Tätigk.
+c48	Variable Label	Berufsstatus zuletzt
+c48	1	Landwirte mit kleinerem Betrieb
+c48	2	Landwirte mit mittlerem Betrieb
+c48	3	Landwirte mit größerem Betrieb
+c48	4	Mithelfende Familienangehörige bei Landw. mit kl. Betrieb
+c48	5	Mithelfende Familienangehörige bei Landw. mit mittl. Betrieb
+c48	6	Mithelfende Familienangehörige bei Landw. mit gr. Betrieb
+c48	10	Selbstständige mit Kleinbetrieb ohne Arbeitnehmer
+c48	11	Selbstständige mit kleinerem Betrieb (1-4 Arbeitnehmer)
+c48	12	Selbstständige mit mittlerem Betrieb (5-9 Arbeitnehmer)
+c48	13	Selbstständige mit größerem Betrieb (10+ Arbeitnehmer)
+c48	15	Mith. Familienang. bei Selbst. mit Kleinbetr. ohne Arbeitn.
+c48	16	Mith. Familienang. bei Selbst. mit kl. Betr. (1-4 Arbeitn.)
+c48	17	Mith.  Familienang. bei Selbst. mit mi. Betr. (5-9 Arbeitn.)
+c48	18	Mith. Familienang. bei Selbst. mit gr. Betr. (10+ Arbeitn.)
+c48	20	Freiberuflich Tätige ohne Hochschulausbildung
+c48	21	Freiberuflich Tätige mit Hochschulausbildung
+c48	25	Mith. Familienang.bei freiberuflich Tätigen ohne Hochschula.
+c48	26	Mith. Familienang.bei freiberuflich Tätigen mit Hochschula.
+c48	30	Lehrling in Arbeiterberufen
+c48	31	Lehrling in Angestelltenberufen
+c48	40	Hilfstätigkeit mit vorwiegend körperlichem Einsatz
+c48	41	Hilfsarbeiter in der Land- u. Forstwirtschaft
+c48	42	AngelernteTätigkeit in Arbeiterberufen
+c48	43	Facharbeiter
+c48	44	Vorarbeiter/ Meister
+c48	50	Hilfstätigkeit in Angestelltenberufen
+c48	51	Gelernte Tätigkeit in Angestelltenberufen
+c48	52	Mittlere Tätigkeit in Angestelltenberufen
+c48	53	Höhere Tätigkeit in Angestelltenberufen
+c48	54	Hochqualifizierte Tätigkeit in Angestelltenberufen
+c48	55	Führende Tätigkeit in größeren Betrieben
+c48	60	Beamte mit hilfs- oder angelernter Arbeitertätigkeit
+c48	61	Beamte mit Facharbeiter- oder Werkmeistertätigkeit
+c48	62	Beamte mit Hilfstätigkeit
+c48	63	Beamte mit einfacher Tätigkeit
+c48	64	Beamte mit mittlerer Tätigkeit
+c48	65	Beamte mit höherer Tätigkeit
+c48	66	Beamte mit hochqualifizierter Tätigkeit
+c48	67	Beamte mit führender Tätigkeit
+c48	70	Vertragsbedienstete mit hilfs- oder angelernterTätigkeit
+c48	71	Vertragsbedienstete mit Facharbeiter- od. Werkmeistertätigk.
+c48	72	Vertragsbedienstete mit Hilfstätigkeit
+c48	73	Vertragsbedienstete mit einfacher Tätigkeit
+c48	74	Vertragsbedienstete mit mittlerer Tätigkeit
+c48	75	Vertragsbedienstete mit höherer Tätigkeit
+c48	76	Vertragsbedienstete m. hochqual. od. führender Tätigk.
+c49_ISCO_lev1	Variable Label	Beruf Partner (ISCO-88 Code, Ebene 1)
+c49_ISCO_lev1	0	Streitkräfte
+c49_ISCO_lev1	1	Angehörige gesetzgebender Körperschaften, leitende Verwaltungsbedienstete und Führungskräfte in der Privatwirtschaft
+c49_ISCO_lev1	2	Wissenschaftler
+c49_ISCO_lev1	3	Techniker und gleichrangige nichttechnische Berufe
+c49_ISCO_lev1	4	Bürokräfte, kaufmännische Angestellte
+c49_ISCO_lev1	5	Dienstleistungsberufe, Verkäufer in Geschäften und auf Märkten
+c49_ISCO_lev1	6	Fachkräfte in der Landwirtschaft und Fischerei
+c49_ISCO_lev1	7	Handwerks- und verwandte Berufe
+c49_ISCO_lev1	8	Anlagen- und Maschinenbediener sowie Montierer
+c49_ISCO_lev1	9	Hilfsarbeitskräfte
+c49_ISCO_lev2	Variable Label	Beruf Partner (ISCO-88 Code, Ebene 2)
+c49_ISCO_lev2	1	Streikräfte
+c49_ISCO_lev2	11	Angehörige gesetzgebender Körperschaften und leitende
+c49_ISCO_lev2	12	Geschäftsleiter
+c49_ISCO_lev2	13	Betriebsleiter
+c49_ISCO_lev2	21	Physiker, Mathematiker u. Ingenieurwissenschaftler
+c49_ISCO_lev2	22	Biowissenschaftler und Mediziner
+c49_ISCO_lev2	23	Wissenschaftliche Lehrkräfte
+c49_ISCO_lev2	24	Sonstige Wissenschaftler
+c49_ISCO_lev2	31	Fachkräfte in der Physik und den Ingenieurwissenschaften
+c49_ISCO_lev2	32	Biowissenschaftliche und Gesundheitsfachkräfte
+c49_ISCO_lev2	33	Nicht-wissenschaftliche Lehrkräfte
+c49_ISCO_lev2	34	Sonstige Fachkräfte (mittlere Qualifikationsebene)
+c49_ISCO_lev2	41	Büroangestellte ohne Kundenkontakt
+c49_ISCO_lev2	42	Büroangestellte mit Kundenkontakt
+c49_ISCO_lev2	51	Personenbezogene Dienstleistungsberufe und Sicherheitsbedienstete
+c49_ISCO_lev2	52	Modelle, Verkäufer und Vorführer
+c49_ISCO_lev2	61	Fachkräfte in der Landwirtschaft und Fischerei (Marktproduktion)
+c49_ISCO_lev2	62	Arbeitskräfte in der Landwirtschaft und Fischerei (Eigenbedarfsproduktion)
+c49_ISCO_lev2	71	Mineralgewinnungs- und Bauberufe
+c49_ISCO_lev2	72	Metallarbeiter, Mechaniker und verwandte Berufe
+c49_ISCO_lev2	73	Präzisionsarbeiter, Kunsthandwerker, Drucker und verwandte Berufe
+c49_ISCO_lev2	74	Sonstige Handwerks- und verwandte Berufe
+c49_ISCO_lev2	81	Bediener stationärer und verwandter Anlagen
+c49_ISCO_lev2	82	Maschinenbediener und Montierer
+c49_ISCO_lev2	83	Fahrzeugführer und Bediener mobiler Anlagen
+c49_ISCO_lev2	91	Verkaufs- und Dienstleistungshilfskräfte
+c49_ISCO_lev2	92	Landwirtschaftliche, Fischerei- und verwandte Hilfsarbeiter
+c49_ISCO_lev2	93	Hilfsarbeiter im Bergbau, Baugewerbe, Verarbeitenden Gewerbe und Transportwesen
+c49_ISCO_lev3	Variable Label	Beruf Partner (ISCO-88 Code, Ebene 3)
+c49_ISCO_lev3	11	Streikräfte
+c49_ISCO_lev3	111	Angehörige gesetzgebender Körperschaften
+c49_ISCO_lev3	112	Leitende Verwaltungsbedienstete
+c49_ISCO_lev3	113	Traditionelle Ortsvorsteher
+c49_ISCO_lev3	114	Leitende Bedienstete von Interessenorganisationen
+c49_ISCO_lev3	121	Direktoren und Hauptgeschäftsführer
+c49_ISCO_lev3	122	Produktions- und Operationsleiter
+c49_ISCO_lev3	123	Sonstige Bereichsleiter
+c49_ISCO_lev3	131	Betriebsleiter
+c49_ISCO_lev3	211	Physiker, Chemiker und verwandete Wissenschaftler
+c49_ISCO_lev3	212	Mathematiker, Statistiker und verwandte Wissenschaftler
+c49_ISCO_lev3	213	Informatiker
+c49_ISCO_lev3	214	Architekten, Ingenieure und verwandte Wissenschaftler
+c49_ISCO_lev3	221	Biowissenschaftler
+c49_ISCO_lev3	222	Mediziner (ohne Krankenpflege)
+c49_ISCO_lev3	223	Wissenschaftliche Krankenpflege- und Geburtshilfefachkräfte
+c49_ISCO_lev3	231	Universitäts- und Hochschullehrer
+c49_ISCO_lev3	232	Lehrer des Sekundarbereiches
+c49_ISCO_lev3	233	Wissenschaftliche Lehrer des Primar- und Vorschulbereiches
+c49_ISCO_lev3	234	Wissenschaftliche Sonderschullehrer
+c49_ISCO_lev3	235	Sonstige wissenschaftliche Lehrkräfte
+c49_ISCO_lev3	241	Unternehmensberatungs- und Organisationsfachkräfte
+c49_ISCO_lev3	242	Juristen
+c49_ISCO_lev3	243	Archivare, Bibliothekare und verwandte. Informationswissenschaftler
+c49_ISCO_lev3	244	Sozialwissenschaftler und verwandte Berufe
+c49_ISCO_lev3	245	Schriftsteller, bildende oder darstellende Künstler
+c49_ISCO_lev3	246	Geistliche, Seelsorger
+c49_ISCO_lev3	311	Physikalische u. ingenieurwissenschaftliche Techniker
+c49_ISCO_lev3	312	Datenverarbeitungsfachkräfte
+c49_ISCO_lev3	313	Bediener optischer und elektronischer Anlagen
+c49_ISCO_lev3	314	Schiffs- und Flugzeugführer, -ingenieure und Flugsicherungsbedienstete
+c49_ISCO_lev3	315	Sicherheits- und Qualitätskontrolleure
+c49_ISCO_lev3	321	Biotechniker und verwandte Berufe
+c49_ISCO_lev3	322	Moderne medizinische Fachberufe (ohne Krankenpflege)
+c49_ISCO_lev3	323	Nicht-wissenschaftliche Krankenpflege- und Geburtshilfefachkräfte
+c49_ISCO_lev3	324	Heilpraktiker, Geistheiler und Gesundbeter
+c49_ISCO_lev3	331	Nicht-wissenschaftliche Lehrkräfte des Primarbereiches
+c49_ISCO_lev3	332	Nicht-wissenschaftliche Lehrkräfte des Vorschulbereiches
+c49_ISCO_lev3	333	Nicht-wissenschaftliche Sonderschullehrkräfte
+c49_ISCO_lev3	334	Sonstige nicht-wissenschaftliche Lehrkräfte
+c49_ISCO_lev3	341	Finanz- und Verkaufsfachkräfte
+c49_ISCO_lev3	342	Vermittler gewerblicher Dienstleistungen und Handelsmakler
+c49_ISCO_lev3	343	Verwaltungsfachkräfte
+c49_ISCO_lev3	344	Zoll-, Steuer- und verwandte Fachkräfte der öffentlichen Verwaltung
+c49_ISCO_lev3	345	Polizeikommissare und Detektive
+c49_ISCO_lev3	346	Sozialpflegerische Berufe
+c49_ISCO_lev3	347	Künstlerische, Unterhaltungs- u. Sportberufe
+c49_ISCO_lev3	348	Ordensbrüder/ -schwestern und Seelsorgehelfer
+c49_ISCO_lev3	411	Sekretärinnen und Tastaturbediener
+c49_ISCO_lev3	412	Angestellte im Rechnungs- Statistik- und Finanzwesen
+c49_ISCO_lev3	413	Materialverwaltungs- u. Transportangestellte
+c49_ISCO_lev3	414	Bibliotheks-, Post- u. verwandte Angestellte
+c49_ISCO_lev3	419	Sonstige Büroangestellte
+c49_ISCO_lev3	421	Kassierer, Schalter- und andere Angestellte
+c49_ISCO_lev3	422	Kundeninformationsangestellte
+c49_ISCO_lev3	511	Reisebegleiter und verwandte Berufe
+c49_ISCO_lev3	512	Dienstleistungsberufe im hauswirtschaftl. Bereich und im Gaststättengewerbe
+c49_ISCO_lev3	513	Pflege- und verwandte Berufe
+c49_ISCO_lev3	514	Sonstige personenbezogenen Dienstleistungsberufe
+c49_ISCO_lev3	515	Astrologen, Wahrsager und verwandte Berufe
+c49_ISCO_lev3	516	Sicherheitsbedienstete
+c49_ISCO_lev3	521	Mannequins/Dressmen und sonstige Modelle
+c49_ISCO_lev3	522	Verkäufer und Vorführer und Geschäften
+c49_ISCO_lev3	523	Verkaufsstand und Marktstandverkäufer
+c49_ISCO_lev3	611	Gärtner und Ackerbauern (Marktproduktion)
+c49_ISCO_lev3	612	Tierwirtschaftliche und verwandte Berufe (Marktproduktion)
+c49_ISCO_lev3	613	Ackerbauern und Tierzüchter/-halter (Marktproduktion)
+c49_ISCO_lev3	614	Forstarbeitskräfte und verwandte Berufe
+c49_ISCO_lev3	615	Fischer, Jäger und Fallensteller
+c49_ISCO_lev3	621	Arbeitskräfte in Landwirtschaft u. Fischerei (Eigenbedarfsproduktion)
+c49_ISCO_lev3	711	Bergleute, Sprengmeister, Steinbearbeiter und Steinbildhauer
+c49_ISCO_lev3	712	Baukonstruktions- und verwandte Berufe
+c49_ISCO_lev3	713	Ausbau- und verwandte Berufe
+c49_ISCO_lev3	714	Maler, Gebäudereiniger und verw. Berufe
+c49_ISCO_lev3	721	Former (für Metallguß), Schweißer, Blechkaltverformer, Baumetallverformer u. verw. Berufe
+c49_ISCO_lev3	722	Grobschmiede, Werkzeugmacher u. verw. Berufe
+c49_ISCO_lev3	723	Maschinenmechaniker und -schlosser
+c49_ISCO_lev3	724	Elektro- und Elektronikmechaniker u. -monteure
+c49_ISCO_lev3	731	Präzisionsarbeiter f. Metall und verwandte Werkstoffe
+c49_ISCO_lev3	732	Töpfer, Glasmacher und verwandte Berufe
+c49_ISCO_lev3	733	Kunsthandwerker für Holz, Textilien, Leder und verwandte Materialien
+c49_ISCO_lev3	734	Drucker und verwandte Berufe
+c49_ISCO_lev3	741	Berufe in der Nahrungsmittelverarbeitung und verwandte Berufe
+c49_ISCO_lev3	742	Holztrockner und -konservierer, Möbeltischler und verwandte Berufe
+c49_ISCO_lev3	743	Textil-, Bekleidungs- u. verwandte Berufe
+c49_ISCO_lev3	744	Fell-, Lederverarbeiter und Schuhmacher
+c49_ISCO_lev3	811	Bediener v. bergbaulichen und Mineralaufbereitungsanlagen
+c49_ISCO_lev3	812	Verfahrensanlagenbediener in der Metallerzeugung und Metallumformung
+c49_ISCO_lev3	813	Bediener v. Anlagen zur Glas- und Keramikherstellung sowie verwandte Anlagenbediener
+c49_ISCO_lev3	814	Bediener von Anlagen zur Holzaufbereitung und Papierherstellung
+c49_ISCO_lev3	815	Bediener chemischer Verfahrensanlagen
+c49_ISCO_lev3	816	Bediener v. Energieerzeugungs- und verwandten Anlagen
+c49_ISCO_lev3	817	Bediener v. automatisierten Montagebändern und Industrierobotern
+c49_ISCO_lev3	821	Maschinenbediener für Metall- und Mineralerzeugnisse
+c49_ISCO_lev3	822	Maschinenbediener für chemische Erzeugnisse
+c49_ISCO_lev3	823	Maschinenbediener für Gummi- und Kunststofferzeugnisse
+c49_ISCO_lev3	824	Maschinenbediener für Holzerzeugnisse
+c49_ISCO_lev3	825	Maschinenbediener für Druck-, Buchbinde- und Papiererzeugnisse
+c49_ISCO_lev3	826	Maschinenbediener für Textil-, Pelz- und Ledererzeugnisse
+c49_ISCO_lev3	827	Maschinenbediener zur Herstellung v. Nahrungs-und Genußmitteln
+c49_ISCO_lev3	828	Montierer
+c49_ISCO_lev3	829	Sonstige Maschinenbediener und Montierer
+c49_ISCO_lev3	831	Lokomotivführer und verwandte Berufe
+c49_ISCO_lev3	832	Kraftfahrzeugführer
+c49_ISCO_lev3	833	Führer v. Landmaschinen und anderen mobilen Anlagen
+c49_ISCO_lev3	834	Deckspersonal auf Schiffen u. verw. Berufe
+c49_ISCO_lev3	911	Straßenhändler und verwandte Berufe
+c49_ISCO_lev3	912	Schuhputzer und sonstige auf der Straße ausgeübte einfache Dienstleistungstätigkeiten
+c49_ISCO_lev3	913	Haushaltshilfen u. verwandte Hilfskräfte, Reinigungspersonal und Wäscher
+c49_ISCO_lev3	914	Hausmeister, Fensterputzer u. verwandtes Reinigungspersonal
+c49_ISCO_lev3	915	Boten, Träger, Pförtner u. verwandte Berufe
+c49_ISCO_lev3	916	Müllsammler und verwandte Berufe
+c49_ISCO_lev3	921	Landwirtschaftliche, Fischerei- und verwandte Hilfsarbeiter
+c49_ISCO_lev3	931	Hilfsarbeiter im Bergbau und Baugewerbe
+c49_ISCO_lev3	932	Hilfsarbeiter in der Fertigung
+c49_ISCO_lev3	933	Transport- und Frachtarbeiter
+c49a	Variable Label	Arbeitszeit Partner (Stunden)
+c50	Variable Label	Kinder
+c50	1	ja
+c50	2	nein
+c51	Variable Label	Anzahl Kinder
+c52	Variable Label	leibliche Kinder, nicht im HH zusammenleben
+c52	1	ja
+c52	2	nein
+c52	3	keine Angabe
+c53	Variable Label	Häufigkeit Sehen Kinder, nicht im HH
+c53	1	wöchentlich
+c53	2	ca. einmal monatlich
+c53	3	seltener
+c53	4	nie
+c53	5	keine Angabe
+c54	Variable Label	ideale Kinderzahl
+c54	16	keine Angabe
+c55	Variable Label	Anzahl Geschwister
+c55	0	keine Geschwister
+c56	Variable Label	Geschwisterposition
+c56	1	der/die Älteste
+c56	2	der/die Jüngste
+c56	3	in einer mittleren Geschwisterposition
+c56	4	keine Angabe
+c57	Variable Label	man braucht Familie
+c57	1	braucht Familie
+c57	2	alleine genauso glücklich
+c57	3	alleine glücklicher
+c57	4	unentschieden
+c57	5	keine Angabe
+c60	Variable Label	 Zufriedenheit mit Familienleben
+c60	1	sehr zufrieden
+c60	2	eher zufrieden
+c60	3	eher wehiger zufrieden
+c60	4	nicht zufrieden
+c60	5	trifft nicht zu, habe keine Familie
+c60	6	keine Angabe
+c61	Variable Label	ohne Kinder glücklich
+c61	1	auch ohne Kinder glücklich
+c61	2	ohne Kinder schwer vorstellbar
+c61	3	weiß nicht
+c62a	Variable Label	Frau sollte zu Hause bleiben
+c62a	1	stimme zu
+c62a	2	stimme nicht zu
+c62a	3	keine Angabe
+c62b	Variable Label	sexuelle Treue ist wichtige Basis
+c62b	1	stimme zu
+c62b	2	stimme nicht zu
+c62b	3	keine Angabe
+c62c	Variable Label	Meinung, dass sich die Ehe auflöst
+c62c	1	stimme zu
+c62c	2	stimme nicht zu
+c62c	3	keine Angabe
+c62d	Variable Label	Leihmutterschaft sollte verboten werden
+c62d	1	stimme zu
+c62d	2	stimme nicht zu
+c62d	3	keine Angabe
+c63a	Variable Label	Abtreibung wenn geringes Einkommen
+c63a	1	sollte auf jeden Fall erlaubt sein
+c63a	2	sollte eher erlaubt sein
+c63a	3	sollte eher nicht erlaubt sein
+c63a	4	sollte auf keinen Fall erlaubt sein
+c63a	5	kann ich nicht sagen
+c63b	Variable Label	Abtreibung wenn die Frau es will
+c63b	1	sollte auf jeden Fall erlaubt sein
+c63b	2	sollte eher erlaubt sein
+c63b	3	sollte eher nicht erlaubt sein
+c63b	4	sollte auf keinen Fall erlaubt sein
+c63b	5	kann ich nicht sagen
+c64	Variable Label	außerehelicher Geschlechtsverkehr
+c64	1	sehr schlimm
+c64	2	eher schon schlimm
+c64	3	eher nicht schlimm
+c64	4	überhaupt nicht schlimm
+c64	5	kann ich nicht sagen, egal
+c65	Variable Label	gleichgeschlechtliche Beziehungen
+c65	1	sehr schlimm
+c65	2	eher schon schlimm
+c65	3	eher nicht schlimm
+c65	4	überhaupt nicht schlimm
+c65	5	kann ich nicht sagen, egal
+c66	Variable Label	Beziehungsabbruch wenn Partner vorübergehende sexuelle Beziehung
+c66	1	Grund, Beziehung abzubrechen
+c66	2	kein Grund
+c66	3	keine Angabe
+c67	Variable Label	Zufriedenheit mit Partnerschaft
+c67	1	sehr zufrieden
+c67	2	zufrieden
+c67	3	unzufrieden
+c67	4	sehr unzufrieden
+c67	5	trifft nicht zu, habe keine(n) Partner(in)
+c67	6	keine Angabe
+d68	Variable Label	Konfession
+d68	1	römisch-katholisch
+d68	2	evangelisch
+d68	3	Islam
+d68	4	andere
+d68	5	keine
+d68	6	keine Angabe
+d69	Variable Label	Messgang
+d69	1	wöchentlich u. m.
+d69	2	zwei- oder dreimal im Monat
+d69	3	einmal im Monat
+d69	4	mehrmals im Jahr
+d69	5	seltener
+d69	6	nie
+d69	7	keine Angabe
+d70	Variable Label	persönlicher Glaube
+d70	1	glaube nicht an Gott
+d70	2	weiß nicht, ob es Gott gibt, unmöglich herauszufinden
+d70	3	glaube an ein höheres Wesen
+d70	4	manchmal glaube ich an Gott, manchmal nicht
+d70	5	ich weiß zweifelsfrei, dass es Gott gibt
+d70	6	keine Angabe
+d71	Variable Label	Bücher lesen
+d71	1	täglich
+d71	2	mehrmals in der Woche
+d71	3	einmal in der Woche
+d71	4	ca. alle 14 Tage
+d71	5	ca. einmal im Monat
+d71	6	seltener
+d71	7	nie
+d71	8	keine Angabe
+d72	Variable Label	Tageszeitung lesen
+d72	1	regelmäßig
+d72	2	nicht regelmäßig
+d72	3	keine Angabe
+d73	Variable Label	Fernsehen
+d73	1	(fast) täglich mehr als 3 Stunden
+d73	2	(fast) täglich weniger als 3 Stunden
+d73	3	mehrmals die Woche
+d73	4	ca. einmal in der Woche
+d73	5	seltener
+d73	6	nie
+d73	7	keine Angabe
+d74a	Variable Label	wichtig: Familie und Kinder
+d74a	1	unwichtig
+d74a	7	sehr wichtig
+d74a	8	keine Angabe
+d74b	Variable Label	wichtig: Beruf und Arbeit
+d74b	1	unwichtig
+d74b	7	sehr wichtig
+d74b	8	keine Angabe
+d74c	Variable Label	wichtig: Freizeit
+d74c	1	unwichtig
+d74c	7	sehr wichtig
+d74c	8	keine Angabe
+d74d	Variable Label	wichtig: Freunde
+d74d	1	unwichtig
+d74d	7	sehr wichtig
+d74d	8	keine Angabe
+d74e	Variable Label	wichtig: Verwandtschaft
+d74e	1	unwichtig
+d74e	7	sehr wichtig
+d74e	8	keine Angabe
+d74f	Variable Label	wichtig: Religion und Kirche
+d74f	1	unwichtig
+d74f	7	sehr wichtig
+d74f	8	keine Angabe
+d74g	Variable Label	wichtig: Politik
+d74g	1	unwichtig
+d74g	7	sehr wichtig
+d74g	8	keine Angabe
+d74h	Variable Label	wichtig: Partnerschaft
+d74h	1	unwichtig
+d74h	7	sehr wichtig
+d74h	8	keine Angabe
+d75a	Variable Label	Zufriedenheit mit Freizeit
+d75a	1	sehr zufrieden
+d75a	2	eher zufrieden
+d75a	3	eher weniger zufrieden
+d75a	4	gar nicht zufrieden
+d75a	5	keine Angabe
+d75b	Variable Label	Zufriedenheit mit sozialen Kontakten
+d75b	1	sehr zufrieden
+d75b	2	eher zufrieden
+d75b	3	eher weniger zufrieden
+d75b	4	gar nicht zufrieden
+d75b	5	keine Angabe
+d75c	Variable Label	Zufriedenheit mit Wohnungssituation
+d75c	1	sehr zufrieden
+d75c	2	eher zufrieden
+d75c	3	eher weniger zufrieden
+d75c	4	gar nicht zufrieden
+d75c	5	keine Angabe
+d75d	Variable Label	Zufriedenheit mit Sexualleben
+d75d	1	sehr zufrieden
+d75d	2	eher zufrieden
+d75d	3	eher weniger zufrieden
+d75d	4	gar nicht zufrieden
+d75d	5	keine Angabe
+d76	Variable Label	Lebenszufriedenheit
+d76	1	sehr zufrieden
+d76	2	ziemlich zufrieden
+d76	3	eher zufrieden
+d76	4	eher unzufrieden
+d76	5	ziemlich unzufrieden
+d76	6	keine Angabe
+d86d	Variable Label	Gefühl, in pers. Entwicklung nicht weiterzukommen
+d86d	1	ja
+d86d	2	nein
+d86d	3	keine Angabe
+doi	Variable Label	digital object identifier
+e77	Variable Label	Behinderung duch Gesundheitsprobleme
+e77	1	ja, schwer
+e77	2	ja, in gewissem Ausmaß
+e77	3	nein
+e77	4	keine Angabe
+e78	Variable Label	regelmäßiger Medikamentenkonsum
+e78	1	ja
+e78	2	nein
+e78	3	keine Angabe
+e79	Variable Label	Gesundheitszustand
+e79	1	sehr gut
+e79	2	gut
+e79	3	mittelmäßig
+e79	4	schlecht
+e79	5	sehr schlecht
+e79	6	keine Angabe
+e80	Variable Label	körperliche Leistungsfähigkeit
+e80	1	sehr gut
+e80	2	gut
+e80	3	mittelmäßig
+e80	4	schlecht
+e80	5	sehr schlecht
+e80	6	keine Angabe
+e81a	Variable Label	künstlerische Aktivitäten
+e81a	1	mindestens jede Woche
+e81a	2	mindestens einmal im Monat
+e81a	3	ein paar Mal im Monat
+e81a	4	seltener,nie
+e81a	5	keine Angabe
+e81b	Variable Label	Besuch von Theater, Konzert
+e81b	1	mindestens jede Woche
+e81b	2	mindestens einmal im Monat
+e81b	3	ein paar Mal im Monat
+e81b	4	seltener,nie
+e81b	5	keine Angabe
+e81c	Variable Label	ins Kino gehen
+e81c	1	mindestens jede Woche
+e81c	2	mindestens einmal im Monat
+e81c	3	ein paar Mal im Monat
+e81c	4	seltener,nie
+e81c	5	keine Angabe
+e81d	Variable Label	aktive Sportausübung
+e81d	1	mindestens jede Woche
+e81d	2	mindestens einmal im Monat
+e81d	3	ein paar Mal im Monat
+e81d	4	seltener,nie
+e81d	5	keine Angabe
+e81e	Variable Label	Sportveranstaltungen besuchen
+e81e	1	mindestens jede Woche
+e81e	2	mindestens einmal im Monat
+e81e	3	ein paar Mal im Monat
+e81e	4	seltener,nie
+e81e	5	keine Angabe
+e81f	Variable Label	Handarbeiten, Basteln
+e81f	1	mindestens jede Woche
+e81f	2	mindestens einmal im Monat
+e81f	3	ein paar Mal im Monat
+e81f	4	seltener,nie
+e81f	5	keine Angabe
+e81g	Variable Label	Lokale besuchen
+e81g	1	mindestens jede Woche
+e81g	2	mindestens einmal im Monat
+e81g	3	ein paar Mal im Monat
+e81g	4	seltener,nie
+e81g	5	keine Angabe
+e81h	Variable Label	Wandern oder Rad fahren
+e81h	1	mindestens jede Woche
+e81h	2	mindestens einmal im Monat
+e81h	3	ein paar Mal im Monat
+e81h	4	seltener,nie
+e81h	5	keine Angabe
+e82	Variable Label	Anzahl sehr nahestehender Personen
+e82	1	3 und mehr Personen
+e82	2	2 Personen
+e82	3	1 Person
+e82	4	nein, niemanden
+e82	5	keine Angabe
+e83	Variable Label	Lebensglück gesamt
+e83	1	sehr glücklich
+e83	2	ziemlich glücklich
+e83	3	eher glücklich
+e83	4	eher unglücklich
+e83	5	ziemlich unglücklich
+e83	6	keine Angabe
+e84	Variable Label	persönliches Gefühl von Freiheit
+e84	1	überhaupt keine Freiheit
+e84	10	sehr große Freieheit
+e84	11	keine Angabe
+e85	Variable Label	persönliches Wohlbefinden
+e85	1	sehr groß
+e85	2	groß
+e85	3	mäßig
+e85	4	eher gering
+e85	5	sehr gering
+e85	6	keine Angabe
+e86a	Variable Label	Gefühl, etwas wert zu sein
+e86a	1	ja
+e86a	2	nein
+e86a	3	keine Angabe
+e86b	Variable Label	Gefühl, im Leben voranzukommen
+e86b	1	ja
+e86b	2	nein
+e86b	3	keine Angabe
+e86c	Variable Label	Freude, pers. Ziel erreicht zu haben
+e86c	1	ja
+e86c	2	nein
+e86c	3	keine Angabe
+e86e	Variable Label	Gefühl, Leben nicht im Griff zu haben
+e86e	1	ja
+e86e	2	nein
+e86e	3	keine Angabe
+e86f	Variable Label	Gefühl, jemanden zu haben, mit dem über vieles sprechen kann
+e86f	1	ja
+e86f	2	nein
+e86f	3	keine Angabe
+e86g	Variable Label	Gefühl, jemanden zu haben, auf den Verlass ist
+e86g	1	ja
+e86g	2	nein
+e86g	3	keine Angabe
+e86h	Variable Label	Gefühl von Wärme und Zuneigung
+e86h	1	ja
+e86h	2	nein
+e86h	3	keine Angabe
+e86i	Variable Label	Gefühl einer intensiven Beziehung
+e86i	1	ja
+e86i	2	nein
+e86i	3	keine Angabe
+e86j	Variable Label	Gefühl befriedigender Sexualität
+e86j	1	ja
+e86j	2	nein
+e86j	3	keine Angabe
+e86l	Variable Label	Freude in meiner Tätigkeit meine Ideen verwirklicht zu haben
+e86l	1	ja
+e86l	2	nein
+e86l	3	keine Angabe
+e86m	Variable Label	Gefühl von Eintönigkeit
+e86m	1	ja
+e86m	2	nein
+e86m	3	keine Angabe
+e86n	Variable Label	Gefühl, ungerecht behandelt zu werden
+e86n	1	ja
+e86n	2	nein
+e86n	3	keine Angabe
+e86o	Variable Label	Gefühl mehr leisten zu müssen als bewältigbar
+e86o	1	ja
+e86o	2	nein
+e86o	3	keine Angabe
+e86p	Variable Label	Gefühl, körperlich fit zu sein
+e86p	1	ja
+e86p	2	nein
+e86p	3	keine Angabe
+e86q	Variable Label	bedrückt, weil körperlich schlecht beisammen
+e86q	1	ja
+e86q	2	nein
+e86q	3	keine Angabe
+e86r	Variable Label	Augenblicke von Unbeschwertheit
+e86r	1	ja
+e86r	2	nein
+e86r	3	keine Angabe
+e86s	Variable Label	Gefühl von genügend Zeit für mich
+e86s	1	ja
+e86s	2	nein
+e86s	3	keine Angabe
+e86t	Variable Label	Gefühl, sehr eingespannt zu sein
+e86t	1	ja
+e86t	2	nein
+e86t	3	keine Angabe
+e86u	Variable Label	Gefühl, genug Geld für meine Wünsche zu haben
+e86u	1	ja
+e86u	2	nein
+e86u	3	keine Angabe
+e86v	Variable Label	muss jeden Euro zweimal umdrehen
+e86v	1	ja
+e86v	2	nein
+e86v	3	keine Angabe
+ei6k	Variable Label	Gefühl, etwas Wertvolles zu tun
+ei6k	1	ja
+ei6k	2	nein
+ei6k	3	keine Angabe
+f87a	Variable Label	in Österreich gibt es "die Oben"
+f87a	1	stimme voll zu
+f87a	2	stimme eher zu
+f87a	3	lehne eher ab
+f87a	4	lehne voll ab
+f87a	5	weiß nicht
+f87b	Variable Label	durch Interessensvertretungen gesichert
+f87b	1	stimme voll zu
+f87b	2	stimme eher zu
+f87b	3	lehne eher ab
+f87b	4	lehne voll ab
+f87b	5	weiß nicht
+f87c	Variable Label	jeder der sich anstrengt hat Chance
+f87c	1	stimme voll zu
+f87c	2	stimme eher zu
+f87c	3	lehne eher ab
+f87c	4	lehne voll ab
+f87c	5	weiß nicht
+f87d	Variable Label	Streiterein im Parlament schaden
+f87d	1	stimme voll zu
+f87d	2	stimme eher zu
+f87d	3	lehne eher ab
+f87d	4	lehne voll ab
+f87d	5	weiß nicht
+f87e	Variable Label	große Bevölkerungsteile unterdrückt
+f87e	1	stimme voll zu
+f87e	2	stimme eher zu
+f87e	3	lehne eher ab
+f87e	4	lehne voll ab
+f87e	5	weiß nicht
+f87f	Variable Label	Frau lange nicht mehr benachteiligt
+f87f	1	stimme voll zu
+f87f	2	stimme eher zu
+f87f	3	lehne eher ab
+f87f	4	lehne voll ab
+f87f	5	weiß nicht
+f87g	Variable Label	besser, wenn einer befiehlt
+f87g	1	stimme voll zu
+f87g	2	stimme eher zu
+f87g	3	lehne eher ab
+f87g	4	lehne voll ab
+f87g	5	weiß nicht
+f89	Variable Label	Interesse für Politik
+f89	1	sehr stark
+f89	2	stark
+f89	3	mittel
+f89	4	wenig
+f89	5	überhaupt nicht
+f89	6	keine Angabe
+f90a	Variable Label	Gewerkschaftsmitglied
+f90a	1	Mitglied ohne Funktion
+f90a	2	Funktionär
+f90a	3	nein, weder noch
+f90a	4	keine Angabe
+f90b	Variable Label	Parteimitglied
+f90b	1	Mitglied ohne Funktion
+f90b	2	Funktionär
+f90b	3	nein, weder noch
+f90b	4	keine Angabe
+f90c	Variable Label	Vereinsmitglied
+f90c	1	Mitglied ohne Funktion
+f90c	2	Funktionär
+f90c	3	nein, weder noch
+f90c	4	keine Angabe
+f91a	Variable Label	Staat: Arbeitsplatz für jeden
+f91a	1	in jedem Fall verantwortlich
+f91a	2	verantwortlich
+f91a	3	nicht verantwortlich
+f91a	4	in keinem Fall verantwortlich
+f91a	5	kann ich nicht sagen
+f91b	Variable Label	Staat: Preiskontrolle
+f91b	1	in jedem Fall verantwortlich
+f91b	2	verantwortlich
+f91b	3	nicht verantwortlich
+f91b	4	in keinem Fall verantwortlich
+f91b	5	kann ich nicht sagen
+f91c	Variable Label	Staat: Gesundheitsvorsorge
+f91c	1	in jedem Fall verantwortlich
+f91c	2	verantwortlich
+f91c	3	nicht verantwortlich
+f91c	4	in keinem Fall verantwortlich
+f91c	5	kann ich nicht sagen
+f91d	Variable Label	Staat: Pensionisten angemessenen Lebensstandard sichern
+f91d	1	in jedem Fall verantwortlich
+f91d	2	verantwortlich
+f91d	3	nicht verantwortlich
+f91d	4	in keinem Fall verantwortlich
+f91d	5	kann ich nicht sagen
+f91e	Variable Label	Staat: Wirtschaft für Wachstum helfen
+f91e	1	in jedem Fall verantwortlich
+f91e	2	verantwortlich
+f91e	3	nicht verantwortlich
+f91e	4	in keinem Fall verantwortlich
+f91e	5	kann ich nicht sagen
+f91f	Variable Label	Staat: Arbeitslosen angemessenen Lebensstandard sichern
+f91f	1	in jedem Fall verantwortlich
+f91f	2	verantwortlich
+f91f	3	nicht verantwortlich
+f91f	4	in keinem Fall verantwortlich
+f91f	5	kann ich nicht sagen
+f91g	Variable Label	Staat: Einkommensunterschiede abbauen
+f91g	1	in jedem Fall verantwortlich
+f91g	2	verantwortlich
+f91g	3	nicht verantwortlich
+f91g	4	in keinem Fall verantwortlich
+f91g	5	kann ich nicht sagen
+f91h	Variable Label	Staat: kostenlosen Hochschulzugang für alle
+f91h	1	in jedem Fall verantwortlich
+f91h	2	verantwortlich
+f91h	3	nicht verantwortlich
+f91h	4	in keinem Fall verantwortlich
+f91h	5	kann ich nicht sagen
+f91i	Variable Label	Staat: genügend Sicherheitskräfte für öffentliche Sicherheit
+f91i	1	in jedem Fall verantwortlich
+f91i	2	verantwortlich
+f91i	3	nicht verantwortlich
+f91i	4	in keinem Fall verantwortlich
+f91i	5	kann ich nicht sagen
+f92	Variable Label	Aufenthaltsbewilligungen: mehr oder weniger
+f92	1	mehr Ausländern
+f92	2	weniger Ausländern
+f92	3	gleich vielen wie bisher
+f92	4	keine Angabe
+f93	Variable Label	Zufriedenheit mit EU-Mitgliedschaft
+f93	1	sehr zufrieden
+f93	2	zufrieden
+f93	3	unzufrieden
+f93	4	sehr unzufrieden
+f93	5	keine Angabe
+f94a	Variable Label	EU-Beitritt: Warenangebot
+f94a	1	sehr verbessert
+f94a	2	eher verbessert
+f94a	3	gleichgeblieben
+f94a	4	eher verschlechtert
+f94a	5	sehr verschlechtert
+f94a	6	keine Angabe
+f94b	Variable Label	EU-Beitritt: Wohlstand
+f94b	1	sehr verbessert
+f94b	2	eher verbessert
+f94b	3	gleichgeblieben
+f94b	4	eher verschlechtert
+f94b	5	sehr verschlechtert
+f94b	6	keine Angabe
+f94c	Variable Label	EU-Beitritt: Qualität der Lebensmittel
+f94c	1	sehr verbessert
+f94c	2	eher verbessert
+f94c	3	gleichgeblieben
+f94c	4	eher verschlechtert
+f94c	5	sehr verschlechtert
+f94c	6	keine Angabe
+f94d	Variable Label	EU-Beitritt: soziale Standards
+f94d	1	sehr verbessert
+f94d	2	eher verbessert
+f94d	3	gleichgeblieben
+f94d	4	eher verschlechtert
+f94d	5	sehr verschlechtert
+f94d	6	keine Angabe
+f94e	Variable Label	EU-Beitritt: Preise für alltägliche Güter
+f94e	1	sehr verbessert
+f94e	2	eher verbessert
+f94e	3	gleichgeblieben
+f94e	4	eher verschlechtert
+f94e	5	sehr verschlechtert
+f94e	6	keine Angabe
+f94f	Variable Label	EU-Beitritt: Arbeitslosigkeit
+f94f	1	sehr verbessert
+f94f	2	eher verbessert
+f94f	3	gleichgeblieben
+f94f	4	eher verschlechtert
+f94f	5	sehr verschlechtert
+f94f	6	keine Angabe
+f94g	Variable Label	EU-Beitritt: organisierte Kriminalität
+f94g	1	sehr verbessert
+f94g	2	eher verbessert
+f94g	3	gleichgeblieben
+f94g	4	eher verschlechtert
+f94g	5	sehr verschlechtert
+f94g	6	keine Angabe
+f94h	Variable Label	EU-Beitritt: Transitverkehr
+f94h	1	sehr verbessert
+f94h	2	eher verbessert
+f94h	3	gleichgeblieben
+f94h	4	eher verschlechtert
+f94h	5	sehr verschlechtert
+f94h	6	keine Angabe
+f95a	Variable Label	zu viel Staat, jeder soll ich mehr anstrengen
+f95a	1	stimme stark zu
+f95a	2	stimme eher zu
+f95a	3	lehne eher ab
+f95a	4	lehne ganz ab
+f95a	5	kann ich nicht sagen
+f95b	Variable Label	Staat sollte sich aus vielen Bereichen der Gesellschaft zurückziehen
+f95b	1	stimme stark zu
+f95b	2	stimme eher zu
+f95b	3	lehne eher ab
+f95b	4	lehne ganz ab
+f95b	5	kann ich nicht sagen
+f95c	Variable Label	in vielen Gesellschaftsbereichen Staat unersetzlich
+f95c	1	stimme stark zu
+f95c	2	stimme eher zu
+f95c	3	lehne eher ab
+f95c	4	lehne ganz ab
+f95c	5	kann ich nicht sagen
+g100a	Variable Label	beobachten, wie Kinder heranwachsen ist größte Freude
+g100a	1	stimme voll und ganz zu
+g100a	2	stimme zu
+g100a	3	weder noch
+g100a	4	stimme nicht zu
+g100a	5	stimme überhaupt nicht zu
+g100a	6	kann ich nicht sagen
+g100b	Variable Label	leeres Leben, wenn nie Kinder gehabt
+g100b	1	stimme voll und ganz zu
+g100b	2	stimme zu
+g100b	3	weder noch
+g100b	4	stimme nicht zu
+g100b	5	stimme überhaupt nicht zu
+g100b	6	kann ich nicht sagen
+g101a	Variable Label	bezahlter Mutterschaftsurlaub für berufstätige Frauen
+g101a	1	stimme voll und ganz zu
+g101a	2	stimme zu
+g101a	3	weder noch
+g101a	4	stimme nicht zu
+g101a	5	stimme überhaupt nicht zu
+g101a	6	kann ich nicht sagen
+g101b	Variable Label	finanzielle Unterstützung wenn beide Eltern berufstätig
+g101b	1	stimme voll und ganz zu
+g101b	2	stimme zu
+g101b	3	weder noch
+g101b	4	stimme nicht zu
+g101b	5	stimme überhaupt nicht zu
+g101b	6	kann ich nicht sagen
+g102	Variable Label	mit Partner im HH
+g102	1	ja, mit Partner/Lebensgefährte
+g102	2	nein, weder noch
+g103	Variable Label	Umgang mit dem Einkommen
+g103	1	Geld verwalte ich, Partner bekommt Anteil
+g103	2	Geld verwaltet Partner, ich bekomme Anteil
+g103	3	legen zusammen, jeder nimmt was er braucht
+g103	4	legen Teil zusammen, behalten Teil für sich
+g103	5	jeder verwaltet sein eigenes Geld
+g103	6	keine Angabe
+g104a	Variable Label	Wäsche waschen
+g104a	1	immer ich
+g104a	2	meistens ich
+g104a	3	jeder zur Hälfte oder gemeinsam
+g104a	4	meistens Partner
+g104a	5	immer Partner
+g104a	6	von jemand anderes
+g104a	7	kann ich nicht sagen
+g104b	Variable Label	kleine Reparaturen zu Hause
+g104b	1	immer ich
+g104b	2	meistens ich
+g104b	3	jeder zur Hälfte oder gemeinsam
+g104b	4	meistens Partner
+g104b	5	immer Partner
+g104b	6	von jemand anderes
+g104b	7	kann ich nicht sagen
+g104c	Variable Label	kranke Familienangehörige pflegen
+g104c	1	immer ich
+g104c	2	meistens ich
+g104c	3	jeder zur Hälfte oder gemeinsam
+g104c	4	meistens Partner
+g104c	5	immer Partner
+g104c	6	von jemand anderes
+g104c	7	kann ich nicht sagen
+g104d	Variable Label	Lebensmittel einkaufen
+g104d	1	immer ich
+g104d	2	meistens ich
+g104d	3	jeder zur Hälfte oder gemeinsam
+g104d	4	meistens Partner
+g104d	5	immer Partner
+g104d	6	von jemand anderes
+g104d	7	kann ich nicht sagen
+g104e	Variable Label	Wohnung/Haus putzen
+g104e	1	immer ich
+g104e	2	meistens ich
+g104e	3	jeder zur Hälfte oder gemeinsam
+g104e	4	meistens Partner
+g104e	5	immer Partner
+g104e	6	von jemand anderes
+g104e	7	kann ich nicht sagen
+g104f	Variable Label	Essen kochen
+g104f	1	immer ich
+g104f	2	meistens ich
+g104f	3	jeder zur Hälfte oder gemeinsam
+g104f	4	meistens Partner
+g104f	5	immer Partner
+g104f	6	von jemand anderes
+g104f	7	kann ich nicht sagen
+g105	Variable Label	Stunden pro Woche mit Hausarbeit
+g105	168	keine Angabe
+g106	Variable Label	Stunden pro Woche Hausarbeit Partner
+g106	168	keine Angabe
+g107	Variable Label	Aufteilung Hausarbeit
+g107	1	ich erledige viel mehr
+g107	2	ich erledige etwas mehr
+g107	3	ich erledige ungefähr meinen Anteil
+g107	4	ich erledige etwas weniger
+g107	5	ich erledige viel weniger
+g107	6	keine Angabe
+g108	Variable Label	Anzahl Uneinigkeit über Hausarbeitsaufteilung
+g108	1	mehrmahls in der Woche
+g108	2	mehrmals im Monat
+g108	3	mehrmals im Jahr
+g108	4	weniger oft
+g108	5	nie
+g108	6	kann ich nicht sagen
+g109	Variable Label	Entscheidung über Kindererziehung
+g109	1	meistens ich
+g109	2	meistens mein Partner
+g109	3	manchmal ich, manchmal Partner
+g109	4	entscheiden gemeinsam
+g109	5	jemand anderes entscheidet
+g109	6	trifft nicht zu
+g109	7	keine Angabe
+g110a	Variable Label	Letztentscheidung: Wochenendgestaltung
+g110a	1	meistens ich
+g110a	2	meistens mein Partner
+g110a	3	manchmal ich, manchmal Partner
+g110a	4	entscheiden gemeinsam
+g110a	5	jemand anderes entscheidet
+g110a	6	keine Angabe
+g110b	Variable Label	Letztentscheidung: Kauf wichtiger Dinge
+g110b	1	meistens ich
+g110b	2	meistens mein Partner
+g110b	3	manchmal ich, manchmal Partner
+g110b	4	entscheiden gemeinsam
+g110b	5	jemand anderes entscheidet
+g110b	6	keine Angabe
+g111	Variable Label	wer hat höheres Netto-Einkommen
+g111	1	Partner hat kein Einkommen
+g111	2	ich habe viel höheres Einkommen
+g111	3	ich habe höheres Einkommen
+g111	4	beide etwa das gleiche Einkommen
+g111	5	Partner hat höheres Einkommen
+g111	6	Partner hat viel höheres Einkommen
+g111	7	habe kein Einkommen
+g111	8	weiß nicht
+g112a	Variable Label	zu Hause so viel zu tun, dass Zeit nicht reicht
+g112a	1	stimme voll und ganz zu
+g112a	2	stimme zu
+g112a	3	weder noch
+g112a	4	stimme nicht zu
+g112a	5	stimme überhaupt nicht zu
+g112a	6	kann ich nicht sagen
+g112a	7	trifft nicht zu
+g112a	8	keine Angabe
+g112b	Variable Label	Leben zu Hause selten stressig
+g112b	1	stimme voll und ganz zu
+g112b	2	stimme zu
+g112b	3	weder noch
+g112b	4	stimme nicht zu
+g112b	5	stimme überhaupt nicht zu
+g112b	6	kann ich nicht sagen
+g112b	7	trifft nicht zu
+g112b	8	keine Angabe
+g112c	Variable Label	im Beruf so viel zu tun, dass Zeit nicht reicht
+g112c	1	stimme voll und ganz zu
+g112c	2	stimme zu
+g112c	3	weder noch
+g112c	4	stimme nicht zu
+g112c	5	stimme überhaupt nicht zu
+g112c	6	kann ich nicht sagen
+g112c	7	trifft nicht zu
+g112c	8	keine Angabe
+g112d	Variable Label	Beruf selten stressig
+g112d	1	stimme voll und ganz zu
+g112d	2	stimme zu
+g112d	3	weder noch
+g112d	4	stimme nicht zu
+g112d	5	stimme überhaupt nicht zu
+g112d	6	kann ich nicht sagen
+g112d	7	trifft nicht zu
+g112d	8	keine Angabe
+g113a	Variable Label	von Arbeit zu müde für Hausarbeit
+g113a	1	mehrmals pro Woche
+g113a	2	mehrmals im Monat
+g113a	3	ein oder zweimal
+g113a	4	nie
+g113a	5	trifft nicht zu / nicht berufstätig
+g113a	6	keine Angabe
+g113b	Variable Label	Arbeit verhinderte familiäre Verpflichtungen
+g113b	1	mehrmals pro Woche
+g113b	2	mehrmals im Monat
+g113b	3	ein oder zweimal
+g113b	4	nie
+g113b	5	trifft nicht zu / nicht berufstätig
+g113b	6	keine Angabe
+g113c	Variable Label	wegen Hausarbeit zu müde zum Arbeiten
+g113c	1	mehrmals pro Woche
+g113c	2	mehrmals im Monat
+g113c	3	ein oder zweimal
+g113c	4	nie
+g113c	5	trifft nicht zu / nicht berufstätig
+g113c	6	keine Angabe
+g113d	Variable Label	wegen familiärer Verpflichtungen Arbeit schwierig
+g113d	1	mehrmals pro Woche
+g113d	2	mehrmals im Monat
+g113d	3	ein oder zweimal
+g113d	4	nie
+g113d	5	trifft nicht zu / nicht berufstätig
+g113d	6	keine Angabe
+g114	Variable Label	Zufriedenheit mit Leben, Familie und Arbeit
+g114	1	völlig glücklich
+g114	2	sehr glücklich
+g114	3	ziemlich glücklich
+g114	4	weder noch
+g114	5	ziemlich unglücklich
+g114	6	sehr unglücklich
+g114	7	völlig unglücklich
+g114	8	kann ich nicht sagen
+g115	Variable Label	Zufriedenheit mit Familienleben
+g115	1	völlig glücklich
+g115	2	sehr glücklich
+g115	3	ziemlich glücklich
+g115	4	weder noch
+g115	5	ziemlich unglücklich
+g115	6	sehr unglücklich
+g115	7	völlig unglücklich
+g115	8	kann ich nicht sagen
+g115	9	habe keine Familie
+g115a	Variable Label	Zufriedenheit mit Berufsleben
+g115a	1	völlig glücklich
+g115a	2	sehr glücklich
+g115a	3	ziemlich glücklich
+g115a	4	weder noch
+g115a	5	ziemlich unglücklich
+g115a	6	sehr unglücklich
+g115a	7	völlig unglücklich
+g115a	8	kann ich nicht sagen
+g115a	9	bin nicht berufstätig
+g116	Variable Label	Mutter zwischen Geburt und 15. Lebensjahr mind. ein Jahr berufstätig
+g116	1	ja
+g116	2	nein
+g116	3	weiß nicht
+g117	Variable Label	Befragte/r hat Kinder
+g117	1	ja
+g117	2	nein
+g118a	Variable Label	berufstätig: nach Heirat, vor Kindern
+g118a	1	ganztags berufstätig
+g118a	2	halbtags berufstätig
+g118a	3	nicht berufstätig
+g118a	4	trifft nicht zu
+g118a	5	keine Angabe
+g118b	Variable Label	berufstätig: mind. noch ein Kind nicht in der Schule
+g118b	1	ganztags berufstätig
+g118b	2	halbtags berufstätig
+g118b	3	nicht berufstätig
+g118b	4	trifft nicht zu
+g118b	5	keine Angabe
+g118c	Variable Label	berufstätig: nachdem auch jüngstes Kind in der Schule
+g118c	1	ganztags berufstätig
+g118c	2	halbtags berufstätig
+g118c	3	nicht berufstätig
+g118c	4	trifft nicht zu
+g118c	5	keine Angabe
+g119a	Variable Label	berufstätig: nach Heirat, vor Kindern
+g119a	1	ganztags berufstätig
+g119a	2	halbtags berufstätig
+g119a	3	nicht berufstätig
+g119a	4	trifft nicht zu
+g119a	5	keine Angabe
+g119b	Variable Label	berufstätig: mind. noch ein Kind nicht in der Schule
+g119b	1	ganztags berufstätig
+g119b	2	halbtags berufstätig
+g119b	3	nicht berufstätig
+g119b	4	trifft nicht zu
+g119b	5	keine Angabe
+g119c	Variable Label	berufstätig: nachdem auch jüngstes Kind in der Schule
+g119c	1	ganztags berufstätig
+g119c	2	halbtags berufstätig
+g119c	3	nicht berufstätig
+g119c	4	trifft nicht zu
+g119c	5	keine Angabe
+g119d	Variable Label	berufstätig: nachdem Kinder Elternhaus verlassen
+g119d	1	ganztags berufstätig
+g119d	2	halbtags berufstätig
+g119d	3	nicht berufstätig
+g119d	4	trifft nicht zu
+g119d	5	keine Angabe
+g120	Variable Label	Frau: arbeiten oder zu Hause bleiben wenn Partner und keine Kinder
+g120	1	ganztags arbeiten
+g120	2	Teilzeit arbeiten
+g120	3	zu Hause bleiben
+g120	4	kann ich nicht sagen
+g121	Variable Label	Selbstverortung in der Gesellschaft
+g121	1	oben
+g121	10	unten
+g121	11	keine Angabe
+g188d	Variable Label	berufstätig: nachdem Kinder Elternhaus verlassen
+g188d	1	ganztags berufstätig
+g188d	2	halbtags berufstätig
+g188d	3	nicht berufstätig
+g188d	4	trifft nicht zu
+g188d	5	keine Angabe
+g96a	Variable Label	berufstätige Mutter genauso herzlich
+g96a	1	stimme voll und ganz zu
+g96a	2	stimme zu
+g96a	3	weder noch
+g96a	4	stimme nicht zu
+g96a	5	stimme überhaupt nicht zu
+g96a	6	kann ich nicht sagen
+g96b	Variable Label	Kind noch nicht in Schule leidet unter berufstätiger Mutter
+g96b	1	stimme voll und ganz zu
+g96b	2	stimme zu
+g96b	3	weder noch
+g96b	4	stimme nicht zu
+g96b	5	stimme überhaupt nicht zu
+g96b	6	kann ich nicht sagen
+g96c	Variable Label	Familienleben leidet unter berufstätiger Frau
+g96c	1	stimme voll und ganz zu
+g96c	2	stimme zu
+g96c	3	weder noch
+g96c	4	stimme nicht zu
+g96c	5	stimme überhaupt nicht zu
+g96c	6	kann ich nicht sagen
+g96d	Variable Label	Frauen wollen Heim und Kinder
+g96d	1	stimme voll und ganz zu
+g96d	2	stimme zu
+g96d	3	weder noch
+g96d	4	stimme nicht zu
+g96d	5	stimme überhaupt nicht zu
+g96d	6	kann ich nicht sagen
+g96e	Variable Label	Tätigkeit als Hausfrau genauso erfüllend
+g96e	1	stimme voll und ganz zu
+g96e	2	stimme zu
+g96e	3	weder noch
+g96e	4	stimme nicht zu
+g96e	5	stimme überhaupt nicht zu
+g96e	6	kann ich nicht sagen
+g96f	Variable Label	Beruf bestes Mittel für Unabhänigkeit der Frau
+g96f	1	stimme voll und ganz zu
+g96f	2	stimme zu
+g96f	3	weder noch
+g96f	4	stimme nicht zu
+g96f	5	stimme überhaupt nicht zu
+g96f	6	kann ich nicht sagen
+g97a	Variable Label	beide zum Haushaltseinkommen beitragen
+g97a	1	stimme voll und ganz zu
+g97a	2	stimme zu
+g97a	3	weder noch
+g97a	4	stimme nicht zu
+g97a	5	stimme überhaupt nicht zu
+g97a	6	kann ich nicht sagen
+g97b	Variable Label	Mann im Beruf und Frau zu Hause
+g97b	1	stimme voll und ganz zu
+g97b	2	stimme zu
+g97b	3	weder noch
+g97b	4	stimme nicht zu
+g97b	5	stimme überhaupt nicht zu
+g97b	6	kann ich nicht sagen
+g97c	Variable Label	Männer größeren Anteil an Hausarbeit übernehmen
+g97c	1	stimme voll und ganz zu
+g97c	2	stimme zu
+g97c	3	weder noch
+g97c	4	stimme nicht zu
+g97c	5	stimme überhaupt nicht zu
+g97c	6	kann ich nicht sagen
+g97d	Variable Label	Männer größeren Anteil an Kindererziehung übernehmen
+g97d	1	stimme voll und ganz zu
+g97d	2	stimme zu
+g97d	3	weder noch
+g97d	4	stimme nicht zu
+g97d	5	stimme überhaupt nicht zu
+g97d	6	kann ich nicht sagen
+g98a	Variable Label	arbeitende Frau: wenn verheiratet und keine Kinder
+g98a	1	ganztags arbeiten
+g98a	2	halbtags arbeiten
+g98a	3	überhaupt nicht arbeiten
+g98a	4	kann ich nicht sagen
+g98b	Variable Label	arbeitende Frau: wenn Kind noch nicht zur Schule geht
+g98b	1	ganztags arbeiten
+g98b	2	halbtags arbeiten
+g98b	3	überhaupt nicht arbeiten
+g98b	4	kann ich nicht sagen
+g98c	Variable Label	arbeitende Frau: wenn jüngstes Kind zur Schule geht
+g98c	1	ganztags arbeiten
+g98c	2	halbtags arbeiten
+g98c	3	überhaupt nicht arbeiten
+g98c	4	kann ich nicht sagen
+g98d	Variable Label	arbeitende Frau: nachdem Kinder Elternhaus verlassen haben
+g98d	1	ganztags arbeiten
+g98d	2	halbtags arbeiten
+g98d	3	überhaupt nicht arbeiten
+g98d	4	kann ich nicht sagen
+g99a	Variable Label	Verheiratete glücklicher
+g99a	1	stimme voll und ganz zu
+g99a	2	stimme zu
+g99a	3	weder noch
+g99a	4	stimme nicht zu
+g99a	5	stimme überhaupt nicht zu
+g99a	6	kann ich nicht sagen
+g99b	Variable Label	schlechte Ehe besser als unverheiratet
+g99b	1	stimme voll und ganz zu
+g99b	2	stimme zu
+g99b	3	weder noch
+g99b	4	stimme nicht zu
+g99b	5	stimme überhaupt nicht zu
+g99b	6	kann ich nicht sagen
+g99c	Variable Label	heiraten, wenn Kinderwunsch
+g99c	1	stimme voll und ganz zu
+g99c	2	stimme zu
+g99c	3	weder noch
+g99c	4	stimme nicht zu
+g99c	5	stimme überhaupt nicht zu
+g99c	6	kann ich nicht sagen
+g99d	Variable Label	Alleinerzieher genauso gut wie beide Eltern
+g99d	1	stimme voll und ganz zu
+g99d	2	stimme zu
+g99d	3	weder noch
+g99d	4	stimme nicht zu
+g99d	5	stimme überhaupt nicht zu
+g99d	6	kann ich nicht sagen
+g99e	Variable Label	Zusammenleben ohne Heiratsabsicht ist in Ordnung
+g99e	1	stimme voll und ganz zu
+g99e	2	stimme zu
+g99e	3	weder noch
+g99e	4	stimme nicht zu
+g99e	5	stimme überhaupt nicht zu
+g99e	6	kann ich nicht sagen
+g99f	Variable Label	Zusammenleben vor Heirat sinnvoll
+g99f	1	stimme voll und ganz zu
+g99f	2	stimme zu
+g99f	3	weder noch
+g99f	4	stimme nicht zu
+g99f	5	stimme überhaupt nicht zu
+g99f	6	kann ich nicht sagen
+g99g	Variable Label	Scheidung beste Lösung für Eheprobleme
+g99g	1	stimme voll und ganz zu
+g99g	2	stimme zu
+g99g	3	weder noch
+g99g	4	stimme nicht zu
+g99g	5	stimme überhaupt nicht zu
+g99g	6	kann ich nicht sagen
+Geschlecht	Variable Label	GESCHLECHT BEFRAGTE PERSON
+Geschlecht	1	männlich
+Geschlecht	2	weiblich
+Gewicht	Variable Label	GEWICHT
+h122	Variable Label	Haushaltszusammensetzung
+h122	1	Einpersonenhaushalt
+h122	2	1 Erwachsener und 1 Kind (unter 16 Jahre)
+h122	3	1 Erwachsener und 2 Kinder (unter 16 Jahre)
+h122	4	1 Erwachsener und 3 oder mehr Kinder (unter 16 Jahre)
+h122	5	2 Erwachsene
+h122	6	2 Erwachsene und 1 Kind (unter 16 Jahre)
+h122	7	2 Erwachsene und 2 Kinder (unter 16 Jahre)
+h122	8	2 Erwachsene und 3 oder mehr Kinder (unter 16 Jahre)
+h122	9	3 Erwachsene
+h122	10	3Erwachsene mit Kindern (unter 16 Jahre)
+h122	11	4 Erwachsene
+h122	12	4 Erwachsene mit Kindern (unter 16 Jahre)
+h122	13	sonstige Haushaltszusammensetzung
+h123	Variable Label	persönliches monatliches Nettoeinkommen
+h123	1	unter € 320
+h123	2	€ 320 bis unter € 450
+h123	3	€ 450 bis unter € 600
+h123	4	€ 600 bis unter € 750
+h123	5	€ 750 bis unter € 900
+h123	6	€ 900 bis unter € 1050
+h123	7	€ 1050 bis unter € 1200
+h123	8	€ 1200 bis unter € 1350
+h123	9	€ 1350 bis unter € 1500
+h123	10	€ 1500 bis unter € 1650
+h123	11	€ 1650 bis unter € 1800
+h123	12	€ 1800 bis unter € 1950
+h123	13	€ 1950 bis unter € 2100
+h123	14	€ 2100 bis unter € 2250
+h123	15	€ 2250 bis unter € 2400
+h123	16	€ 2400 bis unter € 2700
+h123	17	€ 2700 bis unter € 3000
+h123	18	€ 3000 bis unter € 3300
+h123	19	€ 3300 bis unter € 3600
+h123	20	€ 3600 bis unter € 3900
+h123	21	€3900 und mehr
+h123	22	keine Angabe
+h123	23	kein eigenes Einkommen
+h124	Variable Label	Nettoeinkommen Haushalt gesamt
+h124	1	unter € 320
+h124	2	€ 320 bis unter € 450
+h124	3	€ 450 bis unter € 600
+h124	4	€ 600 bis unter € 750
+h124	5	€ 750 bis unter € 900
+h124	6	€ 900 bis unter € 1050
+h124	7	€ 1050 bis unter € 1200
+h124	8	€ 1200 bis unter € 1350
+h124	9	€ 1350 bis unter € 1500
+h124	10	€ 1500 bis unter € 1650
+h124	11	€ 1650 bis unter € 1800
+h124	12	€ 1800 bis unter € 1950
+h124	13	€ 1950 bis unter € 2100
+h124	14	€ 2100 bis unter € 2250
+h124	15	€ 2250 bis unter € 2400
+h124	16	€ 2400 bis unter € 2700
+h124	17	€ 2700 bis unter € 3000
+h124	18	€ 3000 bis unter € 3300
+h124	19	€ 3300 bis unter € 3600
+h124	20	€ 3600 bis unter € 3900
+h124	21	€3900 und mehr
+h124	22	keine Angabe
+h124a_1	Variable Label	im Haushalt wird Kindergeld bezogen
+h124a_1	0	nicht genannt
+h124a_1	1	genannt
+h124a_2	Variable Label	im Haushalt wird Sozialhilfe bezogen
+h124a_2	0	nicht genannt
+h124a_2	1	genannt
+h124a_3	Variable Label	im Haushalt wird Arbeitslosenunterstüzung bezogen
+h124a_3	0	nicht genannt
+h124a_3	1	genannt
+h124a_4	Variable Label	im Haushalt wird Wohnbeihilfe bezogen
+h124a_4	0	nicht genannt
+h124a_4	1	genannt
+h124a_5	Variable Label	im Haushalt wird Notstandshilfe bezogen
+h124a_5	0	nicht genannt
+h124a_5	1	genannt
+h124a_6	Variable Label	im Haushalt werden keine Unterstützugen bezogen
+h124a_6	0	nicht genannt
+h124a_6	1	genannt
+h125	Variable Label	Zufriedenheit mit finanzieller Situation
+h125	1	sehr zufrieden
+h125	2	eher zufrieden
+h125	3	eher weniger zufrieden
+h125	4	nicht zufrieden
+h125	5	keine Angabe
+h126_1	Variable Label	im Haushalt ist PKW vorhanden
+h126_1	0	nicht genannt
+h126_1	1	genannt
+h126_2	Variable Label	im Haushalt ist Geschirrspüler vorhanden
+h126_2	0	nicht genannt
+h126_2	1	genannt
+h126_3	Variable Label	im Haushalt ist Stereoanlage vorhanden
+h126_3	0	nicht genannt
+h126_3	1	genannt
+h126_4	Variable Label	im Haushalt ist Computer vorhanden
+h126_4	0	nicht genannt
+h126_4	1	genannt
+h126_5	Variable Label	im Haushalt ist Bad oder Dusche vorhanden
+h126_5	0	nicht genannt
+h126_5	1	genannt
+h126_6	Variable Label	im Haushalt ist eigenes Zimmer für sich allein vorhanden
+h126_6	0	nicht genannt
+h126_6	1	genannt
+h126_7	Variable Label	Haushalt verfügt über Zweithaus oder Zweitwohnung
+h126_7	0	nicht genannt
+h126_7	1	genannt
+h127	Variable Label	Art des Wohnsitzes
+h127	1	Mietwohnung
+h127	2	Eigentumswohnung
+h127	3	Eigenheim
+h127	4	gemietetes Einfamilienhaus
+h127	5	anderes
+h127	6	keine Angabe
+h128a	Variable Label	mind. eine Woche Urlaub im Jahr
+h128a	1	kann ich mir leisten und tue es auch
+h128a	2	kann ich mir nicht leisten
+h128a	3	kann es mir leisten, mache es eher nicht
+h128a	4	keine Angabe
+h128b	Variable Label	regelmäßig neue Kleider tragen
+h128b	1	kann ich mir leisten und tue es auch
+h128b	2	kann ich mir nicht leisten
+h128b	3	kann es mir leisten, mache es eher nicht
+h128b	4	keine Angabe
+h128c	Variable Label	einmal monatlich mit Familie auswärts essen
+h128c	1	kann ich mir leisten und tue es auch
+h128c	2	kann ich mir nicht leisten
+h128c	3	kann es mir leisten, mache es eher nicht
+h128c	4	keine Angabe
+h129	Variable Label	Zufriedenheit mit Lebensstandard
+h129	0	ganz zufrieden
+h129	10	ganz unzufrieden
+h129	11	keine Angabe
+h130	Variable Label	finanzielle Lage
+h130	1	genug Geld für angenehmes Leben
+h130	2	komme mit Geld aus, kann keine großen Sprünge machen
+h130	3	es reicht knapp zum Leben
+h130	4	weiß oft nicht, wie ich durchkommen soll
+h130	5	keine Angabe
+h131	Variable Label	Parteipräferenz in erster Linie
+h131	1	ÖVP
+h131	2	SPÖ
+h131	3	FPÖ
+h131	4	Grüne
+h131	5	andere Partei
+h131	6	keine
+h131	7	keine Angabe
+h131a	Variable Label	Parteipräferenz in zweiter Linie
+h131a	1	ÖVP
+h131a	2	SPÖ
+h131a	3	FPÖ
+h131a	4	Grüne
+h131a	5	andere Partei
+h131a	6	keine
+h131a	7	keine Angabe
+h132	Variable Label	Teilnahme an letzter NR-Wahl
+h132	1	ja
+h132	2	nein
+h132	3	keine Angabe
+h133	Variable Label	welche Partei bei letzter NR-Wahl gewählt
+h133	1	ÖVP
+h133	2	SPÖ
+h133	3	FPÖ
+h133	4	Grüne
+h133	5	andere Partei
+h133	6	keine Angabe
+h134	Variable Label	warum Partei gewählt
+h134	1	aus Tradition
+h134	2	gutes Programm
+h134	3	gute Politiker an der Spitze
+h134	4	vertritt meine Werthaltungen
+h134	5	gute Sachpolitik
+h134	6	anderer Grund
+h134	7	keine Angabe
+h134a_A	Variable Label	Partei gewählt: aus Tradition
+h134a_A	0	nicht genannt
+h134a_A	1	genannt
+h134a_B	Variable Label	Partei gewählt: gutes Programm
+h134a_B	0	nicht genannt
+h134a_B	1	genannt
+h134a_C	Variable Label	Partei gewählt: gute Politiker an der Spitze
+h134a_C	0	nicht genannt
+h134a_C	1	genannt
+h134a_D	Variable Label	Partei gewählt: vertritt meine Werthaltungen
+h134a_D	0	nicht genannt
+h134a_D	1	genannt
+h134a_E	Variable Label	Partei gewählt: gute Sachpolitik
+h134a_E	0	nicht genannt
+h134a_E	1	genannt
+h134a_F	Variable Label	Partei gewählt: anderer Grund
+h134a_F	0	nicht genannt
+h134a_F	1	genannt
+h135	Variable Label	Grund für Nicht-Teilnahme an NR-Wahl
+h135	1	man kann nichts beeinflussen
+h135	2	politisch nicht interessiert
+h135	3	alle sind gleich korrupt
+h135	4	ernsthaft verhindert
+h135	5	kann ich nicht sagen
+h135	6	andere Gründe
+h135	7	keine Angabe
+h135a_A	Variable Label	nicht wählen: man kann nichts beeinflussen
+h135a_A	0	nicht genannt
+h135a_A	1	genannt
+h135a_B	Variable Label	nicht wählen: politisch nicht interessiert
+h135a_B	0	nicht genannt
+h135a_B	1	genannt
+h135a_C	Variable Label	nicht wählen: sind alle gleich korrupt
+h135a_C	0	nicht genannt
+h135a_C	1	genannt
+h135a_D	Variable Label	nicht wählen: ernsthaft verhindert
+h135a_D	0	nicht genannt
+h135a_D	1	genannt
+h135a_E	Variable Label	nicht wählen: kann ich nicht sagen
+h135a_E	0	nicht genannt
+h135a_E	1	genannt
+h135a_F	Variable Label	nicht wählen: anderer Grund
+h135a_F	0	nicht genannt
+h135a_F	1	genannt
+Haushalt_gesamt	Variable Label	Personen insgesamt im HH
+Haushalt1	Variable Label	Personen 16+ Jahre im HH
+Haushalt2	Variable Label	Personen 6 bis 15 Jahre im HH
+Haushalt3	Variable Label	Personen 2 bis 5 Jahre im HH
+Haushalt4	Variable Label	Personen unter 2 Jahre im HH
+INT_Alter_kat	Variable Label	Alter Interviewer Kateg.
+INT_Alter_kat	20	bis 20 J.
+INT_Alter_kat	30	21 - 30 J.
+INT_Alter_kat	40	31 - 40 J.
+INT_Alter_kat	50	41 - 50 J.
+INT_Alter_kat	60	51 - 60 J.
+INT_Alter_kat	70	ueber 60 J.
+INT_Bildung	Variable Label	Schulabschluss Interviewer
+INT_Bildung	1	Pflichtschule ohne Lehre
+INT_Bildung	2	Pflichtschule mit Lehre
+INT_Bildung	3	berufsbildende mittlere Schule
+INT_Bildung	4	allgemeinbildende höhere Schule
+INT_Bildung	5	berufsbildende höhere Schule
+INT_Bildung	6	Hochschule
+INT_Geschlecht	Variable Label	Geschlecht des Interviewers
+INT_Geschlecht	1	männlich
+INT_Geschlecht	2	weiblich
+Interviewkontext_1a	Variable Label	Interviewsituation: Personen anwesend
+Interviewkontext_1a	0	nicht genannt
+Interviewkontext_1a	1	genannt
+Interviewkontext_1b	Variable Label	Interviewsituation: Ehegatte anwesend
+Interviewkontext_1b	0	nicht genannt
+Interviewkontext_1b	1	genannt
+Interviewkontext_1c	Variable Label	Interviewsituation: Kinder anwesend
+Interviewkontext_1c	0	nicht genannt
+Interviewkontext_1c	1	genannt
+Interviewkontext_1d	Variable Label	Interviewsituation: andere Familienmitglieder anwesend
+Interviewkontext_1d	0	nicht genannt
+Interviewkontext_1d	1	genannt
+Interviewkontext_1e	Variable Label	Interviewsituation: keine Angabe
+Interviewkontext_1e	0	nicht genannt
+Interviewkontext_1e	1	genannt
+Interviewkontext_2	Variable Label	ins Interview eingegriffen
+Interviewkontext_2	1	ja, manchmal
+Interviewkontext_2	2	ja, häufig
+Interviewkontext_2	3	nein
+Interviewkontext_2	4	keine Angabe
+Interviewkontext_3	Variable Label	Antwortbereitschaft
+Interviewkontext_3	1	gut
+Interviewkontext_3	2	mittelmäßig
+Interviewkontext_3	3	schlecht
+Interviewkontext_3	4	anfangs gut, später schlecht
+Interviewkontext_3	5	anfangs schlecht, später gut
+Interviewkontext_3	6	keine Angabe
+Interviewkontext_4	Variable Label	Zuverlässigkeit der Angaben
+Interviewkontext_4	1	insgesamt zuverlässig
+Interviewkontext_4	2	insgesamt weniger zuverlässig
+Interviewkontext_4	3	keine Angabe
+jahr	Variable Label	Jahr des Surveys
+lfdnrges	Variable Label	Laufende Nummer gesamt
+lnr	Variable Label	Fragebogennummer
+Ortsgroesse	Variable Label	Gemeindegröße
+Ortsgroesse	2	 bis 2.000 Einwohner
+Ortsgroesse	3	 bis 3.000 Einwohner
+Ortsgroesse	4	 bis 5.000 Einwohner
+Ortsgroesse	5	 bis 10.000 Einwohner
+Ortsgroesse	6	 bis 20.000 Einwohner
+Ortsgroesse	7	 bis 50.000 Einwohner
+Ortsgroesse	8	 bis 1 Mio. Einwohner
+Ortsgroesse	9	über 1 Mio. Einwohner
+version	Variable Label	AUSSDA archive version

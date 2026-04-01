@@ -1,0 +1,143 @@
+﻿variable	value	Label
+doi	Variable Label	digital object identifier
+v01	Variable Label	Theaterbesuch
+v01	1	Ja
+v01	2	Nein
+v01	3	W.N./K.A.
+v02a1	Variable Label	Besuchte Theater:Staats-/Volksoper
+v02a1	Variable Label	Nein
+v02a1	1	Ja
+v02a2	Variable Label	Besuchte Theater:Burg-/Akademietheater
+v02a2	Variable Label	Nein
+v02a2	1	Ja
+v02a3	Variable Label	Besuchte Theater:Volkstheater(in Außenbezirken)
+v02a3	Variable Label	Nein
+v02a3	1	Ja
+v02a4	Variable Label	Besuchte Theater:Theater a.d.Wien/Ronacher/Raimundtheater
+v02a4	Variable Label	Nein
+v02a4	1	Ja
+v02a5	Variable Label	Besuchte Theater:Josefstadt/Kammerspiele
+v02a5	Variable Label	Nein
+v02a5	1	Ja
+v02a6	Variable Label	Besuchte Theater:Andere
+v02a6	Variable Label	Nein
+v02a6	1	Ja
+v02a7	Variable Label	Besuchte Theater:Ich gehe nicht ins Theater
+v02a7	Variable Label	Nein
+v02a7	1	Ja
+v02a8	Variable Label	Besuchte Theater:W.n./K.A.
+v02a8	Variable Label	Nein
+v02a8	1	Ja
+v03	Variable Label	Öffentliche Unterstützung für Theater
+v03	1	Dafür
+v03	2	Dagegen
+v03	3	W.N./K.A.
+v04	Variable Label	"Heldenplatz"-Premiere
+v04	1	Erfolg
+v04	2	Mißerfolg
+v04	3	W.N./K.A.
+v05	Variable Label	Diskussion um "Heldenplatz"
+v05	1	War eine ernste Sache
+v05	2	Wollte von wichtigeren Problemen ablenken
+v05	3	Andere Antworten
+v05	4	W.N./K.A.
+v06	Variable Label	Politikeräußerungen zu Fragen den Kunst
+v06	1	Ist in Ordnung
+v06	2	Sollten sich heraushalten
+v06	3	Andere Antworten
+v06	4	W.N./K.A.
+v07	Variable Label	"Heldenplatz" am Burgtheater?
+v07	1	War richtig
+v07	2	Hätte man an einem anderen Theater aufführen sollen
+v07	3	Hätte man verbieten sollen
+v07	4	W.N./K.A.
+v08a1	Variable Label	Aufgaben des Theaters: Politisches Theater
+v08a1	1	Stimme zu
+v08a1	2	Stimme nicht zu
+v08a1	3	W.N./K.A.
+v08a2	Variable Label	Aufgaben des Theaters: Unterhaltendes Theater
+v08a2	1	Stimme zu
+v08a2	2	Stimme nicht zu
+v08a2	3	W.N./K.A.
+v08a3	Variable Label	Aufgaben des Theaters: Läuterndes Theater
+v08a3	1	Stimme zu
+v08a3	2	Stimme nicht zu
+v08a3	3	W.N./K.A.
+v09	Variable Label	Grund für Burgtheater-Besuch
+v09	1	Wegen der Stücke
+v09	2	Wegen der Schauspieler
+v09	3	Wegen der Inszenierungen
+v09	4	W.N.K.A.
+v10	Variable Label	Eintrittspreise im Burgtheater
+v10	1	300 Schilling
+v10	2	400 Schilling
+v10	3	650 Schilling
+v10	4	800 Schilling
+v10	5	Mehr als 1000 Schilling
+v10	6	W.N./K.A.
+v11	Variable Label	Vertragsverlängerung für Peymann
+v11	1	Auf jeden Fall
+v11	2	Unter gewissen Umständen
+v11	3	Auf keinen Fall
+v11	4	W.N./K.A.
+v12a1	Variable Label	Weiß nicht
+v12a1	Variable Label	Nein
+v12a1	1	Ja
+v12a2	Variable Label	Andere Antworten
+v12a2	Variable Label	Nein
+v12a2	1	Ja
+v12a3	Variable Label	Konflikte bereinigt und Einigung mit Schauspielern
+v12a3	Variable Label	Nein
+v12a3	1	Ja
+v12a4	Variable Label	Wenn Ensemble für Peymann ist
+v12a4	Variable Label	Nein
+v12a4	1	Ja
+v12a5	Variable Label	Wenn Organisation/Verwaltung jemand anderer macht
+v12a5	Variable Label	Nein
+v12a5	1	Ja
+v12a6	Variable Label	Wenn er sich österreichischen Gegebenheiten anpaßt
+v12a6	Variable Label	Nein
+v12a6	1	Ja
+v12a7	Variable Label	Wenn er Österreich nicht mehr beleidigt
+v12a7	Variable Label	Nein
+v12a7	1	Ja
+v12a8	Variable Label	Wenn sich kein Österreicher findet
+v12a8	Variable Label	Nein
+v12a8	1	Ja
+v12a9	Variable Label	Wenn sich kein Besserer findet
+v12a9	Variable Label	Nein
+v12a9	1	Ja
+v12ao	Variable Label	Wenn er gutes Theater macht
+v12ao	Variable Label	Nein
+v12ao	1	Ja
+v12apl	Variable Label	Wenn er mehr österreichische Stücke spielt
+v12apl	Variable Label	Nein
+v12apl	1	Ja
+v13	Variable Label	Geschlecht
+v13	1	Männlich
+v13	2	Weiblich
+v14	Variable Label	Alter
+v14	1	16 bis 29 Jahre
+v14	2	30 bis 49 Jahre
+v14	3	50 Jahre und älter
+v15	Variable Label	Bildung
+v15	1	Matura/Universität
+v15	2	Pflichtschule mit weiterer Ausbildung
+v15	3	Pflichtschule ohne weiterer Ausbildung
+v16	Variable Label	Tätigkeit
+v16	1	In Ausbildung
+v16	2	Nicht berufstätig
+v16	3	Pension
+v16	4	Selbständig/Landwirt
+v16	5	Arbeiter
+v16	6	Angestellte/Beamte
+v17	Variable Label	Parteipräferenz
+v17	1	SPÖ
+v17	2	ÖVP
+v17	3	FPÖ
+v17	4	KPÖ
+v17	5	Grün-Alternative
+v17	6	Andere
+v17	7	Keine
+v17	8	Keine Angabe
+version	Variable Label	AUSSDA archive version

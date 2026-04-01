@@ -1,0 +1,59 @@
+﻿variable	value	Label
+CLASS	Variable Label	Classification
+CLASS	1	Neither teaching empirical social sciences nor doing empirical research
+CLASS	2	Teaching empircal social sciences classes
+CLASS	3	Doing empirical research
+CLASS	4	Doing both, teaching empirical social science classes and conducting empirical research
+COUN	Variable Label	Federal state
+COUN	1	Vienna
+COUN	2	Styria
+COUN	3	Salzburg
+COUN	4	Tyrol
+COUN	5	Carinthia
+COUN	6	Upper Austria
+COUN	7	Lower Austria
+COUN	8	Vorarlberg
+COUN	99	n.A.
+DISC	Variable Label	Discipline - ÖFOS 2012 /  FOS 2007 classification
+DISC	502	Economics and business
+DISC	503	Educational sciences
+DISC	504	Sociology
+DISC	506	Political science
+DISC	508	Media and communications
+DISC	509	Other social sciences (includes cases from 501 - psychology / 505 - law / 507 - social geography)
+doi	Variable Label	digital object identifier
+ID	Variable Label	ID
+POSI	Variable Label	Position
+POSI	1	Heads of departments with an academic position (e.g. full professors)
+POSI	2	Senior academic staff / faculty (e.g. Assoc.-Prof., Post-Doc., Senior Lect./Scien.)
+POSI	3	Junior academic staff (e.g. Research assistants, PhD candidates, project staff etc.)
+POSI	97	Heads of departments with an non-academic position (e.g. CEO etc.)
+POSI	98	n.A.
+R_NUM	Variable Label	Since 2016: Number of research projects?
+R_PRO	Variable Label	Since 2016: Involved in research projects?
+R_PRO	0	No
+R_PRO	1	Yes
+SEX	Variable Label	Sex of the individual
+SEX	0	Male
+SEX	1	Female
+T_METH	Variable Label	Since 2016: Teaching a course on methods or methodology?
+T_METH	0	No
+T_METH	1	Yes
+T_METH	97	n.A.
+T_METH	98	Available syllabus not detailed enough
+T_QUAL	Variable Label	Since 2016: Teaching a course using qualitative research data?
+T_QUAL	0	No
+T_QUAL	1	Yes
+T_QUAL	97	n.A.
+T_QUAL	98	Available syllabus not detailed enough
+T_QUAN	Variable Label	Since 2016: Teaching a course using quantitative research data?
+T_QUAN	0	No
+T_QUAN	1	Yes
+T_QUAN	97	n.A.
+T_QUAN	98	Available syllabus not detailed enough
+TYPE	Variable Label	Type of  institution
+TYPE	1	Public University
+TYPE	2	University of Applied Sciences
+TYPE	3	Private University
+TYPE	99	n.A.
+version	Variable Label	AUSSDA archive version

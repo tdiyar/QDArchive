@@ -1,0 +1,1487 @@
+﻿variable	value	Label
+doi	Variable Label	digital object identifier
+panel_weight	Variable Label	PANEL WEIGHT
+post_campint	Variable Label	ATTENTIVENESS TO ELECTION CAMPAIGN
+post_campint	1	very closely
+post_campint	2	quite closely
+post_campint	3	not so closely
+post_campint	4	not at all closely
+post_citizenship	Variable Label	AUSTRIAN CITIZENSHIP
+post_citizenship	1	yes
+post_ISCED	Variable Label	ISCED
+post_ISCED	1	0-2
+post_ISCED	2	3-4
+post_ISCED	3	5-8
+post_pp1	Variable Label	ISSUE 1: ASYLUM RULES: PRIORITY
+post_pp1	1	high priority
+post_pp1	2	medium priority
+post_pp1	3	low priority
+post_pp10	Variable Label	ISSUE 10: SUSTAINABLE ENERGY: PRIORITY
+post_pp10	1	high priority
+post_pp10	2	medium priority
+post_pp10	3	low priority
+post_pp11	Variable Label	ISSUE 11: SURVEILLANCE MEASURES: PRIORITY
+post_pp11	1	high priority
+post_pp11	2	medium priority
+post_pp11	3	low priority
+post_pp12	Variable Label	ISSUE 12: PROPERTY TAX: PRIORITY
+post_pp12	1	high priority
+post_pp12	2	medium priority
+post_pp12	3	low priority
+post_pp13	Variable Label	ISSUE 13: WORK REGULATIONS: PRIORITY
+post_pp13	1	high priority
+post_pp13	2	medium priority
+post_pp13	3	low priority
+post_pp14	Variable Label	ISSUE 14: DIRECT DEMOCRACY: PRIORITY
+post_pp14	1	high priority
+post_pp14	2	medium priority
+post_pp14	3	low priority
+post_pp15	Variable Label	ISSUE 15: DIESEL: PRIORITY
+post_pp15	1	high priority
+post_pp15	2	medium priority
+post_pp15	3	low priority
+post_pp16	Variable Label	ISSUE 16: EU REFUGEE QUOTAS: PRIORITY
+post_pp16	1	high priority
+post_pp16	2	medium priority
+post_pp16	3	low priority
+post_pp17	Variable Label	ISSUE 17: EU FREEDOM OF MOVEMENT: PRIORITY
+post_pp17	1	high priority
+post_pp17	2	medium priority
+post_pp17	3	low priority
+post_pp18	Variable Label	ISSUE 18: EU MEMBERSHIP: PRIORITY
+post_pp18	1	high priority
+post_pp18	2	medium priority
+post_pp18	3	low priority
+post_pp19	Variable Label	ISSUE 19: COMPREHENSIVE SCHOOLS: PRIORITY
+post_pp19	1	high priority
+post_pp19	2	medium priority
+post_pp19	3	low priority
+post_pp2	Variable Label	ISSUE 2: PENSION AGE: PRIORITY
+post_pp2	1	high priority
+post_pp2	2	medium priority
+post_pp2	3	low priority
+post_pp20	Variable Label	ISSUE 20: SOCIAL PARTNERS: PRIORITY
+post_pp20	1	high priority
+post_pp20	2	medium priority
+post_pp20	3	low priority
+post_pp21	Variable Label	ISSUE 21: UNEMPLOYMENT VS. NATIONAL DEBT: PRIORITY
+post_pp21	1	high priority
+post_pp21	2	medium priority
+post_pp21	3	low priority
+post_pp3	Variable Label	ISSUE 3: INCOME DIFFERENCES: PRIORITY
+post_pp3	1	high priority
+post_pp3	2	medium priority
+post_pp3	3	low priority
+post_pp4	Variable Label	ISSUE 4: TAXES AND SOCIAL SERVICES: PRIORITY
+post_pp4	1	high priority
+post_pp4	2	medium priority
+post_pp4	3	low priority
+post_pp5	Variable Label	ISSUE 5: GENDER QUOTAS: PRIORITY
+post_pp5	1	high priority
+post_pp5	2	medium priority
+post_pp5	3	low priority
+post_pp6	Variable Label	ISSUE 6: MINIMUM WAGE: PRIORITY
+post_pp6	1	high priority
+post_pp6	2	medium priority
+post_pp6	3	low priority
+post_pp7	Variable Label	ISSUE 7: ACCESS TO WELLFARE BENEFITS FOR IMMIGRANTS: PRIORITY
+post_pp7	1	high priority
+post_pp7	2	medium priority
+post_pp7	3	low priority
+post_pp8	Variable Label	ISSUE 8: ACCULTURATION OF FOREIGNERS: PRIORITY
+post_pp8	1	high priority
+post_pp8	2	medium priority
+post_pp8	3	low priority
+post_pp9	Variable Label	ISSUE 9: GAY MARRIAGE: PRIORITY
+post_pp9	1	high priority
+post_pp9	2	medium priority
+post_pp9	3	low priority
+post_priority_val_issue_1	Variable Label	VALENCE ISSUE 1: AFFORDABLE HOMES: PRIORITY
+post_priority_val_issue_1	1	Hohe Priorit
+post_priority_val_issue_1	2	Mittlere Priorit
+post_priority_val_issue_1	3	Geringe Priorit
+post_priority_val_issue_10	Variable Label	VALENCE ISSUE 10: FIGHTING CORRUPTION: PRIORITY
+post_priority_val_issue_10	1	Hohe Priorit
+post_priority_val_issue_10	2	Mittlere Priorit
+post_priority_val_issue_10	3	Geringe Priorit
+post_priority_val_issue_2	Variable Label	VALENCE ISSUE 2: FIGHTING POVERTY OF ELDERLY PEOPLE: PRIORITY
+post_priority_val_issue_2	1	Hohe Priorit
+post_priority_val_issue_2	2	Mittlere Priorit
+post_priority_val_issue_2	3	Geringe Priorit
+post_priority_val_issue_3	Variable Label	VALENCE ISSUE 3: PROTECT AGAINST TERRORIST ATTACKS: PRIORITY
+post_priority_val_issue_3	1	Hohe Priorit
+post_priority_val_issue_3	2	Mittlere Priorit
+post_priority_val_issue_3	3	Geringe Priorit
+post_priority_val_issue_4	Variable Label	VALENCE ISSUE 4: FIGHT UNEMPLOYMENT: PRIORITY
+post_priority_val_issue_4	1	Hohe Priorit
+post_priority_val_issue_4	2	Mittlere Priorit
+post_priority_val_issue_4	3	Geringe Priorit
+post_priority_val_issue_5	Variable Label	VALENCE ISSUE 5: SUPPORT ECONOMIC GROWTH: PRIORITY
+post_priority_val_issue_5	1	Hohe Priorit
+post_priority_val_issue_5	2	Mittlere Priorit
+post_priority_val_issue_5	3	Geringe Priorit
+post_priority_val_issue_6	Variable Label	VALENCE ISSUE 6: PROTECT THE ENVIRONMENT: PRIORITY
+post_priority_val_issue_6	1	Hohe Priorit
+post_priority_val_issue_6	2	Mittlere Priorit
+post_priority_val_issue_6	3	Geringe Priorit
+post_priority_val_issue_7	Variable Label	VALENCE ISSUE 7: FIGHTING CRIME: PRIORITY
+post_priority_val_issue_7	1	Hohe Priorit
+post_priority_val_issue_7	2	Mittlere Priorit
+post_priority_val_issue_7	3	Geringe Priorit
+post_priority_val_issue_8	Variable Label	VALENCE ISSUE 8: PROVIDING SOCIAL JUSTICE: PRIORITY
+post_priority_val_issue_8	1	Hohe Priorit
+post_priority_val_issue_8	2	Mittlere Priorit
+post_priority_val_issue_8	3	Geringe Priorit
+post_priority_val_issue_9	Variable Label	VALENCE ISSUE 9: CONTROL IMMIGRATION: PRIORITY
+post_priority_val_issue_9	1	Hohe Priorit
+post_priority_val_issue_9	2	Mittlere Priorit
+post_priority_val_issue_9	3	Geringe Priorit
+post_ptv_FPO	Variable Label	PTV: FPOE
+post_ptv_FPO	0	highly unlikely
+post_ptv_FPO	10	very likely
+post_ptv_FPO	88	don't know
+post_ptv_GRUNE	Variable Label	PTV: THE GREENS
+post_ptv_GRUNE	0	highly unlikely
+post_ptv_GRUNE	10	very likely
+post_ptv_GRUNE	88	don't know
+post_ptv_KURZ	Variable Label	PTV: LIST SEBASTIAN KURZ - THE NEW PEOPLE'S PARTY
+post_ptv_KURZ	0	highly unlikely
+post_ptv_KURZ	10	very likely
+post_ptv_KURZ	88	don't know
+post_ptv_NEOS	Variable Label	PTV: NEOS
+post_ptv_NEOS	0	highly unlikely
+post_ptv_NEOS	10	very likely
+post_ptv_NEOS	88	don't know
+post_ptv_PILZ	Variable Label	PTV: LIST PETER PILZ
+post_ptv_PILZ	0	highly unlikely
+post_ptv_PILZ	10	very likely
+post_ptv_PILZ	88	don't know
+post_ptv_SPO	Variable Label	PTV: SPOE
+post_ptv_SPO	0	highly unlikely
+post_ptv_SPO	10	very likely
+post_ptv_SPO	88	don't know
+post_ptvast_1	Variable Label	PROBABILITY TO VOTE - FUTURE ELECTIONS
+post_ptvast_1	0	will definitely vote
+post_ptvast_1	10	will definitely not vote
+post_Q1	Variable Label	TURNOUT: NATIONAL ELECTION 2017
+post_Q1	1	did not vote
+post_Q1	2	thought about it, but did not vote
+post_Q1	3	usually vote, not this time
+post_Q1	4	I voted
+post_Q2	Variable Label	VOTE CHOICE: NATIONAL ELECTION 2017
+post_Q2	1	SPOE
+post_Q2	2	List Sebastian Kurz - the New People's Party
+post_Q2	3	FPOE
+post_Q2	4	The Greens
+post_Q2	5	NEOS
+post_Q2	6	List Peter Pilz
+post_Q2	7	The Whites
+post_Q2	8	FLOE (List Dr. Schnell)
+post_Q2	9	KPOE PLUS
+post_Q2	10	List Roland Dueringer - My Vote Counts
+post_Q2	11	other party
+post_Q2	12	voted invalid
+post_Q2	88	don't know
+post_Q2	99	refused
+post_Q3	Variable Label	VOTE CHOICE: NATIONAL ELECTION 2017 - HYPOTHETICAL
+post_Q3	1	SPOE
+post_Q3	2	List Sebastian Kurz - the New People's Party
+post_Q3	3	FPOE
+post_Q3	4	The Greens
+post_Q3	5	NEOS
+post_Q3	6	List Peter Pilz
+post_Q3	7	The Whites
+post_Q3	8	FLOE (List Dr. Schnell)
+post_Q3	9	KPOE PLUS
+post_Q3	10	List Roland Dueringer - My Vote Counts
+post_Q3	11	other party
+post_Q3	12	would have voted invalid
+post_Q3	88	don't know
+post_Q3	99	refused
+post_reasonparty	Variable Label	REASON FOR VOTE CHOICE
+post_reasonparty	1	party has the best program
+post_reasonparty	2	lead candidate
+post_reasonparty	3	future government composition
+post_reasonparty	4	party has best suggestions
+post_reasonparty	5	party's previous work
+post_sex	Variable Label	GENDER
+post_sex	1	male
+post_sex	2	female
+post_startdate	Variable Label	STARTING DATE OF POST-WAVE INTERVIEW
+post_voteint	Variable Label	PARTY CHOICE: NEXT SUNDAY
+post_voteint	1	SPOE
+post_voteint	2	List Sebastian Kurz - the New People's Party
+post_voteint	3	FPOE
+post_voteint	4	The Greens
+post_voteint	5	NEOS
+post_voteint	6	List Peter Pilz
+post_voteint	9	empty ballot
+post_voteint	10	invalid ballot
+post_voteint	11	would not vote
+post_voteint	20	other party
+post_voteint	88	don't know
+post_voteint	99	refused
+postwave_weight	Variable Label	POST-WAVE WEIGHT
+pre_98_pos_issue_1	Variable Label	ISSUE 1: ASYLUM RULES: NONE OF THOSE PARTIES - COMPETENCE
+pre_98_pos_issue_1	0	not selected
+pre_98_pos_issue_1	1	selected
+pre_98_pos_issue_10	Variable Label	ISSUE 10: SUSTAINABLE ENERGY: NONE OF THOSE PARTIES - COMPETENCE
+pre_98_pos_issue_10	0	not selected
+pre_98_pos_issue_10	1	selected
+pre_98_pos_issue_11	Variable Label	ISSUE 11: SURVEILLANCE MEASURES: NONE OF THOSE PARTIES - COMPETENCE
+pre_98_pos_issue_11	0	not selected
+pre_98_pos_issue_11	1	selected
+pre_98_pos_issue_12	Variable Label	ISSUE 12: PROPERTY TAX: NONE OF THOSE PARTIES - COMPETENCE
+pre_98_pos_issue_12	0	not selected
+pre_98_pos_issue_12	1	selected
+pre_98_pos_issue_13	Variable Label	ISSUE 13: WORK REGULATIONS: NONE OF THOSE PARTIES - COMPETENCE
+pre_98_pos_issue_13	0	not selected
+pre_98_pos_issue_13	1	selected
+pre_98_pos_issue_14	Variable Label	ISSUE 14: DIRECT DEMOCRACY: NONE OF THOSE PARTIES - COMPETENCE
+pre_98_pos_issue_14	0	not selected
+pre_98_pos_issue_14	1	selected
+pre_98_pos_issue_15	Variable Label	ISSUE 15: DIESEL: NONE OF THOSE PARTIES - COMPETENCE
+pre_98_pos_issue_15	0	not selected
+pre_98_pos_issue_15	1	selected
+pre_98_pos_issue_16	Variable Label	ISSUE 16: EU REFUGEE QUOTAS: NONE OF THOSE PARTIES - COMPETENCE
+pre_98_pos_issue_16	0	not selected
+pre_98_pos_issue_16	1	selected
+pre_98_pos_issue_17	Variable Label	ISSUE 17: EU FREEDOM OF MOVEMENT: NONE OF THOSE PARTIES - COMPETENCE
+pre_98_pos_issue_17	0	not selected
+pre_98_pos_issue_17	1	selected
+pre_98_pos_issue_18	Variable Label	ISSUE 18: EU MEMBERSHIP: NONE OF THOSE PARTIES - COMPETENCE
+pre_98_pos_issue_18	0	not selected
+pre_98_pos_issue_18	1	selected
+pre_98_pos_issue_19	Variable Label	ISSUE 19: COMPREHENSIVE SCHOOLS: NONE OF THOSE PARTIES - COMPETENCE
+pre_98_pos_issue_19	0	not selected
+pre_98_pos_issue_19	1	selected
+pre_98_pos_issue_2	Variable Label	ISSUE 2: PENSION AGE: NONE OF THOSE PARTIES - COMPETENCE
+pre_98_pos_issue_2	0	not selected
+pre_98_pos_issue_2	1	selected
+pre_98_pos_issue_20	Variable Label	ISSUE 20: SOCIAL PARTNERS: NONE OF THOSE PARTIES - COMPETENCE
+pre_98_pos_issue_20	0	not selected
+pre_98_pos_issue_20	1	selected
+pre_98_pos_issue_21	Variable Label	ISSUE 21: UNEMPLOYMENT VS. NATIONAL DEBT: NONE OF THOSE PARTIES - COMPETENCE
+pre_98_pos_issue_21	0	not selected
+pre_98_pos_issue_21	1	selected
+pre_98_pos_issue_3	Variable Label	ISSUE 3: INCOME DIFFERENCES: NONE OF THOSE PARTIES - COMPETENCE
+pre_98_pos_issue_3	0	not selected
+pre_98_pos_issue_3	1	selected
+pre_98_pos_issue_4	Variable Label	ISSUE 4: TAXES AND SOCIAL SERVICES: NONE OF THOSE PARTIES - COMPETENCE
+pre_98_pos_issue_4	0	not selected
+pre_98_pos_issue_4	1	selected
+pre_98_pos_issue_5	Variable Label	ISSUE 5: GENDER QUOTAS: NONE OF THOSE PARTIES - COMPETENCE
+pre_98_pos_issue_5	0	not selected
+pre_98_pos_issue_5	1	selected
+pre_98_pos_issue_6	Variable Label	ISSUE 6: MINIMUM WAGE: NONE OF THESE PARTIES - COMPETENCE
+pre_98_pos_issue_6	0	not selected
+pre_98_pos_issue_6	1	selected
+pre_98_pos_issue_7	Variable Label	ISSUE 7: ACCESS TO WELLFARE BENEFITS FOR IMMIGRANTS: NONE OF THOSE PARTIES - COM
+pre_98_pos_issue_7	0	not selected
+pre_98_pos_issue_7	1	selected
+pre_98_pos_issue_8	Variable Label	ISSUE 8: ACCULTURATION OF FOREIGNERS: NONE OF THOSE PARTIES - COMPETENCE
+pre_98_pos_issue_8	0	not selected
+pre_98_pos_issue_8	1	selected
+pre_98_pos_issue_9	Variable Label	ISSUE 9: GAY MARRIAGE: NONE OF THOSE PARTIES - COMPETENCE
+pre_98_pos_issue_9	0	not selected
+pre_98_pos_issue_9	1	selected
+pre_98_val_issue_1	Variable Label	VALENCE ISSUE 1: AFFORDABLE HOMES: NONE OF THOSE PARTIES
+pre_98_val_issue_1	0	not selected
+pre_98_val_issue_1	1	selected
+pre_98_val_issue_10	Variable Label	VALENCE ISSUE 10: FIGHTING CORRUPTION: NONE OF THOSE PARTIES
+pre_98_val_issue_10	0	not selected
+pre_98_val_issue_10	1	selected
+pre_98_val_issue_2	Variable Label	VALENCE ISSUE 2: FIGHTING POVERTY OF ELDERLY PEOPLE: NONE OF THOSE PARTIES
+pre_98_val_issue_2	0	not selected
+pre_98_val_issue_2	1	selected
+pre_98_val_issue_3	Variable Label	VALENCE ISSUE 3: PROTECT AGAINST TERRORIST ATTACKS: NONE OF THOSE PARTIES
+pre_98_val_issue_3	0	not selected
+pre_98_val_issue_3	1	selected
+pre_98_val_issue_4	Variable Label	VALENCE ISSUE 4: FIGHT UNEMPLOYMENT: NONE OF THOSE PARTIES
+pre_98_val_issue_4	0	not selected
+pre_98_val_issue_4	1	selected
+pre_98_val_issue_5	Variable Label	VALENCE ISSUE 5: SUPPORT ECONOMIC GROWTH: NONE OF THOSE PARTIES
+pre_98_val_issue_5	0	not selected
+pre_98_val_issue_5	1	selected
+pre_98_val_issue_6	Variable Label	VALENCE ISSUE 6: PROTECT THE ENVIRONMENT: NONE OF THOSE PARTIES
+pre_98_val_issue_6	0	not selected
+pre_98_val_issue_6	1	selected
+pre_98_val_issue_7	Variable Label	VALENCE ISSUE 7: FIGHTING CRIME: NONE OF THOSE PARTIES
+pre_98_val_issue_7	0	not selected
+pre_98_val_issue_7	1	selected
+pre_98_val_issue_8	Variable Label	VALENCE ISSUE 8: PROVIDING SOCIAL JUSTICE: NONE OF THOSE PARTIES
+pre_98_val_issue_8	0	not selected
+pre_98_val_issue_8	1	selected
+pre_98_val_issue_9	Variable Label	VALENCE ISSUE 9: CONTROL IMMIGRATION: NONE OF THOSE PARTIES
+pre_98_val_issue_9	0	not selected
+pre_98_val_issue_9	1	selected
+pre_99_pos_issue_1	Variable Label	ISSUE 1: ASYLUM RULES: DON'T KNOW - COMPETENCE
+pre_99_pos_issue_1	0	not selected
+pre_99_pos_issue_1	1	selected
+pre_99_pos_issue_10	Variable Label	ISSUE 10: SUSTAINABLE ENERGY: DON'T KNOW - COMPETENCE
+pre_99_pos_issue_10	0	not selected
+pre_99_pos_issue_10	1	selected
+pre_99_pos_issue_11	Variable Label	ISSUE 11: SURVEILLANCE MEASURES: DON'T KNOW - COMPETENCE
+pre_99_pos_issue_11	0	not selected
+pre_99_pos_issue_11	1	selected
+pre_99_pos_issue_12	Variable Label	ISSUE 12: PROPERTY TAX: DON'T KNOW - COMPETENCE
+pre_99_pos_issue_12	0	not selected
+pre_99_pos_issue_12	1	selected
+pre_99_pos_issue_13	Variable Label	ISSUE 13: WORK REGULATIONS: DON'T KNOW - COMPETENCE
+pre_99_pos_issue_13	0	not selected
+pre_99_pos_issue_13	1	selected
+pre_99_pos_issue_14	Variable Label	ISSUE 14: DIRECT DEMOCRACY: DON'T KNOW - COMPETENCE
+pre_99_pos_issue_14	0	not selected
+pre_99_pos_issue_14	1	selected
+pre_99_pos_issue_15	Variable Label	ISSUE 15: DIESEL: DON'T KNOW - COMPETENCE
+pre_99_pos_issue_15	0	not selected
+pre_99_pos_issue_15	1	selected
+pre_99_pos_issue_16	Variable Label	ISSUE 16: EU REFUGEE QUOTAS: DON'T KNOW - COMPETENCE
+pre_99_pos_issue_16	0	not selected
+pre_99_pos_issue_16	1	selected
+pre_99_pos_issue_17	Variable Label	ISSUE 17: EU FREEDOM OF MOVEMENT: DON'T KNOW - COMPETENCE
+pre_99_pos_issue_17	0	not selected
+pre_99_pos_issue_17	1	selected
+pre_99_pos_issue_18	Variable Label	ISSUE 18: EU MEMBERSHIP: DON'T KNOW - COMPETENCE
+pre_99_pos_issue_18	0	not selected
+pre_99_pos_issue_18	1	selected
+pre_99_pos_issue_19	Variable Label	ISSUE 19: COMPREHENSIVE SCHOOLS: DON'T KNOW - COMPETENCE
+pre_99_pos_issue_19	0	not selected
+pre_99_pos_issue_19	1	selected
+pre_99_pos_issue_2	Variable Label	ISSUE 2: PENSION AGE: DON'T KNOW - COMPETENCE
+pre_99_pos_issue_2	0	not selected
+pre_99_pos_issue_2	1	selected
+pre_99_pos_issue_20	Variable Label	ISSUE 20: SOCIAL PARTNERS: DON'T KNOW - COMPETENCE
+pre_99_pos_issue_20	0	not selected
+pre_99_pos_issue_20	1	selected
+pre_99_pos_issue_21	Variable Label	ISSUE 21: UNEMPLOYMENT VS. NATIONAL DEBT: DON'T KNOW - COMPETENCE
+pre_99_pos_issue_21	0	not selected
+pre_99_pos_issue_21	1	selected
+pre_99_pos_issue_3	Variable Label	ISSUE 3: INCOME DIFFERENCES: DON'T KNOW - COMPETENCE
+pre_99_pos_issue_3	0	not selected
+pre_99_pos_issue_3	1	selected
+pre_99_pos_issue_4	Variable Label	ISSUE 4: TAXES AND SOCIAL SERVICES: DON'T KNOW - COMPETENCE
+pre_99_pos_issue_4	0	not selected
+pre_99_pos_issue_4	1	selected
+pre_99_pos_issue_5	Variable Label	ISSUE 5: GENDER QUOTAS: DON'T KNOW - COMPETENCE
+pre_99_pos_issue_5	0	not selected
+pre_99_pos_issue_5	1	selected
+pre_99_pos_issue_6	Variable Label	ISSUE 6: MINIMUM WAGE: DON'T KNOW - COMPETENCE
+pre_99_pos_issue_6	0	not selected
+pre_99_pos_issue_6	1	selected
+pre_99_pos_issue_7	Variable Label	ISSUE 7: ACCESS TO WELLFARE BENEFITS FOR IMMIGRANTS: DON'T KNOW - COMPETENCE
+pre_99_pos_issue_7	0	not selected
+pre_99_pos_issue_7	1	selected
+pre_99_pos_issue_8	Variable Label	ISSUE 8: ACCULTURATION OF FOREIGNERS: DON'T KNOW - COMPETENCE
+pre_99_pos_issue_8	0	not selected
+pre_99_pos_issue_8	1	selected
+pre_99_pos_issue_9	Variable Label	ISSUE 9: GAY MARRIAGE: DON'T KNOW - COMPETENCE
+pre_99_pos_issue_9	0	not selected
+pre_99_pos_issue_9	1	selected
+pre_99_val_issue_1	Variable Label	VALENCE ISSUE 1: AFFORDABLE HOMES: DON'T KNOW
+pre_99_val_issue_1	0	not selected
+pre_99_val_issue_1	1	selected
+pre_99_val_issue_10	Variable Label	VALENCE ISSUE 10: FIGHTING CORRUPTION: DON'T KNOW
+pre_99_val_issue_10	0	not selected
+pre_99_val_issue_10	1	selected
+pre_99_val_issue_2	Variable Label	VALENCE ISSUE 2: FIGHTING POVERTY OF ELDERLY PEOPLE: DON'T KNOW
+pre_99_val_issue_2	0	not selected
+pre_99_val_issue_2	1	selected
+pre_99_val_issue_3	Variable Label	VALENCE ISSUE 3: PROTECT AGAINST TERRORIST ATTACKS: DON'T KNOW
+pre_99_val_issue_3	0	not selected
+pre_99_val_issue_3	1	selected
+pre_99_val_issue_4	Variable Label	VALENCE ISSUE 4: FIGHT UNEMPLOYMENT: DON'T KNOW
+pre_99_val_issue_4	0	not selected
+pre_99_val_issue_4	1	selected
+pre_99_val_issue_5	Variable Label	VALENCE ISSUE 5: SUPPORT ECONOMIC GROWTH: DON'T KNOW
+pre_99_val_issue_5	0	not selected
+pre_99_val_issue_5	1	selected
+pre_99_val_issue_6	Variable Label	VALENCE ISSUE 6: PROTECT THE ENVIRONMENT: DON'T KNOW
+pre_99_val_issue_6	0	not selected
+pre_99_val_issue_6	1	selected
+pre_99_val_issue_7	Variable Label	VALENCE ISSUE 7: FIGHTING CRIME: DON'T KNOW
+pre_99_val_issue_7	0	not selected
+pre_99_val_issue_7	1	selected
+pre_99_val_issue_8	Variable Label	VALENCE ISSUE 8: PROVIDING SOCIAL JUSTICE: DON'T KNOW
+pre_99_val_issue_8	0	not selected
+pre_99_val_issue_8	1	selected
+pre_99_val_issue_9	Variable Label	VALENCE ISSUE 9: CONTROL IMMIGRATION: DON'T KNOW
+pre_99_val_issue_9	0	not selected
+pre_99_val_issue_9	1	selected
+pre_agegroup	Variable Label	AGE GROUP
+pre_agegroup	1	16-29
+pre_agegroup	2	30-44
+pre_agegroup	3	45-54
+pre_agegroup	4	55-64
+pre_agegroup	5	65+
+pre_church	Variable Label	ATTENDANCE OF RELIGIOUS SERVICES
+pre_church	1	daily
+pre_church	2	more often than once a week
+pre_church	3	once a week
+pre_church	4	at least once a month
+pre_church	5	only on special holidays
+pre_church	6	less often
+pre_church	7	never
+pre_citizenship	Variable Label	AUSTRIAN CITIZENSHIP
+pre_citizenship	1	yes
+pre_clasself	Variable Label	SOCIAL CLASS
+pre_clasself	1	working class
+pre_clasself	2	lower middle class
+pre_clasself	3	middle class
+pre_clasself	4	upper middle class
+pre_clasself	5	upper class
+pre_clasself	6	other
+pre_ecoprosp	Variable Label	ECON. SITUATION AUSTRIA: PROSPECTIVE (NEXT 12 MONTHS)
+pre_ecoprosp	1	get much better
+pre_ecoprosp	2	get somewhat better
+pre_ecoprosp	3	stay the same
+pre_ecoprosp	4	get somewhat worse
+pre_ecoprosp	5	get much worse
+pre_ecoretro	Variable Label	ECON. SITUATION AUSTRIA: RETROSPECTIVE (PAST 12 MONTHS)
+pre_ecoretro	1	got much better
+pre_ecoretro	2	got somewhat better
+pre_ecoretro	3	stayed the same
+pre_ecoretro	4	got somewhat worse
+pre_ecoretro	5	got much worse
+pre_edu	Variable Label	HIGHEST LEVEL OF EDUCATION
+pre_edu	1	did not attend school
+pre_edu	2	did not finish any school
+pre_edu	3	elementary school or less
+pre_edu	4	primary school/secondary education first stage
+pre_edu	5	special school
+pre_edu	6	polytechnic institute
+pre_edu	7	vocational training/school
+pre_edu	8	vocational middle school
+pre_edu	9	AHS with diploma
+pre_edu	10	BHS with diploma
+pre_edu	11	university-related college
+pre_edu	12	College
+pre_edu	13	Bachelor
+pre_edu	14	Magister/Master
+pre_edu	15	Doctorate/PhD
+pre_edu	16	other
+pre_edu	88	don't know
+pre_FPO_pos_issue_1	Variable Label	ISSUE 1: ASYLUM RULES: FPOE - COMPETENCE
+pre_FPO_pos_issue_1	0	not selected
+pre_FPO_pos_issue_1	1	selected
+pre_FPO_pos_issue_10	Variable Label	ISSUE 10: SUSTAINABLE ENERGY: FPOE - COMPETENCE
+pre_FPO_pos_issue_10	0	not selected
+pre_FPO_pos_issue_10	1	selected
+pre_FPO_pos_issue_11	Variable Label	ISSUE 11: SURVEILLANCE MEASURES: FPOE - COMPETENCE
+pre_FPO_pos_issue_11	0	not selected
+pre_FPO_pos_issue_11	1	selected
+pre_FPO_pos_issue_12	Variable Label	ISSUE 12: PROPERTY TAX: FPOE - COMPETENCE
+pre_FPO_pos_issue_12	0	not selected
+pre_FPO_pos_issue_12	1	selected
+pre_FPO_pos_issue_13	Variable Label	ISSUE 13: WORK REGULATIONS: FPOE - COMPETENCE
+pre_FPO_pos_issue_13	0	not selected
+pre_FPO_pos_issue_13	1	selected
+pre_FPO_pos_issue_14	Variable Label	ISSUE 14: DIRECT DEMOCRACY: FPOE - COMPETENCE
+pre_FPO_pos_issue_14	0	not selected
+pre_FPO_pos_issue_14	1	selected
+pre_FPO_pos_issue_15	Variable Label	ISSUE 15: DIESEL: FPOE - COMPETENCE
+pre_FPO_pos_issue_15	0	not selected
+pre_FPO_pos_issue_15	1	selected
+pre_FPO_pos_issue_16	Variable Label	ISSUE 16: EU REFUGEE QUOTAS: FPOE - COMPETENCE
+pre_FPO_pos_issue_16	0	not selected
+pre_FPO_pos_issue_16	1	selected
+pre_FPO_pos_issue_17	Variable Label	ISSUE 17: EU FREEDOM OF MOVEMENT: FPOE - COMPETENCE
+pre_FPO_pos_issue_17	0	not selected
+pre_FPO_pos_issue_17	1	selected
+pre_FPO_pos_issue_18	Variable Label	ISSUE 18: EU MEMBERSHIP: FPOE - COMPETENCE
+pre_FPO_pos_issue_18	0	not selected
+pre_FPO_pos_issue_18	1	selected
+pre_FPO_pos_issue_19	Variable Label	ISSUE 19: COMPREHENSIVE SCHOOLS: FPOE - COMPETENCE
+pre_FPO_pos_issue_19	0	not selected
+pre_FPO_pos_issue_19	1	selected
+pre_FPO_pos_issue_2	Variable Label	ISSUE 2: PENSION AGE: FPOE - COMPETENCE
+pre_FPO_pos_issue_2	0	not selected
+pre_FPO_pos_issue_2	1	selected
+pre_FPO_pos_issue_20	Variable Label	ISSUE 20: SOCIAL PARTNERS: FPOE - COMPETENCE
+pre_FPO_pos_issue_20	0	not selected
+pre_FPO_pos_issue_20	1	selected
+pre_FPO_pos_issue_21	Variable Label	ISSUE 21: UNEMPLOYMENT VS. NATIONAL DEBT: FPOE - COMPETENCE
+pre_FPO_pos_issue_21	0	not selected
+pre_FPO_pos_issue_21	1	selected
+pre_FPO_pos_issue_3	Variable Label	ISSUE 3: INCOME DIFFERENCES: FPOE - COMPETENCE
+pre_FPO_pos_issue_3	0	not selected
+pre_FPO_pos_issue_3	1	selected
+pre_FPO_pos_issue_4	Variable Label	ISSUE 4: TAXES AND SOCIAL SERVICES: FPOE - COMPETENCE
+pre_FPO_pos_issue_4	0	not selected
+pre_FPO_pos_issue_4	1	selected
+pre_FPO_pos_issue_5	Variable Label	ISSUE 5: GENDER QUOTAS: FPOE - COMPETENCE
+pre_FPO_pos_issue_5	0	not selected
+pre_FPO_pos_issue_5	1	selected
+pre_FPO_pos_issue_6	Variable Label	ISSUE 6: MINIMUM WAGE: FPOE - COMPETENCE
+pre_FPO_pos_issue_6	0	not selected
+pre_FPO_pos_issue_6	1	selected
+pre_FPO_pos_issue_7	Variable Label	ISSUE 7: ACCESS TO WELLFARE BENEFITS FOR IMMIGRANTS: FPOE - COMPETENCE
+pre_FPO_pos_issue_7	0	not selected
+pre_FPO_pos_issue_7	1	selected
+pre_FPO_pos_issue_8	Variable Label	ISSUE 8: ACCULTURATION OF FOREIGNERS: FPOE - COMPETENCE
+pre_FPO_pos_issue_8	0	not selected
+pre_FPO_pos_issue_8	1	selected
+pre_FPO_pos_issue_9	Variable Label	ISSUE 9: GAY MARRIAGE: FPOE - COMPETENCE
+pre_FPO_pos_issue_9	0	not selected
+pre_FPO_pos_issue_9	1	selected
+pre_FPO_val_issue_1	Variable Label	VALENCE ISSUE 1: AFFORDABLE HOMES: FPOE
+pre_FPO_val_issue_1	0	not selected
+pre_FPO_val_issue_1	1	selected
+pre_FPO_val_issue_10	Variable Label	VALENCE ISSUE 10: FIGHTING CORRUPTION: FPOE
+pre_FPO_val_issue_10	0	not selected
+pre_FPO_val_issue_10	1	selected
+pre_FPO_val_issue_2	Variable Label	VALENCE ISSUE 2: FIGHTING POVERTY OF ELDERLY PEOPLE: FPOE
+pre_FPO_val_issue_2	0	not selected
+pre_FPO_val_issue_2	1	selected
+pre_FPO_val_issue_3	Variable Label	VALENCE ISSUE 3: PROTECT AGAINST TERRORIST ATTACKS: FPOE
+pre_FPO_val_issue_3	0	not selected
+pre_FPO_val_issue_3	1	selected
+pre_FPO_val_issue_4	Variable Label	VALENCE ISSUE 4: FIGHT UNEMPLOYMENT: FPOE
+pre_FPO_val_issue_4	0	not selected
+pre_FPO_val_issue_4	1	selected
+pre_FPO_val_issue_5	Variable Label	VALENCE ISSUE 5: SUPPORT ECONOMIC GROWTH: FPOE
+pre_FPO_val_issue_5	0	not selected
+pre_FPO_val_issue_5	1	selected
+pre_FPO_val_issue_6	Variable Label	VALENCE ISSUE 6: PROTECT THE ENVIRONMENT: FPOE
+pre_FPO_val_issue_6	0	not selected
+pre_FPO_val_issue_6	1	selected
+pre_FPO_val_issue_7	Variable Label	VALENCE ISSUE 7: FIGHTING CRIME: FPOE
+pre_FPO_val_issue_7	0	not selected
+pre_FPO_val_issue_7	1	selected
+pre_FPO_val_issue_8	Variable Label	VALENCE ISSUE 8: PROVIDING SOCIAL JUSTICE: FPOE
+pre_FPO_val_issue_8	0	not selected
+pre_FPO_val_issue_8	1	selected
+pre_FPO_val_issue_9	Variable Label	VALENCE ISSUE 9: CONTROL IMMIGRATION: FPOE
+pre_FPO_val_issue_9	0	not selected
+pre_FPO_val_issue_9	1	selected
+pre_geosub	Variable Label	FEDERAL STATE
+pre_geosub	1	Vorarlberg
+pre_geosub	2	Tyrol
+pre_geosub	3	Salzburg
+pre_geosub	4	Upper Austria
+pre_geosub	5	Carinthia
+pre_geosub	6	Styria
+pre_geosub	7	Burgenland
+pre_geosub	8	Lower Austria
+pre_geosub	9	Vienna
+pre_govsat	Variable Label	SATISFACTION WITH CURRENT FEDERAL GOVERNMENT (SPOE-OEVP)
+pre_govsat	1	very satisfied
+pre_govsat	2	fairly satisfied
+pre_govsat	3	fairly dissatisfied
+pre_govsat	4	very dissatisfied
+pre_govsat	88	don't know
+pre_GRUNE_pos_issue_1	Variable Label	ISSUE 1: ASYLUM RULES: THE GREENS - COMPETENCE
+pre_GRUNE_pos_issue_1	0	not selected
+pre_GRUNE_pos_issue_1	1	selected
+pre_GRUNE_pos_issue_10	Variable Label	ISSUE 10: SUSTAINABLE ENERGY: THE GREENS - COMPETENCE
+pre_GRUNE_pos_issue_10	0	not selected
+pre_GRUNE_pos_issue_10	1	selected
+pre_GRUNE_pos_issue_11	Variable Label	ISSUE 11: SURVEILLANCE MEASURES: THE GREENS - COMPETENCE
+pre_GRUNE_pos_issue_11	0	not selected
+pre_GRUNE_pos_issue_11	1	selected
+pre_GRUNE_pos_issue_12	Variable Label	ISSUE 12: PROPERTY TAX: THE GREENS - COMPETENCE
+pre_GRUNE_pos_issue_12	0	not selected
+pre_GRUNE_pos_issue_12	1	selected
+pre_GRUNE_pos_issue_13	Variable Label	ISSUE 13: WORK REGULATIONS: THE GREENS - COMPETENCE
+pre_GRUNE_pos_issue_13	0	not selected
+pre_GRUNE_pos_issue_13	1	selected
+pre_GRUNE_pos_issue_14	Variable Label	ISSUE 14: DIRECT DEMOCRACY: THE GREENS - COMPETENCE
+pre_GRUNE_pos_issue_14	0	not selected
+pre_GRUNE_pos_issue_14	1	selected
+pre_GRUNE_pos_issue_15	Variable Label	ISSUE 15: DIESEL: THE GREENS - COMPETENCE
+pre_GRUNE_pos_issue_15	0	not selected
+pre_GRUNE_pos_issue_15	1	selected
+pre_GRUNE_pos_issue_16	Variable Label	ISSUE 16: EU REFUGEE QUOTAS: THE GREENS - COMPETENCE
+pre_GRUNE_pos_issue_16	0	not selected
+pre_GRUNE_pos_issue_16	1	selected
+pre_GRUNE_pos_issue_17	Variable Label	ISSUE 17: EU FREEDOM OF MOVEMENT: THE GREENS - COMPETENCE
+pre_GRUNE_pos_issue_17	0	not selected
+pre_GRUNE_pos_issue_17	1	selected
+pre_GRUNE_pos_issue_18	Variable Label	ISSUE 18: EU MEMBERSHIP: THE GREENS - COMPETENCE
+pre_GRUNE_pos_issue_18	0	not selected
+pre_GRUNE_pos_issue_18	1	selected
+pre_GRUNE_pos_issue_19	Variable Label	ISSUE 19: COMPREHENSIVE SCHOOLS: THE GREENS - COMPETENCE
+pre_GRUNE_pos_issue_19	0	not selected
+pre_GRUNE_pos_issue_19	1	selected
+pre_GRUNE_pos_issue_2	Variable Label	ISSUE 2: PENSION AGE: THE GREENS - COMPETENCE
+pre_GRUNE_pos_issue_2	0	not selected
+pre_GRUNE_pos_issue_2	1	selected
+pre_GRUNE_pos_issue_20	Variable Label	ISSUE 20: SOCIAL PARTNERS: THE GREENS - COMPETENCE
+pre_GRUNE_pos_issue_20	0	not selected
+pre_GRUNE_pos_issue_20	1	selected
+pre_GRUNE_pos_issue_21	Variable Label	ISSUE 21: UNEMPLOYMENT VS. NATIONAL DEBT: THE GREENS - COMPETENCE
+pre_GRUNE_pos_issue_21	0	not selected
+pre_GRUNE_pos_issue_21	1	selected
+pre_GRUNE_pos_issue_3	Variable Label	ISSUE 3: INCOME DIFFERENCES: THE GREENS - COMPETENCE
+pre_GRUNE_pos_issue_3	0	not selected
+pre_GRUNE_pos_issue_3	1	selected
+pre_GRUNE_pos_issue_4	Variable Label	ISSUE 4: TAXES AND SOCIAL SERVICES: THE GREENS - COMPETENCE
+pre_GRUNE_pos_issue_4	0	not selected
+pre_GRUNE_pos_issue_4	1	selected
+pre_GRUNE_pos_issue_5	Variable Label	ISSUE 5: GENDER QUOTAS: THE GREENS - COMPETENCE
+pre_GRUNE_pos_issue_5	0	not selected
+pre_GRUNE_pos_issue_5	1	selected
+pre_GRUNE_pos_issue_6	Variable Label	ISSUE 6: MINIMUM WAGE: THE GREENS - COMPETENCE
+pre_GRUNE_pos_issue_6	0	not selected
+pre_GRUNE_pos_issue_6	1	selected
+pre_GRUNE_pos_issue_7	Variable Label	ISSUE 7: ACCESS TO WELLFARE BENEFITS FOR IMMIGRANTS: THE GREENS - COMPETENCE
+pre_GRUNE_pos_issue_7	0	not selected
+pre_GRUNE_pos_issue_7	1	selected
+pre_GRUNE_pos_issue_8	Variable Label	ISSUE 8: ACCULTURATION OF FOREIGNERS: THE GREENS - COMPETENCE
+pre_GRUNE_pos_issue_8	0	not selected
+pre_GRUNE_pos_issue_8	1	selected
+pre_GRUNE_pos_issue_9	Variable Label	ISSUE 9: GAY MARRIAGE: THE GREENS - COMPETENCE
+pre_GRUNE_pos_issue_9	0	not selected
+pre_GRUNE_pos_issue_9	1	selected
+pre_GRUNE_val_issue_1	Variable Label	VALENCE ISSUE 1: AFFORDABLE HOMES: THE GREENS
+pre_GRUNE_val_issue_1	0	not selected
+pre_GRUNE_val_issue_1	1	selected
+pre_GRUNE_val_issue_10	Variable Label	VALENCE ISSUE 10: FIGHTING CORRUPTION: THE GREENS
+pre_GRUNE_val_issue_10	0	not selected
+pre_GRUNE_val_issue_10	1	selected
+pre_GRUNE_val_issue_2	Variable Label	VALENCE ISSUE 2: FIGHTING POVERTY OF ELDERLY PEOPLE: THE GREENS
+pre_GRUNE_val_issue_2	0	not selected
+pre_GRUNE_val_issue_2	1	selected
+pre_GRUNE_val_issue_3	Variable Label	VALENCE ISSUE 3: PROTECT AGAINST TERRORIST ATTACKS: THE GREENS
+pre_GRUNE_val_issue_3	0	not selected
+pre_GRUNE_val_issue_3	1	selected
+pre_GRUNE_val_issue_4	Variable Label	VALENCE ISSUE 4: FIGHT UNEMPLOYMENT: THE GREENS
+pre_GRUNE_val_issue_4	0	not selected
+pre_GRUNE_val_issue_4	1	selected
+pre_GRUNE_val_issue_5	Variable Label	VALENCE ISSUE 5: SUPPORT ECONOMIC GROWTH: THE GREENS
+pre_GRUNE_val_issue_5	0	not selected
+pre_GRUNE_val_issue_5	1	selected
+pre_GRUNE_val_issue_6	Variable Label	VALENCE ISSUE 6: PROTECT THE ENVIRONMENT: THE GREENS
+pre_GRUNE_val_issue_6	0	not selected
+pre_GRUNE_val_issue_6	1	selected
+pre_GRUNE_val_issue_7	Variable Label	VALENCE ISSUE 7: FIGHTING CRIME: THE GREENS
+pre_GRUNE_val_issue_7	0	not selected
+pre_GRUNE_val_issue_7	1	selected
+pre_GRUNE_val_issue_8	Variable Label	VALENCE ISSUE 8: PROVIDING SOCIAL JUSTICE: THE GREENS
+pre_GRUNE_val_issue_8	0	not selected
+pre_GRUNE_val_issue_8	1	selected
+pre_GRUNE_val_issue_9	Variable Label	VALENCE ISSUE 9: CONTROL IMMIGRATION: THE GREENS
+pre_GRUNE_val_issue_9	0	not selected
+pre_GRUNE_val_issue_9	1	selected
+pre_id	Variable Label	RESPONDENT ID PRE-WAVE
+pre_ISCED	Variable Label	ISCED
+pre_ISCED	1	0-2
+pre_ISCED	2	3-4
+pre_ISCED	3	5-8
+pre_leaderFPO_cares	Variable Label	HEINZ-CHRISTIAN STRACHE: CARES ABOUT CITIZENS
+pre_leaderFPO_cares	1	yes
+pre_leaderFPO_cares	2	no
+pre_leaderFPO_cares	88	don't know
+pre_leaderFPO_comp	Variable Label	HEINZ-CHRISTIAN STRACHE: COMPETENCE
+pre_leaderFPO_comp	1	yes
+pre_leaderFPO_comp	2	no
+pre_leaderFPO_comp	88	don't know
+pre_leaderFPO_hones	Variable Label	HEINZ-CHRISTIAN STRACHE: HONEST
+pre_leaderFPO_hones	1	yes
+pre_leaderFPO_hones	2	no
+pre_leaderFPO_hones	88	don't know
+pre_leaderFPO_stron	Variable Label	HEINZ-CHRISTIAN STRACHE: STRONG LEADER
+pre_leaderFPO_stron	1	yes
+pre_leaderFPO_stron	2	no
+pre_leaderFPO_stron	88	don't know
+pre_leaderGRUNE_cares	Variable Label	ULRIKE LUNACEK: CARES ABOUT CITIZENS
+pre_leaderGRUNE_cares	1	yes
+pre_leaderGRUNE_cares	2	no
+pre_leaderGRUNE_cares	88	don't know
+pre_leaderGRUNE_comp	Variable Label	ULRIKE LUNACEK: COMPETENCE
+pre_leaderGRUNE_comp	1	yes
+pre_leaderGRUNE_comp	2	no
+pre_leaderGRUNE_comp	88	don't know
+pre_leaderGRUNE_hones	Variable Label	ULRIKE LUNACEK: HONEST
+pre_leaderGRUNE_hones	1	yes
+pre_leaderGRUNE_hones	2	no
+pre_leaderGRUNE_hones	88	don't know
+pre_leaderGRUNE_stron	Variable Label	ULRIKE LUNACEK: STRONG LEADER
+pre_leaderGRUNE_stron	1	yes
+pre_leaderGRUNE_stron	2	no
+pre_leaderGRUNE_stron	88	don't know
+pre_leaderKURZ_cares	Variable Label	SEBASTIAN KURZ: CARES ABOUT CITIZENS
+pre_leaderKURZ_cares	1	yes
+pre_leaderKURZ_cares	2	no
+pre_leaderKURZ_cares	88	don't know
+pre_leaderKURZ_comp	Variable Label	SEBASTIAN KURZ: COMPETENCE
+pre_leaderKURZ_comp	1	yes
+pre_leaderKURZ_comp	2	no
+pre_leaderKURZ_comp	88	don't know
+pre_leaderKURZ_hones	Variable Label	SEBASTIAN KURZ: HONEST
+pre_leaderKURZ_hones	1	yes
+pre_leaderKURZ_hones	2	no
+pre_leaderKURZ_hones	88	don't know
+pre_leaderKURZ_stron	Variable Label	SEBASTIAN KURZ: STRONG LEADER
+pre_leaderKURZ_stron	1	yes
+pre_leaderKURZ_stron	2	no
+pre_leaderKURZ_stron	88	don't know
+pre_leaderNEOS_cares	Variable Label	MATTHIAS STROLZ: CARES ABOUT CITIZENS
+pre_leaderNEOS_cares	1	yes
+pre_leaderNEOS_cares	2	no
+pre_leaderNEOS_cares	88	don't know
+pre_leaderNEOS_comp	Variable Label	MATTHIAS STROLZ: COMPETENCE
+pre_leaderNEOS_comp	1	yes
+pre_leaderNEOS_comp	2	no
+pre_leaderNEOS_comp	88	don't know
+pre_leaderNEOS_hones	Variable Label	MATTHIAS STROLZ: HONEST
+pre_leaderNEOS_hones	1	yes
+pre_leaderNEOS_hones	2	no
+pre_leaderNEOS_hones	88	don't know
+pre_leaderNEOS_stron	Variable Label	MATTHIAS STROLZ: STRONG LEADER
+pre_leaderNEOS_stron	1	yes
+pre_leaderNEOS_stron	2	no
+pre_leaderNEOS_stron	88	don't know
+pre_leaderPILZ_cares	Variable Label	PETER PILZ: CARES ABOUT CITIZENS
+pre_leaderPILZ_cares	1	yes
+pre_leaderPILZ_cares	2	no
+pre_leaderPILZ_cares	88	don't know
+pre_leaderPILZ_comp	Variable Label	PETER PILZ: COMPETENCE
+pre_leaderPILZ_comp	1	yes
+pre_leaderPILZ_comp	2	no
+pre_leaderPILZ_comp	88	don't know
+pre_leaderPILZ_hones	Variable Label	PETER PILZ: HONEST
+pre_leaderPILZ_hones	1	yes
+pre_leaderPILZ_hones	2	no
+pre_leaderPILZ_hones	88	don't know
+pre_leaderPILZ_stron	Variable Label	PETER PILZ: STRONG LEADER
+pre_leaderPILZ_stron	1	yes
+pre_leaderPILZ_stron	2	no
+pre_leaderPILZ_stron	88	don't know
+pre_leaderSPO_cares	Variable Label	CHRISTIAN KERN: CARES ABOUT CITIZENS
+pre_leaderSPO_cares	1	yes
+pre_leaderSPO_cares	2	no
+pre_leaderSPO_cares	88	don't know
+pre_leaderSPO_comp	Variable Label	CHRISTIAN KERN: COMPETENCE
+pre_leaderSPO_comp	1	yes
+pre_leaderSPO_comp	2	no
+pre_leaderSPO_comp	88	don't know
+pre_leaderSPO_hones	Variable Label	CHRISTIAN KERN: HONEST
+pre_leaderSPO_hones	1	yes
+pre_leaderSPO_hones	2	no
+pre_leaderSPO_hones	88	don't know
+pre_leaderSPO_stron	Variable Label	CHRISTIAN KERN: STRONG LEADER
+pre_leaderSPO_stron	1	yes
+pre_leaderSPO_stron	2	no
+pre_leaderSPO_stron	88	don't know
+pre_livstand_1	Variable Label	LIVING CONDITION OF FAMILY
+pre_livstand_1	1	poor family
+pre_livstand_1	7	rich family
+pre_livtstand2	Variable Label	INCOME SITUATION
+pre_livtstand2	1	get along very well
+pre_livtstand2	2	get along well
+pre_livtstand2	3	get along with difficulty
+pre_livtstand2	4	get along with great difficulty
+pre_livtstand2	99	refused
+pre_lrself_0	Variable Label	LEFT-RIGHT SELF-PLACEMENT
+pre_lrself_0	0	left
+pre_lrself_0	10	right
+pre_monthborn	Variable Label	MONTH OF BIRTH
+pre_monthborn	1	January
+pre_monthborn	2	February
+pre_monthborn	3	March
+pre_monthborn	4	April
+pre_monthborn	5	May
+pre_monthborn	6	June
+pre_monthborn	7	July
+pre_monthborn	8	August
+pre_monthborn	9	September
+pre_monthborn	10	October
+pre_monthborn	11	November
+pre_monthborn	12	December
+pre_NEOS_pos_issue_1	Variable Label	ISSUE 1: ASYLUM RULES: NEOS - COMPETENCE
+pre_NEOS_pos_issue_1	0	not selected
+pre_NEOS_pos_issue_1	1	selected
+pre_NEOS_pos_issue_10	Variable Label	ISSUE 10: SUSTAINABLE ENERGY: NEOS - COMPETENCE
+pre_NEOS_pos_issue_10	0	not selected
+pre_NEOS_pos_issue_10	1	selected
+pre_NEOS_pos_issue_11	Variable Label	ISSUE 11: SURVEILLANCE MEASURES: NEOS - COMPETENCE
+pre_NEOS_pos_issue_11	0	not selected
+pre_NEOS_pos_issue_11	1	selected
+pre_NEOS_pos_issue_12	Variable Label	ISSUE 12: PROPERTY TAX: NEOS - COMPETENCE
+pre_NEOS_pos_issue_12	0	not selected
+pre_NEOS_pos_issue_12	1	selected
+pre_NEOS_pos_issue_13	Variable Label	ISSUE 13: WORK REGULATIONS: NEOS - COMPETENCE
+pre_NEOS_pos_issue_13	0	not selected
+pre_NEOS_pos_issue_13	1	selected
+pre_NEOS_pos_issue_14	Variable Label	ISSUE 14: DIRECT DEMOCRACY: NEOS - COMPETENCE
+pre_NEOS_pos_issue_14	0	not selected
+pre_NEOS_pos_issue_14	1	selected
+pre_NEOS_pos_issue_15	Variable Label	ISSUE 15: DIESEL: NEOS - COMPETENCE
+pre_NEOS_pos_issue_15	0	not selected
+pre_NEOS_pos_issue_15	1	selected
+pre_NEOS_pos_issue_16	Variable Label	ISSUE 16: EU REFUGEE QUOTAS: NEOS - COMPETENCE
+pre_NEOS_pos_issue_16	0	not selected
+pre_NEOS_pos_issue_16	1	selected
+pre_NEOS_pos_issue_17	Variable Label	ISSUE 17: EU FREEDOM OF MOVEMENT: NEOS - COMPETENCE
+pre_NEOS_pos_issue_17	0	not selected
+pre_NEOS_pos_issue_17	1	selected
+pre_NEOS_pos_issue_18	Variable Label	ISSUE 18: EU MEMBERSHIP: NEOS - COMPETENCE
+pre_NEOS_pos_issue_18	0	not selected
+pre_NEOS_pos_issue_18	1	selected
+pre_NEOS_pos_issue_19	Variable Label	ISSUE 19: COMPREHENSIVE SCHOOLS: NEOS - COMPETENCE
+pre_NEOS_pos_issue_19	0	not selected
+pre_NEOS_pos_issue_19	1	selected
+pre_NEOS_pos_issue_2	Variable Label	ISSUE 2: PENSION AGE: NEOS - COMPETENCE
+pre_NEOS_pos_issue_2	0	not selected
+pre_NEOS_pos_issue_2	1	selected
+pre_NEOS_pos_issue_20	Variable Label	ISSUE 20: SOCIAL PARTNERS: NEOS - COMPETENCE
+pre_NEOS_pos_issue_20	0	not selected
+pre_NEOS_pos_issue_20	1	selected
+pre_NEOS_pos_issue_21	Variable Label	ISSUE 21: UNEMPLOYMENT VS. NATIONAL DEBT: NEOS - COMPETENCE
+pre_NEOS_pos_issue_21	0	not selected
+pre_NEOS_pos_issue_21	1	selected
+pre_NEOS_pos_issue_3	Variable Label	ISSUE 3: INCOME DIFFERENCES: NEOS - COMPETENCE
+pre_NEOS_pos_issue_3	0	not selected
+pre_NEOS_pos_issue_3	1	selected
+pre_NEOS_pos_issue_4	Variable Label	ISSUE 4: TAXES AND SOCIAL SERVICES: NEOS - COMPETENCE
+pre_NEOS_pos_issue_4	0	not selected
+pre_NEOS_pos_issue_4	1	selected
+pre_NEOS_pos_issue_5	Variable Label	ISSUE 5: GENDER QUOTAS: NEOS - COMPETENCE
+pre_NEOS_pos_issue_5	0	not selected
+pre_NEOS_pos_issue_5	1	selected
+pre_NEOS_pos_issue_6	Variable Label	ISSUE 6: MINIMUM WAGE: NEOS - COMPETENCE
+pre_NEOS_pos_issue_6	0	not selected
+pre_NEOS_pos_issue_6	1	selected
+pre_NEOS_pos_issue_7	Variable Label	ISSUE 7: ACCESS TO WELLFARE BENEFITS FOR IMMIGRANTS: NEOS - COMPETENCE
+pre_NEOS_pos_issue_7	0	not selected
+pre_NEOS_pos_issue_7	1	selected
+pre_NEOS_pos_issue_8	Variable Label	ISSUE 8: ACCULTURATION OF FOREIGNERS: NEOS - COMPETENCE
+pre_NEOS_pos_issue_8	0	not selected
+pre_NEOS_pos_issue_8	1	selected
+pre_NEOS_pos_issue_9	Variable Label	ISSUE 9: GAY MARRIAGE: NEOS - COMPETENCE
+pre_NEOS_pos_issue_9	0	not selected
+pre_NEOS_pos_issue_9	1	selected
+pre_NEOS_val_issue_1	Variable Label	VALENCE ISSUE 1: AFFORDABLE HOMES: NEOS
+pre_NEOS_val_issue_1	0	not selected
+pre_NEOS_val_issue_1	1	selected
+pre_NEOS_val_issue_10	Variable Label	VALENCE ISSUE 10: FIGHTING CORRUPTION: NEOS
+pre_NEOS_val_issue_10	0	not selected
+pre_NEOS_val_issue_10	1	selected
+pre_NEOS_val_issue_2	Variable Label	VALENCE ISSUE 2: FIGHTING POVERTY OF ELDERLY PEOPLE: NEOS
+pre_NEOS_val_issue_2	0	not selected
+pre_NEOS_val_issue_2	1	selected
+pre_NEOS_val_issue_3	Variable Label	VALENCE ISSUE 3: PROTECT AGAINST TERRORIST ATTACKS: NEOS
+pre_NEOS_val_issue_3	0	not selected
+pre_NEOS_val_issue_3	1	selected
+pre_NEOS_val_issue_4	Variable Label	VALENCE ISSUE 4: FIGHT UNEMPLOYMENT: NEOS
+pre_NEOS_val_issue_4	0	not selected
+pre_NEOS_val_issue_4	1	selected
+pre_NEOS_val_issue_5	Variable Label	VALENCE ISSUE 5: SUPPORT ECONOMIC GROWTH: NEOS
+pre_NEOS_val_issue_5	0	not selected
+pre_NEOS_val_issue_5	1	selected
+pre_NEOS_val_issue_6	Variable Label	VALENCE ISSUE 6: PROTECT THE ENVIRONMENT: NEOS
+pre_NEOS_val_issue_6	0	not selected
+pre_NEOS_val_issue_6	1	selected
+pre_NEOS_val_issue_7	Variable Label	VALENCE ISSUE 7: FIGHTING CRIME: NEOS
+pre_NEOS_val_issue_7	0	not selected
+pre_NEOS_val_issue_7	1	selected
+pre_NEOS_val_issue_8	Variable Label	VALENCE ISSUE 8: PROVIDING SOCIAL JUSTICE: NEOS
+pre_NEOS_val_issue_8	0	not selected
+pre_NEOS_val_issue_8	1	selected
+pre_NEOS_val_issue_9	Variable Label	VALENCE ISSUE 9: CONTROL IMMIGRATION: NEOS
+pre_NEOS_val_issue_9	0	not selected
+pre_NEOS_val_issue_9	1	selected
+pre_newOVP_pos_issue_1	Variable Label	ISSUE 1: ASYLUM RULES: OEVP - COMPETENCE
+pre_newOVP_pos_issue_1	0	not selected
+pre_newOVP_pos_issue_1	1	selected
+pre_newOVP_pos_issue_10	Variable Label	ISSUE 10: SUSTAINABLE ENERGY: OEVP - COMPETENCE
+pre_newOVP_pos_issue_10	0	not selected
+pre_newOVP_pos_issue_10	1	selected
+pre_newOVP_pos_issue_11	Variable Label	ISSUE 11: SURVEILLANCE MEASURES: OEVP - COMPETENCE
+pre_newOVP_pos_issue_11	0	not selected
+pre_newOVP_pos_issue_11	1	selected
+pre_newOVP_pos_issue_12	Variable Label	ISSUE 12: PROPERTY TAX: OEVP - COMPETENCE
+pre_newOVP_pos_issue_12	0	not selected
+pre_newOVP_pos_issue_12	1	selected
+pre_newOVP_pos_issue_13	Variable Label	ISSUE 13: WORK REGULATIONS: OEVP - COMPETENCE
+pre_newOVP_pos_issue_13	0	not selected
+pre_newOVP_pos_issue_13	1	selected
+pre_newOVP_pos_issue_14	Variable Label	ISSUE 14: DIRECT DEMOCRACY: OEVP - COMPETENCE
+pre_newOVP_pos_issue_14	0	not selected
+pre_newOVP_pos_issue_14	1	selected
+pre_newOVP_pos_issue_15	Variable Label	ISSUE 15: DIESEL: OEVP - COMPETENCE
+pre_newOVP_pos_issue_15	0	not selected
+pre_newOVP_pos_issue_15	1	selected
+pre_newOVP_pos_issue_16	Variable Label	ISSUE 16: EU REFUGEE QUOTAS: OEVP - COMPETENCE
+pre_newOVP_pos_issue_16	0	not selected
+pre_newOVP_pos_issue_16	1	selected
+pre_newOVP_pos_issue_17	Variable Label	ISSUE 17: EU FREEDOM OF MOVEMENT: OEVP - COMPETENCE
+pre_newOVP_pos_issue_17	0	not selected
+pre_newOVP_pos_issue_17	1	selected
+pre_newOVP_pos_issue_18	Variable Label	ISSUE 18: EU MEMBERSHIP: OEVP - COMPETENCE
+pre_newOVP_pos_issue_18	0	not selected
+pre_newOVP_pos_issue_18	1	selected
+pre_newOVP_pos_issue_19	Variable Label	ISSUE 19: COMPREHENSIVE SCHOOLS: OEVP - COMPETENCE
+pre_newOVP_pos_issue_19	0	not selected
+pre_newOVP_pos_issue_19	1	selected
+pre_newOVP_pos_issue_2	Variable Label	ISSUE 2: PENSION AGE: OEVP - COMPETENCE
+pre_newOVP_pos_issue_2	0	not selected
+pre_newOVP_pos_issue_2	1	selected
+pre_newOVP_pos_issue_20	Variable Label	ISSUE 20: SOCIAL PARTNERS: OEVP - COMPETENCE
+pre_newOVP_pos_issue_20	0	not selected
+pre_newOVP_pos_issue_20	1	selected
+pre_newOVP_pos_issue_21	Variable Label	ISSUE 21: UNEMPLOYMENT VS. NATIONAL DEBT: OEVP - COMPETENCE
+pre_newOVP_pos_issue_21	0	not selected
+pre_newOVP_pos_issue_21	1	selected
+pre_newOVP_pos_issue_3	Variable Label	ISSUE 3: INCOME DIFFERENCES: OEVP - COMPETENCE
+pre_newOVP_pos_issue_3	0	not selected
+pre_newOVP_pos_issue_3	1	selected
+pre_newOVP_pos_issue_4	Variable Label	ISSUE 4: TAXES AND SOCIAL SERVICES: OEVP - COMPETENCE
+pre_newOVP_pos_issue_4	0	not selected
+pre_newOVP_pos_issue_4	1	selected
+pre_newOVP_pos_issue_5	Variable Label	ISSUE 5: GENDER QUOTAS: OEVP - COMPETENCE
+pre_newOVP_pos_issue_5	0	not selected
+pre_newOVP_pos_issue_5	1	selected
+pre_newOVP_pos_issue_6	Variable Label	ISSUE 6: MINIMUM WAGE: OEVP - COMPETENCE
+pre_newOVP_pos_issue_6	0	not selected
+pre_newOVP_pos_issue_6	1	selected
+pre_newOVP_pos_issue_7	Variable Label	ISSUE 7: ACCESS TO WELLFARE BENEFITS FOR IMMIGRANTS: OEVP - COMPETENCE
+pre_newOVP_pos_issue_7	0	not selected
+pre_newOVP_pos_issue_7	1	selected
+pre_newOVP_pos_issue_8	Variable Label	ISSUE 8: ACCULTURATION OF FOREIGNERS: OEVP - COMPETENCE
+pre_newOVP_pos_issue_8	0	not selected
+pre_newOVP_pos_issue_8	1	selected
+pre_newOVP_pos_issue_9	Variable Label	ISSUE 9: GAY MARRIAGE: OEVP - COMPETENCE
+pre_newOVP_pos_issue_9	0	not selected
+pre_newOVP_pos_issue_9	1	selected
+pre_newOVP_val_issue_1	Variable Label	VALENCE ISSUE 1: AFFORDABLE HOMES: OEVP
+pre_newOVP_val_issue_1	0	not selected
+pre_newOVP_val_issue_1	1	selected
+pre_newOVP_val_issue_10	Variable Label	VALENCE ISSUE 10: FIGHTING CORRUPTION: OEVP
+pre_newOVP_val_issue_10	0	not selected
+pre_newOVP_val_issue_10	1	selected
+pre_newOVP_val_issue_2	Variable Label	VALENCE ISSUE 2: FIGHTING POVERTY OF ELDERLY PEOPLE: OEVP
+pre_newOVP_val_issue_2	0	not selected
+pre_newOVP_val_issue_2	1	selected
+pre_newOVP_val_issue_3	Variable Label	VALENCE ISSUE 3: PROTECT AGAINST TERRORIST ATTACKS: OEVP
+pre_newOVP_val_issue_3	0	not selected
+pre_newOVP_val_issue_3	1	selected
+pre_newOVP_val_issue_4	Variable Label	VALENCE ISSUE 4: FIGHT UNEMPLOYMENT: OEVP
+pre_newOVP_val_issue_4	0	not selected
+pre_newOVP_val_issue_4	1	selected
+pre_newOVP_val_issue_5	Variable Label	VALENCE ISSUE 5: SUPPORT ECONOMIC GROWTH: OEVP
+pre_newOVP_val_issue_5	0	not selected
+pre_newOVP_val_issue_5	1	selected
+pre_newOVP_val_issue_6	Variable Label	VALENCE ISSUE 6: PROTECT THE ENVIRONMENT: OEVP
+pre_newOVP_val_issue_6	0	not selected
+pre_newOVP_val_issue_6	1	selected
+pre_newOVP_val_issue_7	Variable Label	VALENCE ISSUE 7: FIGHTING CRIME: OEVP
+pre_newOVP_val_issue_7	0	not selected
+pre_newOVP_val_issue_7	1	selected
+pre_newOVP_val_issue_8	Variable Label	VALENCE ISSUE 8: PROVIDING SOCIAL JUSTICE: OEVP
+pre_newOVP_val_issue_8	0	not selected
+pre_newOVP_val_issue_8	1	selected
+pre_newOVP_val_issue_9	Variable Label	VALENCE ISSUE 9: CONTROL IMMIGRATION: OEVP
+pre_newOVP_val_issue_9	0	not selected
+pre_newOVP_val_issue_9	1	selected
+pre_pidpartI	Variable Label	CLOSENESS TO A POLITICAL PARTY
+pre_pidpartI	1	yes
+pre_pidpartI	2	no
+pre_pidpartII	Variable Label	PARTY R. FEELS CLOSER TO
+pre_pidpartII	1	SPOE
+pre_pidpartII	2	List Sebastian Kurz - the New People's Party
+pre_pidpartII	3	FPOE
+pre_pidpartII	4	The Greens
+pre_pidpartII	5	NEOS
+pre_pidpartII	6	List Peter Pilz
+pre_pidpartII	20	other party
+pre_pidpartII	88	don't know
+pre_pidstre	Variable Label	DEGREE OF CLOSENESS TO PARTY
+pre_pidstre	1	very close
+pre_pidstre	2	somewhat close
+pre_pidstre	3	not very close
+pre_PILZ_pos_issue_1	Variable Label	ISSUE 1: ASYLUM RULES: LIST PETER PILZ - COMPETENCE
+pre_PILZ_pos_issue_1	0	not selected
+pre_PILZ_pos_issue_1	1	selected
+pre_PILZ_pos_issue_10	Variable Label	ISSUE 10: SUSTAINABLE ENERGY: LIST PETER PILZ - COMPETENCE
+pre_PILZ_pos_issue_10	0	not selected
+pre_PILZ_pos_issue_10	1	selected
+pre_PILZ_pos_issue_11	Variable Label	ISSUE 11: SURVEILLANCE MEASURES: LIST PETER PILZ - COMPETENCE
+pre_PILZ_pos_issue_11	0	not selected
+pre_PILZ_pos_issue_11	1	selected
+pre_PILZ_pos_issue_12	Variable Label	ISSUE 12: PROPERTY TAX: LIST PETER PILZ - COMPETENCE
+pre_PILZ_pos_issue_12	0	not selected
+pre_PILZ_pos_issue_12	1	selected
+pre_PILZ_pos_issue_13	Variable Label	ISSUE 13: WORK REGULATIONS: LIST PETER PILZ - COMPETENCE
+pre_PILZ_pos_issue_13	0	not selected
+pre_PILZ_pos_issue_13	1	selected
+pre_PILZ_pos_issue_14	Variable Label	ISSUE 14: DIRECT DEMOCRACY: LIST PETER PILZ - COMPETENCE
+pre_PILZ_pos_issue_14	0	not selected
+pre_PILZ_pos_issue_14	1	selected
+pre_PILZ_pos_issue_15	Variable Label	ISSUE 15: DIESEL: LIST PETER PILZ - COMPETENCE
+pre_PILZ_pos_issue_15	0	not selected
+pre_PILZ_pos_issue_15	1	selected
+pre_PILZ_pos_issue_16	Variable Label	ISSUE 16: EU REFUGEE QUOTAS: LIST PETER PILZ - COMPETENCE
+pre_PILZ_pos_issue_16	0	not selected
+pre_PILZ_pos_issue_16	1	selected
+pre_PILZ_pos_issue_17	Variable Label	ISSUE 17: EU FREEDOM OF MOVEMENT: LIST PETER PILZ - COMPETENCE
+pre_PILZ_pos_issue_17	0	not selected
+pre_PILZ_pos_issue_17	1	selected
+pre_PILZ_pos_issue_18	Variable Label	ISSUE 18: EU MEMBERSHIP: LIST PETER PILZ - COMPETENCE
+pre_PILZ_pos_issue_18	0	not selected
+pre_PILZ_pos_issue_18	1	selected
+pre_PILZ_pos_issue_19	Variable Label	ISSUE 19: COMPREHENSIVE SCHOOLS: LIST PETER PILZ - COMPETENCE
+pre_PILZ_pos_issue_19	0	not selected
+pre_PILZ_pos_issue_19	1	selected
+pre_PILZ_pos_issue_2	Variable Label	ISSUE 2: PENSION AGE: LIST PETER PILZ - COMPETENCE
+pre_PILZ_pos_issue_2	0	not selected
+pre_PILZ_pos_issue_2	1	selected
+pre_PILZ_pos_issue_20	Variable Label	ISSUE 20: SOCIAL PARTNERS: LIST PETER PILZ - COMPETENCE
+pre_PILZ_pos_issue_20	0	not selected
+pre_PILZ_pos_issue_20	1	selected
+pre_PILZ_pos_issue_21	Variable Label	ISSUE 21: UNEMPLOYMENT VS. NATIONAL DEBT: LIST PETER PILZ - COMPETENCE
+pre_PILZ_pos_issue_21	0	not selected
+pre_PILZ_pos_issue_21	1	selected
+pre_PILZ_pos_issue_3	Variable Label	ISSUE 3: INCOME DIFFERENCES: LIST PETER PILZ - COMPETENCE
+pre_PILZ_pos_issue_3	0	not selected
+pre_PILZ_pos_issue_3	1	selected
+pre_PILZ_pos_issue_4	Variable Label	ISSUE 4: TAXES AND SOCIAL SERVICES: LIST PETER PILZ - COMPETENCE
+pre_PILZ_pos_issue_4	0	not selected
+pre_PILZ_pos_issue_4	1	selected
+pre_PILZ_pos_issue_5	Variable Label	ISSUE 5: GENDER QUOTAS: LIST PETER PILZ - COMPETENCE
+pre_PILZ_pos_issue_5	0	not selected
+pre_PILZ_pos_issue_5	1	selected
+pre_PILZ_pos_issue_6	Variable Label	ISSUE 6: MINIMUM WAGE: LIST PETER PILZ - COMPETENCE
+pre_PILZ_pos_issue_6	0	not selected
+pre_PILZ_pos_issue_6	1	selected
+pre_PILZ_pos_issue_7	Variable Label	ISSUE 7: ACCESS TO WELLFARE BENEFITS FOR IMMIGRANTS: LIST PETER PILZ - COMPETENC
+pre_PILZ_pos_issue_7	0	not selected
+pre_PILZ_pos_issue_7	1	selected
+pre_PILZ_pos_issue_8	Variable Label	ISSUE 8: ACCULTURATION OF FOREIGNERS: LIST PETER PILZ - COMPETENCE
+pre_PILZ_pos_issue_8	0	not selected
+pre_PILZ_pos_issue_8	1	selected
+pre_PILZ_pos_issue_9	Variable Label	ISSUE 9: GAY MARRIAGE: LIST PETER PILZ - COMPETENCE
+pre_PILZ_pos_issue_9	0	not selected
+pre_PILZ_pos_issue_9	1	selected
+pre_PILZ_val_issue_1	Variable Label	VALENCE ISSUE 1: AFFORDABLE HOMES: LIST PETER PILZ
+pre_PILZ_val_issue_1	0	not selected
+pre_PILZ_val_issue_1	1	selected
+pre_PILZ_val_issue_10	Variable Label	VALENCE ISSUE 10: FIGHTING CORRUPTION: LIST PETER PILZ
+pre_PILZ_val_issue_10	0	not selected
+pre_PILZ_val_issue_10	1	selected
+pre_PILZ_val_issue_2	Variable Label	VALENCE ISSUE 2: FIGHTING POVERTY OF ELDERLY PEOPLE: LIST PETER PILZ
+pre_PILZ_val_issue_2	0	not selected
+pre_PILZ_val_issue_2	1	selected
+pre_PILZ_val_issue_3	Variable Label	VALENCE ISSUE 3: PROTECT AGAINST TERRORIST ATTACKS: LIST PETER PILZ
+pre_PILZ_val_issue_3	0	not selected
+pre_PILZ_val_issue_3	1	selected
+pre_PILZ_val_issue_4	Variable Label	VALENCE ISSUE 4: FIGHT UNEMPLOYMENT: LIST PETER PILZ
+pre_PILZ_val_issue_4	0	not selected
+pre_PILZ_val_issue_4	1	selected
+pre_PILZ_val_issue_5	Variable Label	VALENCE ISSUE 5: SUPPORT ECONOMIC GROWTH: LIST PETER PILZ
+pre_PILZ_val_issue_5	0	not selected
+pre_PILZ_val_issue_5	1	selected
+pre_PILZ_val_issue_6	Variable Label	VALENCE ISSUE 6: PROTECT THE ENVIRONMENT: LIST PETER PILZ
+pre_PILZ_val_issue_6	0	not selected
+pre_PILZ_val_issue_6	1	selected
+pre_PILZ_val_issue_7	Variable Label	VALENCE ISSUE 7: FIGHTING CRIME: LIST PETER PILZ
+pre_PILZ_val_issue_7	0	not selected
+pre_PILZ_val_issue_7	1	selected
+pre_PILZ_val_issue_8	Variable Label	VALENCE ISSUE 8: PROVIDING SOCIAL JUSTICE: LIST PETER PILZ
+pre_PILZ_val_issue_8	0	not selected
+pre_PILZ_val_issue_8	1	selected
+pre_PILZ_val_issue_9	Variable Label	VALENCE ISSUE 9: CONTROL IMMIGRATION: LIST PETER PILZ
+pre_PILZ_val_issue_9	0	not selected
+pre_PILZ_val_issue_9	1	selected
+pre_polint	Variable Label	POLITICAL INTEREST
+pre_polint	1	very interested
+pre_polint	2	fairly interested
+pre_polint	3	a little interested
+pre_polint	4	not at all interested
+pre_priority_pos_issue_1	Variable Label	ISSUE 1: ASYLUM RULES: PRIORITY
+pre_priority_pos_issue_1	1	high priority
+pre_priority_pos_issue_1	2	medium priority
+pre_priority_pos_issue_1	3	low priority
+pre_priority_pos_issue_10	Variable Label	ISSUE 10: SUSTAINABLE ENERGY: PRIORITY
+pre_priority_pos_issue_10	1	high priority
+pre_priority_pos_issue_10	2	medium priority
+pre_priority_pos_issue_10	3	low priority
+pre_priority_pos_issue_11	Variable Label	ISSUE 11: SURVEILLANCE MEASURES: PRIORITY
+pre_priority_pos_issue_11	1	high priority
+pre_priority_pos_issue_11	2	medium priority
+pre_priority_pos_issue_11	3	low priority
+pre_priority_pos_issue_12	Variable Label	ISSUE 12: PROPERTY TAX: PRIORITY
+pre_priority_pos_issue_12	1	high priority
+pre_priority_pos_issue_12	2	medium priority
+pre_priority_pos_issue_12	3	low priority
+pre_priority_pos_issue_13	Variable Label	ISSUE 13: WORK REGULATIONS: PRIORITY
+pre_priority_pos_issue_13	1	high priority
+pre_priority_pos_issue_13	2	medium priority
+pre_priority_pos_issue_13	3	low priority
+pre_priority_pos_issue_14	Variable Label	ISSUE 14: DIRECT DEMOCRACY: PRIORITY
+pre_priority_pos_issue_14	1	high priority
+pre_priority_pos_issue_14	2	medium priority
+pre_priority_pos_issue_14	3	low priority
+pre_priority_pos_issue_15	Variable Label	ISSUE 15: DIESEL: PRIORITY
+pre_priority_pos_issue_15	1	high priority
+pre_priority_pos_issue_15	2	medium priority
+pre_priority_pos_issue_15	3	low priority
+pre_priority_pos_issue_16	Variable Label	ISSUE 16: EU REFUGEE QUOTAS: PRIORITY
+pre_priority_pos_issue_16	1	high priority
+pre_priority_pos_issue_16	2	medium priority
+pre_priority_pos_issue_16	3	low priority
+pre_priority_pos_issue_17	Variable Label	ISSUE 17: EU FREEDOM OF MOVEMENT: PRIORITY
+pre_priority_pos_issue_17	1	high priority
+pre_priority_pos_issue_17	2	medium priority
+pre_priority_pos_issue_17	3	low priority
+pre_priority_pos_issue_18	Variable Label	ISSUE 18: EU MEMBERSHIP: PRIORITY
+pre_priority_pos_issue_18	1	high priority
+pre_priority_pos_issue_18	2	medium priority
+pre_priority_pos_issue_18	3	low priority
+pre_priority_pos_issue_19	Variable Label	ISSUE 19: COMPREHENSIVE SCHOOLS: PRIORITY
+pre_priority_pos_issue_19	1	high priority
+pre_priority_pos_issue_19	2	medium priority
+pre_priority_pos_issue_19	3	low priority
+pre_priority_pos_issue_2	Variable Label	ISSUE 2: PENSION AGE: PRIORITY
+pre_priority_pos_issue_2	1	high priority
+pre_priority_pos_issue_2	2	medium priority
+pre_priority_pos_issue_2	3	low priority
+pre_priority_pos_issue_20	Variable Label	ISSUE 20: SOCIAL PARTNERS: PRIORITY
+pre_priority_pos_issue_20	1	high priority
+pre_priority_pos_issue_20	2	medium priority
+pre_priority_pos_issue_20	3	low priority
+pre_priority_pos_issue_21	Variable Label	ISSUE 21: UNEMPLOYMENT VS. NATIONAL DEBT: PRIORITY
+pre_priority_pos_issue_21	1	high priority
+pre_priority_pos_issue_21	2	medium priority
+pre_priority_pos_issue_21	3	low priority
+pre_priority_pos_issue_3	Variable Label	ISSUE 3: INCOME DIFFERENCES: PRIORITY
+pre_priority_pos_issue_3	1	high priority
+pre_priority_pos_issue_3	2	medium priority
+pre_priority_pos_issue_3	3	low priority
+pre_priority_pos_issue_4	Variable Label	ISSUE 4: TAXES AND SOCIAL SERVICES: PRIORITY
+pre_priority_pos_issue_4	1	high priority
+pre_priority_pos_issue_4	2	medium priority
+pre_priority_pos_issue_4	3	low priority
+pre_priority_pos_issue_5	Variable Label	ISSUE 5: GENDER QUOTAS: PRIORITY
+pre_priority_pos_issue_5	1	high priority
+pre_priority_pos_issue_5	2	medium priority
+pre_priority_pos_issue_5	3	low priority
+pre_priority_pos_issue_6	Variable Label	ISSUE 6: MINIMUM WAGE: PRIORITY
+pre_priority_pos_issue_6	1	high priority
+pre_priority_pos_issue_6	2	medium priority
+pre_priority_pos_issue_6	3	low priority
+pre_priority_pos_issue_7	Variable Label	ISSUE 7: ACCESS TO WELLFARE BENEFITS FOR IMMIGRANTS: PRIORITY
+pre_priority_pos_issue_7	1	high priority
+pre_priority_pos_issue_7	2	medium priority
+pre_priority_pos_issue_7	3	low priority
+pre_priority_pos_issue_8	Variable Label	ISSUE 8: ACCULTURATION OF FOREIGNERS: PRIORITY
+pre_priority_pos_issue_8	1	high priority
+pre_priority_pos_issue_8	2	medium priority
+pre_priority_pos_issue_8	3	low priority
+pre_priority_pos_issue_9	Variable Label	ISSUE 9: GAY MARRIAGE: PRIORITY
+pre_priority_pos_issue_9	1	high priority
+pre_priority_pos_issue_9	2	medium priority
+pre_priority_pos_issue_9	3	low priority
+pre_priority_val_issue_1	Variable Label	VALENCE ISSUE 1: AFFORDABLE HOMES: PRIORITY
+pre_priority_val_issue_1	1	high priority
+pre_priority_val_issue_1	2	medium priority
+pre_priority_val_issue_1	3	low priority
+pre_priority_val_issue_10	Variable Label	VALENCE ISSUE 10: FIGHTING CORRUPTION: PRIORITY
+pre_priority_val_issue_10	1	high priority
+pre_priority_val_issue_10	2	medium priority
+pre_priority_val_issue_10	3	low priority
+pre_priority_val_issue_2	Variable Label	VALENCE ISSUE 2: FIGHTING POVERTY OF ELDERLY PEOPLE: PRIORITY
+pre_priority_val_issue_2	1	high priority
+pre_priority_val_issue_2	2	medium priority
+pre_priority_val_issue_2	3	low priority
+pre_priority_val_issue_3	Variable Label	VALENCE ISSUE 3: PROTECT AGAINST TERRORIST ATTACKS: PRIORITY
+pre_priority_val_issue_3	1	high priority
+pre_priority_val_issue_3	2	medium priority
+pre_priority_val_issue_3	3	low priority
+pre_priority_val_issue_4	Variable Label	VALENCE ISSUE 4: FIGHT UNEMPLOYMENT: PRIORITY
+pre_priority_val_issue_4	1	high priority
+pre_priority_val_issue_4	2	medium priority
+pre_priority_val_issue_4	3	low priority
+pre_priority_val_issue_5	Variable Label	VALENCE ISSUE 5: SUPPORT ECONOMIC GROWTH: PRIORITY
+pre_priority_val_issue_5	1	high priority
+pre_priority_val_issue_5	2	medium priority
+pre_priority_val_issue_5	3	low priority
+pre_priority_val_issue_6	Variable Label	VALENCE ISSUE 6: PROTECT THE ENVIRONMENT: PRIORITY
+pre_priority_val_issue_6	1	high priority
+pre_priority_val_issue_6	2	medium priority
+pre_priority_val_issue_6	3	low priority
+pre_priority_val_issue_7	Variable Label	VALENCE ISSUE 7: FIGHTING CRIME: PRIORITY
+pre_priority_val_issue_7	1	high priority
+pre_priority_val_issue_7	2	medium priority
+pre_priority_val_issue_7	3	low priority
+pre_priority_val_issue_8	Variable Label	VALENCE ISSUE 8: PROVIDING SOCIAL JUSTICE: PRIORITY
+pre_priority_val_issue_8	1	high priority
+pre_priority_val_issue_8	2	medium priority
+pre_priority_val_issue_8	3	low priority
+pre_priority_val_issue_9	Variable Label	VALENCE ISSUE 9: CONTROL IMMIGRATION: PRIORITY
+pre_priority_val_issue_9	1	high priority
+pre_priority_val_issue_9	2	medium priority
+pre_priority_val_issue_9	3	low priority
+pre_profcond	Variable Label	CURRENT PERSONAL SITUATION
+pre_profcond	1	employed
+pre_profcond	2	retired
+pre_profcond	3	a student at school
+pre_profcond	4	a student at university
+pre_profcond	5	other training
+pre_profcond	6	on leave
+pre_profcond	7	a homemaker
+pre_profcond	8	military/civilian service, voluntary social year
+pre_profcond	9	unfit for work
+pre_profcond	10	unemployed or seeking for work
+pre_profcond	11	other
+pre_profsect	Variable Label	PROFESSIONAL SECTOR
+pre_profsect	1	in agriculture
+pre_profsect	2	in public industry
+pre_profsect	3	in private industry
+pre_profsect	4	in public service
+pre_profsect	5	in private service industry
+pre_profsect	6	in another sector
+pre_profsect	66	have never worked
+pre_ptv_FPO	Variable Label	PTV: FPOE
+pre_ptv_FPO	0	highly unlikely
+pre_ptv_FPO	10	very likely
+pre_ptv_FPO	88	don't know
+pre_ptv_GRUNE	Variable Label	PTV: THE GREENS
+pre_ptv_GRUNE	0	highly unlikely
+pre_ptv_GRUNE	10	very likely
+pre_ptv_GRUNE	88	don't know
+pre_ptv_KURZ	Variable Label	PTV: LIST SEBASTIAN KURZ - THE NEW PEOPLE'S PARTY
+pre_ptv_KURZ	0	highly unlikely
+pre_ptv_KURZ	10	very likely
+pre_ptv_KURZ	88	don't know
+pre_ptv_NEOS	Variable Label	PTV: NEOS
+pre_ptv_NEOS	0	highly unlikely
+pre_ptv_NEOS	10	very likely
+pre_ptv_NEOS	88	don't know
+pre_ptv_PILZ	Variable Label	PTV: LIST PETER PILZ
+pre_ptv_PILZ	0	highly unlikely
+pre_ptv_PILZ	10	very likely
+pre_ptv_PILZ	88	don't know
+pre_ptv_SPO	Variable Label	PTV: SPOE
+pre_ptv_SPO	0	highly unlikely
+pre_ptv_SPO	10	very likely
+pre_ptv_SPO	88	don't know
+pre_ptvast_1	Variable Label	PROBABILITY TO VOTE
+pre_ptvast_1	0	will definitely vote
+pre_ptvast_1	10	will definitely not vote
+pre_region	Variable Label	REGION
+pre_region	1	Eastern Austria
+pre_region	2	Southern Austria
+pre_region	3	Western Austria
+pre_SD2	Variable Label	JOB SITUATION
+pre_SD2	1	employee
+pre_SD2	2	blue-collar worker
+pre_SD2	3	public official
+pre_SD2	4	civil servant
+pre_SD2	5	self-employed without employees
+pre_SD2	6	self-employed with employees
+pre_SD2	7	freelance worker
+pre_SD2	8	farmer
+pre_SD2	9	does not apply
+pre_self_pos_issue_1	Variable Label	ISSUE 1: ASYLUM RULES: SELF-POSITION
+pre_self_pos_issue_1	1	Make asylum rules more restrictive
+pre_self_pos_issue_1	6	Keep current asylum rules
+pre_self_pos_issue_10	Variable Label	ISSUE 10: SUSTAINABLE ENERGY: SELF-POSITION
+pre_self_pos_issue_10	1	Promoting the production of sustainable energy and at the same time limiting energy from oil and gas
+pre_self_pos_issue_10	6	Maintaining the current mix of sustainable and fossil energy
+pre_self_pos_issue_11	Variable Label	ISSUE 11: SURVEILLANCE MEASURES: SELF-POSITION
+pre_self_pos_issue_11	1	Surveillance measures should be extended
+pre_self_pos_issue_11	6	Surveillance measures should not be extended
+pre_self_pos_issue_12	Variable Label	ISSUE 12: PROPERTY TAX: SELF-POSITION
+pre_self_pos_issue_12	1	Austria should have a property tax on inheritance
+pre_self_pos_issue_12	6	Austria should not have a property tax on inheritance
+pre_self_pos_issue_13	Variable Label	ISSUE 13: WORK REGULATIONS: SELF-POSITION
+pre_self_pos_issue_13	1	Deregulate the job market
+pre_self_pos_issue_13	6	Keep current regulations in the job market
+pre_self_pos_issue_14	Variable Label	ISSUE 14: DIRECT DEMOCRACY: SELF-POSITION
+pre_self_pos_issue_14	1	Introduce stronger direct democracy measures
+pre_self_pos_issue_14	6	Keep current level of direct democracy measures
+pre_self_pos_issue_15	Variable Label	ISSUE 15: DIESEL: SELF-POSITION
+pre_self_pos_issue_15	1	Diesel cars should be banned
+pre_self_pos_issue_15	6	No cars should be banned
+pre_self_pos_issue_16	Variable Label	ISSUE 16: EU REFUGEE QUOTAS: SELF-POSITION
+pre_self_pos_issue_16	1	The EU has to enforce refugee quotas in all member states
+pre_self_pos_issue_16	6	Each member state of the EU should decide by its own on refugee quotas
+pre_self_pos_issue_17	Variable Label	ISSUE 17: EU FREEDOM OF MOVEMENT: SELF-POSITION
+pre_self_pos_issue_17	1	End freedom of movement of people from the EU into Austria
+pre_self_pos_issue_17	6	Allow freedom of movement of people from the EU into Austria
+pre_self_pos_issue_18	Variable Label	ISSUE 18: EU MEMBERSHIP: SELF-POSITION
+pre_self_pos_issue_18	1	Stay in the EU
+pre_self_pos_issue_18	6	Leave the EU
+pre_self_pos_issue_19	Variable Label	ISSUE 19: COMPREHENSIVE SCHOOLS: SELF-POSITION
+pre_self_pos_issue_19	1	Austria should introduce a comprehensive school for all children until the age of 14
+pre_self_pos_issue_19	6	Austria should not introduce a comprehensive school for all children until the age of 14
+pre_self_pos_issue_2	Variable Label	ISSUE 2: PENSION AGE: SELF-POSITION
+pre_self_pos_issue_2	1	Keep current pension age
+pre_self_pos_issue_2	6	Increase pension age
+pre_self_pos_issue_20	Variable Label	ISSUE 20: SOCIAL PARTNERS: SELF-POSITION
+pre_self_pos_issue_20	1	Austria should abolish the obligatory membership in trade associations (social partners)
+pre_self_pos_issue_20	6	Austria should not abolish the obligatory membership in trade associations (social partners)
+pre_self_pos_issue_21	Variable Label	ISSUE 21: UNEMPLOYMENT VS. NATIONAL DEBT: SELF-POSITION
+pre_self_pos_issue_21	1	Decrease unemployment needs at the expense of high national debt
+pre_self_pos_issue_21	6	Do not decrease unemployment at the expense of high national debt
+pre_self_pos_issue_3	Variable Label	ISSUE 3: INCOME DIFFERENCES: SELF-POSITION
+pre_self_pos_issue_3	1	Reduce income differences
+pre_self_pos_issue_3	6	Don't reduce income differences
+pre_self_pos_issue_4	Variable Label	ISSUE 4: TAXES AND SOCIAL SERVICES: SELF-POSITION
+pre_self_pos_issue_4	1	Raise taxes and spend more on health and social services
+pre_self_pos_issue_4	6	Cut taxes and spend less on health and social services
+pre_self_pos_issue_5	Variable Label	ISSUE 5: GENDER QUOTAS: SELF-POSITION
+pre_self_pos_issue_5	1	Politics should implement gender quota in order guarantee that all important jobs are equally given to women and men
+pre_self_pos_issue_5	6	Politics should not enforce gender quotas
+pre_self_pos_issue_6	Variable Label	ISSUE 6: MINIMUM WAGE: SELF-POSITION
+pre_self_pos_issue_6	1	Increase the minimum wage above 1500 euros
+pre_self_pos_issue_6	6	Do not increase the minimum wage above 1500 euros
+pre_self_pos_issue_7	Variable Label	ISSUE 7: ACCESS TO WELLFARE BENEFITS FOR IMMIGRANTS: SELF-POSITION
+pre_self_pos_issue_7	1	Restrict access to welfare benefits for immigrants
+pre_self_pos_issue_7	6	Maintain current levels of access to welfare benefits for immigrants
+pre_self_pos_issue_8	Variable Label	ISSUE 8: ACCULTURATION OF FOREIGNERS: SELF-POSITION
+pre_self_pos_issue_8	1	Require foreigners in Austria to fully adapt to Austrian culture
+pre_self_pos_issue_8	6	Allow foreigners in Austria to preserve their own culture
+pre_self_pos_issue_9	Variable Label	ISSUE 9: GAY MARRIAGE: SELF-POSITION
+pre_self_pos_issue_9	1	Allow gay marriages
+pre_self_pos_issue_9	6	Do not allow gay marriages
+pre_sex	Variable Label	GENDER
+pre_sex	1	male
+pre_sex	2	female
+pre_SPO_pos_issue_1	Variable Label	ISSUE 1: ASYLUM RULES: SPOE - COMPETENCE
+pre_SPO_pos_issue_1	0	not selected
+pre_SPO_pos_issue_1	1	selected
+pre_SPO_pos_issue_10	Variable Label	ISSUE 10: SUSTAINABLE ENERGY: SPOE - COMPETENCE
+pre_SPO_pos_issue_10	0	not selected
+pre_SPO_pos_issue_10	1	selected
+pre_SPO_pos_issue_11	Variable Label	ISSUE 11: SURVEILLANCE MEASURES: SPOE - COMPETENCE
+pre_SPO_pos_issue_11	0	not selected
+pre_SPO_pos_issue_11	1	selected
+pre_SPO_pos_issue_12	Variable Label	ISSUE 12: PROPERTY TAX: SPOE - COMPETENCE
+pre_SPO_pos_issue_12	0	not selected
+pre_SPO_pos_issue_12	1	selected
+pre_SPO_pos_issue_13	Variable Label	ISSUE 13: WORK REGULATIONS: SPOE - COMPETENCE
+pre_SPO_pos_issue_13	0	not selected
+pre_SPO_pos_issue_13	1	selected
+pre_SPO_pos_issue_14	Variable Label	ISSUE 14: DIRECT DEMOCRACY: SPOE - COMPETENCE
+pre_SPO_pos_issue_14	0	not selected
+pre_SPO_pos_issue_14	1	selected
+pre_SPO_pos_issue_15	Variable Label	ISSUE 15: DIESEL: SPOE - COMPETENCE
+pre_SPO_pos_issue_15	0	not selected
+pre_SPO_pos_issue_15	1	selected
+pre_SPO_pos_issue_16	Variable Label	ISSUE 16: EU REFUGEE QUOTAS: SPOE - COMPETENCE
+pre_SPO_pos_issue_16	0	not selected
+pre_SPO_pos_issue_16	1	selected
+pre_SPO_pos_issue_17	Variable Label	ISSUE 17: EU FREEDOM OF MOVEMENT: SPOE - COMPETENCE
+pre_SPO_pos_issue_17	0	not selected
+pre_SPO_pos_issue_17	1	selected
+pre_SPO_pos_issue_18	Variable Label	ISSUE 18: EU MEMBERSHIP: SPOE - COMPETENCE
+pre_SPO_pos_issue_18	0	not selected
+pre_SPO_pos_issue_18	1	selected
+pre_SPO_pos_issue_19	Variable Label	ISSUE 19: COMPREHENSIVE SCHOOLS: SPOE - COMPETENCE
+pre_SPO_pos_issue_19	0	not selected
+pre_SPO_pos_issue_19	1	selected
+pre_SPO_pos_issue_2	Variable Label	ISSUE 2: PENSION AGE: SPOE - COMPETENCE
+pre_SPO_pos_issue_2	0	not selected
+pre_SPO_pos_issue_2	1	selected
+pre_SPO_pos_issue_20	Variable Label	ISSUE 20: SOCIAL PARTNERS: SPOE - COMPETENCE
+pre_SPO_pos_issue_20	0	not selected
+pre_SPO_pos_issue_20	1	selected
+pre_SPO_pos_issue_21	Variable Label	ISSUE 21: UNEMPLOYMENT VS. NATIONAL DEBT: SPOE - COMPETENCE
+pre_SPO_pos_issue_21	0	not selected
+pre_SPO_pos_issue_21	1	selected
+pre_SPO_pos_issue_3	Variable Label	ISSUE 3: INCOME DIFFERENCES: SPOE - COMPETENCE
+pre_SPO_pos_issue_3	0	not selected
+pre_SPO_pos_issue_3	1	selected
+pre_SPO_pos_issue_4	Variable Label	ISSUE 4: TAXES AND SOCIAL SERVICES: SPOE - COMPETENCE
+pre_SPO_pos_issue_4	0	not selected
+pre_SPO_pos_issue_4	1	selected
+pre_SPO_pos_issue_5	Variable Label	ISSUE 5: GENDER QUOTAS: SPOE - COMPETENCE
+pre_SPO_pos_issue_5	0	not selected
+pre_SPO_pos_issue_5	1	selected
+pre_SPO_pos_issue_6	Variable Label	ISSUE 6: MINIMUM WAGE: SPOE - COMPETENCE
+pre_SPO_pos_issue_6	0	not selected
+pre_SPO_pos_issue_6	1	selected
+pre_SPO_pos_issue_7	Variable Label	ISSUE 7: ACCESS TO WELLFARE BENEFITS FOR IMMIGRANTS: SPOE - COMPETENCE
+pre_SPO_pos_issue_7	0	not selected
+pre_SPO_pos_issue_7	1	selected
+pre_SPO_pos_issue_8	Variable Label	ISSUE 8: ACCULTURATION OF FOREIGNERS: SPOE - COMPETENCE
+pre_SPO_pos_issue_8	0	not selected
+pre_SPO_pos_issue_8	1	selected
+pre_SPO_pos_issue_9	Variable Label	ISSUE 9: GAY MARRIAGE: SPOE - COMPETENCE
+pre_SPO_pos_issue_9	0	not selected
+pre_SPO_pos_issue_9	1	selected
+pre_SPO_val_issue_1	Variable Label	VALENCE ISSUE 1: AFFORDABLE HOMES: SPOE
+pre_SPO_val_issue_1	0	not selected
+pre_SPO_val_issue_1	1	selected
+pre_SPO_val_issue_10	Variable Label	VALENCE ISSUE 10: FIGHTING CORRUPTION: SPOE
+pre_SPO_val_issue_10	0	not selected
+pre_SPO_val_issue_10	1	selected
+pre_SPO_val_issue_2	Variable Label	VALENCE ISSUE 2: FIGHTING POVERTY OF ELDERLY PEOPLE: SPOE
+pre_SPO_val_issue_2	0	not selected
+pre_SPO_val_issue_2	1	selected
+pre_SPO_val_issue_3	Variable Label	VALENCE ISSUE 3: PROTECT AGAINST TERRORIST ATTACKS: SPOE
+pre_SPO_val_issue_3	0	not selected
+pre_SPO_val_issue_3	1	selected
+pre_SPO_val_issue_4	Variable Label	VALENCE ISSUE 4: FIGHT UNEMPLOYMENT: SPOE
+pre_SPO_val_issue_4	0	not selected
+pre_SPO_val_issue_4	1	selected
+pre_SPO_val_issue_5	Variable Label	VALENCE ISSUE 5: SUPPORT ECONOMIC GROWTH: SPOE
+pre_SPO_val_issue_5	0	not selected
+pre_SPO_val_issue_5	1	selected
+pre_SPO_val_issue_6	Variable Label	VALENCE ISSUE 6: PROTECT THE ENVIRONMENT: SPOE
+pre_SPO_val_issue_6	0	not selected
+pre_SPO_val_issue_6	1	selected
+pre_SPO_val_issue_7	Variable Label	VALENCE ISSUE 7: FIGHTING CRIME: SPOE
+pre_SPO_val_issue_7	0	not selected
+pre_SPO_val_issue_7	1	selected
+pre_SPO_val_issue_8	Variable Label	VALENCE ISSUE 8: PROVIDING SOCIAL JUSTICE: SPOE
+pre_SPO_val_issue_8	0	not selected
+pre_SPO_val_issue_8	1	selected
+pre_SPO_val_issue_9	Variable Label	VALENCE ISSUE 9: CONTROL IMMIGRATION: SPOE
+pre_SPO_val_issue_9	0	not selected
+pre_SPO_val_issue_9	1	selected
+pre_startdate	Variable Label	STARTING DATE OF PRE-WAVE INTERVIEW
+pre_townsize	Variable Label	RESIDENTIAL AREA
+pre_townsize	1	Village
+pre_townsize	2	Small town
+pre_townsize	3	Medium sized town
+pre_townsize	4	Suburb of a city
+pre_townsize	5	Center of a city
+pre_voteint	Variable Label	PARTY CHOICE: NEXT SUNDAY
+pre_voteint	1	SPOE
+pre_voteint	2	List Sebastian Kurz - the New People's Party
+pre_voteint	3	FPOE
+pre_voteint	4	The Greens
+pre_voteint	5	NEOS
+pre_voteint	6	List Peter Pilz
+pre_voteint	9	empty ballot
+pre_voteint	10	invalid ballot
+pre_voteint	11	would not vote
+pre_voteint	20	other party
+pre_voteint	88	don't know
+pre_voteint	99	refused
+pre_voteintII	Variable Label	PARTY CHOICE: HYPOTHETICAL
+pre_voteintII	1	SPOE
+pre_voteintII	2	List Sebastian Kurz - the New People's Party
+pre_voteintII	3	FPOE
+pre_voteintII	4	The Greens
+pre_voteintII	5	NEOS
+pre_voteintII	6	List Peter Pilz
+pre_voteintII	9	empty ballot
+pre_voteintII	10	invalid ballot
+pre_voteintII	11	would not vote
+pre_voteintII	20	other party
+pre_voteintII	88	don't know
+pre_voteintII	99	refused
+pre_votepast	Variable Label	VOTE CHOICE: NATIONAL ELECTION 2013
+pre_votepast	1	SPOE
+pre_votepast	2	OEVP
+pre_votepast	3	FPOE
+pre_votepast	4	The Greens
+pre_votepast	5	NEOS
+pre_votepast	6	Team Stronach
+pre_votepast	7	BZOE
+pre_votepast	8	not eligible
+pre_votepast	9	empty ballot
+pre_votepast	10	invalid ballot
+pre_votepast	11	did not vote
+pre_votepast	20	other party
+pre_votepast	88	don't know
+pre_votepast	99	refused
+pre_yearborn	Variable Label	YEAR OF BIRTH
+prewave_weight	Variable Label	PRE-WAVE WEIGHT
+token	Variable Label	Token
+version	Variable Label	AUSSDA archive version

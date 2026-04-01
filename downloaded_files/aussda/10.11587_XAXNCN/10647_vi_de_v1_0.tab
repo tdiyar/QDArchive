@@ -1,0 +1,399 @@
+﻿variable	value	Label
+doi	Variable Label	digital object identifier
+v1	Variable Label	Werden die "neuen Zuwanderer" in Zukunft auch "echte Wienerinnen und Wiener" werden?
+v1	1	Ja, zum größten Teil
+v1	2	eher schon
+v1	3	zum Teil
+v1	4	eher nicht
+v1	5	nur wenige
+v1	6	W.N./K.A.
+v10_1	Variable Label	W.N./K.A.
+v10_1	Variable Label	nicht genannt
+v10_1	1	genannt
+v10_10	Variable Label	Polen
+v10_10	Variable Label	nicht genannt
+v10_10	1	genannt
+v10_11	Variable Label	Serbien
+v10_11	Variable Label	nicht genannt
+v10_11	1	genannt
+v10_12	Variable Label	Türkei
+v10_12	Variable Label	nicht genannt
+v10_12	1	genannt
+v10_13	Variable Label	Slowakei
+v10_13	Variable Label	nicht genannt
+v10_13	1	genannt
+v10_14	Variable Label	Tschechien
+v10_14	Variable Label	nicht genannt
+v10_14	1	genannt
+v10_2	Variable Label	Andere
+v10_2	Variable Label	nicht genannt
+v10_2	1	genannt
+v10_3	Variable Label	Afrika
+v10_3	Variable Label	nicht genannt
+v10_3	1	genannt
+v10_4	Variable Label	Arabien/Ägypten/Marokko/Tunesien
+v10_4	Variable Label	nicht genannt
+v10_4	1	genannt
+v10_5	Variable Label	Asien/Indien/Indonesien/Philippinen/China/Japan/Thailand
+v10_5	Variable Label	nicht genannt
+v10_5	1	genannt
+v10_6	Variable Label	Bosnien
+v10_6	Variable Label	nicht genannt
+v10_6	1	genannt
+v10_7	Variable Label	Ex-Jugoslawien; Mazedonien, Kosovo, Albanien
+v10_7	Variable Label	nicht genannt
+v10_7	1	genannt
+v10_8	Variable Label	Kroatien
+v10_8	Variable Label	nicht genannt
+v10_8	1	genannt
+v10_9	Variable Label	Persien/Iran/Irak
+v10_9	Variable Label	nicht genannt
+v10_9	1	genannt
+v11	Variable Label	Geschlecht
+v11	1	männlich
+v11	2	weiblich
+v12	Variable Label	Alter
+v12	1	bis 25 Jahre
+v12	2	26-35 Jahre
+v12	3	36-50 Jahre
+v12	4	51-65 Jahre
+v12	5	ab 66 Jahre
+v13	Variable Label	Schulbildung
+v13	1	Hochschule
+v13	2	Mittelschule
+v13	3	Berufs- oder Handelsschule
+v13	4	Pflichtschule ohne weitere Ausbildung (Volks- u. Hauptsch.)
+v14	Variable Label	Tätigkeit
+v14	1	In Ausbildung (Schule, Lehre, Universität)
+v14	2	Pension
+v14	3	Nur im Haushalt tätig
+v14	4	Arbeitslos
+v14	5	Selbständig
+v14	6	Landwirt
+v14	7	Hilfsarbeiter
+v14	8	Facharbeiter
+v14	9	Angestellter
+v14	10	Beamter
+v14	11	Anderes
+v15	Variable Label	Aktuelle Parteipräferenz
+v15	1	SPÖ
+v15	2	FPÖ
+v15	3	ÖVP
+v15	4	Grüne
+v15	5	BZÖ
+v15	6	KPÖ
+v15	7	Keine
+v15	8	K.A.
+v16_1	Variable Label	SPÖ
+v16_1	Variable Label	nicht genannt
+v16_1	1	genannt
+v16_2	Variable Label	FPÖ
+v16_2	Variable Label	nicht genannt
+v16_2	1	genannt
+v16_3	Variable Label	ÖVP
+v16_3	Variable Label	nicht genannt
+v16_3	1	genannt
+v16_4	Variable Label	Grüne
+v16_4	Variable Label	nicht genannt
+v16_4	1	genannt
+v16_5	Variable Label	BZÖ
+v16_5	Variable Label	nicht genannt
+v16_5	1	genannt
+v16_6	Variable Label	KPÖ
+v16_6	Variable Label	nicht genannt
+v16_6	1	genannt
+v16_7	Variable Label	Keine
+v16_7	Variable Label	nicht genannt
+v16_7	1	genannt
+v16_8	Variable Label	K.A.
+v16_8	Variable Label	nicht genannt
+v16_8	1	genannt
+v17	Variable Label	Wenn die Nationalratswahl am kommenden Sonntag wäre, welcher Partei würden Sie Ihre Stimme geben?
+v17	1	SPÖ
+v17	2	FPÖ
+v17	3	ÖVP
+v17	4	Grüne
+v17	5	BZÖ
+v17	6	KPÖ
+v17	7	Keine
+v17	8	K.A.
+v18	Variable Label	Wiener Bezirk
+v18	1	1
+v18	2	2
+v18	3	3
+v18	4	4
+v18	5	5
+v18	6	6
+v18	7	7
+v18	8	8
+v18	9	9
+v18	10	10
+v18	11	11
+v18	12	12
+v18	13	13
+v18	14	14
+v18	15	15
+v18	16	16
+v18	17	17
+v18	18	18
+v18	19	19
+v18	20	20
+v18	21	21
+v18	22	22
+v18	23	23
+v2a1	Variable Label	In vielen Häusern müssen Wiener mit Ausländern zusammenwohnen
+v2a1	1	stimmt
+v2a1	2	stimmt nicht
+v2a1	3	W.N./K.A.
+v2a2	Variable Label	"In vielen Häusern müssen Wiener mit Ausländern zusammenwohnen": Halte ich für bedenklich
+v2a2	1	Ja
+v2a2	2	Nein
+v2a3	Variable Label	"In vielen Häusern müssen Wiener mit Ausländern zusammenwohnen": Stört mich
+v2a3	1	Ja
+v2a3	2	Nein
+v2b1	Variable Label	Viele Wiener müssen mit Ausländern zusammenarbeiten
+v2b1	1	stimmt
+v2b1	2	stimmt nicht
+v2b1	3	W.N./K.A.
+v2b2	Variable Label	"Viele Wiener müssen mit Ausländern zusammenarbeiten": Halte ich für bedenklich
+v2b2	1	Ja
+v2b2	2	Nein
+v2b3	Variable Label	"Viele Wiener müssen mit Ausländern zusammenarbeiten": Stört mich
+v2b3	1	Ja
+v2b3	2	Nein
+v2c1	Variable Label	In Kindergärten müssen Wiener Kinder mit Kindern, die nicht deutsch können, spielen
+v2c1	1	stimmt
+v2c1	2	stimmt nicht
+v2c1	3	W.N./K.A.
+v2c2	Variable Label	"In Kindergärten müssen Wiener Kinder mit Kindern, die nicht deutsch können, spielen ": Halte ich für bedenklich
+v2c2	1	Ja
+v2c2	2	Nein
+v2c3	Variable Label	"In Kindergärten müssen Wiener Kinder mit Kindern, die nicht deutsch können, spielen ": Stört mich
+v2c3	1	Ja
+v2c3	2	Nein
+v2d1	Variable Label	Wiener Kinder müssen mit fremdsprachigen Kindern in die Schule gehen
+v2d1	1	stimmt
+v2d1	2	stimmt nicht
+v2d1	3	W.N./K.A.
+v2d2	Variable Label	"Wiener Kinder müssen mit fremdsprachigen Kindern in die Schule gehen": Halte ich für bedenklich
+v2d2	1	Ja
+v2d2	2	Nein
+v2d3	Variable Label	"Wiener Kinder müssen mit fremdsprachigen Kindern in die Schule gehen": Stört mich
+v2d3	1	Ja
+v2d3	2	Nein
+v2e1	Variable Label	Es gibt immer mehr Geschäfte, in denen man nur von Ausländern bedient wird
+v2e1	1	stimmt
+v2e1	2	stimmt nicht
+v2e1	3	W.N./K.A.
+v2e2	Variable Label	"Es gibt immer mehr Geschäfte, in denen man nur von Ausländern bedient wird": Halte ich für bedenklich
+v2e2	1	Ja
+v2e2	2	Nein
+v2e3	Variable Label	"Es gibt immer mehr Geschäfte, in denen man nur von Ausländern bedient wird": Stört mich
+v2e3	1	Ja
+v2e3	2	Nein
+v2f1	Variable Label	In Spitälern müssen Wiener oft mit Ausländern in einem Zimmer liegen
+v2f1	1	stimmt
+v2f1	2	stimmt nicht
+v2f1	3	W.N./K.A.
+v2f2	Variable Label	"In Spitälern müssen Wiener oft mit Ausländern in einem Zimmer liegen": Halte ich für bedenklich
+v2f2	1	Ja
+v2f2	2	Nein
+v2f3	Variable Label	"In Spitälern müssen Wiener oft mit Ausländern in einem Zimmer liegen": Stört mich
+v2f3	1	Ja
+v2f3	2	Nein
+v2g1	Variable Label	Ausländer nehmen Wienern die Arbeitsplätze weg
+v2g1	1	stimmt
+v2g1	2	stimmt nicht
+v2g1	3	W.N./K.A.
+v2g2	Variable Label	"Ausländer nehmen Wienern die Arbeitsplätze weg": Halte ich für bedenklich
+v2g2	1	Ja
+v2g2	2	Nein
+v2g3	Variable Label	"Ausländer nehmen Wienern die Arbeitsplätze weg": Stört mich
+v2g3	1	Ja
+v2g3	2	Nein
+v2h1	Variable Label	Ausländer bekommen in Wien Gemeindewohnungen
+v2h1	1	stimmt
+v2h1	2	stimmt nicht
+v2h1	3	W.N./K.A.
+v2h2	Variable Label	"Ausländer bekommen in Wien Gemeindewohnungen": Halte ich für bedenklich
+v2h2	1	Ja
+v2h2	2	Nein
+v2h3	Variable Label	"Ausländer bekommen in Wien Gemeindewohnungen": Stört mich
+v2h3	1	Ja
+v2h3	2	Nein
+v2i1	Variable Label	Afrikaner, die in Wien leben, werden häufig eingebürgert
+v2i1	1	stimmt
+v2i1	2	stimmt nicht
+v2i1	3	W.N./K.A.
+v2i2	Variable Label	"Afrikaner, die in Wien leben, werden häufig eingebürgert": Halte ich für bedenklich
+v2i2	1	Ja
+v2i2	2	Nein
+v2i3	Variable Label	"Afrikaner, die in Wien leben, werden häufig eingebürgert": Stört mich
+v2i3	1	Ja
+v2i3	2	Nein
+v2j1	Variable Label	In öffentlichen Verkehrsmitteln in Wien gibt es immer mehr ausländische Fahrgäste
+v2j1	1	stimmt
+v2j1	2	stimmt nicht
+v2j1	3	W.N./K.A.
+v2j2	Variable Label	"In öffentlichen Verkehrsmitteln in Wien gibt es immer mehr ausländische Fahrgäste": Halte ich für bedenklich
+v2j2	1	Ja
+v2j2	2	Nein
+v2j3	Variable Label	"In öffentlichen Verkehrsmitteln in Wien gibt es immer mehr ausländische Fahrgäste": Stört mich
+v2j3	1	Ja
+v2j3	2	Nein
+v2k1	Variable Label	Ausländer versteht man nicht, wenn sie unter einander reden
+v2k1	1	stimmt
+v2k1	2	stimmt nicht
+v2k1	3	W.N./K.A.
+v2k2	Variable Label	"Ausländer versteht man nicht, wenn sie unter einander reden": Halte ich für bedenklich
+v2k2	1	Ja
+v2k2	2	Nein
+v2k3	Variable Label	"Ausländer versteht man nicht, wenn sie unter einander reden": Stört mich
+v2k3	1	Ja
+v2k3	2	Nein
+v3	Variable Label	Wie funktioniert die Integration und das Zusammenleben von Österreichern und Zuwanderern in Wien?
+v3	1	sehr gut, reibungslos
+v3	2	gut
+v3	3	funktioniert teils/teils, könnte besser sein
+v3	4	eher schlecht
+v3	5	ganz schlecht, nimmt eine bedrohliche Entwicklung
+v3	6	W.N./K.A.
+v4_1	Variable Label	Kinder
+v4_1	Variable Label	nicht genannt
+v4_1	1	genannt
+v4_2	Variable Label	Männliche Jugendliche
+v4_2	Variable Label	nicht genannt
+v4_2	1	genannt
+v4_3	Variable Label	Weibliche Jugendliche
+v4_3	Variable Label	nicht genannt
+v4_3	1	genannt
+v4_4	Variable Label	Männer
+v4_4	Variable Label	nicht genannt
+v4_4	1	genannt
+v4_5	Variable Label	Frauen
+v4_5	Variable Label	nicht genannt
+v4_5	1	genannt
+v4_6	Variable Label	Pensionisten
+v4_6	Variable Label	nicht genannt
+v4_6	1	genannt
+v4_7	Variable Label	Andere
+v4_7	Variable Label	nicht genannt
+v4_7	1	genannt
+v4_8	Variable Label	W.N./K.A.
+v4_8	Variable Label	nicht genannt
+v4_8	1	genannt
+v5_1	Variable Label	W.N./K.A.
+v5_1	Variable Label	nicht genannt
+v5_1	1	genannt
+v5_10	Variable Label	Serben
+v5_10	Variable Label	nicht genannt
+v5_10	1	genannt
+v5_11	Variable Label	Slowaken
+v5_11	Variable Label	nicht genannt
+v5_11	1	genannt
+v5_12	Variable Label	Slowenen
+v5_12	Variable Label	nicht genannt
+v5_12	1	genannt
+v5_13	Variable Label	Tschechen
+v5_13	Variable Label	nicht genannt
+v5_13	1	genannt
+v5_14	Variable Label	Tschetschenen
+v5_14	Variable Label	nicht genannt
+v5_14	1	genannt
+v5_15	Variable Label	Türken
+v5_15	Variable Label	nicht genannt
+v5_15	1	genannt
+v5_16	Variable Label	Ungarn
+v5_16	Variable Label	nicht genannt
+v5_16	1	genannt
+v5_17	Variable Label	Muslime
+v5_17	Variable Label	nicht genannt
+v5_17	1	genannt
+v5_18	Variable Label	Katholiken
+v5_18	Variable Label	nicht genannt
+v5_18	1	genannt
+v5_19	Variable Label	Juden
+v5_19	Variable Label	nicht genannt
+v5_19	1	genannt
+v5_2	Variable Label	Andere
+v5_2	Variable Label	nicht genannt
+v5_2	1	genannt
+v5_3	Variable Label	Afrikaner
+v5_3	Variable Label	nicht genannt
+v5_3	1	genannt
+v5_4	Variable Label	Bosnier
+v5_4	Variable Label	nicht genannt
+v5_4	1	genannt
+v5_5	Variable Label	Kroaten
+v5_5	Variable Label	nicht genannt
+v5_5	1	genannt
+v5_6	Variable Label	Österreicher
+v5_6	Variable Label	nicht genannt
+v5_6	1	genannt
+v5_7	Variable Label	Polen
+v5_7	Variable Label	nicht genannt
+v5_7	1	genannt
+v5_8	Variable Label	Rumänen
+v5_8	Variable Label	nicht genannt
+v5_8	1	genannt
+v5_9	Variable Label	Russen
+v5_9	Variable Label	nicht genannt
+v5_9	1	genannt
+v6	Variable Label	Bringen die "neuen Zuwanderer" Ihrer Meinung nach für Wien eine kulturelle Bereicherung?
+v6	1	Ja
+v6	2	eher schon
+v6	3	eher nicht
+v6	4	auf keinen Fall
+v6	5	W.N./K.A.
+v7	Variable Label	Brauchen wir - Ihrer Ansicht nach - in Wien eine Zuwanderung um das Wirtschaftswachstum und die Pensionen zu sichern?
+v7	1	Ja
+v7	2	eher schon
+v7	3	eher nicht
+v7	4	auf keinen Fall
+v7	5	W.N./K.A.
+v8_1	Variable Label	W.N./K.A.
+v8_1	Variable Label	nicht genannt
+v8_1	1	genannt
+v8_2	Variable Label	Anderes
+v8_2	Variable Label	nicht genannt
+v8_2	1	genannt
+v8_3	Variable Label	Afrikaner
+v8_3	Variable Label	nicht genannt
+v8_3	1	genannt
+v8_4	Variable Label	Araber/Ägypter/Marokkaner/Tunesier
+v8_4	Variable Label	nicht genannt
+v8_4	1	genannt
+v8_5	Variable Label	Asien/Inder/Indonesier/Philippinen/Chinesen/Japaner/Thailänder
+v8_5	Variable Label	nicht genannt
+v8_5	1	genannt
+v8_6	Variable Label	Ex-Jugoslawen (Bosnien, Albanien/Serben/Kroaten)
+v8_6	Variable Label	nicht genannt
+v8_6	1	genannt
+v8_7	Variable Label	Moslems
+v8_7	Variable Label	nicht genannt
+v8_7	1	genannt
+v8_8	Variable Label	Türken
+v8_8	Variable Label	nicht genannt
+v8_8	1	genannt
+v9_1	Variable Label	Ja, durch die Nachbarschaft
+v9_1	Variable Label	nicht genannt
+v9_1	1	genannt
+v9_2	Variable Label	Ja, durch Bedienungspersonal (Kellner, Verkäufer)
+v9_2	Variable Label	nicht genannt
+v9_2	1	genannt
+v9_3	Variable Label	Ja, beruflich (Kollegen, Geschäftspartner)
+v9_3	Variable Label	nicht genannt
+v9_3	1	genannt
+v9_4	Variable Label	Ja, freundschaftlich
+v9_4	Variable Label	nicht genannt
+v9_4	1	genannt
+v9_5	Variable Label	Ja, familiär
+v9_5	Variable Label	nicht genannt
+v9_5	1	genannt
+v9_6	Variable Label	Nein
+v9_6	Variable Label	nicht genannt
+v9_6	1	genannt
+v9_7	Variable Label	W.N./K.A.
+v9_7	Variable Label	nicht genannt
+v9_7	1	genannt
+version	Variable Label	AUSSDA archive version

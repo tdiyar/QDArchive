@@ -1,0 +1,2733 @@
+﻿variable	value	Label
+country	Variable Label	ISO 3166 Ländercode
+doi	Variable Label	digital object identifier
+evs_main	Variable Label	Datenquelle
+evs_main	1	EVS Hauptstudie
+evs_main	2	MigrantInnen-Aufstockung
+id	Variable Label	id - Kennzahl
+MigHint	Variable Label	Migrationshintergrund
+MigHint	1	Türkei
+MigHint	2	bks
+MigHint	3	andere
+MigHint	4	nein
+MigHint2	Variable Label	Migrationshintergrund - West/Ost - andere
+MigHint2	1	West
+MigHint2	2	Ost
+MigHint2	3	nicht Europa
+MigHint2	4	kein Migrationshintergrund
+mode	Variable Label	Datenerhebungsmethode
+mode	1	capi
+mode	2	papi
+mode	3	cawi
+mode	4	E-Mail
+mode	5	Andere
+PSU_ID	Variable Label	Primary Sampling Unit
+PSU_ID	-9	not available
+STRAT_PSU	Variable Label	Stratification of PSUs
+v1	Variable Label	Wie wichtig in Ihrem Leben: Arbeit (Q1A)
+v1	1	Sehr wichtig
+v1	2	Ziemlich wichtig
+v1	3	Nicht wichtig
+v1	4	Überhaupt nicht wichtig
+v1	8	Weiß nicht
+v1	9	Keine Antwort
+v1_at	Variable Label	Es gibt einen Gott, der sich mit jedem Menschen persönlich befasst. (Q1AT_A)
+v1_at	1	Stimme voll und ganz zu
+v1_at	2	Stimme eher zu
+v1_at	3	Stimme eher nicht zu
+v1_at	4	Stimme gar nicht zu
+v1_at	8	Weiß nicht
+v1_at	9	Keine Antwort
+v10	Variable Label	Zugehörigkeit zu: Organisationen oder Vereinen für Bildung, Kunst, Musik und
+v10	1	Genannt
+v10	2	Nicht genannt
+v10	8	Weiß nicht
+v10	9	Keine Antwort
+v10_at	Variable Label	Welche Partei haben Sie bei der letzten Nationalratswahl am 15. Oktober 2017 ge
+v10_at	1	spö
+v10_at	2	Liste Kurz/ ÖVP
+v10_at	3	fpö
+v10_at	4	Die Grünen
+v10_at	5	neos
+v10_at	6	Liste Peter Pilz
+v10_at	26	andere Partei
+v10_at	27	ich war nicht wählen
+v10_at	77	nicht wahlberechtigt
+v10_at	88	Weiß nicht
+v10_at	99	Keine Antwort
+v100	Variable Label	Politische Aktion: Teilnahme an einer genehmigten Demonstration (Q30C)
+v100	1	Schon einmal beteiligt
+v100	2	Vielleicht einmal tun
+v100	3	Unter keinen Umständen
+v100	8	Weiß nicht
+v100	9	Keine Antwort
+v101	Variable Label	Politische Aktion: Beteiligung an einem nicht genehmigten Streik (Q30D)
+v101	1	Schon einmal beteiligt
+v101	2	Vielleicht einmal tun
+v101	3	Unter keinen Umständen
+v101	8	Weiß nicht
+v101	9	Keine Antwort
+v102	Variable Label	Politische Position: Links-Rechts (Q31)
+v102	1	1 Links
+v102	2	2
+v102	3	3
+v102	4	4
+v102	5	5
+v102	6	6
+v102	7	7
+v102	8	8
+v102	9	9
+v102	10	10 Rechts
+v102	88	Weiß nicht
+v102	99	Keine Antwort
+v103	Variable Label	Individuelle vs. staatliche Verantwortung (Q32A)
+v103	1	1 Jeder Bürger sollte mehr Verantwortung für sich selbst übernehmen.
+v103	2	2
+v103	3	3
+v103	4	4
+v103	5	5
+v103	6	6
+v103	7	7
+v103	8	8
+v103	9	9
+v103	10	10 Der Staat sollte mehr Verantwortung dafür übernehmen, dass jeder Bürger ab
+v103	88	Weiß nicht
+v103	99	Keine Antwort
+v104	Variable Label	Jede Arbeit vs. Recht auf Ablehnung wenn arbeitslos (Q32B)
+v104	1	1 Arbeitslose sollten jede Arbeit machen müssen, die sie bekommen, oder ihre Ar
+v104	2	2
+v104	3	3
+v104	4	4
+v104	5	5
+v104	6	6
+v104	7	7
+v104	8	8
+v104	9	9
+v104	10	10 Arbeitslose sollten Arbeit, die sie nicht machen möchten, ablehnen können.
+v104	88	Weiß nicht
+v104	99	Keine Antwort
+v105	Variable Label	Wettbewerb ist gut vs. schädlich (Q32C)
+v105	1	1 Wettbewerb ist gut.
+v105	2	2
+v105	3	3
+v105	4	4
+v105	5	5
+v105	6	6
+v105	7	7
+v105	8	8
+v105	9	9
+v105	10	10 Wettbewerb ist schädlich.
+v105	88	Weiß nicht
+v105	99	Keine Antwort
+v106	Variable Label	Einkommen angleichen vs. Anreize für individuelle Leistung (Q32D)
+v106	1	1 Einkommen sollten einander stärker angeglichen werden.
+v106	2	2
+v106	3	3
+v106	4	4
+v106	5	5
+v106	6	6
+v106	7	7
+v106	8	8
+v106	9	9
+v106	10	10 Es sollte größere Anreize für individuelle Leistung geben.
+v106	88	Weiß nicht
+v106	99	Keine Antwort
+v107	Variable Label	Privates vs. staatliches Eigentum an Unternehmen (Q32E)
+v107	1	1 Mehr staatliche Unternehmen sollten privatisiert werden.
+v107	2	2
+v107	3	3
+v107	4	4
+v107	5	5
+v107	6	6
+v107	7	7
+v107	8	8
+v107	9	9
+v107	10	10 Mehr private Unternehmen sollten verstaatlicht werden.
+v107	88	Weiß nicht
+v107	99	Keine Antwort
+v108	Variable Label	Ziele des Landes: Wichtigstes (Q33)
+v108	1	A - Ein hohes Wirtschaftswachstum
+v108	2	B - Für eine starke Landesverteidigung sorgen
+v108	3	C - Dafür sorgen, dass die Menschen mehr Mitbestimmung an ihrem Arbeitsplatz un
+v108	4	D - Verschönerung der Städte und Landschaften
+v108	8	Weiß nicht
+v108	9	Keine Antwort
+v109	Variable Label	Ziele des Landes: Zweitwichtigstes (Q33A)
+v109	1	A - Ein hohes Wirtschaftswachstum
+v109	2	B - Für eine starke Landesverteidigung sorgen
+v109	3	C - Dafür sorgen, dass die Menschen mehr Mitbestimmung an ihrem Arbeitsplatz un
+v109	4	D - Verschönerung der Städte und Landschaften
+v109	8	Weiß nicht
+v109	9	Keine Antwort
+v10a_at	Variable Label	Welche Partei haben Sie bei der letzten Nationalratswahl am 15. Oktober 2017 ge
+v11	Variable Label	Zugehörigkeit zu: Gewerkschaften (Q4C)
+v11	1	Genannt
+v11	2	Nicht genannt
+v11	8	Weiß nicht
+v11	9	Keine Antwort
+v11_at	Variable Label	Begrüße ich/Lehne ich ab: Mehr für den technischen Fortschritt tun (Q37C_AT)
+v11_at	1	Begrüße ich
+v11_at	2	Lehne ich ab
+v11_at	3	 Ist mir egal
+v11_at	8	Weiß nicht
+v11_at	9	Keine Antwort
+v110	Variable Label	Ziele des Landes: Wichtigstes (Q34)
+v110	1	A - Aufrechterhaltung von Ruhe und Ordnung
+v110	2	B - Mehr Einfluss der Bürger auf Entscheidungen der Regierung
+v110	3	C - Kampf gegen steigende Preise
+v110	4	D - Das Recht auf Meinungsfreiheit schützen
+v110	8	Weiß nicht
+v110	9	Keine Antwort
+v111	Variable Label	Ziele des Landes: Zweitwichtigstes (Q35)
+v111	1	A - Aufrechterhaltung von Ruhe und Ordnung
+v111	2	B - Mehr Einfluss der Bürger auf Entscheidungen der Regierung
+v111	3	C - Kampf gegen steigende Preise
+v111	4	D - Das Recht auf Meinungsfreiheit schützen
+v111	8	Weiß nicht
+v111	9	Keine Antwort
+v112	Variable Label	Wären Sie bereit, für Ihr Land zu kämpfen? (Q36)
+v112	1	Ja
+v112	2	Nein
+v112	8	Weiß nicht
+v112	9	Keine Antwort
+v113	Variable Label	Begrüße ich/Lehne ich ab: Arbeit weniger wichtig nehmen (Q37A)
+v113	1	Begrüße ich
+v113	2	Lehne ich ab
+v113	3	 Ist mir egal
+v113	8	 weiß nicht
+v113	9	Keine Antwort
+v114	Variable Label	Begrüße ich/Lehne ich ab: Mehr Respekt vor Autoritäten (Q37B)
+v114	1	Begrüße ich
+v114	2	Lehne ich ab
+v114	3	 Ist mir egal
+v114	8	 weiß nicht
+v114	9	Keine Antwort
+v115	Variable Label	Vertrauen in: Die Kirche (Q38A)
+v115	1	Sehr viel Vertrauen
+v115	2	Ziemlich viel Vertrauen
+v115	3	Wenig Vertrauen
+v115	4	Überhaupt kein Vertrauen
+v115	8	Weiß nicht
+v115	9	Keine Antwort
+v116	Variable Label	Vertrauen in: Das Bundesheer (Q38B)
+v116	1	Sehr viel Vertrauen
+v116	2	Ziemlich viel Vertrauen
+v116	3	Wenig Vertrauen
+v116	4	Überhaupt kein Vertrauen
+v116	8	Weiß nicht
+v116	9	Keine Antwort
+v117	Variable Label	Vertrauen in: Das Bildungssystem (Q38C)
+v117	1	Sehr viel Vertrauen
+v117	2	Ziemlich viel Vertrauen
+v117	3	Wenig Vertrauen
+v117	4	Überhaupt kein Vertrauen
+v117	8	Weiß nicht
+v117	9	Keine Antwort
+v118	Variable Label	Vertrauen in: Die Presse und das Zeitungswesen (Q38D)
+v118	1	Sehr viel Vertrauen
+v118	2	Ziemlich viel Vertrauen
+v118	3	Wenig Vertrauen
+v118	4	Überhaupt kein Vertrauen
+v118	8	Weiß nicht
+v118	9	Keine Antwort
+v119	Variable Label	Vertrauen in: Die Gewerkschaften (Q38E)
+v119	1	Sehr viel Vertrauen
+v119	2	Ziemlich viel Vertrauen
+v119	3	Wenig Vertrauen
+v119	4	Überhaupt kein Vertrauen
+v119	8	Weiß nicht
+v119	9	Keine Antwort
+v12	Variable Label	Zugehörigkeit zu: Parteien oder politische Gruppen (Q4D)
+v12	1	Genannt
+v12	2	Nicht genannt
+v12	8	Weiß nicht
+v12	9	Keine Antwort
+v12_at	Variable Label	Begrüße ich/Lehne ich ab: Die persönliche Entfaltung fördern (Q37D_AT)
+v12_at	1	Begrüße ich
+v12_at	2	Lehne ich ab
+v12_at	3	 Ist mir egal
+v12_at	8	Weiß nicht
+v12_at	9	Keine Antwort
+v120	Variable Label	Vertrauen in: Die Polizei (Q38F)
+v120	1	Sehr viel Vertrauen
+v120	2	Ziemlich viel Vertrauen
+v120	3	Wenig Vertrauen
+v120	4	Überhaupt kein Vertrauen
+v120	8	Weiß nicht
+v120	9	Keine Antwort
+v121	Variable Label	Vertrauen in: Das Parlament (Q38G)
+v121	1	Sehr viel Vertrauen
+v121	2	Ziemlich viel Vertrauen
+v121	3	Wenig Vertrauen
+v121	4	Überhaupt kein Vertrauen
+v121	8	Weiß nicht
+v121	9	Keine Antwort
+v122	Variable Label	Vertrauen in: Die Verwaltung (Q38H)
+v122	1	Sehr viel Vertrauen
+v122	2	Ziemlich viel Vertrauen
+v122	3	Wenig Vertrauen
+v122	4	Überhaupt kein Vertrauen
+v122	8	Weiß nicht
+v122	9	Keine Antwort
+v123	Variable Label	Vertrauen in: Das System der Sozialversicherung (Q38I)
+v123	1	Sehr viel Vertrauen
+v123	2	Ziemlich viel Vertrauen
+v123	3	Wenig Vertrauen
+v123	4	Überhaupt kein Vertrauen
+v123	8	Weiß nicht
+v123	9	Keine Antwort
+v124	Variable Label	Vertrauen in: Die Europäische Union (EU) (Q38J)
+v124	1	Sehr viel Vertrauen
+v124	2	Ziemlich viel Vertrauen
+v124	3	Wenig Vertrauen
+v124	4	Überhaupt kein Vertrauen
+v124	8	Weiß nicht
+v124	9	Keine Antwort
+v125	Variable Label	Vertrauen in: Die Vereinten Nationen (UNO) (Q38J)
+v125	1	Sehr viel Vertrauen
+v125	2	Ziemlich viel Vertrauen
+v125	3	Wenig Vertrauen
+v125	4	Überhaupt kein Vertrauen
+v125	8	Weiß nicht
+v125	9	Keine Antwort
+v126	Variable Label	Vertrauen in: Das Gesundheitswesen (Q38L)
+v126	1	Sehr viel Vertrauen
+v126	2	Ziemlich viel Vertrauen
+v126	3	Wenig Vertrauen
+v126	4	Überhaupt kein Vertrauen
+v126	8	Weiß nicht
+v126	9	Keine Antwort
+v127	Variable Label	Vertrauen in: Das Rechtssystem (Q38M)
+v127	1	Sehr viel Vertrauen
+v127	2	Ziemlich viel Vertrauen
+v127	3	Wenig Vertrauen
+v127	4	Überhaupt kein Vertrauen
+v127	8	Weiß nicht
+v127	9	Keine Antwort
+v128	Variable Label	Vertrauen in: Große Wirtschaftsunternehmen (Q38N)
+v128	1	Sehr viel Vertrauen
+v128	2	Ziemlich viel Vertrauen
+v128	3	Wenig Vertrauen
+v128	4	Überhaupt kein Vertrauen
+v128	8	Weiß nicht
+v128	9	Keine Antwort
+v129	Variable Label	Vertrauen in: Umweltschutzorganisationen (Q38O)
+v129	1	Sehr viel Vertrauen
+v129	2	Ziemlich viel Vertrauen
+v129	3	Wenig Vertrauen
+v129	4	Überhaupt kein Vertrauen
+v129	8	Weiß nicht
+v129	9	Keine Antwort
+v13	Variable Label	Zugehörigkeit zu: Ökologie- und Umweltgruppen oder Tierschutzvereinen und -gr
+v13	1	Genannt
+v13	2	Nicht genannt
+v13	8	Weiß nicht
+v13	9	Keine Antwort
+v13_at	Variable Label	Begrüße ich/Lehne ich ab: Mehr Wert auf das Familienleben legen (Q37E_AT)
+v13_at	1	Begrüße ich
+v13_at	2	Lehne ich ab
+v13_at	3	 Ist mir egal
+v13_at	8	Weiß nicht
+v13_at	9	Keine Antwort
+v130	Variable Label	Vertrauen in: Politische Parteien (Q38P)
+v130	1	Sehr viel Vertrauen
+v130	2	Ziemlich viel Vertrauen
+v130	3	Wenig Vertrauen
+v130	4	Überhaupt kein Vertrauen
+v130	8	Weiß nicht
+v130	9	Keine Antwort
+v131	Variable Label	Vertrauen in: Die Regierung (Q38Q)
+v131	1	Sehr viel Vertrauen
+v131	2	Ziemlich viel Vertrauen
+v131	3	Wenig Vertrauen
+v131	4	Überhaupt kein Vertrauen
+v131	8	Weiß nicht
+v131	9	Keine Antwort
+v132	Variable Label	Vertrauen in: Die sozialen Medien (Q38R)
+v132	1	Sehr viel Vertrauen
+v132	2	Ziemlich viel Vertrauen
+v132	3	Wenig Vertrauen
+v132	4	Überhaupt kein Vertrauen
+v132	8	Weiß nicht
+v132	9	Keine Antwort
+v133	Variable Label	Demokratie: Der Staat besteuert die Reichen und unterstützt die Armen. (Q39A)
+v133	0	Das widerspricht demokratischen Grundsätzen
+v133	1	1 In keinem Fall ein notwendiger Bestandteil einer Demokratie
+v133	2	 2
+v133	3	 3
+v133	4	 4
+v133	5	 5
+v133	6	 6
+v133	7	 7
+v133	8	 8
+v133	9	 9
+v133	10	10 Ein notwendiger Bestandteil für eine Demokratie
+v133	88	Weiß nicht
+v133	99	Keine Antwort
+v134	Variable Label	Demokratie: Religiöse Vertreter bestimmen letztlich die Auslegung der Gesetze.
+v134	0	Das widerspricht demokratischen Grundsätzen
+v134	1	1 In keinem Fall ein notwendiger Bestandteil einer Demokratie
+v134	2	 2
+v134	3	 3
+v134	4	 4
+v134	5	 5
+v134	6	 6
+v134	7	 7
+v134	8	 8
+v134	9	 9
+v134	10	10 Ein notwendiger Bestandteil für eine Demokratie
+v134	88	Weiß nicht
+v134	99	Keine Antwort
+v135	Variable Label	Demokratie: Das Volk wählt seine Repräsentanten in freien Wahlen. (Q39C)
+v135	0	Das widerspricht demokratischen Grundsätzen
+v135	1	1 In keinem Fall ein notwendiger Bestandteil einer Demokratie
+v135	2	 2
+v135	3	 3
+v135	4	 4
+v135	5	 5
+v135	6	 6
+v135	7	 7
+v135	8	 8
+v135	9	 9
+v135	10	10 Ein notwendiger Bestandteil für eine Demokratie
+v135	88	Weiß nicht
+v135	99	Keine Antwort
+v136	Variable Label	Demokratie: Arbeitslose erhalten Unterstützung vom Staat. (Q39D)
+v136	0	Das widerspricht demokratischen Grundsätzen
+v136	1	1 In keinem Fall ein notwendiger Bestandteil einer Demokratie
+v136	2	 2
+v136	3	 3
+v136	4	 4
+v136	5	 5
+v136	6	 6
+v136	7	 7
+v136	8	 8
+v136	9	 9
+v136	10	10 Ein notwendiger Bestandteil für eine Demokratie
+v136	88	Weiß nicht
+v136	99	Keine Antwort
+v137	Variable Label	Demokratie: Das Militär übernimmt die Führung des Landes, wenn sich die Regi
+v137	0	Das widerspricht demokratischen Grundsätzen
+v137	1	1 In keinem Fall ein notwendiger Bestandteil einer Demokratie
+v137	2	 2
+v137	3	 3
+v137	4	 4
+v137	5	 5
+v137	6	 6
+v137	7	 7
+v137	8	 8
+v137	9	 9
+v137	10	10 Ein notwendiger Bestandteil für eine Demokratie
+v137	88	Weiß nicht
+v137	99	Keine Antwort
+v138	Variable Label	Demokratie: Bürgerrechte schützen die Menschen vor staatlicher Unterdrückung
+v138	0	Das widerspricht demokratischen Grundsätzen
+v138	1	1 In keinem Fall ein notwendiger Bestandteil einer Demokratie
+v138	2	 2
+v138	3	 3
+v138	4	 4
+v138	5	 5
+v138	6	 6
+v138	7	 7
+v138	8	 8
+v138	9	 9
+v138	10	10 Ein notwendiger Bestandteil für eine Demokratie
+v138	88	Weiß nicht
+v138	99	Keine Antwort
+v139	Variable Label	Demokratie: Der Staat gleicht die Einkommen seiner Bürger an. (Q39G)
+v139	0	Das widerspricht demokratischen Grundsätzen
+v139	1	1 In keinem Fall ein notwendiger Bestandteil einer Demokratie
+v139	2	 2
+v139	3	 3
+v139	4	 4
+v139	5	 5
+v139	6	 6
+v139	7	 7
+v139	8	 8
+v139	9	 9
+v139	10	10 Ein notwendiger Bestandteil für eine Demokratie
+v139	88	Weiß nicht
+v139	99	Keine Antwort
+v14	Variable Label	Zugehörigkeit zu: Berufsverbänden (Q4F)
+v14	1	Genannt
+v14	2	Nicht genannt
+v14	8	Weiß nicht
+v14	9	Keine Antwort
+v14_at	Variable Label	Begrüße ich/Lehne ich ab: Einfacher und natürlicher leben (Q37F_AT)
+v14_at	1	Begrüße ich
+v14_at	2	Lehne ich ab
+v14_at	3	 Ist mir egal
+v14_at	8	Weiß nicht
+v14_at	9	Keine Antwort
+v140	Variable Label	Demokratie: Das Volk gehorcht seinen Machthabern. (Q39H)
+v140	0	Das widerspricht demokratischen Grundsätzen
+v140	1	1 In keinem Fall ein notwendiger Bestandteil einer Demokratie
+v140	2	 2
+v140	3	 3
+v140	4	 4
+v140	5	 5
+v140	6	 6
+v140	7	 7
+v140	8	 8
+v140	9	 9
+v140	10	10 Ein notwendiger Bestandteil für eine Demokratie
+v140	88	Weiß nicht
+v140	99	Keine Antwort
+v141	Variable Label	Demokratie: Frauen haben dieselben Rechte wie Männer. (Q39I)
+v141	0	Das widerspricht demokratischen Grundsätzen
+v141	1	1 In keinem Fall ein notwendiger Bestandteil einer Demokratie
+v141	2	 2
+v141	3	 3
+v141	4	 4
+v141	5	 5
+v141	6	 6
+v141	7	 7
+v141	8	 8
+v141	9	 9
+v141	10	10 Ein notwendiger Bestandteil für eine Demokratie
+v141	88	Weiß nicht
+v141	99	Keine Antwort
+v142	Variable Label	Wichtigkeit der Demokratie (Q40)
+v142	1	1 Überhaupt nicht wichtig
+v142	2	2
+v142	3	3
+v142	4	4
+v142	5	5
+v142	6	6
+v142	7	7
+v142	8	8
+v142	9	9
+v142	10	10 Absolut wichtig
+v142	88	Weiß nicht
+v142	99	Keine Antwort
+v143	Variable Label	Demokratie im eigenen Land (Q41)
+v143	1	1 Überhaupt nicht demokratisch
+v143	2	2
+v143	3	3
+v143	4	4
+v143	5	5
+v143	6	6
+v143	7	7
+v143	8	8
+v143	9	9
+v143	10	10 Vollkommen demokratisch
+v143	88	Weiß nicht
+v143	99	Keine Antwort
+v144	Variable Label	Zufriedenheit mit dem politischen System (Q42)
+v144	1	1 Überhaupt nicht zufrieden
+v144	2	2
+v144	3	3
+v144	4	4
+v144	5	5
+v144	6	6
+v144	7	7
+v144	8	8
+v144	9	9
+v144	10	10 Vollkommen zufrieden
+v144	88	Weiß nicht
+v144	99	Keine Antwort
+v145	Variable Label	Politisches System: Starker Führer (Q43A)
+v145	1	Sehr gut
+v145	2	Ziemlich gut
+v145	3	Ziemlich schlecht
+v145	4	Sehr schlecht
+v145	8	Weiß nicht
+v145	9	Keine Antwort
+v146	Variable Label	Politisches System: Experten entscheiden (Q43B)
+v146	1	Sehr gut
+v146	2	Ziemlich gut
+v146	3	Ziemlich schlecht
+v146	4	Sehr schlecht
+v146	8	Weiß nicht
+v146	9	Keine Antwort
+v147	Variable Label	Politisches System: Militär soll regieren (Q43C)
+v147	1	Sehr gut
+v147	2	Ziemlich gut
+v147	3	Ziemlich schlecht
+v147	4	Sehr schlecht
+v147	8	Weiß nicht
+v147	9	Keine Antwort
+v148	Variable Label	Politisches System: Demokratisch (Q43D)
+v148	1	Sehr gut
+v148	2	Ziemlich gut
+v148	3	Ziemlich schlecht
+v148	4	Sehr schlecht
+v148	8	Weiß nicht
+v148	9	Keine Antwort
+v149	Variable Label	In Ordnung: Staatliche Leistungen in Anspruch nehmen, auf die man keinen Anspru
+v149	1	1 Unter keinen Umständen in Ordnung
+v149	2	 2
+v149	3	 3
+v149	4	 4
+v149	5	 5
+v149	6	  6
+v149	7	  7
+v149	8	  8
+v149	9	  9
+v149	10	10 In jedem Fall in Ordnung
+v149	88	Weiß nicht
+v149	99	Keine Antwort
+v15	Variable Label	Zugehörigkeit zu: Sport und Freizeitaktivitäten (Q4G)
+v15	1	Genannt
+v15	2	Nicht genannt
+v15	8	Weiß nicht
+v15	9	Keine Antwort
+v15_at	Variable Label	Wo strenge Autorität ist, dort ist auch Gerechtigkeit. (Q3AT_A)
+v15_at	1	Stimme voll und ganz zu
+v15_at	2	Stimme zu
+v15_at	3	Weder noch
+v15_at	4	Lehne ab
+v15_at	5	Lehne voll und ganz ab
+v15_at	8	Weiß nicht
+v15_at	9	Keine Antwort
+v150	Variable Label	In Ordnung: Steuern hinterziehen, wenn man die Möglichkeit hat (Q44B)
+v150	1	1 Unter keinen Umständen in Ordnung
+v150	2	 2
+v150	3	 3
+v150	4	 4
+v150	5	 5
+v150	6	  6
+v150	7	  7
+v150	8	  8
+v150	9	  9
+v150	10	10 In jedem Fall in Ordnung
+v150	88	Weiß nicht
+v150	99	Keine Antwort
+v151	Variable Label	In Ordnung: Drogen wie Marihuana oder Haschisch nehmen (Q44C)
+v151	1	1 Unter keinen Umständen in Ordnung
+v151	2	 2
+v151	3	 3
+v151	4	 4
+v151	5	 5
+v151	6	  6
+v151	7	  7
+v151	8	  8
+v151	9	  9
+v151	10	10 In jedem Fall in Ordnung
+v151	88	Weiß nicht
+v151	99	Keine Antwort
+v152	Variable Label	In Ordnung: Schmiergelder für Tätigkeiten annehmen (Q44D)
+v152	1	1 Unter keinen Umständen in Ordnung
+v152	2	 2
+v152	3	 3
+v152	4	 4
+v152	5	 5
+v152	6	  6
+v152	7	  7
+v152	8	  8
+v152	9	  9
+v152	10	10 In jedem Fall in Ordnung
+v152	88	Weiß nicht
+v152	99	Keine Antwort
+v153	Variable Label	In Ordnung: Homosexualität (Q44E)
+v153	1	1 Unter keinen Umständen in Ordnung
+v153	2	 2
+v153	3	 3
+v153	4	 4
+v153	5	 5
+v153	6	  6
+v153	7	  7
+v153	8	  8
+v153	9	  9
+v153	10	10 In jedem Fall in Ordnung
+v153	88	Weiß nicht
+v153	99	Keine Antwort
+v154	Variable Label	In Ordnung: Abtreibung (Q44F)
+v154	1	1 Unter keinen Umständen in Ordnung
+v154	2	 2
+v154	3	 3
+v154	4	 4
+v154	5	 5
+v154	6	  6
+v154	7	  7
+v154	8	  8
+v154	9	  9
+v154	10	10 In jedem Fall in Ordnung
+v154	88	Weiß nicht
+v154	99	Keine Antwort
+v155	Variable Label	In Ordnung: Sich scheiden lassen (Q44G)
+v155	1	1 Unter keinen Umständen in Ordnung
+v155	2	 2
+v155	3	 3
+v155	4	 4
+v155	5	 5
+v155	6	  6
+v155	7	  7
+v155	8	  8
+v155	9	  9
+v155	10	10 In jedem Fall in Ordnung
+v155	88	Weiß nicht
+v155	99	Keine Antwort
+v156	Variable Label	In Ordnung: Sterbehilfe  (Das Leben unheilbar Kranker beenden) (Q44H)
+v156	1	1 Unter keinen Umständen in Ordnung
+v156	2	 2
+v156	3	 3
+v156	4	 4
+v156	5	 5
+v156	6	  6
+v156	7	  7
+v156	8	  8
+v156	9	  9
+v156	10	10 In jedem Fall in Ordnung
+v156	88	Weiß nicht
+v156	99	Keine Antwort
+v157	Variable Label	In Ordnung: Selbstmord (Q44I)
+v157	1	1 Unter keinen Umständen in Ordnung
+v157	2	 2
+v157	3	 3
+v157	4	 4
+v157	5	 5
+v157	6	  6
+v157	7	  7
+v157	8	  8
+v157	9	  9
+v157	10	10 In jedem Fall in Ordnung
+v157	88	Weiß nicht
+v157	99	Keine Antwort
+v158	Variable Label	In Ordnung: Geschlechtsverkehr mit häufig wechselnden Partnern in flüchtigen
+v158	1	1 Unter keinen Umständen in Ordnung
+v158	2	 2
+v158	3	 3
+v158	4	 4
+v158	5	 5
+v158	6	  6
+v158	7	  7
+v158	8	  8
+v158	9	  9
+v158	10	10 In jedem Fall in Ordnung
+v158	88	Weiß nicht
+v158	99	Keine Antwort
+v159	Variable Label	In Ordnung: Kein Fahrgeld in öffentlichen Verkehrsmitteln zahlen, Schwarzfahre
+v159	1	1 Unter keinen Umständen in Ordnung
+v159	2	 2
+v159	3	 3
+v159	4	 4
+v159	5	 5
+v159	6	  6
+v159	7	  7
+v159	8	  8
+v159	9	  9
+v159	10	10 In jedem Fall in Ordnung
+v159	88	Weiß nicht
+v159	99	Keine Antwort
+v16	Variable Label	Zugehörigkeit zu: Humanitären oder Wohlfahrtsorganisationen (Q4H)
+v16	1	Genannt
+v16	2	Nicht genannt
+v16	8	Weiß nicht
+v16	9	Keine Antwort
+v16_at	Variable Label	Mitreden und mitentscheiden soll man erst, wenn man durch harte Arbeit eine Pos
+v16_at	1	Stimme voll und ganz zu
+v16_at	2	Stimme zu
+v16_at	3	Weder noch
+v16_at	4	Lehne ab
+v16_at	5	Lehne voll und ganz ab
+v16_at	8	Weiß nicht
+v16_at	9	Keine Antwort
+v160	Variable Label	In Ordnung: Prostitution (Q44L)
+v160	1	1 Unter keinen Umständen in Ordnung
+v160	2	 2
+v160	3	 3
+v160	4	 4
+v160	5	 5
+v160	6	  6
+v160	7	  7
+v160	8	  8
+v160	9	  9
+v160	10	10 In jedem Fall in Ordnung
+v160	88	Weiß nicht
+v160	99	Keine Antwort
+v161	Variable Label	In Ordnung: Künstliche Befruchtung (Insemination oder In-vitro-Befruchtung) (Q
+v161	1	1 Unter keinen Umständen in Ordnung
+v161	2	 2
+v161	3	 3
+v161	4	 4
+v161	5	 5
+v161	6	  6
+v161	7	  7
+v161	8	  8
+v161	9	  9
+v161	10	10 In jedem Fall in Ordnung
+v161	88	Weiß nicht
+v161	99	Keine Antwort
+v162	Variable Label	In Ordnung: Politisch motivierte Gewalt (Q44N)
+v162	1	1 Unter keinen Umständen in Ordnung
+v162	2	 2
+v162	3	 3
+v162	4	 4
+v162	5	 5
+v162	6	  6
+v162	7	  7
+v162	8	  8
+v162	9	  9
+v162	10	10 In jedem Fall in Ordnung
+v162	88	Weiß nicht
+v162	99	Keine Antwort
+v163	Variable Label	In Ordnung: Todesstrafe (Q44O)
+v163	1	1 Unter keinen Umständen in Ordnung
+v163	2	 2
+v163	3	 3
+v163	4	 4
+v163	5	 5
+v163	6	  6
+v163	7	  7
+v163	8	  8
+v163	9	  9
+v163	10	10 In jedem Fall in Ordnung
+v163	88	Weiß nicht
+v163	99	Keine Antwort
+v164	Variable Label	Wie verbunden mit: Dem Stadtteil, dem Ort, wo Sie leben (Q45A)
+v164	1	Sehr stark
+v164	2	Stark
+v164	3	Nicht sehr stark
+v164	4	Überhaupt nicht stark
+v164	8	Weiß nicht
+v164	9	Keine Antwort
+v165	Variable Label	Wie verbunden mit: Der Gegend, in der Sie leben (Q45B)
+v165	1	Sehr stark
+v165	2	Stark
+v165	3	Nicht sehr stark
+v165	4	Überhaupt nicht stark
+v165	8	Weiß nicht
+v165	9	Keine Antwort
+v166	Variable Label	Wie verbunden mit: Österreich (Q45C)
+v166	1	Sehr stark
+v166	2	Stark
+v166	3	Nicht sehr stark
+v166	4	Überhaupt nicht stark
+v166	8	Weiß nicht
+v166	9	Keine Antwort
+v167	Variable Label	Wie verbunden mit: Europa (Q45D)
+v167	1	Sehr stark
+v167	2	Stark
+v167	3	Nicht sehr stark
+v167	4	Überhaupt nicht stark
+v167	8	Weiß nicht
+v167	9	Keine Antwort
+v168	Variable Label	Wie verbunden mit: Der ganzen Welt (Q45E)
+v168	1	Sehr stark
+v168	2	Stark
+v168	3	Nicht sehr stark
+v168	4	Überhaupt nicht stark
+v168	8	Weiß nicht
+v168	9	Keine Antwort
+v169	Variable Label	Haben Sie die österreichische Staatsbürgerschaft? (Q46)
+v169	1	Ja
+v169	2	Nein
+v169	3	Weiß nicht
+v169	4	Keine Antwort
+v17	Variable Label	Zugehörigkeit zu: Konsumentenschutzorganisationen, wie z.B. der VKI (Q4I)
+v17	1	Genannt
+v17	2	Nicht genannt
+v17	8	Weiß nicht
+v17	9	Keine Antwort
+v17_at	Variable Label	Der Sinn des Lebens besteht darin, eine angesehene Position zu gewinnen. (Q3AT_
+v17_at	1	Stimme voll und ganz zu
+v17_at	2	Stimme zu
+v17_at	3	Weder noch
+v17_at	4	Lehne ab
+v17_at	5	Lehne voll und ganz ab
+v17_at	8	Weiß nicht
+v17_at	9	Keine Antwort
+v170	Variable Label	Wie stolz sind Sie darauf, dass Sie die österreichische Staatsbürgerschaft ha
+v170	1	Sehr stolz
+v170	2	Ziemlich stolz
+v170	3	Nicht sehr stolz
+v170	4	Überhaupt nicht stolz
+v170	7	Nicht zutreffend
+v170	8	Weiß nicht
+v170	9	Keine Antwort
+v171	Variable Label	Wählen bei: Landtags- oder Gemeinderatswahlen (Q48A)
+v171	1	Immer
+v171	2	Meistens
+v171	3	Nie
+v171	7	Nicht wahlberechtigt
+v171	8	Weiß nicht
+v171	9	Keine Antwort
+v172	Variable Label	Wählen bei: Nationalratswahlen (Q48B)
+v172	1	Immer
+v172	2	Meistens
+v172	3	Nie
+v172	7	Nicht wahlberechtigt
+v172	8	Weiß nicht
+v172	9	Keine Antwort
+v173	Variable Label	Wählen bei: Wahlen zum Europäischen Parlament (Q48C)
+v173	1	Immer
+v173	2	Meistens
+v173	3	Nie
+v173	7	Nicht wahlberechtigt
+v173	8	Weiß nicht
+v173	9	Keine Antwort
+v174	Variable Label	Welcher politischen Partei stehen Sie am nächsten? (Q49)
+v174	1	spö
+v174	2	övp
+v174	3	fpö
+v174	4	Die Grünen
+v174	5	neos
+v174	6	Liste Peter Pilz
+v174	26	anderer Partei
+v174	66	keiner Partei
+v174	88	Weiß nicht
+v174	99	Keine Antwort
+v175	Variable Label	Gibt es noch eine andere Partei, der Sie nahe stehen? (Q49a)
+v175	1	spö
+v175	2	övp
+v175	3	fpö
+v175	4	Die Grünen
+v175	5	neos
+v175	6	Liste Peter Pilz
+v175	26	anderer Partei
+v175	66	nein, keiner anderen Partei
+v175	77	keiner Partei
+v175	88	Weiß nicht
+v175	99	Keine Antwort
+v176	Variable Label	Wie oft passiert bei Wahlen in Österreich: Stimmen werden korrekt ausgezählt
+v176	1	Sehr oft
+v176	2	Ziemlich oft
+v176	3	Nicht oft
+v176	4	Überhaupt nicht oft
+v176	8	Weiß nicht
+v176	9	Keine Antwort
+v177	Variable Label	Wie oft passiert bei Wahlen in Österreich: Oppositionskandidaten werden von de
+v177	1	Sehr oft
+v177	2	Ziemlich oft
+v177	3	Nicht oft
+v177	4	Überhaupt nicht oft
+v177	8	Weiß nicht
+v177	9	Keine Antwort
+v178	Variable Label	Wie oft passiert bei Wahlen in Österreich: Regierungsparteien werden von den M
+v178	1	Sehr oft
+v178	2	Ziemlich oft
+v178	3	Nicht oft
+v178	4	Überhaupt nicht oft
+v178	8	Weiß nicht
+v178	9	Keine Antwort
+v179	Variable Label	Wie oft passiert bei Wahlen in Österreich: Wähler werden bestochen (Q50D)
+v179	1	Sehr oft
+v179	2	Ziemlich oft
+v179	3	Nicht oft
+v179	4	Überhaupt nicht oft
+v179	8	Weiß nicht
+v179	9	Keine Antwort
+v18	Variable Label	Zugehörigkeit zu: Selbsthilfegruppen, Nachbarschaftshilfe (Q4J)
+v18	1	Genannt
+v18	2	Nicht genannt
+v18	8	Weiß nicht
+v18	9	Keine Antwort
+v18_at	Variable Label	Sicherheit und Wohlstand sind wichtiger als Freiheit. (Q3AT_D)
+v18_at	1	Stimme voll und ganz zu
+v18_at	2	Stimme zu
+v18_at	3	Weder noch
+v18_at	4	Lehne ab
+v18_at	5	Lehne voll und ganz ab
+v18_at	8	Weiß nicht
+v18_at	9	Keine Antwort
+v180	Variable Label	Wie oft passiert bei Wahlen in Österreich: Journalisten berichten ausgewogen
+v180	1	Sehr oft
+v180	2	Ziemlich oft
+v180	3	Nicht oft
+v180	4	Überhaupt nicht oft
+v180	8	Weiß nicht
+v180	9	Keine Antwort
+v181	Variable Label	Wie oft passiert bei Wahlen in Österreich: Die amtliche Wahlleitung verhält s
+v181	1	Sehr oft
+v181	2	Ziemlich oft
+v181	3	Nicht oft
+v181	4	Überhaupt nicht oft
+v181	8	Weiß nicht
+v181	9	Keine Antwort
+v182	Variable Label	Wie oft passiert bei Wahlen in Österreich: Reiche Menschen kaufen Wahlen (Q50G
+v182	1	Sehr oft
+v182	2	Ziemlich oft
+v182	3	Nicht oft
+v182	4	Überhaupt nicht oft
+v182	8	Weiß nicht
+v182	9	Keine Antwort
+v183	Variable Label	Wie oft passiert bei Wahlen in Österreich: Wähler werden an der Wahlurne mit
+v183	1	Sehr oft
+v183	2	Ziemlich oft
+v183	3	Nicht oft
+v183	4	Überhaupt nicht oft
+v183	8	Weiß nicht
+v183	9	Keine Antwort
+v184	Variable Label	Zuwanderer: Einfluss auf die Entwicklung in Österreich (Q51)
+v184	1	Sehr negativ
+v184	2	Ziemlich negativ
+v184	3	Weder positiv noch negativ
+v184	4	Ziemlich positiv
+v184	5	Sehr positiv
+v184	8	Weiß nicht
+v184	9	Keine Antwort
+v185	Variable Label	Zuwanderer: Nehmen Jobs von Österreichern weg (Q52A)
+v185	1	1 Zuwanderer nehmen Österreichern die Arbeitsplätze weg.
+v185	2	2
+v185	3	3
+v185	4	4
+v185	5	5
+v185	6	6
+v185	7	7
+v185	8	8
+v185	9	9
+v185	10	10 Zuwanderer nehmen Österreichern nicht die Arbeitsplätze weg.
+v185	88	Weiß nicht
+v185	99	Keine Angabe
+v186	Variable Label	Zuwanderer: Verschärfen Kriminalitätsproblematik (Q52B)
+v186	1	1 Zuwanderer verschärfen die Kriminalitätsprobleme.
+v186	2	2
+v186	3	3
+v186	4	4
+v186	5	5
+v186	6	6
+v186	7	7
+v186	8	8
+v186	9	9
+v186	10	10 Zuwanderer verschärfen die Kriminalitätsprobleme nicht.
+v186	88	Weiß nicht
+v186	99	Keine Angabe
+v187	Variable Label	Zuwanderer: Belasten das Sozialsystem (Q52C)
+v187	1	1 Zuwanderer belasten das Sozialsystem in Österreich.
+v187	2	2
+v187	3	3
+v187	4	4
+v187	5	5
+v187	6	6
+v187	7	7
+v187	8	8
+v187	9	9
+v187	10	10 Zuwanderer belasten das Sozialsystem in Österreich nicht.
+v187	88	Weiß nicht
+v187	99	Keine Angabe
+v188	Variable Label	Zuwanderer: Besser, wenn Zuwanderer ihre Bräuche und Traditionen beibehalten (
+v188	1	1 Es ist besser, wenn Zuwanderer ihre jeweiligen Bräuche und Traditionen beibeh
+v188	2	2
+v188	3	3
+v188	4	4
+v188	5	5
+v188	6	6
+v188	7	7
+v188	8	8
+v188	9	9
+v188	10	10 Es ist besser, wenn Zuwanderer ihre Bräuche und Traditionen nicht beibehalte
+v188	88	Weiß nicht
+v188	99	Keine Angabe
+v189	Variable Label	Wie wichtig: In Österreich geboren zu sein (Q53A)
+v189	1	Sehr wichtig
+v189	2	Ziemlich wichtig
+v189	3	Nicht wichtig
+v189	4	Überhaupt nicht wichtig
+v189	8	Weiß nicht
+v189	9	Keine Antwort
+v19	Variable Label	Zugehörigkeit zu: Anderen Organisationen oder Gruppen (Q4K)
+v19	1	Genannt
+v19	2	Nicht genannt
+v19	8	Weiß nicht
+v19	9	Keine Antwort
+v19_at	Variable Label	Man muss sich das Leben so angenehm wie nur möglich machen. (Q3AT_E)
+v19_at	1	Stimme voll und ganz zu
+v19_at	2	Stimme zu
+v19_at	3	Weder noch
+v19_at	4	Lehne ab
+v19_at	5	Lehne voll und ganz ab
+v19_at	8	Weiß nicht
+v19_at	9	Keine Antwort
+v190	Variable Label	Wie wichtig: Österreichs politische Institutionen und Gesetze zu respektieren
+v190	1	Sehr wichtig
+v190	2	Ziemlich wichtig
+v190	3	Nicht wichtig
+v190	4	Überhaupt nicht wichtig
+v190	8	Weiß nicht
+v190	9	Keine Antwort
+v191	Variable Label	Wie wichtig: Österreichische Vorfahren zu haben (Q53C)
+v191	1	Sehr wichtig
+v191	2	Ziemlich wichtig
+v191	3	Nicht wichtig
+v191	4	Überhaupt nicht wichtig
+v191	8	Weiß nicht
+v191	9	Keine Antwort
+v192	Variable Label	Wie wichtig: Deutsch zu sprechen (Q53D)
+v192	1	Sehr wichtig
+v192	2	Ziemlich wichtig
+v192	3	Nicht wichtig
+v192	4	Überhaupt nicht wichtig
+v192	8	Weiß nicht
+v192	9	Keine Antwort
+v193	Variable Label	Wie wichtig: Die österreichische Kultur zu teilen (Q53E)
+v193	1	Sehr wichtig
+v193	2	Ziemlich wichtig
+v193	3	Nicht wichtig
+v193	4	Überhaupt nicht wichtig
+v193	8	Weiß nicht
+v193	9	Keine Antwort
+v194	Variable Label	Wie wichtig: In Europa geboren zu sein (Q54A)
+v194	1	Sehr wichtig
+v194	2	Ziemlich wichtig
+v194	3	Nicht wichtig
+v194	4	Überhaupt nicht wichtig
+v194	8	Weiß nicht
+v194	9	Keine Antwort
+v195	Variable Label	Wie wichtig: Europäische Vorfahren zu haben (Q54B)
+v195	1	Sehr wichtig
+v195	2	Ziemlich wichtig
+v195	3	Nicht wichtig
+v195	4	Überhaupt nicht wichtig
+v195	8	Weiß nicht
+v195	9	Keine Antwort
+v196	Variable Label	Wie wichtig: Ein Christ zu sein (Q54C)
+v196	1	Sehr wichtig
+v196	2	Ziemlich wichtig
+v196	3	Nicht wichtig
+v196	4	Überhaupt nicht wichtig
+v196	8	Weiß nicht
+v196	9	Keine Antwort
+v197	Variable Label	Wie wichtig: Die europäische Kultur zu teilen (Q54D)
+v197	1	Sehr wichtig
+v197	2	Ziemlich wichtig
+v197	3	Nicht wichtig
+v197	4	Überhaupt nicht wichtig
+v197	8	Weiß nicht
+v197	9	Keine Antwort
+v198	Variable Label	Erweiterung der Europäischen Union (Q55)
+v198	1	1 Sollte weiter gehen
+v198	2	2
+v198	3	3
+v198	4	4
+v198	5	5
+v198	6	6
+v198	7	7
+v198	8	8
+v198	9	9
+v198	10	10 Ist bereits zu weit gegangen
+v198	88	Weiß nicht
+v198	99	Keine Antwort
+v199	Variable Label	Umwelt: auf einen Teil meines Einkommens verzichten (Q56A)
+v199	1	Stimme voll und ganz zu
+v199	2	Stimme zu
+v199	3	Weder noch
+v199	4	Stimme nicht zu
+v199	5	Stimme überhaupt nicht zu
+v199	8	Weiß nicht
+v199	9	Keine Antwort
+v2	Variable Label	Wie wichtig in Ihrem Leben: Familie (Q1B)
+v2	1	Sehr wichtig
+v2	2	Ziemlich wichtig
+v2	3	Nicht wichtig
+v2	4	Überhaupt nicht wichtig
+v2	8	Weiß nicht
+v2	9	Keine Antwort
+v2_at	Variable Label	Für mich trägt das Leben seinen Sinn in sich selbst. (Q1AT_C)
+v2_at	1	Stimme voll und ganz zu
+v2_at	2	Stimme eher zu
+v2_at	3	Stimme eher nicht zu
+v2_at	4	Stimme gar nicht zu
+v2_at	8	Weiß nicht
+v2_at	9	Keine Antwort
+v20	Variable Label	Zugehörigkeit zu: Keiner (Q4L)
+v20	1	Genannt
+v20	2	Nicht genannt
+v20	8	Weiß nicht
+v20	9	Keine Antwort
+v20_at	Variable Label	Wichtig ist, dass der Mensch glücklich wird. Wie, das ist seine Sache. (Q3AT_F
+v20_at	1	Stimme voll und ganz zu
+v20_at	2	Stimme zu
+v20_at	3	Weder noch
+v20_at	4	Lehne ab
+v20_at	5	Lehne voll und ganz ab
+v20_at	8	Weiß nicht
+v20_at	9	Keine Antwort
+v200	Variable Label	Umwelt: zu schwierig, viel für die Umwelt zu tun (Q56B)
+v200	1	Stimme voll und ganz zu
+v200	2	Stimme zu
+v200	3	Weder noch
+v200	4	Stimme nicht zu
+v200	5	Stimme überhaupt nicht zu
+v200	8	Weiß nicht
+v200	9	Keine Antwort
+v201	Variable Label	Umwelt: wichtigere Dinge (Q56C)
+v201	1	Stimme voll und ganz zu
+v201	2	Stimme zu
+v201	3	Weder noch
+v201	4	Stimme nicht zu
+v201	5	Stimme überhaupt nicht zu
+v201	8	Weiß nicht
+v201	9	Keine Antwort
+v202	Variable Label	Umwelt: sinnlos, solange andere nicht dasselbe machen (Q56D)
+v202	1	Stimme voll und ganz zu
+v202	2	Stimme zu
+v202	3	Weder noch
+v202	4	Stimme nicht zu
+v202	5	Stimme überhaupt nicht zu
+v202	8	Weiß nicht
+v202	9	Keine Antwort
+v203	Variable Label	Umwelt: Viele Behauptungen sind übertrieben (Q56E)
+v203	1	Stimme voll und ganz zu
+v203	2	Stimme zu
+v203	3	Weder noch
+v203	4	Stimme nicht zu
+v203	5	Stimme überhaupt nicht zu
+v203	8	Weiß nicht
+v203	9	Keine Antwort
+v204	Variable Label	Umweltschutz vs. Wirtschaftswachstum (Q57)
+v204	1	Dem Umweltschutz sollte Vorrang eingeräumt werden [...].
+v204	2	Dem Wirtschaftswachstum und der Schaffung von Arbeitsplätzen sollte Vorrang ein
+v204	3	Andere Antwort
+v204	8	Weiß nicht
+v204	9	Keine Antwort
+v205	Variable Label	Regierung: In der Öffentlichkeit Menschen per Video zu überwachen (Q58A)
+v205	1	Sollte definitiv das Recht dazu haben
+v205	2	Sollte vermutlich das Recht dazu haben
+v205	3	Sollte vermutlich nicht das Recht dazu haben
+v205	4	Sollte definitiv nicht das Recht dazu haben
+v205	8	Weiß nicht
+v205	9	Keine Antwort
+v206	Variable Label	Regierung: Alle E-Mails und Informationen, die im Internet ausgetauscht werden,
+v206	1	Sollte definitiv das Recht dazu haben
+v206	2	Sollte vermutlich das Recht dazu haben
+v206	3	Sollte vermutlich nicht das Recht dazu haben
+v206	4	Sollte definitiv nicht das Recht dazu haben
+v206	8	Weiß nicht
+v206	9	Keine Antwort
+v207	Variable Label	Regierung: Informationen über jede Person, die in Österreich lebt, ohne deren
+v207	1	Sollte definitiv das Recht dazu haben
+v207	2	Sollte vermutlich das Recht dazu haben
+v207	3	Sollte vermutlich nicht das Recht dazu haben
+v207	4	Sollte definitiv nicht das Recht dazu haben
+v207	8	Weiß nicht
+v207	9	Keine Antwort
+v208	Variable Label	Wie häufig verfolgen Sie das politische Geschehen: im Fernsehen (Q59A)
+v208	1	Täglich
+v208	2	Mehrmals die Woche
+v208	3	Ein- oder zweimal die Woche
+v208	4	Seltener
+v208	5	Nie
+v208	8	Weiß nicht
+v208	9	Keine Antwort
+v209	Variable Label	Wie häufig verfolgen Sie das politische Geschehen: im Radio (Q59B)
+v209	1	Täglich
+v209	2	Mehrmals die Woche
+v209	3	Ein- oder zweimal die Woche
+v209	4	Seltener
+v209	5	Nie
+v209	8	Weiß nicht
+v209	9	Keine Antwort
+v20a	Variable Label	Zugehörigkeit zu: Weiß nicht (MQ: zu gesamter Frage) (Q4)
+v20a	1	Genannt
+v20a	2	Nicht genannt
+v20b	Variable Label	Zugehörigkeit zu: Keine Antwort (MQ: zu gesamter Frage) (Q4)
+v20b	1	Genannt
+v20b	2	Nicht genannt
+v21	Variable Label	Waren Sie in den vergangenen 6 Monaten ehrenamtlich tätig? (Q5)
+v21	1	Ja
+v21	2	Nein
+v21	8	Weiß nicht
+v21	9	Keine Antwort
+v21_at	Variable Label	Ausländer sollten ihren Lebensstil ein bisschen besser an den der Inländer an
+v21_at	1	Stimme voll und ganz zu
+v21_at	2	Stimme zu
+v21_at	3	Weder noch
+v21_at	4	Lehne ab
+v21_at	5	Lehne voll und ganz ab
+v21_at	8	Weiß nicht
+v21_at	9	Keine Antwort
+v210	Variable Label	Wie häufig verfolgen Sie das politische Geschehen: in den Zeitungen (Q59C)
+v210	1	Täglich
+v210	2	Mehrmals die Woche
+v210	3	Ein- oder zweimal die Woche
+v210	4	Seltener
+v210	5	Nie
+v210	8	Weiß nicht
+v210	9	Keine Antwort
+v211	Variable Label	Wie häufig verfolgen Sie das politische Geschehen: in den sozialen Medien (Q59
+v211	1	Täglich
+v211	2	Mehrmals die Woche
+v211	3	Ein- oder zweimal die Woche
+v211	4	Seltener
+v211	5	Nie
+v211	8	Weiß nicht
+v211	9	Keine Antwort
+v212	Variable Label	Wie viel liegt Ihnen an: Menschen in Ihrer Nachbarschaft (Q60A)
+v212	1	Sehr viel
+v212	2	Viel
+v212	3	Etwas
+v212	4	Nicht so viel
+v212	5	Überhaupt nichts
+v212	8	Weiß nicht
+v212	9	Keine Antwort
+v213	Variable Label	Wie viel liegt Ihnen an: Menschen in der Region, in der Sie leben (Q60B)
+v213	1	Sehr viel
+v213	2	Viel
+v213	3	Etwas
+v213	4	Nicht so viel
+v213	5	Überhaupt nichts
+v213	8	Weiß nicht
+v213	9	Keine Antwort
+v214	Variable Label	Wie viel liegt Ihnen an: Ihren Landsleuten (Q60C)
+v214	1	Sehr viel
+v214	2	Viel
+v214	3	Etwas
+v214	4	Nicht so viel
+v214	5	Überhaupt nichts
+v214	8	Weiß nicht
+v214	9	Keine Antwort
+v215	Variable Label	Wie viel liegt Ihnen an: Europäern (Q60D)
+v215	1	Sehr viel
+v215	2	Viel
+v215	3	Etwas
+v215	4	Nicht so viel
+v215	5	Überhaupt nichts
+v215	8	Weiß nicht
+v215	9	Keine Antwort
+v216	Variable Label	Wie viel liegt Ihnen an: Allen Menschen auf der ganzen Welt (Q60E)
+v216	1	Sehr viel
+v216	2	Viel
+v216	3	Etwas
+v216	4	Nicht so viel
+v216	5	Überhaupt nichts
+v216	8	Weiß nicht
+v216	9	Keine Antwort
+v217	Variable Label	Wie viel liegt Ihnen an: Ältere Menschen (Q61A)
+v217	1	 Sehr viel
+v217	2	 Viel
+v217	3	 Etwas
+v217	4	 Nicht so viel
+v217	5	 Überhaupt  nichts
+v217	8	Weiß nicht
+v217	9	Keine Antwort
+v218	Variable Label	Wie viel liegt Ihnen an: Arbeitslose (Q61B)
+v218	1	 Sehr viel
+v218	2	 Viel
+v218	3	 Etwas
+v218	4	 Nicht so viel
+v218	5	 Überhaupt  nichts
+v218	8	Weiß nicht
+v218	9	Keine Antwort
+v219	Variable Label	Wie viel liegt Ihnen an: Zuwanderer (Q61C)
+v219	1	 Sehr viel
+v219	2	 Viel
+v219	3	 Etwas
+v219	4	 Nicht so viel
+v219	5	 Überhaupt  nichts
+v219	8	Weiß nicht
+v219	9	Keine Antwort
+v22	Variable Label	Hätten Sie nicht gern als Nachbarn: Menschen anderer Hautfarbe (Q6A)
+v22	1	Genannt
+v22	2	Nicht genannt
+v22	8	Weiß nicht
+v22	9	Keine Antwort
+v22_at	Variable Label	Wenn Arbeitsplätze knapp werden, sollte man die Ausländer wieder in ihre Heim
+v22_at	1	Stimme voll und ganz zu
+v22_at	2	Stimme zu
+v22_at	3	Weder noch
+v22_at	4	Lehne ab
+v22_at	5	Lehne voll und ganz ab
+v22_at	8	Weiß nicht
+v22_at	9	Keine Antwort
+v220	Variable Label	Wie viel liegt Ihnen an: Kranke und Behinderte (Q61D)
+v220	1	 Sehr viel
+v220	2	 Viel
+v220	3	 Etwas
+v220	4	 Nicht so viel
+v220	5	 Überhaupt  nichts
+v220	8	Weiß nicht
+v220	9	Keine Antwort
+v221	Variable Label	Wichtig: Große Einkommensunterschiede zwischen den Bürgerinnen und Bürgern b
+v221	1	Sehr wichtig
+v221	2	Ziemlich wichtig
+v221	3	Nicht wichtig
+v221	4	Überhaupt nicht wichtig
+v221	8	Weiß nicht
+v221	9	Keine Antwort
+v222	Variable Label	Wichtig: Dafür sorgen, dass Grundbedürfnisse, wie Essen, Wohnen, Kleidung, Bi
+v222	1	Sehr wichtig
+v222	2	Ziemlich wichtig
+v222	3	Nicht wichtig
+v222	4	Überhaupt nicht wichtig
+v222	8	Weiß nicht
+v222	9	Keine Antwort
+v223	Variable Label	Wichtig: Menschen aufgrund ihrer Leistungen anerkennen (Q62C)
+v223	1	Sehr wichtig
+v223	2	Ziemlich wichtig
+v223	3	Nicht wichtig
+v223	4	Überhaupt nicht wichtig
+v223	8	Weiß nicht
+v223	9	Keine Antwort
+v224	Variable Label	Wichtig: Vor Terrorismus schützen (Q62D)
+v224	1	Sehr wichtig
+v224	2	Ziemlich wichtig
+v224	3	Nicht wichtig
+v224	4	Überhaupt nicht wichtig
+v224	8	Weiß nicht
+v224	9	Keine Antwort
+v225	Variable Label	Geschlecht des Befragten (Q63)
+v225	1	Männlich
+v225	2	Weiblich
+v225	8	Weiß nicht
+v225	9	Keine Antwort
+v226	Variable Label	Geburtsjahr des Befragten (Q64)
+v226	1935	1935 und davor
+v227	Variable Label	In Österreich geboren (Q65)
+v227	1	Ja
+v227	2	Nein
+v227	8	Weiß nicht
+v227	9	Keine Antwort
+v228b	Variable Label	Geburtsland des Befragten - ISO 3166-1 code (Q66CODE)
+v229	Variable Label	Zum ersten Mal nach Österreich gekommen (Jahr) (Q67)
+v229	194	1941 und davor
+v229	1941	1941 und davor
+v23	Variable Label	Hätten Sie nicht gern als Nachbarn: Leute, die oft betrunken sind (Q6B)
+v23	1	Genannt
+v23	2	Nicht genannt
+v23	8	Weiß nicht
+v23	9	Keine Antwort
+v23_at	Variable Label	Man sollte Ausländern jede politische Betätigung im Inland untersagen. (Q3AT_
+v23_at	1	Stimme voll und ganz zu
+v23_at	2	Stimme zu
+v23_at	3	Weder noch
+v23_at	4	Lehne ab
+v23_at	5	Lehne voll und ganz ab
+v23_at	8	Weiß nicht
+v23_at	9	Keine Antwort
+v230	Variable Label	Vater in Österreich geboren (Q68)
+v230	1	Ja
+v230	2	Nein
+v230	7	Nicht zutreffend
+v230	8	Weiß nicht
+v230	9	Keine Antwort
+v231b	Variable Label	Geburtsland des Vaters - ISO 3166-1 code (Q69CODE)
+v232	Variable Label	Mutter in Österreich geboren (Q70)
+v232	1	Ja
+v232	2	Nein
+v232	7	Nicht zutreffend
+v232	8	Weiß nicht
+v232	9	Keine Antwort
+v233b	Variable Label	Geburtsland der Mutter - ISO 3166-1 code (Q71CODE)
+v234	Variable Label	Familienstand des Befragten (Q72)
+v234	1	Verheiratet
+v234	2	Eingetragene Partnerschaft (für gleichgeschlechtliche Paare)
+v234	3	Verwitwet
+v234	4	Geschieden
+v234	5	Verheiratet, vom Ehepartner / von der EhepartnerIn getrennt lebend
+v234	6	Ledig, nie verheiratet und niemals in einer eingetragenen Lebenspartnerschaft
+v234	8	Weiß nicht
+v234	9	Keine Antwort
+v235	Variable Label	Mit Partner/in schon vor der Ehe zusammengelebt (Q73)
+v235	1	Ja
+v235	2	Nein
+v235	7	Nicht zutreffend
+v235	8	Weiß nicht
+v235	9	Keine Antwort
+v236	Variable Label	Mit Partner/in zusammenlebend (Q74)
+v236	1	Ja
+v236	2	Nein
+v236	7	Nicht zutreffend
+v236	8	Weiß nicht
+v236	9	Keine Antwort
+v237	Variable Label	Feste Beziehung (Q75)
+v237	1	Ja
+v237	2	Nein
+v237	7	Nicht zutreffend
+v237	8	Weiß nicht
+v237	9	Keine Antwort
+v238	Variable Label	Mit Eltern oder Schwiegereltern zusammenlebend (Q76)
+v238	1	Nein
+v238	2	Ja, mit den eigenen Eltern (oder mit einem Elternteil)
+v238	3	Ja, mit den Schwiegereltern (oder einem Schwiegerelternteil)
+v238	4	Ja, sowohl mit meinen Eltern (oder Elternteil) als auch mit meinen Schwiegerelte
+v238	8	Weiß nicht
+v238	9	Keine Antwort
+v239_r	Variable Label	Anzahl der Kinder im/außerhalb des Haushalt (konstruiert) (Q77)
+v239_r	5	5 und mehr
+v239_r	99	Keine Antwort
+v239a	Variable Label	Anzahl der Kinder im Haushalt (Q77A)
+v239a	4	4 und mehr
+v239a	99	Keine Antwort
+v239b	Variable Label	Anzahl der Kinder außerhalb des Haushalts (Q77B)
+v239b	3	3 und mehr
+v239b	99	Keine Antwort
+v24	Variable Label	Hätten Sie nicht gern als Nachbarn: Zuwanderer (Q6C)
+v24	1	Genannt
+v24	2	Nicht genannt
+v24	8	Weiß nicht
+v24	9	Keine Antwort
+v24_at	Variable Label	Das Wichtigste, was Kinder lernen müssen, ist das Teilen. (Q3AT_J)
+v24_at	1	Stimme voll und ganz zu
+v24_at	2	Stimme zu
+v24_at	3	Weder noch
+v24_at	4	Lehne ab
+v24_at	5	Lehne voll und ganz ab
+v24_at	8	Weiß nicht
+v24_at	9	Keine Antwort
+v240	Variable Label	Anzahl Personen im Haushalt (Q78)
+v240	7	7 und mehr
+v240	99	Keine Antwort
+v241	Variable Label	Alter der jüngsten Person im Haushalt (Q79)
+v241	80	80 und älter
+v241	777	Nicht zutreffend
+v241	999	Keine Antwort
+v242	Variable Label	In welchem Alter haben Sie Ihren höchsten allgemeinen Schul- oder Hochschulabs
+v242	7	7 und jünger
+v242	70	70 und älter
+v242	777	Nicht zutreffend
+v242	999	Keine Antwort
+v243	Variable Label	Höchster Bildungsabschluss Befragte/r  (Q81)
+v243	1	Kein Abschluss
+v243	2	Volksschulabschluss (4.Schulstufe)
+v243	3	Abschluss einer Hauptschule, Neuen Mittelschule oder Volksschuloberstufe (8. Sch
+v243	4	Abschluss der Polytechnischen Schule bzw. einer einjährigen mittleren Schule (9
+v243	5	Abschluss der AHS-Unterstufe (8. Schulstufe an einem Gymnasium)
+v243	6	Lehrabschluss (Lehrabschlussprüfung)
+v243	7	Abschluss Berufsbildende mittlere Schule (min. 2-jährig, z.B. Handelsschule, Fa
+v243	8	AHS-Matura (Gymnasium, auch Sonderformen oder Studienberechtigungsprüfung)
+v243	9	Diplom in Gesundheits- und Krankenpflege oder im medizinisch-technischen Fachdie
+v243	10	BHS-Matura (HAK, HTL, HLW, BAKIP, inkl. Sonderformen und Berufsreifeprüfung)
+v243	11	Kolleg-Diplom, Meister-Prüfung (Werkmeister, Bauhandwerker), Abschluss eines Un
+v243	12	Diplom an pädagogischer Akademie, medizinischer Akademie, Sozialakademie
+v243	13	Bachelor/Bakkalaureat an einer Fachhochschule oder pädagogischen Hochschule
+v243	14	Bachelor/Bakkalaureat an einer Universität
+v243	15	Diplomstudienabschluss/Master an einer Fachhochschule
+v243	16	Diplomstudienabschluss/Master an einer Universität (inkl. Doktorat als Erstabsc
+v243	17	Postgraduale Universitätslehrgänge (aufbauend auf Diplomstudienabschluss, z.B.
+v243	18	Abschluss mit Doktorat (aufbauend auf Diplomstudienabschluss: Dr., PhD)
+v243	19	andere
+v243	88	Weiß nicht
+v243	99	Keine Antwort
+v243_ISCED_1	Variable Label	Höchster Bildungsabschluss Befragte/r: ISCED-code (Q81)
+v243_ISCED_1	0	Elementarbereich
+v243_ISCED_1	1	Primarbereich
+v243_ISCED_1	2	Sekundarbereich I
+v243_ISCED_1	3	Sekundarbereich II
+v243_ISCED_1	4	Postsekundarer, nicht tertiärer Bereich
+v243_ISCED_1	5	Kurzes tertiäres Bildungsprogramm
+v243_ISCED_1	6	Bachelor- bzw. gleichwertiges Bildungsprogramm
+v243_ISCED_1	7	Master- bzw. gleichwertiges Bildungsprogramm
+v243_ISCED_1	8	Promotion bzw. gleichwertiges Bildungsprogramm
+v243_ISCED_1	66	Andere
+v243_ISCED_1	77	Nicht zutreffend
+v243_ISCED_1	88	Weiß nicht
+v243_ISCED_1	99	Keine Antwort
+v243_r	Variable Label	Höchster Bildungsabschluss Befragte/r: umkodiert (Q81)
+v243_r	1	niedrig
+v243_r	2	mittel
+v243_r	3	hoch
+v243_r	6	andere
+v243_r	7	Nicht zutreffend
+v243_r	8	Weiß nicht
+v243_r	9	Keine Antwort
+v244	Variable Label	Gegenwärtig berufstätig/ nicht berufstätig (Q82)
+v244	1	Berufstätig: 30 Stunden in der Woche oder mehr
+v244	2	Berufstätig: Weniger als 30 Stunden in der Woche
+v244	3	Berufstätig: Selbstständig
+v244	4	Nicht berufstätig: Wehrdienst/Zivildienst
+v244	5	Nicht berufstätig: Pension, Ruhestand
+v244	6	Nicht berufstätig: Hausfrau, Hausmann ohne weitere sonstige Beschäftigung
+v244	7	Nicht berufstätig: Schüler/Schülerin, Student/Studentin
+v244	8	Nicht berufstätig: arbeitslos
+v244	9	Nicht berufstätig: arbeitsunfähig
+v244	10	anderes
+v244	88	Weiß nicht
+v244	99	Keine Antwort
+v245	Variable Label	Unselbstständige-/ selbstständige Beschäftigung in der letzten beruflichen T
+v245	1	Unselbstständig beschäftigt
+v245	2	Selbstständig
+v245	6	Hatte noch nie eine bezahlte Anstellung
+v245	7	Nicht zutreffend
+v245	8	Weiß nicht
+v245	9	Keine Antwort
+v246_ISCO_2	Variable Label	Welche Art von Tätigkeit (Befragter) - 2-stufig ISCO08 code (Q84a)
+v246_ISCO_2	1	Offiziere in regulären Streitkräften
+v246_ISCO_2	2	Unteroffiziere in regulären Streitkräften
+v246_ISCO_2	3	Angehörige der regulären Streitkräfte in sonstigen Rängen
+v246_ISCO_2	10	Führungskräfte, onA
+v246_ISCO_2	11	Geschäftsführer, Vorstände, leitende Verwaltungsbedienstete und Angehörige gesetzgebender Körperschaften
+v246_ISCO_2	12	Führungskräfte im kaufmännischen Bereich
+v246_ISCO_2	13	Führungskräfte in der Produktion und bei speziellen Dienstleistungen
+v246_ISCO_2	14	Führungskräfte in Hotels und Restaurants, im Handel und in der Erbringung
+v246_ISCO_2	21	Naturwissenschaftler, Mathematiker und Ingenieure
+v246_ISCO_2	22	Akademische und verwandte Gesundheitsberufe
+v246_ISCO_2	23	Lehrkräfte
+v246_ISCO_2	24	Betriebswirte und vergleichbare akademische Berufe
+v246_ISCO_2	25	Akademische und vergleichbare Fachkräfte in der Informations- und Kommunikati
+v246_ISCO_2	26	Juristen, Sozialwissenschaftler und Kulturberufe
+v246_ISCO_2	31	Ingenieurtechnische und vergleichbare Fachkräfte
+v246_ISCO_2	32	Assistenzberufe im Gesundheitswesen
+v246_ISCO_2	33	Nicht akademische betriebswirtschaftliche und kaufmännische Fachkräfte und
+v246_ISCO_2	34	Nicht akademische juristische, sozialpflegerische, kulturelle und verwandte Fach
+v246_ISCO_2	35	Informations- und Kommunikationstechniker
+v246_ISCO_2	41	Allgemeine Büro- und Sekretariatskräfte
+v246_ISCO_2	42	Bürokräfte mit Kundenkontakt
+v246_ISCO_2	43	Bürokräfte im Finanz- und Rechnungswesen, in der Statistik und in der Mate
+v246_ISCO_2	44	Sonstige Bürokräfte und verwandte Berufe
+v246_ISCO_2	51	Berufe im Bereich personenbezogener Dienstleistungen
+v246_ISCO_2	52	Verkaufskräfte
+v246_ISCO_2	53	Betreuungsberufe
+v246_ISCO_2	54	Schutzkräfte und Sicherheitsbedienstete
+v246_ISCO_2	61	Fachkräfte in der Landwirtschaft
+v246_ISCO_2	62	Fachkräfte in Forstwirtschaft, Fischerei und Jagd – Marktproduktion
+v246_ISCO_2	63	Landwirte, Fischer, Jäger und Sammler für den Eigenbedarf
+v246_ISCO_2	71	Bau- und Ausbaufachkräfte sowie verwandte Berufe, ausgenommen Elektriker
+v246_ISCO_2	72	Metallarbeiter, Mechaniker und verwandte Berufe
+v246_ISCO_2	73	Präzisionshandwerker, Drucker und kunsthandwerkliche Berufe
+v246_ISCO_2	74	Elektriker und Elektroniker
+v246_ISCO_2	75	Berufe in der Nahrungsmittelverarbeitung, Holzverarbeitung und Bekleidungsherste
+v246_ISCO_2	81	Bediener stationärer Anlagen und Maschinen
+v246_ISCO_2	82	Montageberufe
+v246_ISCO_2	83	Fahrzeugführer und Bediener mobiler Anlagen
+v246_ISCO_2	91	Reinigungspersonal und Hilfskräfte
+v246_ISCO_2	92	Hilfsarbeiter in der Land- und Forstwirtschaft und Fischerei
+v246_ISCO_2	93	Hilfsarbeiter im Bergbau, im Bau, bei der Herstellung von Waren und im Transport
+v246_ISCO_2	94	Hilfskräfte in der Nahrungsmittelzubereitung
+v246_ISCO_2	95	Strassenhändler und auf der Strasse arbeitende Dienstleistungskräfte
+v246_ISCO_2	96	Abfallentsorgungsarbeiter und sonstige Hilfsarbeitskräfte
+v246_ISCO_2	777	Nicht zutreffend
+v246_ISCO_2	888	Weiß nicht
+v246_ISCO_2	999	Keine Antwort
+v247	Variable Label	Wie viele Personen sind / waren bei Ihnen beschäftigt? (Q85)
+v247	1	keine
+v247	2	1-9
+v247	3	10-24
+v247	4	25 oder mehr
+v247	7	Nicht zutreffend
+v247	8	Weiß nicht
+v247	9	Keine Antwort
+v248	Variable Label	Führungsposition ja/ nein (Q86)
+v248	1	Ja
+v248	2	Nein
+v248	7	Nicht zutreffend
+v248	8	Weiß nicht
+v248	9	Keine Antwort
+v248a	Variable Label	Wie viele Personen sind es, deren Arbeit Sie beaufsichtigen/beaufsichtigten? (Q
+v248a	1	1-9
+v248a	2	10-24
+v248a	3	25 oder mehr
+v248a	7	Nicht zutreffend
+v248a	8	Weiß nicht
+v248a	9	Keine Antwort
+v249	Variable Label	Arbeiten Sie für / haben Sie gearbeitet für …? (Q87)
+v249	1	Den öffentlichen Dienst
+v249	2	Privates Unternehmen oder Gewerbe
+v249	3	Private gemeinnützige Organisation
+v249	7	Nicht zutreffend
+v249	8	Weiß nicht
+v249	9	Keine Antwort
+v25	Variable Label	Hätten Sie nicht gern als Nachbarn: Drogenabhängige (Q6D)
+v25	1	Genannt
+v25	2	Nicht genannt
+v25	8	Weiß nicht
+v25	9	Keine Antwort
+v25_at	Variable Label	Teilen lernt man am besten in der Familie. (Q3AT_K)
+v25_at	1	Stimme voll und ganz zu
+v25_at	2	Stimme zu
+v25_at	3	Weder noch
+v25_at	4	Lehne ab
+v25_at	5	Lehne voll und ganz ab
+v25_at	8	Weiß nicht
+v25_at	9	Keine Antwort
+v250	Variable Label	(Ehe-)PartnerIn in Österreich geboren (Q88)
+v250	1	Ja
+v250	2	Nein
+v250	7	Nicht zutreffend
+v250	8	Weiß nicht
+v250	9	Keine Antwort
+v251b	Variable Label	Geburtsland (Ehe-)PartnerIn ISO 3166-1 code (Q88a)
+v252	Variable Label	Höchste abgeschlossene Schulbildung (Ehe-)PartnerIn (Q89)
+v252	1	Kein Abschluss
+v252	2	Volksschulabschluss (4.Schulstufe)
+v252	3	Abschluss einer Hauptschule, Neuen Mittelschule oder Volksschuloberstufe (8. Sch
+v252	4	Abschluss der Polytechnischen Schule bzw. einer einjährigen mittleren Schule (9
+v252	5	Abschluss der AHS-Unterstufe (8. Schulstufe an einem Gymnasium)
+v252	6	Lehrabschluss (Lehrabschlussprüfung)
+v252	7	Abschluss Berufsbildende mittlere Schule (min. 2-jährig, z.B. Handelsschule, Fa
+v252	8	AHS-Matura (Gymnasium, auch Sonderformen oder Studienberechtigungsprüfung)
+v252	9	Diplom in Gesundheits- und Krankenpflege oder im medizinisch-technischen Fachdie
+v252	10	BHS-Matura (HAK, HTL, HLW, BAKIP, inkl. Sonderformen und Berufsreifeprüfung)
+v252	11	Kolleg-Diplom, Meister-Prüfung (Werkmeister, Bauhandwerker), Abschluss eines Un
+v252	12	Diplom an pädagogischer Akademie, medizinischer Akademie, Sozialakademie
+v252	13	Bachelor/Bakkalaureat an einer Fachhochschule oder pädagogischen Hochschule
+v252	14	Bachelor/Bakkalaureat an einer Universität
+v252	15	Diplomstudienabschluss/Master an einer Fachhochschule
+v252	16	Diplomstudienabschluss/Master an einer Universität (inkl. Doktorat als Erstabsc
+v252	17	Postgraduale Universitätslehrgänge (aufbauend auf Diplomstudienabschluss, z.B.
+v252	18	Abschluss mit Doktorat (aufbauend auf Diplomstudienabschluss: Dr., PhD)
+v252	19	andere
+v252	77	Nicht zutreffend
+v252	88	Weiß nicht
+v252	99	Keine Antwort
+v252_ISCED_1	Variable Label	Höchster Bildungsabschluss (Ehe-)PartnerIn: ISCED-code (Q89)
+v252_ISCED_1	0	Elementarbereich
+v252_ISCED_1	1	Primarbereich
+v252_ISCED_1	2	Sekundarbereich I
+v252_ISCED_1	3	Sekundarbereich II
+v252_ISCED_1	4	Postsekundarer, nicht tertiärer Bereich
+v252_ISCED_1	5	Kurzes tertiäres Bildungsprogramm
+v252_ISCED_1	6	Bachelor- bzw. gleichwertiges Bildungsprogramm
+v252_ISCED_1	7	Master- bzw. gleichwertiges Bildungsprogramm
+v252_ISCED_1	8	Promotion bzw. gleichwertiges Bildungsprogramm
+v252_ISCED_1	66	Andere
+v252_ISCED_1	77	Nicht zutreffend
+v252_ISCED_1	88	Weiß nicht
+v252_ISCED_1	99	Keine Antwort
+v252_r	Variable Label	Höchster Bildungsabschluss (Ehe-)PartnerIn: umkodiert (Q89)
+v252_r	1	niedrig
+v252_r	2	mittel
+v252_r	3	hoch
+v252_r	6	andere
+v252_r	7	Nicht zutreffend
+v252_r	8	Weiß nicht
+v252_r	9	Keine Antwort
+v253	Variable Label	(Ehe-)PartnerIn gegenwärtig berufstätig/ nicht berufstätig (Q90)
+v253	1	Berufstätig: 30 Stunden in der Woche oder mehr
+v253	2	Berufstätig: Weniger als 30 Stunden in der Woche
+v253	3	Berufstätig: Selbstständig
+v253	4	Nicht berufstätig: Wehrdienst/Zivildienst
+v253	5	Nicht berufstätig: Pension, Ruhestand
+v253	6	Nicht berufstätig: Hausfrau, Hausmann ohne weitere sonstige Beschäftigung
+v253	7	Nicht berufstätig: Schüler/Schülerin, Student/Studentin
+v253	8	Nicht berufstätig: arbeitslos
+v253	9	Nicht berufstätig: arbeitsunfähig
+v253	10	anderes
+v253	77	Nicht zutreffend
+v253	88	Weiß nicht
+v253	99	Keine Antwort
+v254	Variable Label	Unselbstständige-/ selbstständige Beschäftigung (Ehe-)PartnerIn in der letzt
+v254	1	Unselbstständig beschäftigt
+v254	2	Selbstständig
+v254	6	Hatte noch nie eine bezahlte Beschäftigung
+v254	7	Nicht zutreffend
+v254	8	Weiß nicht
+v254	9	Keine Antwort
+v255_ISCO_2	Variable Label	Welche Art von Tätigkeit ((Ehe-)PartnerIn) - 2-stufig ISCO08 code (Q92a)
+v255_ISCO_2	1	Offiziere in regulären Streitkräften
+v255_ISCO_2	2	Unteroffiziere in regulären Streitkräften
+v255_ISCO_2	3	Angehörige der regulären Streitkräfte in sonstigen Rängen
+v255_ISCO_2	10	Führungskräfte, onA
+v255_ISCO_2	11	Geschäftsführer, Vorstände, leitende Verwaltungsbedienstete und Angehörige gesetzgebender Körperschaften
+v255_ISCO_2	12	Führungskräfte im kaufmännischen Bereich
+v255_ISCO_2	13	Führungskräfte in der Produktion und bei speziellen Dienstleistungen
+v255_ISCO_2	14	Führungskräfte in Hotels und Restaurants, im Handel und in der Erbringung
+v255_ISCO_2	21	Naturwissenschaftler, Mathematiker und Ingenieure
+v255_ISCO_2	22	Akademische und verwandte Gesundheitsberufe
+v255_ISCO_2	23	Lehrkräfte
+v255_ISCO_2	24	Betriebswirte und vergleichbare akademische Berufe
+v255_ISCO_2	25	Akademische und vergleichbare Fachkräfte in der Informations- und Kommunikati
+v255_ISCO_2	26	Juristen, Sozialwissenschaftler und Kulturberufe
+v255_ISCO_2	31	Ingenieurtechnische und vergleichbare Fachkräfte
+v255_ISCO_2	32	Assistenzberufe im Gesundheitswesen
+v255_ISCO_2	33	Nicht akademische betriebswirtschaftliche und kaufmännische Fachkräfte und
+v255_ISCO_2	34	Nicht akademische juristische, sozialpflegerische, kulturelle und verwandte Fach
+v255_ISCO_2	35	Informations- und Kommunikationstechniker
+v255_ISCO_2	41	Allgemeine Büro- und Sekretariatskräfte
+v255_ISCO_2	42	Bürokräfte mit Kundenkontakt
+v255_ISCO_2	43	Bürokräfte im Finanz- und Rechnungswesen, in der Statistik und in der Mate
+v255_ISCO_2	44	Sonstige Bürokräfte und verwandte Berufe
+v255_ISCO_2	51	Berufe im Bereich personenbezogener Dienstleistungen
+v255_ISCO_2	52	Verkaufskräfte
+v255_ISCO_2	53	Betreuungsberufe
+v255_ISCO_2	54	Schutzkräfte und Sicherheitsbedienstete
+v255_ISCO_2	61	Fachkräfte in der Landwirtschaft
+v255_ISCO_2	62	Fachkräfte in Forstwirtschaft, Fischerei und Jagd – Marktproduktion
+v255_ISCO_2	63	Landwirte, Fischer, Jäger und Sammler für den Eigenbedarf
+v255_ISCO_2	71	Bau- und Ausbaufachkräfte sowie verwandte Berufe, ausgenommen Elektriker
+v255_ISCO_2	72	Metallarbeiter, Mechaniker und verwandte Berufe
+v255_ISCO_2	73	Präzisionshandwerker, Drucker und kunsthandwerkliche Berufe
+v255_ISCO_2	74	Elektriker und Elektroniker
+v255_ISCO_2	75	Berufe in der Nahrungsmittelverarbeitung, Holzverarbeitung und Bekleidungsherste
+v255_ISCO_2	81	Bediener stationärer Anlagen und Maschinen
+v255_ISCO_2	82	Montageberufe
+v255_ISCO_2	83	Fahrzeugführer und Bediener mobiler Anlagen
+v255_ISCO_2	91	Reinigungspersonal und Hilfskräfte
+v255_ISCO_2	92	Hilfsarbeiter in der Land- und Forstwirtschaft und Fischerei
+v255_ISCO_2	93	Hilfsarbeiter im Bergbau, im Bau, bei der Herstellung von Waren und im Transport
+v255_ISCO_2	94	Hilfskräfte in der Nahrungsmittelzubereitung
+v255_ISCO_2	95	Strassenhändler und auf der Strasse arbeitende Dienstleistungskräfte
+v255_ISCO_2	96	Abfallentsorgungsarbeiter und sonstige Hilfsarbeitskräfte
+v255_ISCO_2	777	Nicht zutreffend
+v255_ISCO_2	888	Weiß nicht
+v255_ISCO_2	999	Keine Antwort
+v256	Variable Label	Wie viele Personen sind / waren bei ihrem/ihrer (Ehe-)PartnerIn beschäftigt? (
+v256	1	keine
+v256	2	1-9
+v256	3	10-24
+v256	4	25 oder mehr
+v256	7	Nicht zutreffend
+v256	8	Weiß nicht
+v256	9	Keine Antwort
+v257	Variable Label	Führungsposition (Ehe-)PartnerIn ja/ nein (Q94)
+v257	1	Ja
+v257	2	Nein
+v257	7	Nicht zutreffend
+v257	8	Weiß nicht
+v257	9	Keine Antwort
+v258	Variable Label	Wie viele Personen sind es, deren Arbeit ihr/e (Ehe-)PartnerIn beaufsichtigen/b
+v258	1	1-9
+v258	2	10-24
+v258	3	25 oder mehr
+v258	7	Nicht zutreffend
+v258	8	Weiß nicht
+v258	9	Keine Antwort
+v259	Variable Label	Befragter schon einmal länger als drei Monate am Stück arbeitslos (Q96)
+v259	1	Ja
+v259	2	Nein
+v259	8	Weiß nicht
+v259	9	Keine Antwort
+v26	Variable Label	Hätten Sie nicht gern als Nachbarn: Homosexuelle (Q6E)
+v26	1	Genannt
+v26	2	Nicht genannt
+v26	8	Weiß nicht
+v26	9	Keine Antwort
+v26_at	Variable Label	Ohne Familie kann man nicht lernen, Konflikte zu lösen. (Q3AT_L)
+v26_at	1	Stimme voll und ganz zu
+v26_at	2	Stimme zu
+v26_at	3	Weder noch
+v26_at	4	Lehne ab
+v26_at	5	Lehne voll und ganz ab
+v26_at	8	Weiß nicht
+v26_at	9	Keine Antwort
+v260	Variable Label	Befragter hat während der letzten fünf Jahre Mindestsicherung bezogen (Q97)
+v260	1	Ja
+v260	2	Nein
+v260	8	Weiß nicht
+v260	9	Keine Antwort
+v261	Variable Label	(Netto-)Haushaltseinkommen Befragte/r (Q98)
+v261	1	A - weniger als 1.190 €
+v261	2	B - 1.190 bis weniger als 1.600 €
+v261	3	C - 1.600 bis weniger als 1.990 €
+v261	4	D - 1.990 bis weniger als 2.410 €
+v261	5	E - 2.410 bis weniger als 2.910 €
+v261	6	F - 2.910 bis weniger als 3.440 €
+v261	7	G - 3.440 bis weniger als 4.060 €
+v261	8	H - 4.060 bis weniger als 4.800 €
+v261	9	I - 4.800 bis weniger als 5.975 €
+v261	10	J - 5.975 € oder mehr
+v261	88	Weiß nicht
+v261	99	Keine Angabe
+v262	Variable Label	Höchster Bildungsabschluss Vater (Q99)
+v262	1	Kein Abschluss
+v262	2	Volksschulabschluss (4.Schulstufe)
+v262	3	Abschluss einer Hauptschule, Neuen Mittelschule oder Volksschuloberstufe (8. Sch
+v262	4	Abschluss der Polytechnischen Schule bzw. einer einjährigen mittleren Schule (9
+v262	5	Abschluss der AHS-Unterstufe (8. Schulstufe an einem Gymnasium)
+v262	6	Lehrabschluss (Lehrabschlussprüfung)
+v262	7	Abschluss Berufsbildende mittlere Schule (min. 2-jährig, z.B. Handelsschule, Fa
+v262	8	AHS-Matura (Gymnasium, auch Sonderformen oder Studienberechtigungsprüfung)
+v262	9	Diplom in Gesundheits- und Krankenpflege oder im medizinisch-technischen Fachdie
+v262	10	BHS-Matura (HAK, HTL, HLW, BAKIP, inkl. Sonderformen und Berufsreifeprüfung)
+v262	11	Kolleg-Diplom, Meister-Prüfung (Werkmeister, Bauhandwerker), Abschluss eines Un
+v262	12	Diplom an pädagogischer Akademie, medizinischer Akademie, Sozialakademie
+v262	13	Bachelor/Bakkalaureat an einer Fachhochschule oder pädagogischen Hochschule
+v262	14	Bachelor/Bakkalaureat an einer Universität
+v262	15	Diplomstudienabschluss/Master an einer Fachhochschule
+v262	16	Diplomstudienabschluss/Master an einer Universität (inkl. Doktorat als Erstabsc
+v262	17	Postgraduale Universitätslehrgänge (aufbauend auf Diplomstudienabschluss, z.B.
+v262	18	Abschluss mit Doktorat (aufbauend auf Diplomstudienabschluss: Dr., PhD)
+v262	19	andere
+v262	77	Nicht zutreffend
+v262	88	Weiß nicht
+v262	99	Keine Antwort
+v262_ISCED_1	Variable Label	Höchster Bildungsabschluss Vater: ISCED-code (Q99)
+v262_ISCED_1	0	Elementarbereich
+v262_ISCED_1	1	Primarbereich
+v262_ISCED_1	2	Sekundarbereich I
+v262_ISCED_1	3	Sekundarbereich II
+v262_ISCED_1	4	Postsekundarer, nicht tertiärer Bereich
+v262_ISCED_1	5	Kurzes tertiäres Bildungsprogramm
+v262_ISCED_1	6	Bachelor- bzw. gleichwertiges Bildungsprogramm
+v262_ISCED_1	7	Master- bzw. gleichwertiges Bildungsprogramm
+v262_ISCED_1	8	Promotion bzw. gleichwertiges Bildungsprogramm
+v262_ISCED_1	66	Andere
+v262_ISCED_1	77	Nicht zutreffend
+v262_ISCED_1	88	Weiß nicht
+v262_ISCED_1	99	Keine Antwort
+v262_r	Variable Label	Höchster Bildungsabschluss Vater: umkodiert (Q99)
+v262_r	1	niedrig
+v262_r	2	mittel
+v262_r	3	hoch
+v262_r	6	andere
+v262_r	7	Nicht zutreffend
+v262_r	8	Weiß nicht
+v262_r	9	Keine Antwort
+v263	Variable Label	Höchster Bildungsabschluss Mutter (Q100)
+v263	1	Kein Abschluss
+v263	2	Volksschulabschluss (4.Schulstufe)
+v263	3	Abschluss einer Hauptschule, Neuen Mittelschule oder Volksschuloberstufe (8. Sch
+v263	4	Abschluss der Polytechnischen Schule bzw. einer einjährigen mittleren Schule (9
+v263	5	Abschluss der AHS-Unterstufe (8. Schulstufe an einem Gymnasium)
+v263	6	Lehrabschluss (Lehrabschlussprüfung)
+v263	7	Abschluss Berufsbildende mittlere Schule (min. 2-jährig, z.B. Handelsschule, Fa
+v263	8	AHS-Matura (Gymnasium, auch Sonderformen oder Studienberechtigungsprüfung)
+v263	9	Diplom in Gesundheits- und Krankenpflege oder im medizinisch-technischen Fachdie
+v263	10	BHS-Matura (HAK, HTL, HLW, BAKIP, inkl. Sonderformen und Berufsreifeprüfung)
+v263	11	Kolleg-Diplom, Meister-Prüfung (Werkmeister, Bauhandwerker), Abschluss eines Un
+v263	12	Diplom an pädagogischer Akademie, medizinischer Akademie, Sozialakademie
+v263	13	Bachelor/Bakkalaureat an einer Fachhochschule oder pädagogischen Hochschule
+v263	14	Bachelor/Bakkalaureat an einer Universität
+v263	15	Diplomstudienabschluss/Master an einer Fachhochschule
+v263	16	Diplomstudienabschluss/Master an einer Universität (inkl. Doktorat als Erstabsc
+v263	17	Postgraduale Universitätslehrgänge (aufbauend auf Diplomstudienabschluss, z.B.
+v263	18	Abschluss mit Doktorat (aufbauend auf Diplomstudienabschluss: Dr., PhD)
+v263	19	andere
+v263	77	Nicht zutreffend
+v263	88	Weiß nicht
+v263	99	Keine Antwort
+v263_ISCED_1	Variable Label	Höchster Bildungsabschluss Mutter: ISCED-code (Q100)
+v263_ISCED_1	0	Elementarbereich
+v263_ISCED_1	1	Primarbereich
+v263_ISCED_1	2	Sekundarbereich I
+v263_ISCED_1	3	Sekundarbereich II
+v263_ISCED_1	4	Postsekundarer, nicht tertiärer Bereich
+v263_ISCED_1	5	Kurzes tertiäres Bildungsprogramm
+v263_ISCED_1	6	Bachelor- bzw. gleichwertiges Bildungsprogramm
+v263_ISCED_1	7	Master- bzw. gleichwertiges Bildungsprogramm
+v263_ISCED_1	8	Promotion bzw. gleichwertiges Bildungsprogramm
+v263_ISCED_1	66	Andere
+v263_ISCED_1	77	Nicht zutreffend
+v263_ISCED_1	88	Weiß nicht
+v263_ISCED_1	99	Keine Antwort
+v263_r	Variable Label	Höchster Bildungsabschluss Mutter: umkodiert (Q100)
+v263_r	1	niedrig
+v263_r	2	mittel
+v263_r	3	hoch
+v263_r	6	andere
+v263_r	7	Nicht zutreffend
+v263_r	8	Weiß nicht
+v263_r	9	Keine Antwort
+v264	Variable Label	Vater unselbständig beschäftigt, selbstständig oder nicht berufstätig als B
+v264	1	Ja, unselbstständig beschäftigt
+v264	2	Ja, selbstständig
+v264	3	Ohne Arbeit
+v264	6	nicht zutreffend (spontan)
+v264	7	Nicht zutreffend
+v264	8	Weiß nicht
+v264	9	Keine Antwort
+v265	Variable Label	Mutter unselbständig beschäftigt, selbstständig oder nicht berufstätig als
+v265	1	Ja, unselbstständig beschäftigt
+v265	2	Ja, selbstständig
+v265	3	Ohne Arbeit
+v265	7	Nicht zutreffend
+v265	8	Weiß nicht
+v265	9	Keine Antwort
+v266	Variable Label	Zu welcher der folgenden Berufsgruppen hat Ihr Elternteil, der/die Hauptverdien
+v266	1	Freie, technische und sonstige akademisch-spezialisierte Berufe (z.B. Arzt, Lehr
+v266	2	Höhere Verwaltungsebene/Manager (z.B. Banker, Führungskraft in einem großen W
+v266	3	Büro und mittlere Verwaltungsebene (z.B. Sekretär, Sachbearbeiter, Büroleiter
+v266	4	Verkaufsberufe (z.B. Verkaufsleiter, Ladenbesitzer, Verkäufer, Versicherungsver
+v266	5	Dienstleistungsberufe (z.B. Restaurantbesitzer, Polizist, Kellner, Frisör/Fris
+v266	6	Gelernte/r Facharbeiter/in (z.B. Vorabeiter, Automechaniker, Drucker, Näher, We
+v266	7	Angelernte Arbeitskraft (z.B. Maurer, Busfahrer, Zimmermann, Blechbearbeiter, B
+v266	8	Ungelernte Arbeitskraft (z.B. Hilfsarbeiter, Pförtner, ungelernter Fabrikarbeit
+v266	9	Beschäftigte/r in der Landwirtschaft (z.B. Landarbeiter, Traktorfahrer)
+v266	10	Eigentümer/in oder Verwalter/in eines landwirtschaftlichen Betriebs
+v266	66	Nicht zutreffend
+v266	88	Weiß nicht
+v266	99	Keine Antwort
+v267	Variable Label	Meine Mutter hat gerne Bücher gelesen (Q104A)
+v267	1	Ja, trifft voll und ganz zu
+v267	2	Trifft etwas zu
+v267	3	Trifft ein wenig zu
+v267	4	Nein, trifft überhaupt nicht zu
+v267	6	Nicht zutreffend (spontan)
+v267	7	Nicht zutreffend
+v267	8	Weiß nicht
+v267	9	Keine Antwort
+v268	Variable Label	Ich habe zuhause mit meiner Mutter über Politik diskutiert (Q104B)
+v268	1	Ja, trifft voll und ganz zu
+v268	2	Trifft etwas zu
+v268	3	Trifft ein wenig zu
+v268	4	Nein, trifft überhaupt nicht zu
+v268	6	Nicht zutreffend (spontan)
+v268	7	Nicht zutreffend
+v268	8	Weiß nicht
+v268	9	Keine Antwort
+v269	Variable Label	Meine Mutter hat gerne die Nachrichten verfolgt (Q104C)
+v269	1	Ja, trifft voll und ganz zu
+v269	2	Trifft etwas zu
+v269	3	Trifft ein wenig zu
+v269	4	Nein, trifft überhaupt nicht zu
+v269	6	Nicht zutreffend (spontan)
+v269	7	Nicht zutreffend
+v269	8	Weiß nicht
+v269	9	Keine Antwort
+v27	Variable Label	Hätten Sie nicht gern als Nachbarn: Christen (Q6F)
+v27	1	Genannt
+v27	2	Nicht genannt
+v27	8	Weiß nicht
+v27	9	Keine Antwort
+v27_at	Variable Label	Der Sinn des Lebens ist, dass man versucht, dabei das Beste herauszuholen. (Q3A
+v27_at	1	Stimme voll und ganz zu
+v27_at	2	Stimme zu
+v27_at	3	Weder noch
+v27_at	4	Lehne ab
+v27_at	5	Lehne voll und ganz ab
+v27_at	8	Weiß nicht
+v27_at	9	Keine Antwort
+v270	Variable Label	Meine Eltern (Elternteil) hatte(n) Schwierigkeiten mit ihrem Einkommen auszukom
+v270	1	Ja, trifft voll und ganz zu
+v270	2	Trifft etwas zu
+v270	3	Trifft ein wenig zu
+v270	4	Nein, trifft überhaupt nicht zu
+v270	6	Nicht zutreffend (spontan)
+v270	7	Nicht zutreffend
+v270	8	Weiß nicht
+v270	9	Keine Antwort
+v271	Variable Label	Mein Vater hat gerne Bücher gelesen (Q104E)
+v271	1	Ja, trifft voll und ganz zu
+v271	2	Trifft etwas zu
+v271	3	Trifft ein wenig zu
+v271	4	Nein, trifft überhaupt nicht zu
+v271	6	Nicht zutreffend (spontan)
+v271	7	Nicht zutreffend
+v271	8	Weiß nicht
+v271	9	Keine Antwort
+v272	Variable Label	Ich habe zuhause mit meinem Vater über Politik diskutiert (Q104F)
+v272	1	Ja, trifft voll und ganz zu
+v272	2	Trifft etwas zu
+v272	3	Trifft ein wenig zu
+v272	4	Nein, trifft überhaupt nicht zu
+v272	6	Nicht zutreffend (spontan)
+v272	7	Nicht zutreffend
+v272	8	Weiß nicht
+v272	9	Keine Antwort
+v273	Variable Label	Mein Vater hat gerne die Nachrichten verfolgt (Q104G)
+v273	1	Ja, trifft voll und ganz zu
+v273	2	Trifft etwas zu
+v273	3	Trifft ein wenig zu
+v273	4	Nein, trifft überhaupt nicht zu
+v273	6	Nicht zutreffend (spontan)
+v273	7	Nicht zutreffend
+v273	8	Weiß nicht
+v273	9	Keine Antwort
+v274	Variable Label	Meine Eltern (Elternteil) hatte(n) Probleme kaputtgegangene Gegenstände zu ers
+v274	1	Ja, trifft voll und ganz zu
+v274	2	Trifft etwas zu
+v274	3	Trifft ein wenig zu
+v274	4	Nein, trifft überhaupt nicht zu
+v274	6	Nicht zutreffend (spontan)
+v274	7	Nicht zutreffend
+v274	8	Weiß nicht
+v274	9	Keine Antwort
+v275a	Variable Label	Bundesland (Q105)
+v275a	1	Burgenland
+v275a	2	Kärnten
+v275a	3	Niederösterreich
+v275a	4	Oberösterreich
+v275a	5	Salzburg
+v275a	6	Steiermark
+v275a	7	Tirol
+v275a	8	Vorarlberg
+v275a	9	Wien
+v276_r	Variable Label	Größe der Wohngemeide (5 Kategorien)
+v276_r	-3	Nicht zutreffend
+v276_r	-2	Keine Antwort
+v276_r	-1	Weiß nicht
+v276_r	1	unter 5000
+v276_r	2	5000-20000
+v276_r	3	20000-100000
+v276_r	4	100000-500000
+v276_r	5	500000 und mehr
+v277	Variable Label	Datum des Interviews (Q107)
+v28	Variable Label	Hätten Sie nicht gern als Nachbarn: Muslime (Q6G)
+v28	1	Genannt
+v28	2	Nicht genannt
+v28	8	Weiß nicht
+v28	9	Keine Antwort
+v28_at	Variable Label	Wer erfolgreich ist, soll bestimmen, wo es lang geht. (Q3AT_N)
+v28_at	1	Stimme voll und ganz zu
+v28_at	2	Stimme zu
+v28_at	3	Weder noch
+v28_at	4	Lehne ab
+v28_at	5	Lehne voll und ganz ab
+v28_at	8	Weiß nicht
+v28_at	9	Keine Antwort
+v280	Variable Label	Grad des Interesses (Q109)
+v280	1	Sehr interessiert
+v280	2	Etwas interessiert
+v280	3	Nicht besonders interessiert
+v281	Variable Label	Sprache des Interviews (Q110)
+v281a	Variable Label	Sprache des Interviews - iso  639-1 Codierung  (Q110)
+v282	Variable Label	Interviewernummer (Q111)
+v29	Variable Label	Hätten Sie nicht gern als Nachbarn: Juden (Q6H)
+v29	1	Genannt
+v29	2	Nicht genannt
+v29	8	Weiß nicht
+v29	9	Keine Antwort
+v29_at	Variable Label	Die schwächeren Mitglieder der Gesellschaft sollen sich unterordnen. (Q3AT_O)
+v29_at	1	Stimme voll und ganz zu
+v29_at	2	Stimme zu
+v29_at	3	Weder noch
+v29_at	4	Lehne ab
+v29_at	5	Lehne voll und ganz ab
+v29_at	8	Weiß nicht
+v29_at	9	Keine Antwort
+v3	Variable Label	Wie wichtig in Ihrem Leben: Freunde und Bekannte (Q1C)
+v3	1	Sehr wichtig
+v3	2	Ziemlich wichtig
+v3	3	Nicht wichtig
+v3	4	Überhaupt nicht wichtig
+v3	8	Weiß nicht
+v3	9	Keine Antwort
+v3_at	Variable Label	Das Leben wird letztlich bestimmt durch die Gesetze der Natur. (Q1AT_E)
+v3_at	1	Stimme voll und ganz zu
+v3_at	2	Stimme eher zu
+v3_at	3	Stimme eher nicht zu
+v3_at	4	Stimme gar nicht zu
+v3_at	8	Weiß nicht
+v3_at	9	Keine Antwort
+v30	Variable Label	Hätten Sie nicht gern als Nachbarn: Roma und Sinti (Q6I)
+v30	1	Genannt
+v30	2	Nicht genannt
+v30	8	Weiß nicht
+v30	9	Keine Antwort
+v30_at	Variable Label	Es ist ihr wichtig, neue Ideen zu entwickeln, kreativ zu sein und Dinge auf ihr
+v30_at	1	Gleicht mir sehr
+v30_at	2	Gleicht mir
+v30_at	3	Gleicht mir etwas
+v30_at	4	 Gleicht mir wenig
+v30_at	5	Gleicht mir nicht
+v30_at	6	Gleicht mir ganz und gar nicht
+v30_at	8	Weiß nicht
+v30_at	9	Keine Antwort
+v31	Variable Label	Man kann den meisten Menschen vertrauen/ man kann nicht vorsichtig genug sein (
+v31	1	Man kann den meisten vertrauen
+v31	2	Man kann nicht vorsichtig genug sein
+v31	8	Weiß nicht
+v31	9	Keine Antwort
+v31_at	Variable Label	Sie möchte wohlhabend sein, viel Geld besitzen und sich teure Dinge leisten.
+v31_at	1	Gleicht mir sehr
+v31_at	2	Gleicht mir
+v31_at	3	Gleicht mir etwas
+v31_at	4	 Gleicht mir wenig
+v31_at	5	Gleicht mir nicht
+v31_at	6	Gleicht mir ganz und gar nicht
+v31_at	8	Weiß nicht
+v31_at	9	Keine Antwort
+v32	Variable Label	Wie sehr vertrauen Sie: Ihrer Familie (Q8A)
+v32	1	Vertraue völlig
+v32	2	Vertraue eher
+v32	3	Vertraue kaum
+v32	4	Vertraue gar nicht
+v32	8	Weiß nicht
+v32	9	Keine Antwort
+v32_at	Variable Label	Sie meidet alles, was gefährlich ist, und bevorzugt eine sichere Umgebung.  (Q
+v32_at	1	Gleicht mir sehr
+v32_at	2	Gleicht mir
+v32_at	3	Gleicht mir etwas
+v32_at	4	 Gleicht mir wenig
+v32_at	5	Gleicht mir nicht
+v32_at	6	Gleicht mir ganz und gar nicht
+v32_at	8	Weiß nicht
+v32_at	9	Keine Antwort
+v33	Variable Label	Wie sehr vertrauen Sie: Menschen in Ihrer Nachbarschaft (Q8B)
+v33	1	Vertraue völlig
+v33	2	Vertraue eher
+v33	3	Vertraue kaum
+v33	4	Vertraue gar nicht
+v33	8	Weiß nicht
+v33	9	Keine Antwort
+v33_at	Variable Label	Es ist ihr wichtig, eine schöne Zeit zu verbringen und sich zu amüsieren.  (Q
+v33_at	1	Gleicht mir sehr
+v33_at	2	Gleicht mir
+v33_at	3	Gleicht mir etwas
+v33_at	4	 Gleicht mir wenig
+v33_at	5	Gleicht mir nicht
+v33_at	6	Gleicht mir ganz und gar nicht
+v33_at	8	Weiß nicht
+v33_at	9	Keine Antwort
+v34	Variable Label	Wie sehr vertrauen Sie: Menschen, die Sie persönlich kennen (Q8C)
+v34	1	Vertraue völlig
+v34	2	Vertraue eher
+v34	3	Vertraue kaum
+v34	4	Vertraue gar nicht
+v34	8	Weiß nicht
+v34	9	Keine Antwort
+v34_at	Variable Label	Es ist ihr wichtig, etwas Gutes für die Gesellschaft zu tun.  (Q4AT_E)
+v34_at	1	Gleicht mir sehr
+v34_at	2	Gleicht mir
+v34_at	3	Gleicht mir etwas
+v34_at	4	 Gleicht mir wenig
+v34_at	5	Gleicht mir nicht
+v34_at	6	Gleicht mir ganz und gar nicht
+v34_at	8	Weiß nicht
+v34_at	9	Keine Antwort
+v35	Variable Label	Wie sehr vertrauen Sie: Menschen, denen Sie zum ersten Mal begegnen (Q8D)
+v35	1	Vertraue völlig
+v35	2	Vertraue eher
+v35	3	Vertraue kaum
+v35	4	Vertraue gar nicht
+v35	8	Weiß nicht
+v35	9	Keine Antwort
+v35_at	Variable Label	Sie möchte erfolgreich sein und dass andere Menschen ihre Leistungen anerkenne
+v35_at	1	Gleicht mir sehr
+v35_at	2	Gleicht mir
+v35_at	3	Gleicht mir etwas
+v35_at	4	 Gleicht mir wenig
+v35_at	5	Gleicht mir nicht
+v35_at	6	Gleicht mir ganz und gar nicht
+v35_at	8	Weiß nicht
+v35_at	9	Keine Antwort
+v36	Variable Label	Wie sehr vertrauen Sie: Menschen, die einer anderen Religionsgemeinschaft angeh
+v36	1	Vertraue völlig
+v36	2	Vertraue eher
+v36	3	Vertraue kaum
+v36	4	Vertraue gar nicht
+v36	8	Weiß nicht
+v36	9	Keine Antwort
+v36_at	Variable Label	Sie liebt das Risiko und das Abenteuer und möchte ein aufregendes Leben führe
+v36_at	1	Gleicht mir sehr
+v36_at	2	Gleicht mir
+v36_at	3	Gleicht mir etwas
+v36_at	4	 Gleicht mir wenig
+v36_at	5	Gleicht mir nicht
+v36_at	6	Gleicht mir ganz und gar nicht
+v36_at	8	Weiß nicht
+v36_at	9	Keine Antwort
+v37	Variable Label	Wie sehr vertrauen Sie: Menschen mit anderer Staatsbürgerschaft (Q8F)
+v37	1	Vertraue völlig
+v37	2	Vertraue eher
+v37	3	Vertraue kaum
+v37	4	Vertraue gar nicht
+v37	8	Weiß nicht
+v37	9	Keine Antwort
+v37_at	Variable Label	Sie will immer das Richtige tun und es vermeiden, bei anderen anzuecken.  (Q4AT
+v37_at	1	Gleicht mir sehr
+v37_at	2	Gleicht mir
+v37_at	3	Gleicht mir etwas
+v37_at	4	 Gleicht mir wenig
+v37_at	5	Gleicht mir nicht
+v37_at	6	Gleicht mir ganz und gar nicht
+v37_at	8	Weiß nicht
+v37_at	9	Keine Antwort
+v38	Variable Label	Wie viel Entscheidungsfreiheit/Einfluss auf das eigene Leben (Q9)
+v38	1	1 Überhaupt keine Freiheit
+v38	2	2
+v38	3	3
+v38	4	4
+v38	5	5
+v38	6	6
+v38	7	7
+v38	8	8
+v38	9	9
+v38	10	10 Völlige Freiheit
+v38	88	Weiß nicht
+v38	99	Keine Antwort
+v38_at	Variable Label	Sich um die Natur und die Umwelt zu kümmern, ist ihr wichtig.  (Q4AT_I)
+v38_at	1	Gleicht mir sehr
+v38_at	2	Gleicht mir
+v38_at	3	Gleicht mir etwas
+v38_at	4	 Gleicht mir wenig
+v38_at	5	Gleicht mir nicht
+v38_at	6	Gleicht mir ganz und gar nicht
+v38_at	8	Weiß nicht
+v38_at	9	Keine Antwort
+v39	Variable Label	Wie zufrieden sind Sie  mit Ihrem Leben? (Q10)
+v39	1	1 Überhaupt nicht zufrieden
+v39	2	2
+v39	3	3
+v39	4	4
+v39	5	5
+v39	6	6
+v39	7	7
+v39	8	8
+v39	9	9
+v39	10	10 Völlig zufrieden
+v39	88	Weiß nicht
+v39	99	Keine Antwort
+v39_at	Variable Label	Sie achtet Traditionen, die sie von ihrer Familie oder Religion gelernt hat.  (
+v39_at	1	Gleicht mir sehr
+v39_at	2	Gleicht mir
+v39_at	3	Gleicht mir etwas
+v39_at	4	 Gleicht mir wenig
+v39_at	5	Gleicht mir nicht
+v39_at	6	Gleicht mir ganz und gar nicht
+v39_at	8	Weiß nicht
+v39_at	9	Keine Antwort
+v4	Variable Label	Wie wichtig in Ihrem Leben: Freizeit (Q1D)
+v4	1	Sehr wichtig
+v4	2	Ziemlich wichtig
+v4	3	Nicht wichtig
+v4	4	Überhaupt nicht wichtig
+v4	8	Weiß nicht
+v4	9	Keine Antwort
+v4_at	Variable Label	Es gibt so etwas wie eine höhere Macht (ein höheres Wesen). (Q1AT_G)
+v4_at	1	Stimme voll und ganz zu
+v4_at	2	Stimme eher zu
+v4_at	3	Stimme eher nicht zu
+v4_at	4	Stimme gar nicht zu
+v4_at	8	Weiß nicht
+v4_at	9	Keine Antwort
+v40	Variable Label	Wichtig an einem Beruf: Gute Bezahlung (Q11A)
+v40	1	Genannt
+v40	2	Nicht genannt
+v40	8	Weiß nicht
+v40	9	Keine Antwort
+v41	Variable Label	Wichtig an einem Beruf: Angenehme Arbeitszeiten (Q11B)
+v41	1	Genannt
+v41	2	Nicht genannt
+v41	8	Weiß nicht
+v41	9	Keine Antwort
+v42	Variable Label	Wichtig an einem Beruf: Die Möglichkeit, eigene Initiative zu entfalten (Q11C)
+v42	1	Genannt
+v42	2	Nicht genannt
+v42	8	Weiß nicht
+v42	9	Keine Antwort
+v43	Variable Label	Wichtig an einem Beruf: Großzügige Urlaubsregelung (Q11D)
+v43	1	Genannt
+v43	2	Nicht genannt
+v43	8	Weiß nicht
+v43	9	Keine Antwort
+v44	Variable Label	Wichtig an einem Beruf: Ein Beruf, bei dem man das Gefühl hat, etwas zu erreic
+v44	1	Genannt
+v44	2	Nicht genannt
+v44	8	Weiß nicht
+v44	9	Keine Antwort
+v45	Variable Label	Wichtig an einem Beruf: Ein Beruf mit Verantwortung (Q11F)
+v45	1	Genannt
+v45	2	Nicht genannt
+v45	8	Weiß nicht
+v45	9	Keine Antwort
+v45a	Variable Label	Wichtig an einem Beruf: Nichts davon (Q11)
+v45a	1	Genannt
+v45a	2	Nicht genannt
+v45a	8	Weiß nicht
+v45a	9	Keine Antwort
+v45b	Variable Label	Wichtig an einem Beruf: Weiß nicht (MQ: zu gesamter Frage) (Q11)
+v45b	1	Genannt
+v45b	2	Nicht genannt
+v45c	Variable Label	Wichtig an einem Beruf: Keine Antwort (MQ: zu gesamter Frage) (Q11)
+v45c	1	Genannt
+v45c	2	Nicht genannt
+v46	Variable Label	Man braucht eine Arbeit, um seine Fähigkeiten voll entwickeln zu können. (Q12
+v46	1	Stimme voll und ganz zu
+v46	2	Stimme zu
+v46	3	Weder noch
+v46	4	Stimme nicht zu
+v46	5	Stimme überhaupt nicht zu
+v46	8	Weiß nicht
+v46	9	Keine Antwort
+v47	Variable Label	Es ist demütigend, Geld zu erhalten, ohne dass man dafür arbeiten muss. (Q12B
+v47	1	Stimme voll und ganz zu
+v47	2	Stimme zu
+v47	3	Weder noch
+v47	4	Stimme nicht zu
+v47	5	Stimme überhaupt nicht zu
+v47	8	Weiß nicht
+v47	9	Keine Antwort
+v48	Variable Label	Menschen, die nicht arbeiten, werden faul. (Q12C)
+v48	1	Stimme voll und ganz zu
+v48	2	Stimme zu
+v48	3	Weder noch
+v48	4	Stimme nicht zu
+v48	5	Stimme überhaupt nicht zu
+v48	8	Weiß nicht
+v48	9	Keine Antwort
+v49	Variable Label	Arbeit ist eine Verpflichtung gegenüber der Gesellschaft. (Q12D)
+v49	1	Stimme voll und ganz zu
+v49	2	Stimme zu
+v49	3	Weder noch
+v49	4	Stimme nicht zu
+v49	5	Stimme überhaupt nicht zu
+v49	8	Weiß nicht
+v49	9	Keine Antwort
+v5	Variable Label	Wie wichtig in Ihrem Leben: Politik (Q1E)
+v5	1	Sehr wichtig
+v5	2	Ziemlich wichtig
+v5	3	Nicht wichtig
+v5	4	Überhaupt nicht wichtig
+v5	8	Weiß nicht
+v5	9	Keine Antwort
+v5_at	Variable Label	Es gibt einen Gott, der sich in Jesus zu erkennen gegeben hat. (Q1AT_H)
+v5_at	1	Stimme voll und ganz zu
+v5_at	2	Stimme eher zu
+v5_at	3	Stimme eher nicht zu
+v5_at	4	Stimme gar nicht zu
+v5_at	8	Weiß nicht
+v5_at	9	Keine Antwort
+v50	Variable Label	Die Arbeit sollte immer zuerst kommen, auch wenn das weniger Freizeit bedeutet.
+v50	1	Stimme voll und ganz zu
+v50	2	Stimme zu
+v50	3	Weder noch
+v50	4	Stimme nicht zu
+v50	5	Stimme überhaupt nicht zu
+v50	8	Weiß nicht
+v50	9	Keine Antwort
+v51	Variable Label	Gehören Sie einer Religionsgemeinschaft an? (Q13)
+v51	1	Ja
+v51	2	Nein
+v51	8	Weiß nicht
+v51	9	Keine Antwort
+v52	Variable Label	Welcher Religionsgemeinschaft gehören Sie an? (Q13A)
+v52	1	Römisch-Katholisch
+v52	2	Evangelisch
+v52	3	Freikirche
+v52	4	Jude
+v52	5	Islamisch
+v52	6	Hindu
+v52	7	Buddhist
+v52	8	Orthodox
+v52	9	Andere
+v52	77	Nicht zutreffend
+v52	88	Weiß nicht
+v52	99	Keine Antwort
+v53	Variable Label	Haben Sie jemals einer Religionsgemeinschaft angehört? (Q14)
+v53	1	Ja
+v53	2	Nein
+v53	7	Nicht zutreffend
+v53	8	Weiß nicht
+v53	9	Keine Antwort
+v54	Variable Label	Wie oft nehmen Sie an Gottesdiensten teil? (Q15)
+v54	1	Mehrmals in der Woche
+v54	2	Einmal in der Woche
+v54	3	Ungefähr einmal im Monat
+v54	4	Nur an besonderen Feiertagen
+v54	5	Einmal im Jahr
+v54	6	Seltener
+v54	7	Nie bzw. praktisch nie
+v54	8	Weiß nicht
+v54	9	Keine Antwort
+v55	Variable Label	Wie oft nahmen Sie im Alter von 12 Jahren an Gottesdiensten teil? (Q16)
+v55	1	Mehrmals in der Woche
+v55	2	Einmal in der Woche
+v55	3	Ungefähr einmal im Monat
+v55	4	Nur an besonderen Feiertagen
+v55	5	Einmal im Jahr
+v55	6	Seltener
+v55	7	Nie bzw. praktisch nie
+v55	8	Weiß nicht
+v55	9	Keine Antwort
+v56	Variable Label	Sind Sie eine religiöse Person? (Q17)
+v56	1	ein religiöser Mensch?
+v56	2	kein religiöser Mensch?
+v56	3	ein überzeugter Atheist?
+v56	8	Weiß nicht
+v56	9	Keine Antwort
+v57	Variable Label	Glauben Sie an: Gott (Q18A)
+v57	1	Ja
+v57	2	Nein
+v57	8	Weiß nicht
+v57	9	Keine Antwort
+v58	Variable Label	Glauben Sie an: Ein Leben nach dem Tod (Q18B)
+v58	1	Ja
+v58	2	Nein
+v58	8	Weiß nicht
+v58	9	Keine Antwort
+v59	Variable Label	Glauben Sie an: Die Hölle (Q18C)
+v59	1	Ja
+v59	2	Nein
+v59	8	Weiß nicht
+v59	9	Keine Antwort
+v6	Variable Label	Wie wichtig in Ihrem Leben: Religion (Q1F)
+v6	1	Sehr wichtig
+v6	2	Ziemlich wichtig
+v6	3	Nicht wichtig
+v6	4	Überhaupt nicht wichtig
+v6	8	Weiß nicht
+v6	9	Keine Antwort
+v6_at	Variable Label	Die Auferstehung von Jesus Christus gibt meinem Tod einen Sinn. (Q1AT_K)
+v6_at	1	Stimme voll und ganz zu
+v6_at	2	Stimme eher zu
+v6_at	3	Stimme eher nicht zu
+v6_at	4	Stimme gar nicht zu
+v6_at	8	Weiß nicht
+v6_at	9	Keine Antwort
+v60	Variable Label	Glauben Sie an: Den Himmel (Q18D)
+v60	1	Ja
+v60	2	Nein
+v60	8	Weiß nicht
+v60	9	Keine Antwort
+v61	Variable Label	Glauben Sie an: Reinkarnation (Q19)
+v61	1	Ja
+v61	2	Nein
+v61	8	Weiß nicht
+v61	9	Keine Antwort
+v62	Variable Label	Welche von den Aussagen kommt Ihren Überzeugungen am nächsten? (Q20)
+v62	1	Es gibt einen persönlichen Gott
+v62	2	Es gibt irgendein höheres Wesen oder eine geistige Macht
+v62	3	Ich weiß nicht richtig, was ich glauben soll
+v62	4	Ich glaube nicht, dass es einen Gott, irgendein höheres Wesen oder eine geistig
+v62	8	Weiß nicht
+v62	9	Keine Antwort
+v63	Variable Label	Wie wichtig ist Gott in Ihrem Leben? (Q21)
+v63	1	1 Überhaupt nicht wichtig
+v63	2	2
+v63	3	3
+v63	4	4
+v63	5	5
+v63	6	6
+v63	7	7
+v63	8	8
+v63	9	9
+v63	10	10 Sehr wichtig
+v63	88	Weiß nicht
+v63	99	Keine Antwort
+v64	Variable Label	Wie oft beten Sie außerhalb von Gottesdiensten? (Q22)
+v64	1	Täglich
+v64	2	Mehrmals in der Woche
+v64	3	Einmal in der Woche
+v64	4	Mindestens einmal im Monat
+v64	5	Mehrmals im Jahr
+v64	6	Seltener
+v64	7	Nie
+v64	8	Weiß nicht
+v64	9	Keine Antwort
+v65	Variable Label	Wichtig für Ehe/ Partnerschaft: Treue (Q23A)
+v65	1	Sehr wichtig
+v65	2	Ziemlich wichtig
+v65	3	Nicht besonders wichtig
+v65	8	Weiß nicht
+v65	9	Keine Antwort
+v66	Variable Label	Wichtig für Ehe/ Partnerschaft: Angemessenes Einkommen (Q23B)
+v66	1	Sehr wichtig
+v66	2	Ziemlich wichtig
+v66	3	Nicht besonders wichtig
+v66	8	Weiß nicht
+v66	9	Keine Antwort
+v67	Variable Label	Wichtig für Ehe/ Partnerschaft: Gute Wohnverhältnisse (Q23C)
+v67	1	Sehr wichtig
+v67	2	Ziemlich wichtig
+v67	3	Nicht besonders wichtig
+v67	8	Weiß nicht
+v67	9	Keine Antwort
+v68	Variable Label	Wichtig für Ehe/ Partnerschaft: Die Hausarbeit teilen (Q23D)
+v68	1	Sehr wichtig
+v68	2	Ziemlich wichtig
+v68	3	Nicht besonders wichtig
+v68	8	Weiß nicht
+v68	9	Keine Antwort
+v69	Variable Label	Wichtig für Ehe/ Partnerschaft: Kinder (Q23E)
+v69	1	Sehr wichtig
+v69	2	Ziemlich wichtig
+v69	3	Nicht besonders wichtig
+v69	8	Weiß nicht
+v69	9	Keine Antwort
+v7	Variable Label	Wie glücklich sind Sie, alles in allem? (Q2)
+v7	1	Sehr glücklich
+v7	2	Ziemlich glücklich
+v7	3	Nicht sehr glücklich
+v7	4	Überhaupt nicht glücklich
+v7	8	Weiß nicht
+v7	9	Keine Antwort
+v7_at	Variable Label	Die Zukunft liegt im von Jesus Christus verkündeten Reich Gottes. (Q1AT_L)
+v7_at	1	Stimme voll und ganz zu
+v7_at	2	Stimme eher zu
+v7_at	3	Stimme eher nicht zu
+v7_at	4	Stimme gar nicht zu
+v7_at	8	Weiß nicht
+v7_at	9	Keine Antwort
+v70	Variable Label	Wichtig für Ehe/ Partnerschaft: Zeit für eigene Freunde und für persönliche
+v70	1	Sehr wichtig
+v70	2	Ziemlich wichtig
+v70	3	Nicht besonders wichtig
+v70	8	Weiß nicht
+v70	9	Keine Antwort
+v71	Variable Label	Die Ehe ist eine überholte Einrichtung. (Q24)
+v71	1	Stimme eher zu
+v71	2	Stimme eher nicht zu
+v71	8	Weiß nicht
+v71	9	Keine Antwort
+v72	Variable Label	Kinder leiden darunter, wenn die Mutter berufstätig ist. (Q25A)
+v72	1	Stimme voll und ganz zu
+v72	2	Stimme zu
+v72	3	Stimme nicht zu
+v72	4	Stimme überhaupt nicht zu
+v72	8	Weiß nicht
+v72	9	Keine Antwort
+v73	Variable Label	Ein Beruf ist gut, aber was die meisten Frauen wirklich wollen, ist ein Heim un
+v73	1	Stimme voll und ganz zu
+v73	2	Stimme zu
+v73	3	Stimme nicht zu
+v73	4	Stimme überhaupt nicht zu
+v73	8	Weiß nicht
+v73	9	Keine Antwort
+v74	Variable Label	Im Allgemeinen leidet das Familienleben darunter, wenn die Frau vollzeitig beru
+v74	1	Stimme voll und ganz zu
+v74	2	Stimme zu
+v74	3	Stimme nicht zu
+v74	4	Stimme überhaupt nicht zu
+v74	8	Weiß nicht
+v74	9	Keine Antwort
+v75	Variable Label	Es ist die Aufgabe eines Mannes Geld zu verdienen, die Aufgabe einer Frau ist e
+v75	1	Stimme voll und ganz zu
+v75	2	Stimme zu
+v75	3	Stimme nicht zu
+v75	4	Stimme überhaupt nicht zu
+v75	8	Weiß nicht
+v75	9	Keine Antwort
+v76	Variable Label	Im Großen und Ganzen sind Männer bessere politische Führungskräfte als Frau
+v76	1	Stimme voll und ganz zu
+v76	2	Stimme zu
+v76	3	Stimme nicht zu
+v76	4	Stimme überhaupt nicht zu
+v76	8	Weiß nicht
+v76	9	Keine Antwort
+v77	Variable Label	Eine Universitätsausbildung ist für einen Burschen wichtiger als für ein Mä
+v77	1	Stimme voll und ganz zu
+v77	2	Stimme zu
+v77	3	Stimme nicht zu
+v77	4	Stimme überhaupt nicht zu
+v77	8	Weiß nicht
+v77	9	Keine Antwort
+v78	Variable Label	Im Großen und Ganzen sind Männer bessere Geschäftsleute als Frauen. (Q25G)
+v78	1	Stimme voll und ganz zu
+v78	2	Stimme zu
+v78	3	Stimme nicht zu
+v78	4	Stimme überhaupt nicht zu
+v78	8	Weiß nicht
+v78	9	Keine Antwort
+v79	Variable Label	Zu meinen Lebenszielen gehört es, meine Eltern stolz zu machen. (Q25H)
+v79	1	Stimme voll und ganz zu
+v79	2	Stimme zu
+v79	3	Stimme nicht zu
+v79	4	Stimme überhaupt nicht zu
+v79	8	Weiß nicht
+v79	9	Keine Antwort
+v8	Variable Label	Wie schätzen Sie - alles in allem - Ihren Gesundheitszustand ein? (Q3)
+v8	1	Sehr gut
+v8	2	Gut
+v8	3	Durchschnittlich
+v8	4	Schlecht
+v8	5	Sehr schlecht
+v8	8	Weiß nicht
+v8	9	Keine Antwort
+v8_at	Variable Label	Der Tod ist ein Übergang zu einer anderen Existenz. (Q1AT_M)
+v8_at	1	Stimme voll und ganz zu
+v8_at	2	Stimme eher zu
+v8_at	3	Stimme eher nicht zu
+v8_at	4	Stimme gar nicht zu
+v8_at	8	Weiß nicht
+v8_at	9	Keine Antwort
+v80	Variable Label	Wenn die Arbeitsplätze knapp sind, sollten die Arbeitgeber Österreicher gegen
+v80	1	Stimme voll und ganz zu
+v80	2	Stimme zu
+v80	3	Weder noch
+v80	4	Stimme nicht zu
+v80	5	Stimme überhaupt nicht zu
+v80	8	Weiß nicht
+v80	9	Keine Antwort
+v81	Variable Label	Wenn die Arbeitsplätze knapp sind, haben Männer eher ein Recht auf Arbeit als
+v81	1	Stimme voll und ganz zu
+v81	2	Stimme zu
+v81	3	Weder noch
+v81	4	Stimme nicht zu
+v81	5	Stimme überhaupt nicht zu
+v81	8	Weiß nicht
+v81	9	Keine Antwort
+v82	Variable Label	Gleichgeschlechtliche Paare sind genauso gute Eltern wie andere Paare. (Q27A)
+v82	1	Stimme voll und ganz zu
+v82	2	Stimme zu
+v82	3	Weder noch
+v82	4	Stimme nicht zu
+v82	5	Stimme überhaupt nicht zu
+v82	8	Weiß nicht
+v82	9	Keine Antwort
+v83	Variable Label	Es ist eine Pflicht gegenüber der Gesellschaft Kinder zu haben. (Q27B)
+v83	1	Stimme voll und ganz zu
+v83	2	Stimme zu
+v83	3	Weder noch
+v83	4	Stimme nicht zu
+v83	5	Stimme überhaupt nicht zu
+v83	8	Weiß nicht
+v83	9	Keine Antwort
+v84	Variable Label	Erwachsene Kinder haben die Pflicht, für die langfristige Pflege ihrer Eltern
+v84	1	Stimme voll und ganz zu
+v84	2	Stimme zu
+v84	3	Weder noch
+v84	4	Stimme nicht zu
+v84	5	Stimme überhaupt nicht zu
+v84	8	Weiß nicht
+v84	9	Keine Antwort
+v85	Variable Label	Sollten Kinder zuhause lernen: Gute Manieren (Q28A)
+v85	1	Genannt
+v85	2	Nicht genannt
+v85	8	Weiß nicht
+v85	9	Keine Antwort
+v86	Variable Label	Sollten Kinder zuhause lernen: Unabhängigkeit, Selbstständigkeit (Q28B)
+v86	1	Genannt
+v86	2	Nicht genannt
+v86	8	Weiß nicht
+v86	9	Keine Antwort
+v87	Variable Label	Sollten Kinder zuhause lernen: Hart arbeiten (Q28C)
+v87	1	Genannt
+v87	2	Nicht genannt
+v87	8	Weiß nicht
+v87	9	Keine Antwort
+v88	Variable Label	Sollten Kinder zuhause lernen: Verantwortungsgefühl (Q28D)
+v88	1	Genannt
+v88	2	Nicht genannt
+v88	8	Weiß nicht
+v88	9	Keine Antwort
+v89	Variable Label	Sollten Kinder zuhause lernen: Phantasie (Q28E)
+v89	1	Genannt
+v89	2	Nicht genannt
+v89	8	Weiß nicht
+v89	9	Keine Antwort
+v9	Variable Label	Zugehörigkeit zu: Religiösen oder kirchlichen Organisationen (Q4A)
+v9	1	Genannt
+v9	2	Nicht genannt
+v9	8	Weiß nicht
+v9	9	Keine Antwort
+v9_at	Variable Label	Es gibt eine Reinkarnation (Wiedergeburt) der Seele in einem anderen Leben. (Q1
+v9_at	1	Stimme voll und ganz zu
+v9_at	2	Stimme eher zu
+v9_at	3	Stimme eher nicht zu
+v9_at	4	Stimme gar nicht zu
+v9_at	8	Weiß nicht
+v9_at	9	Keine Antwort
+v90	Variable Label	Sollten Kinder zuhause lernen: Toleranz und Respekt gegenüber Mitmenschen (Q28
+v90	1	Genannt
+v90	2	Nicht genannt
+v90	8	Weiß nicht
+v90	9	Keine Antwort
+v91	Variable Label	Sollten Kinder zuhause lernen: Sparsamkeit (Q28G)
+v91	1	Genannt
+v91	2	Nicht genannt
+v91	8	Weiß nicht
+v91	9	Keine Antwort
+v92	Variable Label	Sollten Kinder zuhause lernen: Entschlossenheit, Ausdauer (Q28H)
+v92	1	Genannt
+v92	2	Nicht genannt
+v92	8	Weiß nicht
+v92	9	Keine Antwort
+v93	Variable Label	Sollten Kinder zuhause lernen: Festen Glauben, feste religiöse Bindung (Q28I)
+v93	1	Genannt
+v93	2	Nicht genannt
+v93	8	Weiß nicht
+v93	9	Keine Antwort
+v94	Variable Label	Sollten Kinder zuhause lernen: Selbstlosigkeit (Q28J)
+v94	1	Genannt
+v94	2	Nicht genannt
+v94	8	Weiß nicht
+v94	9	Keine Antwort
+v95	Variable Label	Sollten Kinder zuhause lernen: Gehorsam (Q28K)
+v95	1	Genannt
+v95	2	Nicht genannt
+v95	8	Weiß nicht
+v95	9	Keine Antwort
+v96	Variable Label	Sollten Kinder zuhause lernen: Keine davon (Q28)
+v96	1	Genannt
+v96	2	Nicht genannt
+v96	8	Weiß nicht
+v96	9	Keine Antwort
+v96a	Variable Label	Sollten Kinder zuhause lernen: Weiß nicht (MQ: zu gesamter Frage) (Q28)
+v96a	1	Genannt
+v96a	2	Nicht genannt
+v96b	Variable Label	Sollten Kinder zuhause lernen: Keine Antwort (MQ: zu gesamter Frage) (Q28)
+v96b	1	Genannt
+v96b	2	Nicht genannt
+v97	Variable Label	Wie interessiert sind Sie an Politik? (Q29)
+v97	1	Sehr interessiert
+v97	2	Etwas interessiert
+v97	3	Kaum interessiert
+v97	4	Überhaupt nicht interessiert
+v97	8	Weiß nicht
+v97	9	Keine Antwort
+v98	Variable Label	Politische Aktion: An einer Unterschriftensammlung beteiligen (Q30A)
+v98	1	Schon einmal beteiligt
+v98	2	Vielleicht einmal tun
+v98	3	Unter keinen Umständen
+v98	8	Weiß nicht
+v98	9	Keine Antwort
+v99	Variable Label	Politische Aktion: Beteiligung an einem Boykott (Q30B)
+v99	1	Schon einmal beteiligt
+v99	2	Vielleicht einmal tun
+v99	3	Unter keinen Umständen
+v99	8	Weiß nicht
+v99	9	Keine Antwort
+version	Variable Label	AUSSDA archive version
+Weight_All	Variable Label	Poststratifikationsgewicht (Alle Personen)
+Weight_Mig	Variable Label	Poststratifikationsgewicht (Alle MigrantInnen)

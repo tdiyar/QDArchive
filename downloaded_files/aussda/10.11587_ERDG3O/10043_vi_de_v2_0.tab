@@ -1,0 +1,2031 @@
+﻿variable	value	Label
+A1_1	Variable Label	Kennen: Bus- oder LKW-Fahrer/in
+A1_1	1	Familienmitglied oder Verwandte/r
+A1_1	2	Guter Freund / gute Freundin
+A1_1	3	Bekannte/r
+A1_1	4	Niemand
+A1_1	8	[Kann ich nicht sagen]
+A1_10	Variable Label	Kennen: Lehrer/in
+A1_10	1	Familienmitglied oder Verwandte/r
+A1_10	2	Guter Freund / gute Freundin
+A1_10	3	Bekannte/r
+A1_10	4	Niemand
+A1_10	8	[Kann ich nicht sagen]
+A1_2	Variable Label	Kennen: Mitglied Geschäftsführung großes Unternehmen
+A1_2	1	Familienmitglied oder Verwandte/r
+A1_2	2	Guter Freund / gute Freundin
+A1_2	3	Bekannte/r
+A1_2	4	Niemand
+A1_2	8	[Kann ich nicht sagen]
+A1_3	Variable Label	Kennen: Reinigungskraft
+A1_3	1	Familienmitglied oder Verwandte/r
+A1_3	2	Guter Freund / gute Freundin
+A1_3	3	Bekannte/r
+A1_3	4	Niemand
+A1_3	8	[Kann ich nicht sagen]
+A1_4	Variable Label	Kennen: Friseur/in
+A1_4	1	Familienmitglied oder Verwandte/r
+A1_4	2	Guter Freund / gute Freundin
+A1_4	3	Bekannte/r
+A1_4	4	Niemand
+A1_4	8	[Kann ich nicht sagen]
+A1_5	Variable Label	Kennen: Leiter/in Personalabteilung
+A1_5	1	Familienmitglied oder Verwandte/r
+A1_5	2	Guter Freund / gute Freundin
+A1_5	3	Bekannte/r
+A1_5	4	Niemand
+A1_5	8	[Kann ich nicht sagen]
+A1_6	Variable Label	Kennen: Rechtsanwalt/Rechtsanwältin
+A1_6	1	Familienmitglied oder Verwandte/r
+A1_6	2	Guter Freund / gute Freundin
+A1_6	3	Bekannte/r
+A1_6	4	Niemand
+A1_6	8	[Kann ich nicht sagen]
+A1_7	Variable Label	Kennen: Automechaniker/in
+A1_7	1	Familienmitglied oder Verwandte/r
+A1_7	2	Guter Freund / gute Freundin
+A1_7	3	Bekannte/r
+A1_7	4	Niemand
+A1_7	8	[Kann ich nicht sagen]
+A1_8	Variable Label	Kennen: Krankenpfleger/in
+A1_8	1	Familienmitglied oder Verwandte/r
+A1_8	2	Guter Freund / gute Freundin
+A1_8	3	Bekannte/r
+A1_8	4	Niemand
+A1_8	8	[Kann ich nicht sagen]
+A1_9	Variable Label	Kennen: Polizist/in
+A1_9	1	Familienmitglied oder Verwandte/r
+A1_9	2	Guter Freund / gute Freundin
+A1_9	3	Bekannte/r
+A1_9	4	Niemand
+A1_9	8	[Kann ich nicht sagen]
+A10	Variable Label	Fairness anderer Leute
+A10	1	fast immer versuchen, mich auszunützen
+A10	2	meistens versuchen, mich auszunützen
+A10	3	meistens versuchen, sich mir gegenüber fair zu verhalten
+A10	4	fast immer versuchen, sich mir gegenüber fair zu verhalten
+A10	8	[Kann ich nicht sagen]
+A11	Variable Label	Vertrauen in andere Menschen
+A11	1	Menschen fast immer vertrauen
+A11	2	Menschen normalerweise vertrauen
+A11	3	normalerweise nicht vorsichtig genug sein im Umgang mit Menschen
+A11	4	fast nie vorsichtig genug sein im Umgang mit Menschen
+A11	8	[Kann ich nicht sagen]
+A12_1	Variable Label	Vertrauen in Ö. Gerichte
+A12_1	0	(0) überhaupt kein Vertrauen
+A12_1	1	(1)
+A12_1	2	(2)
+A12_1	3	(3)
+A12_1	4	(4)
+A12_1	5	(5)
+A12_1	6	(6)
+A12_1	7	(7)
+A12_1	8	(8)
+A12_1	9	(9)
+A12_1	10	(10) Vollkommenes Vertrauen
+A12_1	98	[Kann ich nicht sagen]
+A12_2	Variable Label	Vertrauen in große Privatunternehmen in Ö.
+A12_2	0	(0) überhaupt kein Vertrauen
+A12_2	1	(1)
+A12_2	2	(2)
+A12_2	3	(3)
+A12_2	4	(4)
+A12_2	5	(5)
+A12_2	6	(6)
+A12_2	7	(7)
+A12_2	8	(8)
+A12_2	9	(9)
+A12_2	10	(10) Vollkommenes Vertrauen
+A12_2	98	[Kann ich nicht sagen]
+A13_1	Variable Label	Erwachsene Kinder -> Pflicht, sich um alte Eltern zu kümmern
+A13_1	1	Stimme voll und ganz zu
+A13_1	2	Stimme zu
+A13_1	3	Weder noch
+A13_1	4	Stimme nicht zu
+A13_1	5	Stimme überhaupt nicht zu
+A13_1	8	[Kann ich nicht sagen]
+A13_2	Variable Label	Um sich Selbst u. Familie kümmern bevor man anderen hilft
+A13_2	1	Stimme voll und ganz zu
+A13_2	2	Stimme zu
+A13_2	3	Weder noch
+A13_2	4	Stimme nicht zu
+A13_2	5	Stimme überhaupt nicht zu
+A13_2	8	[Kann ich nicht sagen]
+A13_3	Variable Label	"Reichere" sollen Freunden helfen denen es weniger gut geht
+A13_3	1	Stimme voll und ganz zu
+A13_3	2	Stimme zu
+A13_3	3	Weder noch
+A13_3	4	Stimme nicht zu
+A13_3	5	Stimme überhaupt nicht zu
+A13_3	8	[Kann ich nicht sagen]
+A14	Variable Label	Unter Druck von Familie wegen eigener Lebensweise?
+A14	1	Nein, nie
+A14	2	Ja, aber selten
+A14	3	Ja, manchmal
+A14	4	Ja, oft
+A14	5	Ja, sehr oft
+A14	8	[Kann ich nicht sagen]
+A15	Variable Label	Zu hohe Anforderungen von Familie/Freunde?
+A15	1	Nein, nie
+A15	2	Ja, aber selten
+A15	3	Ja, manchmal
+A15	4	Ja, oft
+A15	5	Ja, sehr oft
+A15	8	[Kann ich nicht sagen]
+A16	Variable Label	Wichtige Personen -> wie häufig verärgert? (4 Wochen)
+A16	1	Nie
+A16	2	Selten
+A16	3	Manchmal
+A16	4	Oft
+A16	5	Sehr oft
+A16	8	[Kann ich nicht sagen]
+A17	Variable Label	Essen o. trinken mit 3 oder mehr Freunden/Bekannten?
+A17	1	Täglich
+A17	2	Mehrmals in der Woche
+A17	3	Einmal in der Woche
+A17	4	Zwei- oder dreimal im Monat
+A17	5	Einmal im Monat
+A17	6	Mehrmals im Jahr
+A17	7	Seltener
+A17	8	Nie
+A17	98	[Kann ich nicht sagen]
+A18	Variable Label	Neue Freundschaften bei diesen Gelegenheiten?
+A18	-5	[Missing / Frage A17 = Nie]
+A18	1	Nie
+A18	2	Selten
+A18	3	Manchmal
+A18	4	Oft
+A18	5	Sehr oft
+A18	8	[Kann ich nicht sagen]
+A19	Variable Label	Kontakte an normalen Wochentag, egal ob Bekannte o. nicht
+A19	1	0-4 Personen
+A19	2	5-9
+A19	3	10-19
+A19	4	20-49
+A19	5	50-99
+A19	6	100 oder mehr
+A19	8	[Kann ich nicht sagen]
+A2_1	Variable Label	Einkommensunterschiede in Ö. zu groß
+A2_1	1	Stimme voll und ganz zu
+A2_1	2	Stimme zu
+A2_1	3	Weder noch
+A2_1	4	Stimme nicht zu
+A2_1	5	Stimme überhaupt nicht zu
+A2_1	8	[Kann ich nicht sagen]
+A2_2	Variable Label	Gerechte Gesellschaft -> Geringe Unterschiede Lebensstandard
+A2_2	1	Stimme voll und ganz zu
+A2_2	2	Stimme zu
+A2_2	3	Weder noch
+A2_2	4	Stimme nicht zu
+A2_2	5	Stimme überhaupt nicht zu
+A2_2	8	[Kann ich nicht sagen]
+A2_3	Variable Label	Aufgabe Staat: Einkommensunterschiede verringern
+A2_3	1	Stimme voll und ganz zu
+A2_3	2	Stimme zu
+A2_3	3	Weder noch
+A2_3	4	Stimme nicht zu
+A2_3	5	Stimme überhaupt nicht zu
+A2_3	8	[Kann ich nicht sagen]
+A2_4	Variable Label	Sozialleistungen in Ö. -> Menschen ruhen sich darauf aus
+A2_4	1	Stimme voll und ganz zu
+A2_4	2	Stimme zu
+A2_4	3	Weder noch
+A2_4	4	Stimme nicht zu
+A2_4	5	Stimme überhaupt nicht zu
+A2_4	8	[Kann ich nicht sagen]
+A20	Variable Label	Davon persönlicher Kontakt normaler Wochentag
+A20	1	Alle oder fast alle
+A20	2	Die meisten
+A20	3	Ungefähr die Hälfte
+A20	4	Einige
+A20	5	Keinen oder fast keinen
+A20	8	[Kann ich nicht sagen]
+A21	Variable Label	Kontakt zu: Elternteil (jener mit häufigsten Kontakt)
+A21	1	Täglich
+A21	2	Mehrmals in der Woche
+A21	3	Einmal in der Woche
+A21	4	Zwei- oder dreimal im Monat
+A21	5	Einmal im Monat
+A21	6	Mehrmals im Jahr
+A21	7	Seltener
+A21	8	Nie
+A21	9	[Kann ich nicht sagen]
+A21	95	[Meine Eltern leben nicht mehr]
+A21	96	[Der Elternteil, mit dem ich am häufigsten Kontakt habe, wohnt mit mir im selben Haushalt.]
+A22	Variable Label	Kontakt zu: Bruder oder Schwester (...)
+A22	1	Täglich
+A22	2	Mehrmals in der Woche
+A22	3	Einmal in der Woche
+A22	4	Zwei- oder dreimal im Monat
+A22	5	Einmal im Monat
+A22	6	Mehrmals im Jahr
+A22	7	Seltener
+A22	8	Nie
+A22	9	[Kann ich nicht sagen]
+A22	95	[Ich habe keine Geschwister (mehr)]
+A22	96	[Der Bruder bzw. die Schwester, mit dem / der ich am häufigsten Kontakt habe, wohnt mit mir im selben Haushalt.]
+A23	Variable Label	Kontakt zu: Volljährigem Kind (...)
+A23	1	Täglich
+A23	2	Mehrmals in der Woche
+A23	3	Einmal in der Woche
+A23	4	Zwei- oder dreimal im Monat
+A23	5	Einmal im Monat
+A23	6	Mehrmals im Jahr
+A23	7	Seltener
+A23	8	Nie
+A23	9	[Kann ich nicht sagen]
+A23	95	[Ich habe keine volljährigen Kinder.]
+A23	96	[Das volljährige Kind, mit dem ich am häufigsten Kontakt habe, wohnt mit mir im selben Haushalt.]
+A24	Variable Label	Kontakt zu: Anderes Familienmitglied (...)
+A24	1	Täglich
+A24	2	Mehrmals in der Woche
+A24	3	Einmal in der Woche
+A24	4	Zwei- oder dreimal im Monat
+A24	5	Einmal im Monat
+A24	6	Mehrmals im Jahr
+A24	7	Seltener
+A24	8	Nie
+A24	9	[Kann ich nicht sagen]
+A24	95	[Ich habe keine anderen Familienmitglieder (mehr)]
+A24	96	[Das andere Familienmitglied, mit dem ich am häufigsten Kontakt habe, wohnt mit mir im selben Haushalt.]
+A25	Variable Label	Kontakt zu: Gutem Freund(in) (...)
+A25	1	Täglich
+A25	2	Mehrmals in der Woche
+A25	3	Einmal in der Woche
+A25	4	Zwei- oder dreimal im Monat
+A25	5	Einmal im Monat
+A25	6	Mehrmals im Jahr
+A25	7	Seltener
+A25	8	Nie
+A25	9	[Kann ich nicht sagen]
+A25	95	[Ich habe keinen guten Freund/ keine gute Freundin]
+A25	96	[Der gute Freund bzw. die gute Freundin, mit dem/ der ich am häufigsten Kontakt habe, wohnt mit mir im selben Haushalt.
+A26	Variable Label	Kontakte: Häufigkeit über Internet
+A26	1	Alle oder fast alle
+A26	2	Die meisten
+A26	3	Etwa die Hälfte
+A26	4	Einige
+A26	5	Keine oder fast keine
+A26	7	[Ich nutze keine dieser Geräte bzw. Dienste]
+A26	8	[Kann ich nicht sagen]
+A27	Variable Label	Subjektive Gesundheit
+A27	1	ausgezeichnet
+A27	2	sehr gut
+A27	3	gut
+A27	4	mittelmässig
+A27	5	schlecht
+A27	8	[Kann ich nicht sagen]
+A28_1	Variable Label	Letzte 4 Wochen: Unglücklich o. deprimiert
+A28_1	1	Nie
+A28_1	2	Selten
+A28_1	3	Manchmal
+A28_1	4	Oft
+A28_1	5	Sehr oft
+A28_1	8	[Kann ich nicht sagen]
+A28_2	Variable Label	Letzte 4 Wochen: Probleme über den Kopf gewachsen
+A28_2	1	Nie
+A28_2	2	Selten
+A28_2	3	Manchmal
+A28_2	4	Oft
+A28_2	5	Sehr oft
+A28_2	8	[Kann ich nicht sagen]
+A29	Variable Label	Es fällt mir leicht, meine Ziele zu erreichen
+A29	1	Trifft voll und ganz zu
+A29	2	Trifft meistens zu
+A29	3	Trifft eher zu
+A29	4	Weder noch
+A29	5	Trifft eher nicht zu
+A29	6	Trifft selten zu
+A29	7	Trifft überhaupt nicht zu
+A29	8	[Kann ich nicht sagen]
+A3	Variable Label	Zuständigkeit: Gesundheitsversorgung
+A3	1	Der Staat
+A3	2	Private Unternehmen / gewinnorientierte Organisationen
+A3	3	Gemeinnützige Organisationen / Wohlfahrtsorganisationen / Genossenschaften
+A3	5	Kirchen, Glaubensgemeinschaften und religiöse Einrichtungen
+A3	6	Familie, Verwandte oder Freunde
+A3	8	[Kann ich nicht sagen]
+A30	Variable Label	Lebenszufriedenheit
+A30	1	Vollkommen zufrieden
+A30	2	Sehr zufrieden
+A30	3	Ziemlich zufrieden
+A30	4	Weder noch
+A30	5	Ziemlich unzufrieden
+A30	6	Sehr unzufrieden
+A30	7	Vollkommen unzufrieden
+A30	8	[Kann ich nicht sagen]
+A31	Variable Label	Häufigkeit Internetnutzung
+A31	1	über sechs Stunden täglich
+A31	2	Rund drei bis sechs Stunden täglich
+A31	3	Rund ein bis unter drei Stunden täglich
+A31	4	Mehrmals wöchentlich
+A31	5	Mehrmals monatlich
+A31	6	Fast nie
+A31	7	Nie
+A31	8	[Kann ich nicht sagen]
+A32_1	Variable Label	Soz. Online-Medien: Verfolgen, worüber Freunde sprechen
+A32_1	-5	[Missing / keine Internetnutzung]
+A32_1	1	Sehr häufig
+A32_1	2	Häufig
+A32_1	3	Manchmal
+A32_1	4	Selten
+A32_1	5	Nie
+A32_1	8	[Kann ich nicht sagen]
+A32_2	Variable Label	Soz. Online-Medien: Zur Unterhaltung
+A32_2	-5	[Missing / keine Internetnutzung]
+A32_2	1	Sehr häufig
+A32_2	2	Häufig
+A32_2	3	Manchmal
+A32_2	4	Selten
+A32_2	5	Nie
+A32_2	8	[Kann ich nicht sagen]
+A32_3	Variable Label	Soz. Online-Medien: Interessante Beiträge/Links lesen
+A32_3	-5	[Missing / keine Internetnutzung]
+A32_3	1	Sehr häufig
+A32_3	2	Häufig
+A32_3	3	Manchmal
+A32_3	4	Selten
+A32_3	5	Nie
+A32_3	8	[Kann ich nicht sagen]
+A32_4	Variable Label	Soz. Online-Medien: Beiträge und Inhalte teilen
+A32_4	-5	[Missing / keine Internetnutzung]
+A32_4	1	Sehr häufig
+A32_4	2	Häufig
+A32_4	3	Manchmal
+A32_4	4	Selten
+A32_4	5	Nie
+A32_4	8	[Kann ich nicht sagen]
+A32_5	Variable Label	Soz. Online-Medien: Mit anderen unterhalten wollen
+A32_5	-5	[Missing / keine Internetnutzung]
+A32_5	1	Sehr häufig
+A32_5	2	Häufig
+A32_5	3	Manchmal
+A32_5	4	Selten
+A32_5	5	Nie
+A32_5	8	[Kann ich nicht sagen]
+A32_6	Variable Label	Soz. Online-Medien: Für berufliche Zwecke
+A32_6	-5	[Missing / keine Internetnutzung]
+A32_6	1	Sehr häufig
+A32_6	2	Häufig
+A32_6	3	Manchmal
+A32_6	4	Selten
+A32_6	5	Nie
+A32_6	8	[Kann ich nicht sagen]
+A32_7	Variable Label	Soz. Online-Medien: Für andere Zwecke
+A32_7	-5	[Missing / keine Internetnutzung]
+A32_7	1	Sehr häufig
+A32_7	2	Häufig
+A32_7	3	Manchmal
+A32_7	4	Selten
+A32_7	5	Nie
+A32_7	8	[Kann ich nicht sagen]
+A33	Variable Label	Meinungen in soz. Netzwerken eigener Meinung ähnlich
+A33	-5	[Missing / keine Internetnutzung]
+A33	1	Immer
+A33	2	Häufig
+A33	3	Manchmal
+A33	4	Selten
+A33	5	Nie
+A33	8	[Kann ich nicht sagen]
+A34_1	Variable Label	Informieren: über Fernsehen
+A34_1	1	Sehr häufig
+A34_1	2	Häufig
+A34_1	3	Manchmal
+A34_1	4	Selten
+A34_1	5	Nie
+A34_1	8	[Kann ich nicht sagen]
+A34_2	Variable Label	Informieren: über gedruckte Medien
+A34_2	1	Sehr häufig
+A34_2	2	Häufig
+A34_2	3	Manchmal
+A34_2	4	Selten
+A34_2	5	Nie
+A34_2	8	[Kann ich nicht sagen]
+A34_3	Variable Label	Informieren: über Online-Printmedien
+A34_3	1	Sehr häufig
+A34_3	2	Häufig
+A34_3	3	Manchmal
+A34_3	4	Selten
+A34_3	5	Nie
+A34_3	8	[Kann ich nicht sagen]
+A34_4	Variable Label	Informieren: über soziale Online-Netzwerke
+A34_4	1	Sehr häufig
+A34_4	2	Häufig
+A34_4	3	Manchmal
+A34_4	4	Selten
+A34_4	5	Nie
+A34_4	8	[Kann ich nicht sagen]
+A35	Variable Label	Letzte 4 Wochen: Ausgeschlossen in soz. Online-Netzwerken
+A35	-5	[Missing / keine Internetnutzung]
+A35	1	Sehr oft
+A35	2	Oft
+A35	3	Manchmal
+A35	4	Selten
+A35	5	Nie
+A35	8	[Kann ich nicht sagen]
+A36	Variable Label	Vertrauen Online in andere Menschen
+A36	-5	[Missing / keine Internetnutzung]
+A36	1	allen Leuten trauen
+A36	2	vielen Leuten trauen
+A36	3	manchen Leuten trauen
+A36	4	keinen Leuten trauen
+A36	8	[Kann ich nicht sagen]
+A37	Variable Label	Auskommen mit Haushaltseinkommen
+A37	1	Sehr schwer
+A37	2	Eher schwer
+A37	3	Weder noch
+A37	4	Eher leicht
+A37	5	Sehr leicht
+A37	8	[Kann ich nicht sagen]
+A38	Variable Label	Anzahl an gesprochenen Sprachen
+A38	1	Eine Sprache
+A38	2	Zwei Sprachen
+A38	3	Drei Sprachen
+A38	4	Vier oder mehr Sprachen
+A4	Variable Label	Zuständigkeit: Betreuung u. Pflege älterer
+A4	1	Der Staat
+A4	2	Private Unternehmen / gewinnorientierte Organisationen
+A4	3	Gemeinnützige Organisationen / Wohlfahrtsorganisationen / Genossenschaften
+A4	5	Kirchen, Glaubensgemeinschaften und religiöse Einrichtungen
+A4	6	Familie, Verwandte oder Freunde
+A4	8	[Kann ich nicht sagen]
+A5_1	Variable Label	Aktiver Verein: Freizeit
+A5_1	1	Mindestens einmal in der Woche
+A5_1	2	Ein- bis dreimal im Monat
+A5_1	3	Mehrmals in den vergangenen 12 Monaten
+A5_1	4	Einmal in den vergangenen 12 Monaten
+A5_1	5	Nie
+A5_1	8	[Kann ich nicht sagen]
+A5_2	Variable Label	Aktiver Verein: Politisch
+A5_2	1	Mindestens einmal in der Woche
+A5_2	2	Ein- bis dreimal im Monat
+A5_2	3	Mehrmals in den vergangenen 12 Monaten
+A5_2	4	Einmal in den vergangenen 12 Monaten
+A5_2	5	Nie
+A5_2	8	[Kann ich nicht sagen]
+A5_3	Variable Label	Aktiver Vertein: Wohltätig
+A5_3	1	Mindestens einmal in der Woche
+A5_3	2	Ein- bis dreimal im Monat
+A5_3	3	Mehrmals in den vergangenen 12 Monaten
+A5_3	4	Einmal in den vergangenen 12 Monaten
+A5_3	5	Nie
+A5_3	8	[Kann ich nicht sagen]
+A6	Variable Label	Kein Einfluss auf Regierung
+A6	1	Stimme voll und ganz zu
+A6	2	Stimme zu
+A6	3	Weder noch
+A6	4	Stimme nicht zu
+A6	5	Stimme überhaupt nicht zu
+A6	8	[Kann ich nicht sagen]
+A7_1	Variable Label	Hilfe bei: Arbeit in Haushalt oder Garten
+A7_1	1	ein Familienmitglied
+A7_1	2	jemanden aus Ihrer Verwandtschaft
+A7_1	3	einen guten Freund / eine gute Freundin
+A7_1	4	einen Nachbar / eine Nachbarin
+A7_1	5	einen Arbeitskollegen / eine Arbeitskollegin
+A7_1	6	jemand anderes
+A7_1	7	niemanden
+A7_1	8	[Kann ich nicht sagen]
+A7_2	Variable Label	Hilfe bei: Haushalt weil krank
+A7_2	1	ein Familienmitglied
+A7_2	2	jemanden aus Ihrer Verwandtschaft
+A7_2	3	einen guten Freund / eine gute Freundin
+A7_2	4	einen Nachbar / eine Nachbarin
+A7_2	5	einen Arbeitskollegen / eine Arbeitskollegin
+A7_2	6	jemand anderes
+A7_2	7	niemanden
+A7_2	8	[Kann ich nicht sagen]
+A7_3	Variable Label	Hilfe bei: Niedergeschlagen oder deprimiert
+A7_3	1	ein Familienmitglied
+A7_3	2	jemanden aus Ihrer Verwandtschaft
+A7_3	3	einen guten Freund / eine gute Freundin
+A7_3	4	einen Nachbar / eine Nachbarin
+A7_3	5	einen Arbeitskollegen / eine Arbeitskollegin
+A7_3	6	jemand anderes
+A7_3	7	niemanden
+A7_3	8	[Kann ich nicht sagen]
+A7_4	Variable Label	Hilfe bei: Rat bei familiären Problemen
+A7_4	1	ein Familienmitglied
+A7_4	2	jemanden aus Ihrer Verwandtschaft
+A7_4	3	einen guten Freund / eine gute Freundin
+A7_4	4	einen Nachbar / eine Nachbarin
+A7_4	5	einen Arbeitskollegen / eine Arbeitskollegin
+A7_4	6	jemand anderes
+A7_4	7	niemanden
+A7_4	8	[Kann ich nicht sagen]
+A7_5	Variable Label	Hilfe bei: etwas schönes unternehmen
+A7_5	1	ein Familienmitglied
+A7_5	2	jemanden aus Ihrer Verwandtschaft
+A7_5	3	einen guten Freund / eine gute Freundin
+A7_5	4	einen Nachbar / eine Nachbarin
+A7_5	5	einen Arbeitskollegen / eine Arbeitskollegin
+A7_5	6	jemand anderes
+A7_5	7	niemanden
+A7_5	8	[Kann ich nicht sagen]
+A8_1	Variable Label	Hilfe: Hohe Geldsummen leihen
+A8_1	1	die Familie oder gute Freunde
+A8_1	2	andere Bekannte
+A8_1	3	private Dienstleister
+A8_1	4	öffentliche Stellen
+A8_1	5	Gemeinnützige oder religiöse Organisationen
+A8_1	6	andere Organisationen
+A8_1	7	niemanden
+A8_1	8	[Kann ich nicht sagen]
+A8_2	Variable Label	Hilfe: Arbeit suchen
+A8_2	1	die Familie oder gute Freunde
+A8_2	2	andere Bekannte
+A8_2	3	private Dienstleister
+A8_2	4	öffentliche Stellen
+A8_2	5	Gemeinnützige oder religiöse Organisationen
+A8_2	6	andere Organisationen
+A8_2	7	niemanden
+A8_2	8	[Kann ich nicht sagen]
+A8_3	Variable Label	Hilfe: Behörden, Formulare
+A8_3	1	die Familie oder gute Freunde
+A8_3	2	andere Bekannte
+A8_3	3	private Dienstleister
+A8_3	4	öffentliche Stellen
+A8_3	5	Gemeinnützige oder religiöse Organisationen
+A8_3	6	andere Organisationen
+A8_3	7	niemanden
+A8_3	8	[Kann ich nicht sagen]
+A8_4	Variable Label	Hilfe: Wohnungssuche
+A8_4	1	die Familie oder gute Freunde
+A8_4	2	andere Bekannte
+A8_4	3	private Dienstleister
+A8_4	4	öffentliche Stellen
+A8_4	5	Gemeinnützige oder religiöse Organisationen
+A8_4	6	andere Organisationen
+A8_4	7	niemanden
+A8_4	8	[Kann ich nicht sagen]
+A8_5	Variable Label	Hilfe: Ernsthaft Krank
+A8_5	1	die Familie oder gute Freunde
+A8_5	2	andere Bekannte
+A8_5	3	private Dienstleister
+A8_5	4	öffentliche Stellen
+A8_5	5	Gemeinnützige oder religiöse Organisationen
+A8_5	6	andere Organisationen
+A8_5	7	niemanden
+A8_5	8	[Kann ich nicht sagen]
+A9_1	Variable Label	Letzte 4 Wochen: An Gesellschaft gefehlt
+A9_1	1	Nie
+A9_1	2	Selten
+A9_1	3	Manchmal
+A9_1	4	Oft
+A9_1	5	Sehr oft
+A9_1	8	[Kann ich nicht sagen]
+A9_2	Variable Label	Letzte 4 Wochen: Einsam
+A9_2	1	Nie
+A9_2	2	Selten
+A9_2	3	Manchmal
+A9_2	4	Oft
+A9_2	5	Sehr oft
+A9_2	8	[Kann ich nicht sagen]
+A9_3	Variable Label	Letzte 4 Wochen: Ausgeschlossen
+A9_3	1	Nie
+A9_3	2	Selten
+A9_3	3	Manchmal
+A9_3	4	Oft
+A9_3	5	Sehr oft
+A9_3	8	[Kann ich nicht sagen]
+B1	Variable Label	Gesellschaftsstatus: Eigener
+B1	1	(1) Unten
+B1	2	(2)
+B1	3	(3)
+B1	4	(4)
+B1	5	(5)
+B1	6	(6)
+B1	7	(7)
+B1	8	(8)
+B1	9	(9)
+B1	10	(10) oben
+B1	98	[Weiß nicht / keine Angabe]
+B10	Variable Label	Menschen in meiner Wohnumgebung helfen sich
+B10	1	Trifft sehr zu
+B10	2	Trifft eher zu
+B10	3	Trifft eher nicht zu
+B10	4	Trifft gar nicht zu
+B10	9	[Weiß nicht / Keine Angabe]
+B11	Variable Label	Fühle mich wohl u. sicher in unmittelbarer Umgebung
+B11	1	Trifft sehr zu
+B11	2	Trifft eher zu
+B11	3	Trifft eher nicht zu
+B11	4	Trifft gar nicht zu
+B11	9	[Weiß nicht / Keine Angabe]
+B12	Variable Label	Ich fühle mich momentan ...
+B12	1	Sehr gut
+B12	2	Eher gut
+B12	3	Mittelmässig
+B12	4	Eher schlecht
+B12	5	Sehr schlecht
+B12	9	[Weiß nicht / Keine Angabe]
+B13_1	Variable Label	Letzte 4 Wochen: War ruhig u. gelassen
+B13_1	1	Immer
+B13_1	2	Meistens
+B13_1	3	Ziemlich oft
+B13_1	4	Manchmal
+B13_1	5	Nie
+B13_1	9	[Weiß nicht]
+B13_2	Variable Label	Letzte 4 Wochen: War voller Energie
+B13_2	1	Immer
+B13_2	2	Meistens
+B13_2	3	Ziemlich oft
+B13_2	4	Manchmal
+B13_2	5	Nie
+B13_2	9	[Weiß nicht]
+B2	Variable Label	Gesellschaftsstatus: Familie in der man aufgewachsen ist
+B2	1	(1) Unten
+B2	2	(2)
+B2	3	(3)
+B2	4	(4)
+B2	5	(5)
+B2	6	(6)
+B2	7	(7)
+B2	8	(8)
+B2	9	(9)
+B2	10	(10) oben
+B2	98	[Weiß nicht / keine Angabe]
+B3	Variable Label	In nächsten Jahren: Persönliche Lebensumstände
+B3	1	Deutlich verschlechtern
+B3	2	Etwas verschlechtern
+B3	3	Gleich bleiben
+B3	4	Etwas verbessern
+B3	5	Deutlich verbessern
+B3	9	[Weiß nicht / Keine Angabe]
+B4	Variable Label	In nächsten Jahren: Lebensumstände in Ö.
+B4	1	Deutlich verschlechtern
+B4	2	Etwas verschlechtern
+B4	3	Gleich bleiben
+B4	4	Etwas verbessern
+B4	5	Deutlich verbessern
+B4	9	[Weiß nicht / Keine Angabe]
+B5	Variable Label	Werden Sie in unserer Gesellschaft...
+B5	1	Eher benachteiligt wird
+B5	2	Weder benachteiligt noch bevorzugt wird
+B5	3	Eher bevorzugt wird
+B5	9	[Weiß nicht / Keine Angabe]
+B6	Variable Label	Verglichen mit anderen in Ö.: Wieviel bekommen Sie?
+B6	1	Mehr als den gerechten Anteil
+B6	2	Den gerechten Anteil
+B6	3	Weniger als den gerechten Anteil
+B6	4	Weit weniger als den gerechten Anteil
+B6	9	[Weiß nicht / Keine Angabe]
+B7	Variable Label	Sinnvoll mich politisch zu engagieren
+B7	1	Trifft sehr zu
+B7	2	Trifft eher zu
+B7	3	Trifft eher nicht zu
+B7	4	Trifft gar nicht zu
+B7	9	[Weiß nicht / Keine Angabe]
+B8	Variable Label	Gibt genug Menschen die mich nehmen wie ich bin
+B8	1	Trifft sehr zu
+B8	2	Trifft eher zu
+B8	3	Trifft eher nicht zu
+B8	4	Trifft gar nicht zu
+B8	9	[Weiß nicht / Keine Angabe]
+B9	Variable Label	Finde keinen Platz in der Gesellschaft ...
+B9	1	Trifft sehr zu
+B9	2	Trifft eher zu
+B9	3	Trifft eher nicht zu
+B9	4	Trifft gar nicht zu
+B9	9	[Weiß nicht / Keine Angabe]
+Bundesland	Variable Label	Bundesland
+Bundesland	1	Wien
+Bundesland	2	Niederösterreich
+Bundesland	3	Burgenland
+Bundesland	4	Oberösterreich
+Bundesland	5	Steiermark
+Bundesland	6	Kärnten
+Bundesland	7	Salzburg
+Bundesland	8	Tirol
+Bundesland	9	Vorarlberg
+C1	Variable Label	Wie glücklich ("Happiness")
+C1	1	Sehr glücklich
+C1	2	Ziemlich glücklich
+C1	3	Nicht sehr glücklich
+C1	4	überhaupt nicht glücklich
+C1	8	[Kann ich nicht sagen]
+C10	Variable Label	Kirchen zu viel Macht in Ö.?
+C10	1	...bei weitem zu viel Macht haben?
+C10	2	...zu viel Macht haben?
+C10	3	...ungefähr das richtige Ausmaß an Macht haben?
+C10	4	...zu wenig Macht haben?
+C10	5	...bei weitem zu wenig Macht haben?
+C10	8	[Kann ich nicht sagen]
+C11	Variable Label	Akzeptanz: Heirat einer anders religiösen Person & Verwandte
+C11	1	Auf jeden Fall
+C11	2	Eher ja
+C11	3	Eher nein
+C11	4	Auf keinen Fall
+C11	8	[Kann ich nicht sagen]
+C12_1	Variable Label	Religiöse Fanatiker: Recht auf öffentliche Versammlung
+C12_1	1	Auf jeden Fall
+C12_1	2	Eher ja
+C12_1	3	Eher nein
+C12_1	4	Auf keinen Fall
+C12_1	8	[Kann ich nicht sagen]
+C12_2	Variable Label	Religiöse Fanatiker: Recht auf Internetpräsenz
+C12_2	1	Auf jeden Fall
+C12_2	2	Eher ja
+C12_2	3	Eher nein
+C12_2	4	Auf keinen Fall
+C12_2	8	[Kann ich nicht sagen]
+C13	Variable Label	Glaube an Gott
+C13	1	Ich glaube nicht an Gott.
+C13	2	Ich weiß nicht, ob es einen Gott gibt, und glaube auch nicht, dass es möglich ist, dieses herauszufinden.
+C13	3	Ich glaube nicht an einen leibhaftigen Gott, aber ich glaube, dass es irgendeine höhere geistige Macht gibt.
+C13	4	Manchmal glaube ich an Gott, manchmal nicht.
+C13	5	Obwohl ich Zweifel habe, meine ich, dass ich doch an Gott glaube.
+C13	6	Ich weiß, dass es Gott wirklich gibt und habe daran keinen Zweifel.
+C13	8	[Kann ich nicht sagen]
+C14	Variable Label	Glaube an Gott / heute und damals
+C14	1	Ich glaube nicht an Gott und habe niemals an ihn geglaubt.
+C14	2	Ich glaube nicht an Gott, habe aber früher an ihn geglaubt.
+C14	3	Ich glaube an Gott, habe aber früher nicht an ihn geglaubt.
+C14	4	Ich glaube an Gott und habe immer an ihn geglaubt.
+C14	8	[Kann ich nicht sagen]
+C15_1	Variable Label	Glaube an: Leben nach dem Tod
+C15_1	1	Ja, ganz sicher
+C15_1	2	Ja, wahrscheinlich
+C15_1	3	Nein, wahrscheinlich nicht
+C15_1	4	Nein, sicher nicht
+C15_1	8	[Kann ich nicht sagen]
+C15_2	Variable Label	Glaube an: Himmel
+C15_2	1	Ja, ganz sicher
+C15_2	2	Ja, wahrscheinlich
+C15_2	3	Nein, wahrscheinlich nicht
+C15_2	4	Nein, sicher nicht
+C15_2	8	[Kann ich nicht sagen]
+C15_3	Variable Label	Glaube an: Hölle
+C15_3	1	Ja, ganz sicher
+C15_3	2	Ja, wahrscheinlich
+C15_3	3	Nein, wahrscheinlich nicht
+C15_3	4	Nein, sicher nicht
+C15_3	8	[Kann ich nicht sagen]
+C15_4	Variable Label	Glaube an: Wunder
+C15_4	1	Ja, ganz sicher
+C15_4	2	Ja, wahrscheinlich
+C15_4	3	Nein, wahrscheinlich nicht
+C15_4	4	Nein, sicher nicht
+C15_4	8	[Kann ich nicht sagen]
+C15_5	Variable Label	Glaube an: übernatürliche Kräfte von Ahnen
+C15_5	1	Ja, ganz sicher
+C15_5	2	Ja, wahrscheinlich
+C15_5	3	Nein, wahrscheinlich nicht
+C15_5	4	Nein, sicher nicht
+C15_5	8	[Kann ich nicht sagen]
+C16_1	Variable Label	Gott befasst sich mit jedem Menschen persönlich
+C16_1	1	Stimme voll und ganz zu
+C16_1	2	Stimme zu
+C16_1	3	Weder noch
+C16_1	4	Stimme nicht zu
+C16_1	5	Stimme überhaupt nicht zu
+C16_1	8	[Kann ich nicht sagen]
+C16_2	Variable Label	Menschen haben wenig Einfluss auf den Lauf ihres Lebens
+C16_2	1	Stimme voll und ganz zu
+C16_2	2	Stimme zu
+C16_2	3	Weder noch
+C16_2	4	Stimme nicht zu
+C16_2	5	Stimme überhaupt nicht zu
+C16_2	8	[Kann ich nicht sagen]
+C16_3	Variable Label	Leben hat nur Sinn weil es Gott gibt
+C16_3	1	Stimme voll und ganz zu
+C16_3	2	Stimme zu
+C16_3	3	Weder noch
+C16_3	4	Stimme nicht zu
+C16_3	5	Stimme überhaupt nicht zu
+C16_3	8	[Kann ich nicht sagen]
+C16_4	Variable Label	Das Leben dient keinem Zweck
+C16_4	1	Stimme voll und ganz zu
+C16_4	2	Stimme zu
+C16_4	3	Weder noch
+C16_4	4	Stimme nicht zu
+C16_4	5	Stimme überhaupt nicht zu
+C16_4	8	[Kann ich nicht sagen]
+C16_5	Variable Label	Leben hat nur Sinn wenn man ihm selbst Sinn gibt
+C16_5	1	Stimme voll und ganz zu
+C16_5	2	Stimme zu
+C16_5	3	Weder noch
+C16_5	4	Stimme nicht zu
+C16_5	5	Stimme überhaupt nicht zu
+C16_5	8	[Kann ich nicht sagen]
+C16_6	Variable Label	Verbindung zu Gott auf eigene Weise, ohne Kirche usw.
+C16_6	1	Stimme voll und ganz zu
+C16_6	2	Stimme zu
+C16_6	3	Weder noch
+C16_6	4	Stimme nicht zu
+C16_6	5	Stimme überhaupt nicht zu
+C16_6	8	[Kann ich nicht sagen]
+C17	Variable Label	In eigener Religion: Gleichbehandlung Männer u. Frauen?
+C17	1	Ich gehöre keiner Religion an.
+C17	2	Männer und Frauen werden gleich behandelt.
+C17	3	Männer werden besser behandelt als Frauen.
+C17	4	Frauen werden besser behandelt als Mäer.
+C17	8	[Kann ich nicht sagen]
+C18	Variable Label	Religion von Mutter als Interviewter Kind war
+C18	1	Der römisch-katholischen Kirche
+C18	2	Der evangelischen Kirche (ohne Freikirchen)
+C18	3	Einer evangelischen Freikirche
+C18	4	Einer christlich-orthodoxen Religionsgemeinschaft
+C18	5	Einer anderen christlichen Religionsgemeinschaft
+C18	6	Einer islamischen Religionsgemeinschaft
+C18	7	Einer jüdischen Religionsgemeinschaft
+C18	8	Einer buddhistischen Religionsgemeinschaft
+C18	9	Einer hinduistischen Religionsgemeinschaft
+C18	10	Einer anderen nicht-christlichen Religionsgemeinschaft
+C18	11	Keiner Religionsgemeinschaft
+C18	97	[Mutter lebte nicht mehr / lebte nicht mit mir zusammen]
+C18	98	[Kann / will ich nicht sagen]
+C19	Variable Label	Religion von Vater als Interviewter Kind war
+C19	1	Der römisch-katholischen Kirche
+C19	2	Der evangelischen Kirche (ohne Freikirchen)
+C19	3	Einer evangelischen Freikirche
+C19	4	Einer christlich-orthodoxen Religionsgemeinschaft
+C19	5	Einer anderen christlichen Religionsgemeinschaft
+C19	6	Einer islamischen Religionsgemeinschaft
+C19	7	Einer jüdischen Religionsgemeinschaft
+C19	8	Einer buddhistischen Religionsgemeinschaft
+C19	9	Einer hinduistischen Religionsgemeinschaft
+C19	10	Einer anderen nicht-christlichen Religionsgemeinschaft
+C19	11	Keiner Religionsgemeinschaft
+C19	97	[Vater lebte nicht mehr / lebte nicht mit mir zusammen]
+C19	98	[Kann / will ich nicht sagen]
+C2	Variable Label	Zufrieden mit Beziehungen zu Familienangehörigen
+C2	1	Völlig zufrieden
+C2	2	Sehr zufrieden
+C2	3	Eher zufrieden
+C2	4	Weder zufrieden noch unzufrieden
+C2	5	Eher unzufrieden
+C2	6	Sehr unzufrieden
+C2	7	Völlig unzufrieden
+C2	8	[Kann ich nicht sagen]
+C20	Variable Label	In welcher Glaubensrichtung erzogen?
+C20	1	Der römisch-katholischen Kirche
+C20	2	Der evangelischen Kirche (ohne Freikirchen)
+C20	3	Einer evangelischen Freikirche
+C20	4	Einer christlich-orthodoxen Religionsgemeinschaft
+C20	5	Einer anderen christlichen Religionsgemeinschaft
+C20	6	Einer islamischen Religionsgemeinschaft
+C20	7	Einer jüdischen Religionsgemeinschaft
+C20	8	Einer buddhistischen Religionsgemeinschaft
+C20	9	Einer hinduistischen Religionsgemeinschaft
+C20	10	Einer anderen nicht-christlichen Religionsgemeinschaft
+C20	11	Keiner Religionsgemeinschaft
+C20	98	[Kann / will ich nicht sagen]
+C21	Variable Label	Gottesdienstbesuch von Mutter als Interviewter Kind war
+C21	1	Nie
+C21	2	Weniger als einmal im Jahr
+C21	3	Etwa ein- bis zweimal im Jahr
+C21	4	Mehrmals im Jahr
+C21	5	Ungefähr einmal im Monat
+C21	6	2- bis 3 mal im Monat
+C21	7	Fast jede Woche
+C21	8	Jede Woche
+C21	9	Mehrmals in der Woche
+C21	97	[Mutter lebte nicht mehr / lebte nicht mit mir zusammen]
+C21	98	[Kann ich nicht sagen / Weiß ich nicht mehr]
+C22	Variable Label	Gottesdienstbesuch von Vater als Interviewter Kind war
+C22	1	Nie
+C22	2	Weniger als einmal im Jahr
+C22	3	Etwa ein- bis zweimal im Jahr
+C22	4	Mehrmals im Jahr
+C22	5	Ungefähr einmal im Monat
+C22	6	2- bis 3 mal im Monat
+C22	7	Fast jede Woche
+C22	8	Jede Woche
+C22	9	Mehrmals in der Woche
+C22	97	[Vater lebte nicht mehr / lebte nicht mit mir zusammen]
+C22	98	[Kann ich nicht sagen / Weiß ich nicht mehr]
+C23	Variable Label	Gottesdienstbesuch im Alter von 11 oder 12 Jahren
+C23	1	Nie
+C23	2	Weniger als einmal im Jahr
+C23	3	Etwa ein- bis zweimal im Jahr
+C23	4	Mehrmals im Jahr
+C23	5	Ungefähr einmal im Monat
+C23	6	2- bis 3 mal im Monat
+C23	7	Fast jede Woche
+C23	8	Jede Woche
+C23	9	Mehrmals in der Woche
+C23	99	[Keine Angabe]
+C24	Variable Label	Religionsgemeinschaft
+C24	1	Der römisch-katholischen Kirche
+C24	2	Der evangelischen Kirche (ohne Freikirchen)
+C24	3	Einer evangelischen Freikirche
+C24	4	Einer christlich-orthodoxen Religionsgemeinschaft
+C24	5	Einer anderen christlichen Religionsgemeinschaft
+C24	6	Einer islamischen Religionsgemeinschaft
+C24	7	Einer jüdischen Religionsgemeinschaft
+C24	8	Einer buddhistischen Religionsgemeinschaft
+C24	9	Einer hinduistischen Religionsgemeinschaft
+C24	10	Einer anderen nicht-christlichen Religionsgemeinschaft
+C24	11	Keiner Religionsgemeinschaft
+C24	98	[Kann / will ich nicht sagen]
+C25	Variable Label	Häufigkeit Gottesdienstbesuch
+C25	1	Mehrmals in der Woche
+C25	2	Einmal in der Woche
+C25	3	Zwei- oder dreimal im Monat
+C25	4	Einmal im Monat
+C25	5	Mehrmals im Jahr
+C25	6	Einmal im Jahr
+C25	7	Seltener
+C25	8	Nie
+C25	99	[Keine Angabe]
+C26	Variable Label	Häufigkeit beten
+C26	1	Nie
+C26	2	Weniger als einmal im Jahr
+C26	3	Etwa ein- bis zweimal im Jahr
+C26	4	Mehrmals im Jahr
+C26	5	Ungefähr einmal im Monat
+C26	6	2- bis 3-mal im Monat
+C26	7	Fast jede Woche
+C26	8	Jede Woche
+C26	9	Mehrmals in der Woche
+C26	10	Einmal am Tag
+C26	11	Mehrmals am Tag
+C26	99	[Keine Angabe]
+C27	Variable Label	Teilnahme an kirchliche Aktivitäten ohne Gottesdienst
+C27	1	Nie
+C27	2	Weniger als einmal im Jahr
+C27	3	Etwa ein- bis zweimal im Jahr
+C27	4	Mehrmals im Jahr
+C27	5	Ungefähr einmal im Monat
+C27	6	2- bis 3-mal im Monat
+C27	7	Fast jede Woche
+C27	8	Jede Woche
+C27	9	Mehrmals in der Woche
+C27	99	[Keine Angabe]
+C28	Variable Label	Letzte 12 Monate: In heiligen Schriften gelesen o. zugehört
+C28	1	Ja
+C28	2	Nein
+C28	9	[Keine Angabe]
+C29	Variable Label	Religiöser Gegenstand zuhause? (z.B. Kreuz)
+C29	1	Ja
+C29	2	Nein
+C29	9	[Keine Angabe]
+C3	Variable Label	Fehler: Vorehelicher Sex Mann/Frau
+C3	1	In jedem Fall
+C3	2	Fast in jedem Fall
+C3	3	Nur manchmal
+C3	4	Nie
+C3	8	[Kann ich nicht sagen]
+C30	Variable Label	Wie oft: Besuch heiliger Orte o. Wallfahrt aus rel. Gründen
+C30	1	Nie
+C30	2	Weniger als einmal im Jahr
+C30	3	Etwa ein- oder zweimal im Jahr
+C30	4	Mehrmals im Jahr
+C30	5	Etwa einmal im Monat oder häufiger
+C30	9	[Keine Angabe]
+C31	Variable Label	Wie religiös?
+C31	1	Tief religiös
+C31	2	Sehr religiös
+C31	3	Eher religiös
+C31	4	Weder religiös noch nicht religiös
+C31	5	Eher nicht religiös
+C31	6	Nicht religiös
+C31	7	überhaupt nicht religiös
+C31	8	[Kann ich nicht sagen]
+C32	Variable Label	Selbsteinschätzung: Religion & Spiritualität
+C32	1	Ich übe eine Religion aus und sehe mich als spirituellen Menschen (...).
+C32	2	Ich übe eine Religion aus, sehe mich aber nicht als spirituellen Menschen (...)
+C32	3	Ich übe keine Religion aus, sehe mich aber als spirituellen Menschen (...).
+C32	5	Ich übe keine Religion aus und sehe mich auch nicht als spirituellen Menschen (...).
+C32	8	[Kann ich nicht sagen]
+C33_1	Variable Label	Religion hilft: Freundschaften zu schließen
+C33_1	1	Stimme voll und ganz zu
+C33_1	2	Stimme eher zu
+C33_1	3	Weder noch
+C33_1	4	Stimme eher nicht zu
+C33_1	5	Stimme überhaupt nicht zu
+C33_1	8	[Kann ich nicht sagen]
+C33_2	Variable Label	Religion hilft: in schweren Zeiten Trost zu finden
+C33_2	1	Stimme voll und ganz zu
+C33_2	2	Stimme eher zu
+C33_2	3	Weder noch
+C33_2	4	Stimme eher nicht zu
+C33_2	5	Stimme überhaupt nicht zu
+C33_2	8	[Kann ich nicht sagen]
+C34	Variable Label	Religionen stehen Gleichberechtigung v. Mann/Frau im Weg
+C34	1	Stimme voll und ganz zu
+C34	2	Stimme eher zu
+C34	3	Weder noch
+C34	4	Stimme eher nicht zu
+C34	5	Stimme überhaupt nicht zu
+C34	8	[Kann ich nicht sagen]
+C35_1	Variable Label	Staat soll Religion nicht hindern bei Glauben verbreiten
+C35_1	1	Stimme voll und ganz zu
+C35_1	2	Stimme eher zu
+C35_1	3	Weder noch
+C35_1	4	Stimme eher nicht zu
+C35_1	5	Stimme überhaupt nicht zu
+C35_1	8	[Kann ich nicht sagen]
+C35_2	Variable Label	Verschiedengläubige können nicht miteinander auskommen
+C35_2	1	Stimme voll und ganz zu
+C35_2	2	Stimme eher zu
+C35_2	3	Weder noch
+C35_2	4	Stimme eher nicht zu
+C35_2	5	Stimme überhaupt nicht zu
+C35_2	8	[Kann ich nicht sagen]
+C36_1	Variable Label	In Ö: Religion steht für Vergangenheit, nicht Zukunft
+C36_1	1	Stimme voll und ganz zu
+C36_1	2	Stimme eher zu
+C36_1	3	Weder noch
+C36_1	4	Stimme eher nicht zu
+C36_1	5	Stimme überhaupt nicht zu
+C36_1	8	[Kann ich nicht sagen]
+C36_2	Variable Label	In Ö: Religion heute gleiche Rolle wie früher
+C36_2	1	Stimme voll und ganz zu
+C36_2	2	Stimme eher zu
+C36_2	3	Weder noch
+C36_2	4	Stimme eher nicht zu
+C36_2	5	Stimme überhaupt nicht zu
+C36_2	8	[Kann ich nicht sagen]
+C37_1	Variable Label	Einstellung zu: Christen
+C37_1	1	Sehr positiv
+C37_1	2	Eher positiv
+C37_1	3	Weder positiv noch negativ
+C37_1	4	Eher negativ
+C37_1	5	Sehr negativ
+C37_1	8	[Kann ich nicht sagen]
+C37_2	Variable Label	Einstellung zu: Muslime
+C37_2	1	Sehr positiv
+C37_2	2	Eher positiv
+C37_2	3	Weder positiv noch negativ
+C37_2	4	Eher negativ
+C37_2	5	Sehr negativ
+C37_2	8	[Kann ich nicht sagen]
+C37_3	Variable Label	Einstellung zu: Hindus
+C37_3	1	Sehr positiv
+C37_3	2	Eher positiv
+C37_3	3	Weder positiv noch negativ
+C37_3	4	Eher negativ
+C37_3	5	Sehr negativ
+C37_3	8	[Kann ich nicht sagen]
+C37_4	Variable Label	Einstellung zu: Buddhisten
+C37_4	1	Sehr positiv
+C37_4	2	Eher positiv
+C37_4	3	Weder positiv noch negativ
+C37_4	4	Eher negativ
+C37_4	5	Sehr negativ
+C37_4	8	[Kann ich nicht sagen]
+C37_5	Variable Label	Einstellung zu: Juden
+C37_5	1	Sehr positiv
+C37_5	2	Eher positiv
+C37_5	3	Weder positiv noch negativ
+C37_5	4	Eher negativ
+C37_5	5	Sehr negativ
+C37_5	8	[Kann ich nicht sagen]
+C37_6	Variable Label	Einstellung zu: Atheisten o. Menschen ohne rel. Glauben
+C37_6	1	Sehr positiv
+C37_6	2	Eher positiv
+C37_6	3	Weder positiv noch negativ
+C37_6	4	Eher negativ
+C37_6	5	Sehr negativ
+C37_6	8	[Kann ich nicht sagen]
+C38_1	Variable Label	Muslime: Stellen kulturelle Bereicherung dar
+C38_1	1	Stimme zu
+C38_1	2	Stimme eher zu
+C38_1	3	Stimme eher nicht zu
+C38_1	4	Stimme nicht zu
+C38_1	8	[Kann ich nicht sagen]
+C38_10	Variable Label	Muslime: Erlaubnis Kopftuch in Schule weil rel. Tradition
+C38_10	1	Stimme zu
+C38_10	2	Stimme eher zu
+C38_10	3	Stimme eher nicht zu
+C38_10	4	Stimme nicht zu
+C38_10	8	[Kann ich nicht sagen]
+C38_11	Variable Label	Muslime: Keine Toleranz für Moscheen
+C38_11	1	Stimme zu
+C38_11	2	Stimme eher zu
+C38_11	3	Stimme eher nicht zu
+C38_11	4	Stimme nicht zu
+C38_11	8	[Kann ich nicht sagen]
+C38_2	Variable Label	Muslime: Sollen gleiche Rechte haben wie alle in Ö.
+C38_2	1	Stimme zu
+C38_2	2	Stimme eher zu
+C38_2	3	Stimme eher nicht zu
+C38_2	4	Stimme nicht zu
+C38_2	8	[Kann ich nicht sagen]
+C38_3	Variable Label	Muslime: Fühle mich manchmal wie Fremder in Ö.
+C38_3	1	Stimme zu
+C38_3	2	Stimme eher zu
+C38_3	3	Stimme eher nicht zu
+C38_3	4	Stimme nicht zu
+C38_3	8	[Kann ich nicht sagen]
+C38_4	Variable Label	Muslime: Habe Angst, ob auch Terroristen darunter
+C38_4	1	Stimme zu
+C38_4	2	Stimme eher zu
+C38_4	3	Stimme eher nicht zu
+C38_4	4	Stimme nicht zu
+C38_4	8	[Kann ich nicht sagen]
+C38_5	Variable Label	Muslime: Kopftuch ist Symbol v. Unterdrückung der Frau
+C38_5	1	Stimme zu
+C38_5	2	Stimme eher zu
+C38_5	3	Stimme eher nicht zu
+C38_5	4	Stimme nicht zu
+C38_5	8	[Kann ich nicht sagen]
+C38_6	Variable Label	Muslime: Staat soll islamische Gemeinschaften beobachten
+C38_6	1	Stimme zu
+C38_6	2	Stimme eher zu
+C38_6	3	Stimme eher nicht zu
+C38_6	4	Stimme nicht zu
+C38_6	8	[Kann ich nicht sagen]
+C38_7	Variable Label	Muslime: Glaubensausübung in Ö. soll eingeschränkt werden
+C38_7	1	Stimme zu
+C38_7	2	Stimme eher zu
+C38_7	3	Stimme eher nicht zu
+C38_7	4	Stimme nicht zu
+C38_7	8	[Kann ich nicht sagen]
+C38_8	Variable Label	Muslime: Islam passt in westliche Welt
+C38_8	1	Stimme zu
+C38_8	2	Stimme eher zu
+C38_8	3	Stimme eher nicht zu
+C38_8	4	Stimme nicht zu
+C38_8	8	[Kann ich nicht sagen]
+C38_9	Variable Label	Muslime: Müssen sich in Ö. an unsere Kultur anpassen
+C38_9	1	Stimme zu
+C38_9	2	Stimme eher zu
+C38_9	3	Stimme eher nicht zu
+C38_9	4	Stimme nicht zu
+C38_9	8	[Kann ich nicht sagen]
+C39_1	Variable Label	Letzte 12 Monate: Meditiert
+C39_1	1	Ja, im vergangenen Jahr
+C39_1	2	Ja, früher
+C39_1	3	Nein, noch nie
+C39_1	8	[Weiß ich nicht]
+C39_2	Variable Label	Letzte 12 Monate: Yoga, Tai Chi oder Qi Gong
+C39_2	1	Ja, im vergangenen Jahr
+C39_2	2	Ja, früher
+C39_2	3	Nein, noch nie
+C39_2	8	[Weiß ich nicht]
+C39_3	Variable Label	Letzte 12 Monate: Alternative Heilmethoden angewendet
+C39_3	1	Ja, im vergangenen Jahr
+C39_3	2	Ja, früher
+C39_3	3	Nein, noch nie
+C39_3	8	[Weiß ich nicht]
+C39_4	Variable Label	Letzte 12 Monate: Wunderheiler oder rel. Heilungsritual
+C39_4	1	Ja, im vergangenen Jahr
+C39_4	2	Ja, früher
+C39_4	3	Nein, noch nie
+C39_4	8	[Weiß ich nicht]
+C39_5	Variable Label	Letzte 12 Monate: Wahrsager oder Astrologen aufgesucht
+C39_5	1	Ja, im vergangenen Jahr
+C39_5	2	Ja, früher
+C39_5	3	Nein, noch nie
+C39_5	8	[Weiß ich nicht]
+C39_6	Variable Label	Letzte 12 Monate: Spirituelle/esoterische Bücher gelesen
+C39_6	1	Ja, im vergangenen Jahr
+C39_6	2	Ja, früher
+C39_6	3	Nein, noch nie
+C39_6	8	[Weiß ich nicht]
+C4	Variable Label	Fehler: Homosexuelle Beziehungen
+C4	1	In jedem Fall
+C4	2	Fast in jedem Fall
+C4	3	Nur manchmal
+C4	4	Nie
+C4	8	[Kann ich nicht sagen]
+C40_1	Variable Label	Glücksbringer funktionieren
+C40_1	1	Stimmt sicher
+C40_1	2	Stimmt wahrscheinlich
+C40_1	3	Stimmt wahrscheinlich nicht
+C40_1	4	Stimmt sicher nicht
+C40_1	8	[Kann ich nicht sagen]
+C40_2	Variable Label	Manche Wahrsager können Zukunft voraussehen
+C40_2	1	Stimmt sicher
+C40_2	2	Stimmt wahrscheinlich
+C40_2	3	Stimmt wahrscheinlich nicht
+C40_2	4	Stimmt sicher nicht
+C40_2	8	[Kann ich nicht sagen]
+C40_3	Variable Label	Manche Wunderheiler besitzen übernatürliche Kräfte
+C40_3	1	Stimmt sicher
+C40_3	2	Stimmt wahrscheinlich
+C40_3	3	Stimmt wahrscheinlich nicht
+C40_3	4	Stimmt sicher nicht
+C40_3	8	[Kann ich nicht sagen]
+C40_4	Variable Label	Sternzeichen hat Einfluss auf das Leben
+C40_4	1	Stimmt sicher
+C40_4	2	Stimmt wahrscheinlich
+C40_4	3	Stimmt wahrscheinlich nicht
+C40_4	4	Stimmt sicher nicht
+C40_4	8	[Kann ich nicht sagen]
+C5	Variable Label	Fehler: Abtreibung weil zu geringes Einkommen für Kinder
+C5	1	In jedem Fall
+C5	2	Fast in jedem Fall
+C5	3	Nur manchmal
+C5	4	Nie
+C5	8	[Kann ich nicht sagen]
+C6	Variable Label	Ehemann -> Geld verdienen; Ehefrau -> Haushalt u. Familie
+C6	1	Stimme voll und ganz zu
+C6	2	Stimme zu
+C6	3	Weder noch
+C6	4	Stimme nicht zu
+C6	5	Stimme überhaupt nicht zu
+C6	8	[Kann ich nicht sagen]
+C7_1	Variable Label	Vertrauen in: Parlament
+C7_1	1	Volles Vertrauen
+C7_1	2	Viel Vertrauen
+C7_1	3	Etwas Vertrauen
+C7_1	4	Sehr wenig Vertrauen
+C7_1	5	überhaupt kein Vertrauen
+C7_1	8	[Kann ich nicht sagen]
+C7_2	Variable Label	Vertrauen in: Handel und die Industrie
+C7_2	1	Volles Vertrauen
+C7_2	2	Viel Vertrauen
+C7_2	3	Etwas Vertrauen
+C7_2	4	Sehr wenig Vertrauen
+C7_2	5	überhaupt kein Vertrauen
+C7_2	8	[Kann ich nicht sagen]
+C7_3	Variable Label	Vertrauen in: Kirchen u. religiöse Organisationen
+C7_3	1	Volles Vertrauen
+C7_3	2	Viel Vertrauen
+C7_3	3	Etwas Vertrauen
+C7_3	4	Sehr wenig Vertrauen
+C7_3	5	überhaupt kein Vertrauen
+C7_3	8	[Kann ich nicht sagen]
+C7_4	Variable Label	Vertrauen in: Gerichte u. das Rechtssystem
+C7_4	1	Volles Vertrauen
+C7_4	2	Viel Vertrauen
+C7_4	3	Etwas Vertrauen
+C7_4	4	Sehr wenig Vertrauen
+C7_4	5	überhaupt kein Vertrauen
+C7_4	8	[Kann ich nicht sagen]
+C7_5	Variable Label	Vertrauen in: Schulen u. das Bildungssystem
+C7_5	1	Volles Vertrauen
+C7_5	2	Viel Vertrauen
+C7_5	3	Etwas Vertrauen
+C7_5	4	Sehr wenig Vertrauen
+C7_5	5	überhaupt kein Vertrauen
+C7_5	8	[Kann ich nicht sagen]
+C8	Variable Label	Kirche soll nicht versuchen Wahlen zu beeinflussen
+C8	1	Stimme voll und ganz zu
+C8	2	Stimme zu
+C8	3	Weder noch
+C8	4	Stimme nicht zu
+C8	5	Stimme überhaupt nicht zu
+C8	8	[Kann ich nicht sagen]
+C9_1	Variable Label	Zu viel Vertrauen in Wissenschaft & zu wenig in Religion
+C9_1	1	Stimme voll und ganz zu
+C9_1	2	Stimme zu
+C9_1	3	Weder noch
+C9_1	4	Stimme nicht zu
+C9_1	5	Stimme überhaupt nicht zu
+C9_1	8	[Kann ich nicht sagen]
+C9_2	Variable Label	Religionen führen zu Konflikten nicht zu Frieden
+C9_2	1	Stimme voll und ganz zu
+C9_2	2	Stimme zu
+C9_2	3	Weder noch
+C9_2	4	Stimme nicht zu
+C9_2	5	Stimme überhaupt nicht zu
+C9_2	8	[Kann ich nicht sagen]
+C9_3	Variable Label	Strenggläubige oft intolerant
+C9_3	1	Stimme voll und ganz zu
+C9_3	2	Stimme zu
+C9_3	3	Weder noch
+C9_3	4	Stimme nicht zu
+C9_3	5	Stimme überhaupt nicht zu
+C9_3	8	[Kann ich nicht sagen]
+D1	Variable Label	Geschlecht
+D1	1	Männlich
+D1	2	Weiblich
+D1	3	Anderes
+D10	Variable Label	Anzahl Angestellte
+D10	-5	[Missing / nicht selbstständig mit Mitarbeitern]
+D10	9999	[Keine Angabe]
+D11	Variable Label	Aufgabe: Andere Mitarbeiter anleiten/beaufsichtigen
+D11	-5	[Missing / nie gearbeitet]
+D11	1	Ja
+D11	2	Nein
+D11	9	[Keine Angabe]
+D12	Variable Label	Wie viele Mitarbeiter beaufsichtigt
+D12	-5	[Missing / hat nie Mitarbeiter beaufsichtigt]
+D12	9999	[Keine Angabe]
+D13	Variable Label	Familienstand
+D13	1	verheiratet
+D13	2	eingetragene Lebenspartnerschaft
+D13	3	geschieden  /  getrennt
+D13	4	verwitwet  /  Lebenspartner / in verstorben
+D13	5	ledig
+D13	9	[Keine Angabe]
+D14	Variable Label	Zusammenleben/Partnerschaft
+D14	1	ja, lebe mit Partner / in zusammen
+D14	2	Habe feste Partnerin / Partner, lebe aber nicht zusammen
+D14	3	Nein, weder noch
+D14	9	[Keine Angabe]
+D15	Variable Label	Partner: Beschäftigung
+D15	-5	[Missing / kein(e) Parnter(in)]
+D15	1	beschäftigt bzw. berufstätig (auch mithelfende Familienangehörige)
+D15	2	Lehrling oder Praktikant / in
+D15	3	Arbeitslos oder arbeitssuchend
+D15	4	in Karenz
+D15	5	Zivildienst, Wehrdienst
+D15	6	Pensionist / in, Rentner / in
+D15	7	Hausfrau / Hausmann
+D15	8	Schüler / in, Student / in
+D15	9	arbeitsunfähig, in Invaliditätspension
+D15	10	aus anderen Gründen nicht  erwerbstätig
+D15	88	[Weiß nicht]
+D15	99	[Keine Angabe]
+D16	Variable Label	Partner: Arbeitsstunden pro Woche
+D16	-99	[Keine Angabe]
+D16	-98	[Weiß nicht]
+D16	-5	[Missing / kein(e) Parnter(in)]
+D16	0	Nicht berufstätig
+D17	Variable Label	Partner: Früher berufstätig
+D17	-5	[Missing / kein(e) partner(in) oder berufstätig]
+D17	1	Ja
+D17	2	Nein
+D17	8	[Weiß nicht]
+D17	9	[Keine Angabe]
+D18_ISCO_lev1	Variable Label	Partner(in): Berufl. Tätigkeit (ISCO-08 Code, Ebene 1)
+D18_ISCO_lev1	-99	-99 [Keine Angabe, nur bei Antwortverweigerung]
+D18_ISCO_lev1	-98	-98 [Weiß nicht, nicht zuordenbar]
+D18_ISCO_lev1	-5	-5 [Missing / nie gearbeitet]
+D18_ISCO_lev1	0	0 Angehörige der regulären Streitkräfte
+D18_ISCO_lev1	1	1 Führungskräfte
+D18_ISCO_lev1	2	2 Akademische Berufe
+D18_ISCO_lev1	3	3 Technikerinnen und Techniker und gleichrangige nichttechnische Berufe
+D18_ISCO_lev1	4	4 Bürokräfte und verwandte Berufe
+D18_ISCO_lev1	5	5 Dienstleistungsberufe und Verkäuferinnen und Verkäufer
+D18_ISCO_lev1	6	6 Fachkräfte in Land- und Forstwirtschaft und Fischerei
+D18_ISCO_lev1	7	7 Handwerks- und verwandte Berufe
+D18_ISCO_lev1	8	8 Bedienerinnen und Bediener von Anlagen und Maschinen und Montageberufe
+D18_ISCO_lev1	9	9 Hilfsarbeitskräfte
+D18_ISCO_lev2	Variable Label	Partner(in): Berufl. Tätigkeit (ISCO-08 Code, Ebene 2)
+D18_ISCO_lev2	-99	-99 [Keine Angabe, nur bei Antwortverweigerung]
+D18_ISCO_lev2	-98	-98 [Weiß nicht, nicht zuordenbar]
+D18_ISCO_lev2	-5	-5 [Missing / nie gearbeitet]
+D18_ISCO_lev2	0	0 Angehörige der regulären Streitkräfte
+D18_ISCO_lev2	1	01 Offiziere in regulären Streitkräften
+D18_ISCO_lev2	2	02 Unteroffiziere in regulären Streitkräften
+D18_ISCO_lev2	3	03 Angehörige der regulären Streitkräfte in sonstigen Rängen
+D18_ISCO_lev2	10	10 Führungskräfte, onA
+D18_ISCO_lev2	11	11 Geschäftsführerinnen und Geschäftsführer, Vorstände, leitende Verwaltungsbedienstete und Angehörige gesetzgeben
+D18_ISCO_lev2	12	12 Führungskräfte im kaufmännischen Bereich
+D18_ISCO_lev2	13	13 Führungskräfte in der Produktion und bei speziellen Dienstleistungen
+D18_ISCO_lev2	14	14 Führungskräfte in Hotels und Restaurants, im Handel und in der Erbringung sonstiger Dienstleistungen
+D18_ISCO_lev2	20	20 Akademische Berufe, onA
+D18_ISCO_lev2	21	21 Naturwissenschaftler und Naturwissenschaftlerinnen, Mathematikerinnen und Mathematiker, Ingenieurinnen und Ingenieure
+D18_ISCO_lev2	22	22 Akademische und verwandte Gesundheitsberufe
+D18_ISCO_lev2	23	23 Lehrkräfte
+D18_ISCO_lev2	24	24 Betriebswirtinnen und Betriebswirte und vergleichbare akademische Berufe
+D18_ISCO_lev2	25	25 Akademische und vergleichbare Fachkräfte in der Informations- und Kommunikationstechnologie
+D18_ISCO_lev2	26	26 Juristinnen und Juristen, Sozialwissenschaftlerinnen und Sozialwissenschaftler und Kulturberufe
+D18_ISCO_lev2	30	30 Technikerinnen und Techniker  und gleichrangige nichttechnische Berufe, onA
+D18_ISCO_lev2	31	31 Ingenieurtechnische und vergleichbare Fachkräfte
+D18_ISCO_lev2	32	32 Assistenzberufe im Gesundheitswesen
+D18_ISCO_lev2	33	33 Nicht akademische betriebswirtschaftliche und kaufmännische Fachkräfte und Verwaltungsfachkräfte
+D18_ISCO_lev2	34	34 Nicht akademische juristische, sozialpflegerische, kulturelle und verwandte Fachkräfte
+D18_ISCO_lev2	35	35 Informations- und Kommunikationstechnikerinnen und -techniker
+D18_ISCO_lev2	41	41 Allgemeine Büro- und Sekretariatskräfte
+D18_ISCO_lev2	42	42 Bürokräfte mit Kundenkontakt
+D18_ISCO_lev2	43	43 Bürokräfte im Finanz- und Rechnungswesen, in der Statistik und in der Materialwirtschaft
+D18_ISCO_lev2	44	44 Sonstige Bürokräfte und verwandte Berufe
+D18_ISCO_lev2	50	50 Dienstleistungsberufe und Verkäuferinnen und Verkäufer, onA
+D18_ISCO_lev2	51	51 Berufe im Bereich personenbezogener Dienstleistungen
+D18_ISCO_lev2	52	52 Verkaufskräfte
+D18_ISCO_lev2	53	53 Betreuungsberufe
+D18_ISCO_lev2	54	54 Schutzkräfte und Sicherheitsbedienstete
+D18_ISCO_lev2	61	61 Fachkräfte in der Landwirtschaft
+D18_ISCO_lev2	62	62 Fachkräfte in Forstwirtschaft, Fischerei und Jagd - Marktproduktion
+D18_ISCO_lev2	63	63 Landwirtinnen und Landwirte, Fischerinnen und Fischer, Jägerinnen und Jäger und Sammlerinnen und Sammler für den E
+D18_ISCO_lev2	70	70 Handwerks- und verwandte Berufe, onA
+D18_ISCO_lev2	71	71 Bau- und Ausbaufachkräfte sowie verwandte Berufe, ausgenommen Elektrikerinnen und Elektriker
+D18_ISCO_lev2	72	72 Metallarbeiterinnen und Metallarbeiter, Mechanikerinnen und Mechaniker und verwandte Berufe
+D18_ISCO_lev2	73	73 Präzisionshandwerkerinnen und Präzisionshandwerker, Druckerinnen und Drucker und kunsthandwerkliche Berufe
+D18_ISCO_lev2	74	74 Elektrikerinnen und Elektriker und Elektronikerinnen und Elektroniker
+D18_ISCO_lev2	75	75 Berufe in der Nahrungsmittelverarbeitung, Holzverarbeitung und Bekleidungsherstellung und verwandte handwerkliche Fac
+D18_ISCO_lev2	81	81 Bedienerinnen und Bediener stationärer Anlagen und Maschinen
+D18_ISCO_lev2	82	82 Montageberufe
+D18_ISCO_lev2	83	83 Fahrzeugführerinnen und Fahrzeugführer und Bedienerinnen und Bediener mobiler Anlagen
+D18_ISCO_lev2	91	91 Reinigungspersonal und Hilfskräfte
+D18_ISCO_lev2	92	92 Hilfsarbeiterinnen und Hilfsarbeiter in der Land- und Forstwirtschaft und Fischerei
+D18_ISCO_lev2	93	93 Hilfsarbeiterinnen und Hilfsarbeiter im Bergbau, im Bau, bei der Herstellung von Waren und im Transportwesen
+D18_ISCO_lev2	94	94 Hilfskräfte in der Nahrungsmittelzubereitung
+D18_ISCO_lev2	95	95 Straßenhändlerinnen und Straßenhändler und auf der Straße arbeitende Dienstleistungskräfte
+D18_ISCO_lev2	96	96 Abfallentsorgungsarbeiterinnen und Abfallentsorgungsarbeiter und sonstige Hilfsarbeitskräfte
+D18_ISCO_lev3	Variable Label	Partner(in): Berufl. Tätigkeit (ISCO-08 Code, Ebene 3)
+D18_ISCO_lev3	-99	-99 [Keine Angabe, nur bei Antwortverweigerung]
+D18_ISCO_lev3	-98	-98 [Weiß nicht, nicht zuordenbar]
+D18_ISCO_lev3	-5	-5 [Missing / nie gearbeitet]
+D18_ISCO_lev3	0	0 Angehörige der regulären Streitkräfte
+D18_ISCO_lev3	11	011 Offiziere in regulären Streitkräften
+D18_ISCO_lev3	21	021 Unteroffiziere in regulären Streitkräften
+D18_ISCO_lev3	100	100 Führungskräfte, onA
+D18_ISCO_lev3	110	110 Geschäftsführerinnen und Geschäftsführer, Vorstände, leitende Verwaltungsbedienstete und Angehörige gesetzgebe
+D18_ISCO_lev3	111	111 Angehörige gesetzgebender Körperschaften und leitende Verwaltungsbedienstete
+D18_ISCO_lev3	112	112 Geschäftsführerinnen und Geschäftsführer und Vorstände
+D18_ISCO_lev3	121	121 Führungskräfte in der betrieblichen Verwaltung und in unternehmensbezogenen Dienstleistungen
+D18_ISCO_lev3	122	122 Führungskräfte in Vertrieb, Marketing und Entwicklung
+D18_ISCO_lev3	131	131 Führungskräfte in der Produktion in Land- und Forstwirtschaft und Fischerei
+D18_ISCO_lev3	132	132 Führungskräfte in der Produktion bei der Herstellung von Waren, im Bergbau und im Bau sowie in der Logistik
+D18_ISCO_lev3	133	133 Führungskräfte in der Erbringung von Dienstleistungen im Bereich Informations- und Kommunikationstechnologie
+D18_ISCO_lev3	134	134 Führungskräfte in der Erbringung von speziellen Dienstleistungen
+D18_ISCO_lev3	141	141 Führungskräfte in Hotels und Restaurants
+D18_ISCO_lev3	142	142 Führungskräfte in Groß- und Einzelhandel
+D18_ISCO_lev3	143	143 Führungskräfte in der Erbringung sonstiger Dienstleistungen
+D18_ISCO_lev3	200	200 Akademische Berufe, onA
+D18_ISCO_lev3	211	211 Physikerinnen und Physiker, Chemikerinnen und Chemiker, Geologinnen und Geologen und verwandte Berufe
+D18_ISCO_lev3	212	212 Mathematikerinnen und Mathematiker, Versicherungsmathematikerinnen und Versicherungsmathematiker und Statistikerinne
+D18_ISCO_lev3	213	213 Biowissenschaftlerinnen und Biowissenschaftler
+D18_ISCO_lev3	214	214 Ingenieurwissenschaftlerinnen und Ingenieurwissenschaftler (ohne Elektrotechnik, Elektronik und Telekommunikation)
+D18_ISCO_lev3	215	215 Ingenieurinnen und Ingenieure in den Bereichen Elektrotechnik, Elektronik und Telekommunikationstechnik
+D18_ISCO_lev3	216	216 Architektinnen und Architekten, Raum-, Stadt- und Verkehrsplanerinnen und -planer, Vermessungsingenieurinnen und Ver
+D18_ISCO_lev3	221	221 Ärztinnen und Ärzte
+D18_ISCO_lev3	222	222 Akademische und vergleichbare Krankenpflege- und Geburtshilfefachkräfte
+D18_ISCO_lev3	223	223 Akademische und vergleichbare Fachkräfte in der traditionellen und komplementären Medizin
+D18_ISCO_lev3	224	224 Feldscherinnen und Feldscher und vergleichbare paramedizinische Praktikerinnen und Praktiker
+D18_ISCO_lev3	225	225 Tierärztinnen und Tierärzte
+D18_ISCO_lev3	226	226 Sonstige akademische und verwandte Gesundheitsberufe
+D18_ISCO_lev3	230	230 Lehrkräfte, onA
+D18_ISCO_lev3	231	231 Universitäts- und Hochschullehrerinnen und -lehrer
+D18_ISCO_lev3	232	232 Lehrkräfte im Bereich Berufsbildung
+D18_ISCO_lev3	233	233 Lehrkräfte im Sekundarbereich
+D18_ISCO_lev3	234	234 Lehrkräfte im Primar- und Vorschulbereich
+D18_ISCO_lev3	235	235 Sonstige Lehrkräfte
+D18_ISCO_lev3	241	241 Akademische und vergleichbare Fachkräfte im Bereich Finanzen
+D18_ISCO_lev3	242	242 Akademische und vergleichbare Fachkräfte in der betrieblichen Verwaltung
+D18_ISCO_lev3	243	243 Akademische und vergleichbare Fachkräfte in Vertrieb, Marketing und Öffentlichkeitsarbeit
+D18_ISCO_lev3	251	251 Entwicklerinnen und Entwickler und Analytikerinnen und Analytiker von Software und Anwendungen
+D18_ISCO_lev3	252	252 Akademische und vergleichbare Fachkräfte für Datenbanken und Netzwerke
+D18_ISCO_lev3	261	261 Juristinnen und Juristen
+D18_ISCO_lev3	262	262 Archiv-, Bibliotheks- und Museumswissenschaftlerinnen und -wissenschaftler
+D18_ISCO_lev3	263	263 Sozialwissenschaftlerinnen und Sozialwissenschaftler, Geistliche und Seelsorgerinnen und Seelsorger
+D18_ISCO_lev3	264	264 Autorinnen und Autoren, Journalistinnen und Journalisten und Linguistinnen und Linguisten
+D18_ISCO_lev3	265	265 Bildende und darstellende Künstlerinnen und Künstler
+D18_ISCO_lev3	300	300 Technikerinnen und Techniker  und gleichrangige nichttechnische Berufe, onA
+D18_ISCO_lev3	310	310 Ingenieurtechnische und vergleichbare Fachkräfte, onA
+D18_ISCO_lev3	311	311 Material- und ingenieurtechnische Fachkräfte
+D18_ISCO_lev3	312	312 Produktionsleiterinnen und Produktionsleiter im Bergbau, bei der Herstellung von Waren und im Bau
+D18_ISCO_lev3	313	313 Technikerinnen und Techniker in der Prozesssteuerung
+D18_ISCO_lev3	314	314 Biotechnikerinnen und Biotechniker und verwandte technische Berufe
+D18_ISCO_lev3	315	315 Schiffsführerinnen und Schiffsführer, Flugzeugführerinnen und Flugzeugführer und verwandte Berufe
+D18_ISCO_lev3	321	321 Medizinische und pharmazeutische Fachberufe
+D18_ISCO_lev3	322	322 Nicht akademische Krankenpflege- und Geburtshilfefachkräfte
+D18_ISCO_lev3	323	323 Nicht akademische Fachkräfte in traditioneller und komplementärer Medizin
+D18_ISCO_lev3	324	324 Veterinärmedizinische Fachkräfte und Assistentinnen und Assistenten
+D18_ISCO_lev3	325	325 Sonstige Assistenzberufe im Gesundheitswesen
+D18_ISCO_lev3	330	330 Nicht akademische betriebswirtschaftliche und kaufmännische Fachkräfte und Verwaltungsfachkräfte, onA
+D18_ISCO_lev3	331	331 Nicht akademische Fachkräfte im Bereich Finanzen und mathematische Verfahren
+D18_ISCO_lev3	332	332 Vertriebsagentinnen und Vertriebsagenten, Einkäuferinnen und Einkäufer und Handelsmaklerinnen und Handelsmakler
+D18_ISCO_lev3	333	333 Fachkräfte für unternehmensbezogene Dienstleistungen
+D18_ISCO_lev3	334	334 Sekretariatsfachkräfte
+D18_ISCO_lev3	335	335 Fachkräfte in der öffentlichen Verwaltung
+D18_ISCO_lev3	341	341 Nicht akademische, juristische, sozialpflegerische und religiöse Berufe
+D18_ISCO_lev3	342	342 Fachkräfte im Bereich Sport und Fitness
+D18_ISCO_lev3	343	343 Fachkräfte in Gestaltung und Kultur sowie Küchenchefinnen und Küchenchefs
+D18_ISCO_lev3	351	351 Technikerinnen und Techniker für den Betrieb von Informations- und Kommunikationstechnologie und für die Anwenderb
+D18_ISCO_lev3	352	352 Telekommunikations- und Rundfunktechnikerinnen und -techniker
+D18_ISCO_lev3	411	411 Allgemeine Bürokräfte
+D18_ISCO_lev3	412	412 Sekretariatskräfte (allgemein)
+D18_ISCO_lev3	413	413 Schreibkräfte und Datenerfasserinnen und Datenerfasser
+D18_ISCO_lev3	421	421 Schalterbedienstete, Inkassobeauftragte und verwandte Berufe
+D18_ISCO_lev3	422	422 Berufe im Bereich Kundeninformation
+D18_ISCO_lev3	430	430 Bürokräfte im Finanz- und Rechnungswesen, in der Statistik und in der Materialwirtschaft, onA
+D18_ISCO_lev3	431	431 Bürokräfte im Finanz- und Rechnungswesen und in der Statistik
+D18_ISCO_lev3	432	432 Bürokräfte im Bereich Materialwirtschaft und Transport und verwandte Berufe
+D18_ISCO_lev3	441	441 Sonstige Bürokräfte und verwandte Berufe
+D18_ISCO_lev3	500	500 Dienstleistungsberufe und Verkäuferinnen und Verkäufer, onA
+D18_ISCO_lev3	510	510 Berufe im Bereich personenbezogener Dienstleistungen, onA
+D18_ISCO_lev3	511	511 Reisebegleiterinnen und Reisebegleiter, Schaffnerinnen und Schaffner und Reiseleiterinnen und Reiseleiter
+D18_ISCO_lev3	512	512 Köchinnen und Köche
+D18_ISCO_lev3	513	513 Kellnerinnen und Kellner und Barkeeperinnen und Barkeeper
+D18_ISCO_lev3	514	514 Friseurinnen und Friseure, Kosmetikerinnen und Kosmetiker und verwandte Berufe
+D18_ISCO_lev3	515	515 Hauswartinnen und Hauswarte und Hauswirtschaftsleiterinnen und Hauswirtschaftsleiter
+D18_ISCO_lev3	516	516 Sonstige Berufe im Bereich personenbezogener Dienstleistungen
+D18_ISCO_lev3	521	521 Straßen- und Marktverkäuferinnen und -verkäufer
+D18_ISCO_lev3	522	522 Verkaufskräfte in Handelsgeschäften
+D18_ISCO_lev3	523	523 Kassierinnen und Kassierer und Kartenverkäuferinnen und Kartenverkäufer
+D18_ISCO_lev3	524	524 Sonstige Verkaufskräfte
+D18_ISCO_lev3	530	530 Betreuungsberufe, onA
+D18_ISCO_lev3	531	531 Kinder- und Lernbetreuerinnen und -betreuer
+D18_ISCO_lev3	532	532 Betreuungsberufe im Gesundheitswesen
+D18_ISCO_lev3	541	541 Schutzkräfte und Sicherheitsbedienstete
+D18_ISCO_lev3	610	610 Fachkräfte in der Landwirtschaft, onA
+D18_ISCO_lev3	611	611 Gärtnerinnen und Gärtner und Ackerbäuerinnen und Ackerbauern
+D18_ISCO_lev3	612	612 Tierhalterinnen und Tierhalter
+D18_ISCO_lev3	613	613 Landwirtinnen und Landwirte mit Ackerbau und Tierhaltung (ohne ausgeprägten Schwerpunkt)
+D18_ISCO_lev3	621	621 Forstarbeitskräfte und verwandte Berufe
+D18_ISCO_lev3	622	622 Fischerinnen und Fischer, Jägerinnen und Jäger und Fallenstellerinnen und Fallensteller
+D18_ISCO_lev3	631	631 Ackerbäuerinnen und Ackerbauern für den Eigenbedarf
+D18_ISCO_lev3	632	632 Nutztierhalterinnen und Nutztierhalter für den Eigenbedarf
+D18_ISCO_lev3	633	633 Ackerbäuerinnen und Ackerbauern und Nutztierhalterinnen und Nutztierhalter (ohne ausgeprägten Schwerpunkt) für de
+D18_ISCO_lev3	634	634 Fischerinnen und Fischer, Jägerinnen und Jäger, Fallenstellerinnen und Fallensteller und Sammlerinnen und Sammler
+D18_ISCO_lev3	700	700 Handwerks- und verwandte Berufe, onA
+D18_ISCO_lev3	710	710 Bau- und Ausbaufachkräfte sowie verwandte Berufe, ausgenommen Elektriker, onA
+D18_ISCO_lev3	711	711 Baukonstruktions- und verwandte Berufe
+D18_ISCO_lev3	712	712 Ausbaufachkräfte und verwandte Berufe
+D18_ISCO_lev3	713	713 Malerinnen und Maler, Gebäudereinigerinnen und Gebäudereiniger und verwandte Berufe
+D18_ISCO_lev3	720	720 Metallarbeiterinnen und Metallarbeiter, Mechanikerinnen und Mechaniker und verwandte Berufe, onA
+D18_ISCO_lev3	721	721 Blechkaltverformerinnen und Blechkaltverformer, Baumetallverformerinnen und Baumetallverformer, Formerinnen und Form
+D18_ISCO_lev3	722	722 Grobschmiedinnen und Grobschmiede, Werkzeugmechanikerinnen und Werkzeugmechaniker und verwandte Berufe
+D18_ISCO_lev3	723	723 Maschinenmechanikerinnen und Maschinenmechaniker und -schlosserinnen und -schlosser
+D18_ISCO_lev3	731	731 Präzisionshandwerkerinnen und Präzisionshandwerker und kunsthandwerkliche Berufe
+D18_ISCO_lev3	732	732 Druckhandwerkerinnen und Druckhandwerker
+D18_ISCO_lev3	741	741 Elektroinstallateurinnen und Elektroinstallateure und -mechanikerinnen und -mechaniker
+D18_ISCO_lev3	742	742 Installateurinnen und Installateure und Mechanikerinnen und Mechaniker für Elektronik und Telekommunikationstechnik
+D18_ISCO_lev3	751	751 Berufe in der Nahrungsmittelverarbeitung und verwandte handwerkliche Fachkräfte
+D18_ISCO_lev3	752	752 Holzbearbeiterinnen und Holzbearbeiter, Möbeltischlerinnen und Möbeltischler und verwandte Berufe
+D18_ISCO_lev3	753	753 Berufe der Bekleidungsherstellung und verwandte Berufe
+D18_ISCO_lev3	754	754 Sonstige Handwerks- und verwandte Berufe
+D18_ISCO_lev3	811	811 Bedienerinnen und Bediener von Anlagen für den Bergbau und die Mineralaufbereitung
+D18_ISCO_lev3	812	812 Bedienerinnen und Bediener von Anlagen in der Metallerzeugung, -umformung und -veredlung
+D18_ISCO_lev3	813	813 Bedienerinnen und Bediener von Anlagen und Maschinen für chemische und fotografische Erzeugnisse
+D18_ISCO_lev3	814	814 Bedienerinnen und Bediener von Maschinen zur Herstellung von Gummi-, Kunststoff- und Papierwaren
+D18_ISCO_lev3	815	815 Bedienerinnen und Bediener von Maschinen zur Herstellung von Textil-, Pelz- und Lederwaren
+D18_ISCO_lev3	816	816 Bedienerinnen und Bediener von Maschinen zur Herstellung von Nahrungs- und Genussmitteln
+D18_ISCO_lev3	817	817 Bedienerinnen und Bediener von Anlagen zur Holzaufbereitung und Papierherstellung
+D18_ISCO_lev3	818	818 Bedienerinnen und Bediener sonstiger stationärer Anlagen und Maschinen
+D18_ISCO_lev3	821	821 Montageberufe
+D18_ISCO_lev3	830	830 Fahrzeugführerinnen und -führer und Bedienerinnen und Bediener mobiler Anlagen, onA
+D18_ISCO_lev3	831	831 Lokomotivführerinnen und Lokomotivführer und verwandte Berufe
+D18_ISCO_lev3	832	832 Kraftfahrzeugführerinnen und Kraftfahrzeugführer
+D18_ISCO_lev3	833	833 Fahrerinnen und Fahrer schwerer Lastkraftwagen und Busse
+D18_ISCO_lev3	834	834 Bedienerinnen und Bediener mobiler Anlagen
+D18_ISCO_lev3	835	835 Deckspersonal auf Schiffen und verwandte Berufe
+D18_ISCO_lev3	911	911 Reinigungspersonal und Hilfskräfte in Privathaushalten, Hotels und Büros
+D18_ISCO_lev3	912	912 Reinigungspersonal für Fahrzeuge, Fenster, Wäsche und sonstige manuelle Reinigungsberufe
+D18_ISCO_lev3	921	921 Hilfsarbeiterinnen und Hilfsarbeiter in der Land- und Forstwirtschaft und Fischerei
+D18_ISCO_lev3	931	931 Hilfsarbeiterinnen und Hilfsarbeiter im Bergbau und im Bau
+D18_ISCO_lev3	932	932 Hilfsarbeiterinnen und Hilfsarbeiter bei der Herstellung von Waren
+D18_ISCO_lev3	933	933 Hilfsarbeiterinnen und Hilfsarbeiter in Transport und Lagerei
+D18_ISCO_lev3	941	941 Hilfskräfte in der Nahrungsmittelzubereitung
+D18_ISCO_lev3	951	951 Auf der Straße arbeitende Dienstleistungskräfte und verwandte Berufe
+D18_ISCO_lev3	952	952 Straßenverkäuferinnen und Straßenverkäufer (ohne Lebensmittel)
+D18_ISCO_lev3	961	961 Abfallentsorgungsarbeiterinnen und Abfallentsorgungsarbeiter
+D18_ISCO_lev3	962	962 Sonstige Hilfsarbeitskräfte
+D19	Variable Label	Partner(in): Berufliche Stellung
+D19	-5	[Missing / kein(e) Parnter(in) oder nie berufstätig]
+D19	1	unselbständig beschäftigt (Angestellte, Arbeiter)
+D19	2	selbständig ohne Angestellte
+D19	3	selbständig mit Angestellten
+D19	4	mithelfendes Familienmitglied
+D19	8	[Weiß nicht]
+D19	9	[Keine Angabe]
+D2	Variable Label	Alter
+D2	8	[Keine Angabe]
+D2_kat	Variable Label	Alter kategorisiert
+D2_kat	1	18-29 Jahre
+D2_kat	2	30-44 Jahre
+D2_kat	3	45-59 Jahre
+D2_kat	4	60-74 Jahre
+D2_kat	5	75-95 Jahre
+D2_kat	8	[Keine Angabe]
+D20	Variable Label	Partner(in): Aufgabe andere Mitarbeiter anleiten
+D20	-5	[Missing / kein(e) Parnter(in) oder nie berufstätig]
+D20	1	Ja
+D20	2	Nein
+D20	8	[Weiß nicht]
+D20	9	[Keine Angabe]
+D21	Variable Label	Mitglied ö. Gewerkschaftsbund
+D21	1	Ja, derzeit
+D21	2	Nein, aber früher einmal
+D21	3	Nein, nie
+D21	8	[Keine Angabe]
+D22	Variable Label	Nationalratswahlen 15.Oktober 2017 teilgenommen
+D22	1	ja
+D22	2	nein
+D22	3	nein, war nicht wahlberechtigt
+D22	9	[Keine Angabe]
+D23	Variable Label	Wen gewählt
+D23	-5	[Missing / nicht gewählt oder nicht berechtigt]
+D23	1	SPÖ
+D23	2	ÖVP
+D23	3	FPÖ
+D23	4	Grüne
+D23	5	Neos
+D23	6	Liste Pilz
+D23	7	GILT
+D23	8	KPÖ
+D23	9	Weisse
+D23	10	Eine andere Partei
+D23	99	[keine Angabe]
+D24	Variable Label	Personen im Haushalt
+D24	1	Eine Person (nur Befragte / r)
+D24	2	2 Personen
+D24	3	3 Personen
+D24	4	4 Personen
+D24	5	5 Personen
+D24	6	6 Personen
+D24	7	7 Personen
+D24	8	8 oder mehr Personen
+D24	9	[Keine Angabe]
+D25_1	Variable Label	davon Erwachsene (18+)
+D25_1	-5	[Missing / lebt alleine]
+D25_1	0	0
+D25_1	1	1
+D25_1	2	2
+D25_1	3	3
+D25_1	4	4
+D25_1	5	5
+D25_1	6	6
+D25_1	7	7
+D25_1	8	8
+D25_1	9	9
+D25_2	Variable Label	davon Kinder (14-17 Jahre)
+D25_2	-5	[Missing / lebt alleine]
+D25_2	0	0
+D25_2	1	1
+D25_2	2	2
+D25_2	3	3
+D25_2	4	4
+D25_2	5	5
+D25_2	6	6
+D25_2	7	7
+D25_2	8	8
+D25_2	9	9
+D25_3	Variable Label	davon Kinder (6-13 Jahre)
+D25_3	-5	[Missing / lebt alleine]
+D25_3	0	0
+D25_3	1	1
+D25_3	2	2
+D25_3	3	3
+D25_3	4	4
+D25_3	5	5
+D25_3	6	6
+D25_3	7	7
+D25_3	8	8
+D25_3	9	9
+D25_4	Variable Label	davon Kinder (3-5 Jahre)
+D25_4	-5	[Missing / lebt alleine]
+D25_4	0	0
+D25_4	1	1
+D25_4	2	2
+D25_4	3	3
+D25_4	4	4
+D25_4	5	5
+D25_4	6	6
+D25_4	7	7
+D25_4	8	8
+D25_4	9	9
+D25_5	Variable Label	davon Kinder (0-2 Jahre)
+D25_5	-5	[Missing / lebt alleine]
+D25_5	0	0
+D25_5	1	1
+D25_5	2	2
+D25_5	3	3
+D25_5	4	4
+D25_5	5	5
+D25_5	6	6
+D25_5	7	7
+D25_5	8	8
+D25_5	9	9
+D26_recod	Variable Label	Anzahl Kinder die nicht im Haushalt leben
+D26_recod	0	keine Kinder
+D26_recod	1	1 Kind
+D26_recod	2	2 Kinder
+D26_recod	3	3 Kinder
+D26_recod	4	4 Kinder
+D26_recod	5	5 oder mehr Kinder
+D26_recod	9	[Keine Angabe]
+D27	Variable Label	Persönliches Nettoeinkommen €
+D27	-9	[Missing / Keine Angabe]
+D27_kat	Variable Label	Nettoeinkommen €, in Quintilen
+D27_kat	-9	[Missing / Keine Angabe]
+D27_kat	1	0 - 1000
+D27_kat	2	1001 - 1400
+D27_kat	3	1401 - 1700
+D27_kat	4	1701 - 2000
+D27_kat	5	2001 oder höher
+D28	Variable Label	Haushaltseinkommen €
+D28	-9	[Missing / Keine Angabe]
+D28_kat	Variable Label	Haushaltseinkommen €, in Quintilen
+D28_kat	-9	[Missing / Keine Angabe]
+D28_kat	1	0 - 1450
+D28_kat	2	1451 - 2000
+D28_kat	3	2001 - 2850
+D28_kat	4	2851 - 3680
+D28_kat	5	3681 oder mehr
+D29	Variable Label	Geburtsort
+D29	1	In Österreich
+D29	2	In Deutschland
+D29	3	In der Türkei
+D29	4	In Slowenien
+D29	5	In Serbien
+D29	6	In Kroatien
+D29	7	In Bosnien-Herzegowina
+D29	8	In Mazedonien
+D29	9	In einem anderen Land (Notieren)
+D29	98	[Weiß nicht]
+D29	99	[Keine Angabe]
+D29_opn	Variable Label	Geburtsort - anderes Land
+D3	Variable Label	Bildung
+D3	1	Keinen Pflichtschulabschluss
+D3	2	Pflichtschule
+D3	3	Lehre
+D3	4	Berufsbildende mittlere Schule (z.B. Handelsschule)
+D3	5	Allgemeinbildende höhere Schule
+D3	6	Berufsbildende höhere Schule
+D3	7	Bachelor
+D3	8	Diplom / Master
+D3	9	Doktorat
+D3	98	[Weiß nicht}
+D3	99	[Keine Antwort]
+D3_Original	Variable Label	Bildung - Originalkategorien
+D3_Original	1	Keinen Pflichtschulabschluss
+D3_Original	2	Pflichtschule
+D3_Original	3	Lehre
+D3_Original	4	Berufsbildende mittlere Schule (z.B. Handelsschule)
+D3_Original	5	Allgemeinbildende höhere Schule (AHS)
+D3_Original	6	Berufsbildende höhere Schule (BHS, z.B. HAK, HTL)
+D3_Original	7	Bachelor an Fachhochschule  / Pädagogische Hochschule
+D3_Original	8	Bachelor an Universität
+D3_Original	9	Diplomabschluss / Master an Fachhochschule
+D3_Original	10	Diplomabschluss / Master an Universität
+D3_Original	11	Postgradualen Universitätslehrgang (aufbauend auf Master- oder / Diplomabschluss, z.B. MBA)
+D3_Original	12	Doktorat
+D3_Original	98	[Weiß nicht]
+D3_Original	99	[Keine Antwort]
+D30	Variable Label	Geburtsort Vater
+D30	1	In Österreich
+D30	2	In Deutschland
+D30	3	In der Türkei
+D30	4	In Slowenien
+D30	5	In Serbien
+D30	6	In Kroatien
+D30	7	In Bosnien-Herzegowina
+D30	8	In Mazedonien
+D30	9	In einem anderen Land (Notieren)
+D30	98	[Weiß nicht]
+D30	99	[Keine Angabe]
+D30_opn	Variable Label	Geburtsort Vater - anderes Land
+D31	Variable Label	Geburtsort Mutter
+D31	1	In Österreich
+D31	2	In Deutschland
+D31	3	In der Türkei
+D31	4	In Slowenien
+D31	5	In Serbien
+D31	6	In Kroatien
+D31	7	In Bosnien-Herzegowina
+D31	8	In Mazedonien
+D31	9	In einem anderen Land (Notieren)
+D31	98	[Weiß nicht]
+D31	99	[Keine Angabe]
+D31_opn	Variable Label	Geburtsort Mutter - anderes Land
+D4	Variable Label	Beschäftigung
+D4	1	beschäftigt bzw. berufstätig (auch mithelfende Familienangehörige)
+D4	2	Lehrling oder Praktikant / in
+D4	3	Arbeitslos oder arbeitssuchend
+D4	4	in Karenz
+D4	5	Zivildienst, Wehrdienst
+D4	6	Pensionist / in, Rentner / in
+D4	7	Hausfrau / Hausmann
+D4	8	Schüler / in, Student / in
+D4	9	arbeitsunfähig, in Invaliditätspension
+D4	10	aus anderen Gründen nicht  erwerbstätig
+D4	99	[Keine Angabe]
+D5	Variable Label	Arbeitsstunden pro Woche
+D5	0	Nicht berufstätig
+D5	98	[Weiß nicht]
+D5	99	[Keine Angabe]
+D6	Variable Label	Früher berufstätig
+D6	-5	[Missing / arbeitet momentan]
+D6	1	Ja
+D6	2	Nein
+D6	9	[Keine Angabe]
+D7	Variable Label	Wo beschäftigt
+D7	-5	[Missing / nie gearbeitet]
+D7	1	Im öffentlichen Dienst
+D7	2	In der Privatwirtschaft
+D7	3	[Keine Angabe]
+D8_ISCO_lev1	Variable Label	Berufl. Tätigkeit (ISCO-08 Code, Ebene 1)
+D8_ISCO_lev1	-99	-99 [Keine Angabe, nur bei Antwortverweigerung]
+D8_ISCO_lev1	-98	-98 [Weiß nicht, nicht zuordenbar]
+D8_ISCO_lev1	-5	-5 [Missing / nie gearbeitet]
+D8_ISCO_lev1	0	0 Angehörige der regulären Streitkräfte
+D8_ISCO_lev1	1	1 Führungskräfte
+D8_ISCO_lev1	2	2 Akademische Berufe
+D8_ISCO_lev1	3	3 Technikerinnen und Techniker und gleichrangige nichttechnische Berufe
+D8_ISCO_lev1	4	4 Bürokräfte und verwandte Berufe
+D8_ISCO_lev1	5	5 Dienstleistungsberufe und Verkäuferinnen und Verkäufer
+D8_ISCO_lev1	6	6 Fachkräfte in Land- und Forstwirtschaft und Fischerei
+D8_ISCO_lev1	7	7 Handwerks- und verwandte Berufe
+D8_ISCO_lev1	8	8 Bedienerinnen und Bediener von Anlagen und Maschinen und Montageberufe
+D8_ISCO_lev1	9	9 Hilfsarbeitskräfte
+D8_ISCO_lev2	Variable Label	Berufl. Tätigkeit (ISCO-08 Code, Ebene 2)
+D8_ISCO_lev2	-99	-99 [Keine Angabe, nur bei Antwortverweigerung]
+D8_ISCO_lev2	-98	-98 [Weiß nicht, nicht zuordenbar]
+D8_ISCO_lev2	-5	-5 [Missing / nie gearbeitet]
+D8_ISCO_lev2	1	01 Offiziere in regulären Streitkräften
+D8_ISCO_lev2	2	02 Unteroffiziere in regulären Streitkräften
+D8_ISCO_lev2	3	03 Angehörige der regulären Streitkräfte in sonstigen Rängen
+D8_ISCO_lev2	11	11 Geschäftsführerinnen und Geschäftsführer, Vorstände, leitende Verwaltungsbedienstete und Angehörige gesetzgeben
+D8_ISCO_lev2	12	12 Führungskräfte im kaufmännischen Bereich
+D8_ISCO_lev2	13	13 Führungskräfte in der Produktion und bei speziellen Dienstleistungen
+D8_ISCO_lev2	14	14 Führungskräfte in Hotels und Restaurants, im Handel und in der Erbringung sonstiger Dienstleistungen
+D8_ISCO_lev2	20	20 Akademische Berufe, onA
+D8_ISCO_lev2	21	21 Naturwissenschaftler und Naturwissenschaftlerinnen, Mathematikerinnen und Mathematiker, Ingenieurinnen und Ingenieure
+D8_ISCO_lev2	22	22 Akademische und verwandte Gesundheitsberufe
+D8_ISCO_lev2	23	23 Lehrkräfte
+D8_ISCO_lev2	24	24 Betriebswirtinnen und Betriebswirte und vergleichbare akademische Berufe
+D8_ISCO_lev2	25	25 Akademische und vergleichbare Fachkräfte in der Informations- und Kommunikationstechnologie
+D8_ISCO_lev2	26	26 Juristinnen und Juristen, Sozialwissenschaftlerinnen und Sozialwissenschaftler und Kulturberufe
+D8_ISCO_lev2	30	30 Technikerinnen und Techniker  und gleichrangige nichttechnische Berufe, onA
+D8_ISCO_lev2	31	31 Ingenieurtechnische und vergleichbare Fachkräfte
+D8_ISCO_lev2	32	32 Assistenzberufe im Gesundheitswesen
+D8_ISCO_lev2	33	33 Nicht akademische betriebswirtschaftliche und kaufmännische Fachkräfte und Verwaltungsfachkräfte
+D8_ISCO_lev2	34	34 Nicht akademische juristische, sozialpflegerische, kulturelle und verwandte Fachkräfte
+D8_ISCO_lev2	35	35 Informations- und Kommunikationstechnikerinnen und -techniker
+D8_ISCO_lev2	41	41 Allgemeine Büro- und Sekretariatskräfte
+D8_ISCO_lev2	42	42 Bürokräfte mit Kundenkontakt
+D8_ISCO_lev2	43	43 Bürokräfte im Finanz- und Rechnungswesen, in der Statistik und in der Materialwirtschaft
+D8_ISCO_lev2	44	44 Sonstige Bürokräfte und verwandte Berufe
+D8_ISCO_lev2	50	50 Dienstleistungsberufe und Verkäuferinnen und Verkäufer, onA
+D8_ISCO_lev2	51	51 Berufe im Bereich personenbezogener Dienstleistungen
+D8_ISCO_lev2	52	52 Verkaufskräfte
+D8_ISCO_lev2	53	53 Betreuungsberufe
+D8_ISCO_lev2	54	54 Schutzkräfte und Sicherheitsbedienstete
+D8_ISCO_lev2	61	61 Fachkräfte in der Landwirtschaft
+D8_ISCO_lev2	62	62 Fachkräfte in Forstwirtschaft, Fischerei und Jagd - Marktproduktion
+D8_ISCO_lev2	63	63 Landwirtinnen und Landwirte, Fischerinnen und Fischer, Jägerinnen und Jäger und Sammlerinnen und Sammler für den E
+D8_ISCO_lev2	70	70 Handwerks- und verwandte Berufe, onA
+D8_ISCO_lev2	71	71 Bau- und Ausbaufachkräfte sowie verwandte Berufe, ausgenommen Elektrikerinnen und Elektriker
+D8_ISCO_lev2	72	72 Metallarbeiterinnen und Metallarbeiter, Mechanikerinnen und Mechaniker und verwandte Berufe
+D8_ISCO_lev2	73	73 Präzisionshandwerkerinnen und Präzisionshandwerker, Druckerinnen und Drucker und kunsthandwerkliche Berufe
+D8_ISCO_lev2	74	74 Elektrikerinnen und Elektriker und Elektronikerinnen und Elektroniker
+D8_ISCO_lev2	75	75 Berufe in der Nahrungsmittelverarbeitung, Holzverarbeitung und Bekleidungsherstellung und verwandte handwerkliche Fac
+D8_ISCO_lev2	81	81 Bedienerinnen und Bediener stationärer Anlagen und Maschinen
+D8_ISCO_lev2	82	82 Montageberufe
+D8_ISCO_lev2	83	83 Fahrzeugführerinnen und Fahrzeugführer und Bedienerinnen und Bediener mobiler Anlagen
+D8_ISCO_lev2	91	91 Reinigungspersonal und Hilfskräfte
+D8_ISCO_lev2	92	92 Hilfsarbeiterinnen und Hilfsarbeiter in der Land- und Forstwirtschaft und Fischerei
+D8_ISCO_lev2	93	93 Hilfsarbeiterinnen und Hilfsarbeiter im Bergbau, im Bau, bei der Herstellung von Waren und im Transportwesen
+D8_ISCO_lev2	94	94 Hilfskräfte in der Nahrungsmittelzubereitung
+D8_ISCO_lev2	95	95 Straßenhändlerinnen und Straßenhändler und auf der Straße arbeitende Dienstleistungskräfte
+D8_ISCO_lev2	96	96 Abfallentsorgungsarbeiterinnen und Abfallentsorgungsarbeiter und sonstige Hilfsarbeitskräfte
+D8_ISCO_lev3	Variable Label	Berufl. Tätigkeit (ISCO-08 Code, Ebene 3)
+D8_ISCO_lev3	-99	-99 [Keine Angabe, nur bei Antwortverweigerung]
+D8_ISCO_lev3	-98	-98 [Weiß nicht, nicht zuordenbar]
+D8_ISCO_lev3	-5	-5 [Missing / nie gearbeitet]
+D8_ISCO_lev3	11	011 Offiziere in regulären Streitkräften
+D8_ISCO_lev3	21	021 Unteroffiziere in regulären Streitkräften
+D8_ISCO_lev3	111	111 Angehörige gesetzgebender Körperschaften und leitende Verwaltungsbedienstete
+D8_ISCO_lev3	112	112 Geschäftsführerinnen und Geschäftsführer und Vorstände
+D8_ISCO_lev3	121	121 Führungskräfte in der betrieblichen Verwaltung und in unternehmensbezogenen Dienstleistungen
+D8_ISCO_lev3	122	122 Führungskräfte in Vertrieb, Marketing und Entwicklung
+D8_ISCO_lev3	131	131 Führungskräfte in der Produktion in Land- und Forstwirtschaft und Fischerei
+D8_ISCO_lev3	132	132 Führungskräfte in der Produktion bei der Herstellung von Waren, im Bergbau und im Bau sowie in der Logistik
+D8_ISCO_lev3	133	133 Führungskräfte in der Erbringung von Dienstleistungen im Bereich Informations- und Kommunikationstechnologie
+D8_ISCO_lev3	134	134 Führungskräfte in der Erbringung von speziellen Dienstleistungen
+D8_ISCO_lev3	141	141 Führungskräfte in Hotels und Restaurants
+D8_ISCO_lev3	142	142 Führungskräfte in Groß und Einzelhandel
+D8_ISCO_lev3	143	143 Führungskräfte in der Erbringung sonstiger Dienstleistungen
+D8_ISCO_lev3	200	200 Akademische Berufe, onA
+D8_ISCO_lev3	211	211 Physikerinnen und Physiker, Chemikerinnen und Chemiker, Geologinnen und Geologen und verwandte Berufe
+D8_ISCO_lev3	212	212 Mathematikerinnen und Mathematiker, Versicherungsmathematikerinnen und Versicherungsmathematiker und Statistikerinne
+D8_ISCO_lev3	213	213 Biowissenschaftlerinnen und Biowissenschaftler
+D8_ISCO_lev3	214	214 Ingenieurwissenschaftlerinnen und Ingenieurwissenschaftler (ohne Elektrotechnik, Elektronik und Telekommunikation)
+D8_ISCO_lev3	215	215 Ingenieurinnen und Ingenieure in den Bereichen Elektrotechnik, Elektronik und Telekommunikationstechnik
+D8_ISCO_lev3	216	216 Architektinnen und Architekten, Raum-, Stadt- und Verkehrsplanerinnen und -planer, Vermessungsingenieurinnen und Ver
+D8_ISCO_lev3	221	221 Ärztinnen und Ärzte
+D8_ISCO_lev3	222	222 Akademische und vergleichbare Krankenpflege- und Geburtshilfefachkräfte
+D8_ISCO_lev3	223	223 Akademische und vergleichbare Fachkräfte in der traditionellen und komplementären Medizin
+D8_ISCO_lev3	224	224 Feldscherinnen und Feldscher und vergleichbare paramedizinische Praktikerinnen und Praktiker
+D8_ISCO_lev3	225	225 Tierärztinnen und Tierärzte
+D8_ISCO_lev3	226	226 Sonstige akademische und verwandte Gesundheitsberufe
+D8_ISCO_lev3	230	230 Lehrkräfte, onA
+D8_ISCO_lev3	231	231 Universitäts- und Hochschullehrerinnen und -lehrer
+D8_ISCO_lev3	232	232 Lehrkräfte im Bereich Berufsbildung
+D8_ISCO_lev3	233	233 Lehrkräfte im Sekundarbereich
+D8_ISCO_lev3	234	234 Lehrkräfte im Primar- und Vorschulbereich
+D8_ISCO_lev3	235	235 Sonstige Lehrkräfte
+D8_ISCO_lev3	241	241 Akademische und vergleichbare Fachkräfte im Bereich Finanzen
+D8_ISCO_lev3	242	242 Akademische und vergleichbare Fachkräfte in der betrieblichen Verwaltung
+D8_ISCO_lev3	243	243 Akademische und vergleichbare Fachkräfte in Vertrieb, Marketing und Öffentlichkeitsarbeit
+D8_ISCO_lev3	251	251 Entwicklerinnen und Entwickler und Analytikerinnen und Analytiker von Software und Anwendungen
+D8_ISCO_lev3	252	252 Akademische und vergleichbare Fachkräfte für Datenbanken und Netzwerke
+D8_ISCO_lev3	261	261 Juristinnen und Juristen
+D8_ISCO_lev3	262	262 Archiv-, Bibliotheks- und Museumswissenschaftlerinnen und -wissenschaftler
+D8_ISCO_lev3	263	263 Sozialwissenschaftlerinnen und Sozialwissenschaftler, Geistliche und Seelsorgerinnen und Seelsorger
+D8_ISCO_lev3	264	264 Autorinnen und Autoren, Journalistinnen und Journalisten und Linguistinnen und Linguisten
+D8_ISCO_lev3	265	265 Bildende und darstellende Künstlerinnen und Künstler
+D8_ISCO_lev3	300	300 Technikerinnen und Techniker  und gleichrangige nichttechnische Berufe, onA
+D8_ISCO_lev3	310	310 Ingenieurtechnische und vergleichbare Fachkräfte, onA
+D8_ISCO_lev3	311	311 Material- und ingenieurtechnische Fachkräfte
+D8_ISCO_lev3	312	312 Produktionsleiterinnen und Produktionsleiter im Bergbau, bei der Herstellung von Waren und im Bau
+D8_ISCO_lev3	313	313 Technikerinnen und Techniker in der Prozesssteuerung
+D8_ISCO_lev3	314	314 Biotechnikerinnen und Biotechniker und verwandte technische Berufe
+D8_ISCO_lev3	315	315 Schiffsführerinnen und Schiffsführer, Flugzeugführerinnen und Flugzeugführer und verwandte Berufe
+D8_ISCO_lev3	321	321 Medizinische und pharmazeutische Fachberufe
+D8_ISCO_lev3	322	322 Nicht akademische Krankenpflege- und Geburtshilfefachkräfte
+D8_ISCO_lev3	323	323 Nicht akademische Fachkräfte in traditioneller und komplementärer Medizin
+D8_ISCO_lev3	324	324 Veterinärmedizinische Fachkräfte und Assistentinnen und Assistenten
+D8_ISCO_lev3	325	325 Sonstige Assistenzberufe im Gesundheitswesen
+D8_ISCO_lev3	330	330 Nicht akademische betriebswirtschaftliche und kaufmännische Fachkräfte und Verwaltungsfachkräfte, onA
+D8_ISCO_lev3	331	331 Nicht akademische Fachkräfte im Bereich Finanzen und mathematische Verfahren
+D8_ISCO_lev3	332	332 Vertriebsagentinnen und Vertriebsagenten, Einkäuferinnen und Einkäufer und Handelsmaklerinnen und Handelsmakler
+D8_ISCO_lev3	333	333 Fachkräfte für unternehmensbezogene Dienstleistungen
+D8_ISCO_lev3	334	334 Sekretariatsfachkräfte
+D8_ISCO_lev3	335	335 Fachkräfte in der öffentlichen Verwaltung
+D8_ISCO_lev3	341	341 Nicht akademische, juristische, sozialpflegerische und religiöse Berufe
+D8_ISCO_lev3	342	342 Fachkräfte im Bereich Sport und Fitness
+D8_ISCO_lev3	343	343 Fachkräfte in Gestaltung und Kultur sowie Küchenchefinnen und Küchenchefs
+D8_ISCO_lev3	351	351 Technikerinnen und Techniker für den Betrieb von Informations- und Kommunikationstechnologie und für die Anwender
+D8_ISCO_lev3	352	352 Telekommunikations- und Rundfunktechnikerinnen und -techniker
+D8_ISCO_lev3	411	411 Allgemeine Bürokräfte
+D8_ISCO_lev3	412	412 Sekretariatskräfte (allgemein)
+D8_ISCO_lev3	413	413 Schreibkräfte und Datenerfasserinnen und Datenerfasser
+D8_ISCO_lev3	421	421 Schalterbedienstete, Inkassobeauftragte und verwandte Berufe
+D8_ISCO_lev3	422	422 Berufe im Bereich Kundeninformation
+D8_ISCO_lev3	430	430 Bürokräfte im Finanz- und Rechnungswesen, in der Statistik und in der Materialwirtschaft, onA
+D8_ISCO_lev3	431	431 Bürokräfte im Finanz- und Rechnungswesen und in der Statistik
+D8_ISCO_lev3	432	432 Bürokräfte im Bereich Materialwirtschaft und Transport und verwandte Berufe
+D8_ISCO_lev3	441	441 Sonstige Bürokräfte und verwandte Berufe
+D8_ISCO_lev3	500	500 Dienstleistungsberufe und Verkäuferinnen und Verkäufer, onA
+D8_ISCO_lev3	510	510 Berufe im Bereich personenbezogener Dienstleistungen, onA
+D8_ISCO_lev3	511	511 Reisebegleiterinnen und Reisebegleiter, Schaffnerinnen und Schaffner und Reiseleiterinnen und Reiseleiter
+D8_ISCO_lev3	512	512 Köchinnen und Köche
+D8_ISCO_lev3	513	513 Kellnerinnen und Kellner und Barkeeperinnen und Barkeeper
+D8_ISCO_lev3	514	514 Friseurinnen und Friseure, Kosmetikerinnen und Kosmetiker und verwandte Berufe
+D8_ISCO_lev3	515	515 Hauswartinnen und Hauswarte und Hauswirtschaftsleiterinnen und Hauswirtschaftsleiter
+D8_ISCO_lev3	516	516 Sonstige Berufe im Bereich personenbezogener Dienstleistungen
+D8_ISCO_lev3	521	521 Straßen- und Marktverkäuferinnen und -verkäufer
+D8_ISCO_lev3	522	522 Verkaufskräfte in Handelsgeschäften
+D8_ISCO_lev3	523	523 Kassierinnen und Kassierer und Kartenverkäuferinnen und Kartenverkäufer
+D8_ISCO_lev3	524	524 Sonstige Verkaufskräfte
+D8_ISCO_lev3	530	530 Betreuungsberufe, onA
+D8_ISCO_lev3	531	531 Kinder- und Lernbetreuerinnen und -betreuer
+D8_ISCO_lev3	532	532 Betreuungsberufe im Gesundheitswesen
+D8_ISCO_lev3	541	541 Schutzkräfte und Sicherheitsbedienstete
+D8_ISCO_lev3	611	611 Gärtnerinnen und Gärtner und Ackerbäuerinnen und Ackerbauern
+D8_ISCO_lev3	612	612 Tierhalterinnen und Tierhalter
+D8_ISCO_lev3	613	613 Landwirtinnen und Landwirte mit Ackerbau und Tierhaltung (ohne ausgeprägten Schwerpunkt)
+D8_ISCO_lev3	621	621 Forstarbeitskräfte und verwandte Berufe
+D8_ISCO_lev3	622	622 Fischerinnen und Fischer, Jägerinnen und Jäger und Fallenstellerinnen und Fallensteller
+D8_ISCO_lev3	631	631 Ackerbäuerinnen und Ackerbauern für den Eigenbedarf
+D8_ISCO_lev3	632	632 Nutztierhalterinnen und Nutztierhalter für den Eigenbedarf
+D8_ISCO_lev3	633	633 Ackerbäuerinnen und Ackerbauern und Nutztierhalterinnen und Nutztierhalter (ohne ausgeprägten Schwerpunkt) für de
+D8_ISCO_lev3	634	634 Fischerinnen und Fischer, Jägerinnen und Jäger, Fallenstellerinnen und Fallensteller und Sammlerinnen und Sammler
+D8_ISCO_lev3	700	700 Handwerks- und verwandte Berufe, onA
+D8_ISCO_lev3	710	710 Bau- und Ausbaufachkräfte sowie verwandte Berufe, ausgenommen Elektriker, onA
+D8_ISCO_lev3	711	711 Baukonstruktions- und verwandte Berufe
+D8_ISCO_lev3	712	712 Ausbaufachkräfte und verwandte Berufe
+D8_ISCO_lev3	713	713 Malerinnen und Maler, Gebäudereinigerinnen und Gebäudereiniger und verwandte Berufe
+D8_ISCO_lev3	720	720 Metallarbeiterinnen und Metallarbeiter, Mechanikerinnen und Mechaniker und verwandte Berufe, onA
+D8_ISCO_lev3	721	721 Blechkaltverformerinnen und Blechkaltverformer, Baumetallverformerinnen und Baumetallverformer, Formerinnen und Form
+D8_ISCO_lev3	722	722 Grobschmiedinnen und Grobschmiede, Werkzeugmechanikerinnen und Werkzeugmechaniker und verwandte Berufe
+D8_ISCO_lev3	723	723 Maschinenmechanikerinnen und Maschinenmechaniker und -schlosserinnen und -schlosser
+D8_ISCO_lev3	731	731 Präzisionshandwerkerinnen und Präzisionshandwerker und kunsthandwerkliche Berufe
+D8_ISCO_lev3	732	732 Druckhandwerkerinnen und Druckhandwerker
+D8_ISCO_lev3	741	741 Elektroinstallateurinnen und Elektroinstallateure und -mechanikerinnen und -mechaniker
+D8_ISCO_lev3	742	742 Installateurinnen und Installateure und Mechanikerinnen und Mechaniker für Elektronik und Telekommunikationstechnik
+D8_ISCO_lev3	751	751 Berufe in der Nahrungsmittelverarbeitung und verwandte handwerkliche Fachkräfte
+D8_ISCO_lev3	752	752 Holzbearbeiterinnen und Holzbearbeiter, Möbeltischlerinnen und Möbeltischler und verwandte Berufe
+D8_ISCO_lev3	753	753 Berufe der Bekleidungsherstellung und verwandte Berufe
+D8_ISCO_lev3	754	754 Sonstige Handwerks- und verwandte Berufe
+D8_ISCO_lev3	811	811 Bedienerinnen und Bediener von Anlagen für den Bergbau und die Mineralaufbereitung
+D8_ISCO_lev3	812	812 Bedienerinnen und Bediener von Anlagen in der Metallerzeugung, -umformung und -veredlung
+D8_ISCO_lev3	813	813 Bedienerinnen und Bediener von Anlagen und Maschinen für chemische und fotografische Erzeugnisse
+D8_ISCO_lev3	814	814 Bedienerinnen und Bediener von Maschinen zur Herstellung von Gummi-, Kunststoff- und Papierwaren
+D8_ISCO_lev3	815	815 Bedienerinnen und Bediener von Maschinen zur Herstellung von Textil-, Pelz- und Lederwaren
+D8_ISCO_lev3	816	816 Bedienerinnen und Bediener von Maschinen zur Herstellung von Nahrungs- und Genussmitteln
+D8_ISCO_lev3	817	817 Bedienerinnen und Bediener von Anlagen zur Holzaufbereitung und Papierherstellung
+D8_ISCO_lev3	818	818 Bedienerinnen und Bediener sonstiger stationärer Anlagen und Maschinen
+D8_ISCO_lev3	821	821 Montageberufe
+D8_ISCO_lev3	831	831 Lokomotivführerinnen und Lokomotivführer und verwandte Berufe
+D8_ISCO_lev3	832	832 Kraftfahrzeugführerinnen und Kraftfahrzeugführer
+D8_ISCO_lev3	833	833 Fahrerinnen und Fahrer schwerer Lastkraftwagen und Busse
+D8_ISCO_lev3	834	834 Bedienerinnen und Bediener mobiler Anlagen
+D8_ISCO_lev3	835	835 Deckspersonal auf Schiffen und verwandte Berufe
+D8_ISCO_lev3	911	911 Reinigungspersonal und Hilfskräfte in Privathaushalten, Hotels und Büros
+D8_ISCO_lev3	912	912 Reinigungspersonal für Fahrzeuge, Fenster, Wäsche und sonstige manuelle Reinigungsberufe
+D8_ISCO_lev3	921	921 Hilfsarbeiterinnen und Hilfsarbeiter in der Land- und Forstwirtschaft und Fischerei
+D8_ISCO_lev3	931	931 Hilfsarbeiterinnen und Hilfsarbeiter im Bergbau und im Bau
+D8_ISCO_lev3	932	932 Hilfsarbeiterinnen und Hilfsarbeiter bei der Herstellung von Waren
+D8_ISCO_lev3	933	933 Hilfsarbeiterinnen und Hilfsarbeiter in Transport und Lagerei
+D8_ISCO_lev3	941	941 Hilfskräfte in der Nahrungsmittelzubereitung
+D8_ISCO_lev3	951	951 Auf der Straße arbeitende Dienstleistungskräfte und verwandte Berufe
+D8_ISCO_lev3	952	952 Straßenverkäuferinnen und Straßenverkäufer (ohne Lebensmittel)
+D8_ISCO_lev3	961	961 Abfallentsorgungsarbeiterinnen und Abfallentsorgungsarbeiter
+D8_ISCO_lev3	962	962 Sonstige Hilfsarbeitskräfte
+D9	Variable Label	Berufliche Stellung
+D9	-5	[Missing / nie gearbeitet]
+D9	1	unselbständig beschäftigt (Angestellte, Arbeiter)
+D9	2	selbständig ohne Angestellte
+D9	3	selbständig mit Angestellten
+D9	4	mithelfendes Familienmitglied
+D9	8	[Keine Angabe]
+doi	Variable Label	digital object identifier
+INT_Alter	Variable Label	Interviewer/-in: Alter
+INT_Bildung	Variable Label	Interviewer/-in: Bildung
+INT_Bildung	1	Pflichtschule
+INT_Bildung	2	Pflichtschule mit Lehre
+INT_Bildung	3	Matura
+INT_Bildung	4	Fachschule, Handelsschule
+INT_Bildung	5	Fachhochschule, Akademie
+INT_Bildung	6	Hochschule, Universität
+INT_Bildung	7	keine Angabe
+INT_Geschlecht	Variable Label	Interviewer/-in: Geschlecht
+INT_Geschlecht	1	männlich
+INT_Geschlecht	2	weiblich
+INT_Nr	Variable Label	Interviewer/-in: Nummer
+Jahr	Variable Label	Jahr des Surveys
+lfnr	Variable Label	Fragebogennummer
+version	Variable Label	AUSSDA archive version
+Weight_Combined	Variable Label	Weight, Combined (Poststrat. + Design)
+Weight_Design	Variable Label	Weight, Design
+Weight_PostStrat	Variable Label	Weight, Poststratification
+Wohnort	Variable Label	Wohnort
+Wohnort	1	In einer Großstadt (über 100.000 Einwohner)
+Wohnort	2	Am Rand oder in einem Vorort einer Großstadt
+Wohnort	3	In einer größeren Stadt (40.000 - 100.000 Einwohner)
+Wohnort	4	In einer Klein- oder mittleren Stadt (5.000 - unter 40.000 Einwohner)
+Wohnort	5	In einem Dorf
+Wohnort	6	In einem alleinstehenden Haus oder Hof am Land

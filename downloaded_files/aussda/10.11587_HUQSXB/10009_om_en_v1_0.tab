@@ -1,0 +1,1265 @@
+﻿variable	value	Label
+Date	Variable Label	Date of event
+doi	Variable Label	digital object identifier
+gu7d	Variable Label	I am interested in contemporary art music
+gu7d	0	not answered
+gu7d	1	answered
+gu7e	Variable Label	The programme
+gu7e	0	not answered
+gu7e	1	answered
+id	Variable Label	unique identifier
+Language	Variable Label	Language
+Language	1	English
+Language	2	Polish
+Language	3	German
+Language	4	France
+Number	Variable Label	Number of Questionnaire
+Place	Variable Label	City of event
+Place	1	Warsaw
+Place	2	Paris
+Place	3	Vienna
+qu1	Variable Label	Did you know that this event is part of the festival?
+qu1	1	Yes
+qu1	2	No
+qu10	Variable Label	Do you plan to visit the festival again in the future?
+qu10	1	Yes
+qu10	2	Yes, maybe
+qu10	3	I don't know
+qu10	4	Rather not
+qu10	5	No
+qu11	Variable Label	Will you recommend the festival to others?
+qu11	1	Yes
+qu11	2	Yes, maybe
+qu11	3	I don't know
+qu11	4	Rather not
+qu11	5	No
+qu12a	Variable Label	I sing in a choir
+qu12a	1	yes
+qu12a	2	no
+qu12b	Variable Label	I play in a band/orchestra/with friends
+qu12b	1	yes
+qu12b	2	no
+qu12c	Variable Label	I play/sing only for myself
+qu12c	1	yes
+qu12c	2	no
+qu13a	Variable Label	“Classical“ music concerts
+qu13a	1	never
+qu13a	2	sometimes
+qu13a	3	frequently
+qu13b	Variable Label	Early music concerts (on “historical” instruments)
+qu13b	1	never
+qu13b	2	sometimes
+qu13b	3	frequently
+qu13c	Variable Label	Contemporary art music concerts
+qu13c	1	never
+qu13c	2	sometimes
+qu13c	3	frequently
+qu13d	Variable Label	Rock and pop concerts
+qu13d	1	never
+qu13d	2	sometimes
+qu13d	3	frequently
+qu13e	Variable Label	 Jazz concerts
+qu13e	1	never
+qu13e	2	sometimes
+qu13e	3	frequently
+qu13f	Variable Label	Traditional dance music/dance events
+qu13f	1	never
+qu13f	2	sometimes
+qu13f	3	frequently
+qu13g	Variable Label	Opera
+qu13g	1	never
+qu13g	2	sometimes
+qu13g	3	frequently
+qu13h	Variable Label	Musical, operetta
+qu13h	1	never
+qu13h	2	sometimes
+qu13h	3	frequently
+qu13i	Variable Label	Ballet, Dance
+qu13i	1	never
+qu13i	2	sometimes
+qu13i	3	frequently
+qu13j	Variable Label	Theatre
+qu13j	1	never
+qu13j	2	sometimes
+qu13j	3	frequently
+qu13k	Variable Label	Cabaret
+qu13k	1	never
+qu13k	2	sometimes
+qu13k	3	frequently
+qu13l	Variable Label	Exhibitions
+qu13l	1	never
+qu13l	2	sometimes
+qu13l	3	frequently
+qu13m	Variable Label	Sound art and installations
+qu13m	1	never
+qu13m	2	sometimes
+qu13m	3	frequently
+qu13n	Variable Label	Movies
+qu13n	1	never
+qu13n	2	sometimes
+qu13n	3	frequently
+qu13o	Variable Label	Electronic dance music
+qu13o	1	never
+qu13o	2	sometimes
+qu13o	3	frequently
+qu13p	Variable Label	Other
+qu13p	2	sometimes
+qu13p	3	frequently
+qu13p	88	never ("question was not asked")
+qu14a	Variable Label	Wien Modern (A)
+qu14a	1	I’ve heard about it
+qu14a	2	I like to see what’s on there
+qu14a	3	I attend
+qu14a	88	Question was not asked
+qu14b	Variable Label	Warsaw Autumn (PL)
+qu14b	1	I’ve heard about it
+qu14b	2	I like to see what’s on there
+qu14b	3	I attend
+qu14b	88	Question was not asked
+qu14c	Variable Label	Festival d'Automne á Paris (FR)
+qu14c	1	I’ve heard about it
+qu14c	2	I like to see what’s on there
+qu14c	3	I attend
+qu14c	88	Question was not asked
+qu14d	Variable Label	Biennale of Music Venice (Italy)
+qu14d	1	I’ve heard about it
+qu14d	2	I like to see what’s on there
+qu14d	3	I attend
+qu14e	Variable Label	Biennale Zagreb (Croatia)
+qu14e	1	I’ve heard about it
+qu14e	2	I like to see what’s on there
+qu14e	3	I attend
+qu14f	Variable Label	Ultima Festival (Norway)
+qu14f	1	I’ve heard about it
+qu14f	2	I like to see what’s on there
+qu14f	3	I attend
+qu14g	Variable Label	MaerzMusik (Berlin)
+qu14g	1	I’ve heard about it
+qu14g	2	I like to see what’s on there
+qu14g	3	I attend
+qu14h	Variable Label	 Darmstadt Summer Course for New Music (Germany)
+qu14h	1	I’ve heard about it
+qu14h	2	I like to see what’s on there
+qu14h	3	I attend
+qu14i	Variable Label	Huddersfield Contemporary Music Festival (UK)
+qu14i	1	I’ve heard about it
+qu14i	2	I like to see what’s on there
+qu14i	3	I attend
+qu14j	Variable Label	Festival Musica (France)
+qu14j	1	I’ve heard about it
+qu14j	2	I like to see what’s on there
+qu14j	3	I attend
+qu14k	Variable Label	Styrian Autumn/Musikprotokoll (Austria)
+qu14k	1	I’ve heard about it
+qu14k	2	I like to see what’s on there
+qu14k	3	I attend
+qu14l	Variable Label	Musica Electronica Nova/Musica Polonica Nova (Poland)
+qu14l	1	I’ve heard about it
+qu14l	2	I like to see what’s on there
+qu14l	3	I attend
+qu14m	Variable Label	Festival Contrasts Lviv (Ukraine)
+qu14m	1	I’ve heard about it
+qu14m	2	I like to see what’s on there
+qu14m	3	I attend
+qu14n	Variable Label	Gaudeamus Muziekweek (Holland)
+qu14n	1	I’ve heard about it
+qu14n	2	I like to see what’s on there
+qu14n	3	I attend
+qu14o	Variable Label	Other
+qu14o	1	I’ve heard about it
+qu14o	2	I like to see what’s on there
+qu14o	3	I attend
+qu14p	Variable Label	No other such festival
+qu14p	0	not answered
+qu14p	1	answered
+qu15	Variable Label	How intense is your involvement with contemporary art music?
+qu15	1	I am very intensely involved.
+qu15	2	I am intensely involved.
+qu15	3	I am involved.
+qu15	4	I am not involved very much.
+qu15	5	I am not involved with contemporary art music.
+qu16a	Variable Label	I listen to/watch recorded contemporary art music.
+qu16a	0	not answered
+qu16a	1	answered
+qu16b	Variable Label	 I attend contemporary art music events.
+qu16b	0	not answered
+qu16b	1	answered
+qu16c	Variable Label	I play contemporary art music.
+qu16c	0	not answered
+qu16c	1	answered
+qu16d	Variable Label	 I compose contemporary art music.
+qu16d	0	not answered
+qu16d	1	answered
+qu16e	Variable Label	 I write about contemporary art music.
+qu16e	0	not answered
+qu16e	1	answered
+qu16f	Variable Label	Other
+qu16f	0	not answered
+qu16f	1	answered
+qu17a	Variable Label	Currently enrolled student in a music or art related subject
+qu17a	0	not answered
+qu17a	1	answered
+qu17b	Variable Label	Professional musician
+qu17b	0	not answered
+qu17b	1	answered
+qu17c	Variable Label	Artist of a branch other than music
+qu17c	0	not answered
+qu17c	1	answered
+qu17d	Variable Label	Promoter or music manager
+qu17d	0	not answered
+qu17d	1	answered
+qu17e	Variable Label	Employee of a music or art related organisation
+qu17e	0	not answered
+qu17e	1	answered
+qu17f	Variable Label	Entrepreneur in “creative industries”
+qu17f	0	not answered
+qu17f	1	answered
+qu17g	Variable Label	Employee of a music publisher (scores, CDs or similar)
+qu17g	0	not answered
+qu17g	1	answered
+qu17h	Variable Label	Music scholar
+qu17h	0	not answered
+qu17h	1	answered
+qu17i	Variable Label	Composer
+qu17i	0	not answered
+qu17i	1	answered
+qu17j	Variable Label	Music/culture journalist
+qu17j	0	not answered
+qu17j	1	answered
+qu17k	Variable Label	Designer
+qu17k	0	not answered
+qu17k	1	answered
+qu18a	Variable Label	... is hard to understand.
+qu18a	1	strongly agree
+qu18a	2	agree
+qu18a	3	neither nor
+qu18a	4	disagree
+qu18a	5	strongly disagree
+qu18b	Variable Label	... is overrated.
+qu18b	1	strongly agree
+qu18b	2	agree
+qu18b	3	neither nor
+qu18b	4	disagree
+qu18b	5	strongly disagree
+qu18c	Variable Label	... attempts to be “modern” at any cost.
+qu18c	1	strongly agree
+qu18c	2	agree
+qu18c	3	neither nor
+qu18c	4	disagree
+qu18c	5	strongly disagree
+qu18d	Variable Label	... is for experts only.
+qu18d	1	strongly agree
+qu18d	2	agree
+qu18d	3	neither nor
+qu18d	4	disagree
+qu18d	5	strongly disagree
+qu18e	Variable Label	... is much less important for the development of music in the 20th/21st centuri
+qu18e	1	strongly agree
+qu18e	2	agree
+qu18e	3	neither nor
+qu18e	4	disagree
+qu18e	5	strongly disagree
+qu18f	Variable Label	... needs renewal.
+qu18f	1	strongly agree
+qu18f	2	agree
+qu18f	3	neither nor
+qu18f	4	disagree
+qu18f	5	strongly disagree
+qu18g	Variable Label	... is disturbing.
+qu18g	1	strongly agree
+qu18g	2	agree
+qu18g	3	neither nor
+qu18g	4	disagree
+qu18g	5	strongly disagree
+qu18h	Variable Label	... is innovative, creative and stimulates one’s imagination.
+qu18h	1	strongly agree
+qu18h	2	agree
+qu18h	3	neither nor
+qu18h	4	disagree
+qu18h	5	strongly disagree
+qu18i	Variable Label	... is the only legitimate art form of our time.
+qu18i	1	strongly agree
+qu18i	2	agree
+qu18i	3	neither nor
+qu18i	4	disagree
+qu18i	5	strongly disagree
+qu18j	Variable Label	... challenges one’s musical habits.
+qu18j	1	strongly agree
+qu18j	2	agree
+qu18j	3	neither nor
+qu18j	4	disagree
+qu18j	5	strongly disagree
+qu18k	Variable Label	... successfully combines elements of traditional and new music.
+qu18k	1	strongly agree
+qu18k	2	agree
+qu18k	3	neither nor
+qu18k	4	disagree
+qu18k	5	strongly disagree
+qu18l	Variable Label	... intertwines with other music styles (rock, pop, techno and “world music”
+qu18l	1	strongly agree
+qu18l	2	agree
+qu18l	3	neither nor
+qu18l	4	disagree
+qu18l	5	strongly disagree
+qu18m	Variable Label	... mixes with other arts and media.
+qu18m	1	strongly agree
+qu18m	2	agree
+qu18m	3	neither nor
+qu18m	4	disagree
+qu18m	5	strongly disagree
+qu19a	Variable Label	 It enhances my personal development.
+qu19a	1	strongly agree
+qu19a	2	agree
+qu19a	3	neither nor
+qu19a	4	disagree
+qu19a	5	strongly disagree
+qu19b	Variable Label	It entertains me.
+qu19b	1	strongly agree
+qu19b	2	agree
+qu19b	3	neither nor
+qu19b	4	disagree
+qu19b	5	strongly disagree
+qu19c	Variable Label	It relaxes me.
+qu19c	1	strongly agree
+qu19c	2	agree
+qu19c	3	neither nor
+qu19c	4	disagree
+qu19c	5	strongly disagree
+qu19d	Variable Label	It is an indispensable part of my life.
+qu19d	1	strongly agree
+qu19d	2	agree
+qu19d	3	neither nor
+qu19d	4	disagree
+qu19d	5	strongly disagree
+qu19e	Variable Label	It is a thought-provoking impulse.
+qu19e	1	strongly agree
+qu19e	2	agree
+qu19e	3	neither nor
+qu19e	4	disagree
+qu19e	5	strongly disagree
+qu19f	Variable Label	It expresses rebellion.
+qu19f	1	strongly agree
+qu19f	2	agree
+qu19f	3	neither nor
+qu19f	4	disagree
+qu19f	5	strongly disagree
+qu19g	Variable Label	It is an expression of my way of life.
+qu19g	1	strongly agree
+qu19g	2	agree
+qu19g	3	neither nor
+qu19g	4	disagree
+qu19g	5	strongly disagree
+qu19h	Variable Label	It stimulates exchange with other people.
+qu19h	1	strongly agree
+qu19h	2	agree
+qu19h	3	neither nor
+qu19h	4	disagree
+qu19h	5	strongly disagree
+qu19i	Variable Label	It is very approachable for me.
+qu19i	1	strongly agree
+qu19i	2	agree
+qu19i	3	neither nor
+qu19i	4	disagree
+qu19i	5	strongly disagree
+qu2	Variable Label	How many events are you planning to visit or did you visit during this year’s
+qu2	0	Only this concert
+qu2	99	More
+qu20	Variable Label	In which year were you born?
+qu21	Variable Label	Your sex
+qu21	1	female
+qu21	2	male
+qu22a	Variable Label	Where do you live ? (country)
+qu22a	1	Austria?/Poland?/France
+qu22a	2	other country
+qu22b	Variable Label	Where do you live ? (city)
+qu22b	1	Paris?/Warsaw?/Vienna? and surroundings
+qu22b	2	other city
+qu23a	Variable Label	What is your highest level of education?
+qu23a	1	Middle school or lower
+qu23a	2	High school diploma
+qu23a	3	University degree
+qu23a	4	Doctorate
+qu23a	5	Other
+qu24a	Variable Label	What is your current employment status?
+qu24a	1	Employed
+qu24a	2	Unemployed
+qu24a	3	Self-employed
+qu24a	4	In education
+qu24a	5	Retired
+qu24a	6	Other
+qu24a	7	Answer unclear
+qu25	Variable Label	Have your expectations of the event been met?
+qu25	1	Even more thean expected
+qu25	2	Yes
+qu25	3	Partly
+qu25	4	No
+qu27aaa	Variable Label	Der Agent aus Brüssel
+qu27aaa	1	very much
+qu27aaa	2	somewhat
+qu27aaa	3	neutral
+qu27aaa	4	not really
+qu27aaa	5	not at all
+qu27aaa	6	I do not know "missing"
+qu27aaa	88	Question was not asked
+qu27aab	Variable Label	Das Hollywood-Prinzip
+qu27aab	1	very much
+qu27aab	2	somewhat
+qu27aab	3	neutral
+qu27aab	4	not really
+qu27aab	5	not at all
+qu27aab	6	I do not know "missing"
+qu27aab	88	Question was not asked
+qu27aac	Variable Label	Halloween
+qu27aac	1	very much
+qu27aac	2	somewhat
+qu27aac	3	neutral
+qu27aac	4	not really
+qu27aac	5	not at all
+qu27aac	6	I do not know "missing"
+qu27aac	88	Question was not asked
+qu27aad	Variable Label	SitCom/Serien-Charakter (mit 3 Staffeln)
+qu27aad	1	very much
+qu27aad	2	somewhat
+qu27aad	3	neutral
+qu27aad	4	not really
+qu27aad	5	not at all
+qu27aad	6	I do not know "missing"
+qu27aad	88	Question was not asked
+qu27aba	Variable Label	Will Offermans "Just a Short Version"
+qu27aba	1	very much
+qu27aba	2	somewhat
+qu27aba	3	neutral
+qu27aba	4	not really
+qu27aba	5	not at all
+qu27aba	6	I do not know "missing"
+qu27aba	88	Question was not asked
+qu27abb	Variable Label	Arvo Pärt "Mozart-Adagio"
+qu27abb	1	very much
+qu27abb	2	somewhat
+qu27abb	3	neutral
+qu27abb	4	not really
+qu27abb	5	not at all
+qu27abb	6	I do not know "missing"
+qu27abb	88	Question was not asked
+qu27abc	Variable Label	Kiro A. Tellian Fahrplätze
+qu27abc	1	very much
+qu27abc	2	somewhat
+qu27abc	3	neutral
+qu27abc	4	not really
+qu27abc	5	not at all
+qu27abc	6	I do not know "missing"
+qu27abc	88	Question was not asked
+qu27abd	Variable Label	Antanas Baltuska Wildes Lied
+qu27abd	1	very much
+qu27abd	2	somewhat
+qu27abd	3	neutral
+qu27abd	4	not really
+qu27abd	5	not at all
+qu27abd	6	I do not know "missing"
+qu27abd	88	Question was not asked
+qu27abe	Variable Label	Linus Köhring Klaviertrio Nr. 2
+qu27abe	1	very much
+qu27abe	2	somewhat
+qu27abe	3	neutral
+qu27abe	4	not really
+qu27abe	5	not at all
+qu27abe	6	I do not know "missing"
+qu27abe	88	Question was not asked
+qu27abf	Variable Label	Robert M. Wilding Linaea
+qu27abf	1	very much
+qu27abf	2	somewhat
+qu27abf	3	neutral
+qu27abf	4	not really
+qu27abf	5	not at all
+qu27abf	6	I do not know "missing"
+qu27abf	88	Question was not asked
+qu27abg	Variable Label	Christian Minkowitsch Xangl
+qu27abg	1	very much
+qu27abg	2	somewhat
+qu27abg	3	neutral
+qu27abg	4	not really
+qu27abg	5	not at all
+qu27abg	6	I do not know "missing"
+qu27abg	88	Question was not asked
+qu27abh	Variable Label	Christian Diendorfer Some Nights, No Day
+qu27abh	1	very much
+qu27abh	2	somewhat
+qu27abh	3	neutral
+qu27abh	4	not really
+qu27abh	5	not at all
+qu27abh	6	I do not know "missing"
+qu27abh	88	Question was not asked
+qu27abi	Variable Label	Ulf-Diether Soyka 3 Bosone
+qu27abi	1	very much
+qu27abi	2	somewhat
+qu27abi	3	neutral
+qu27abi	4	not really
+qu27abi	5	not at all
+qu27abi	6	I do not know "missing"
+qu27abi	88	Question was not asked
+qu27abj	Variable Label	Johann G. Kitzbichler FA-Schwebungen...
+qu27abj	1	very much
+qu27abj	2	somewhat
+qu27abj	3	neutral
+qu27abj	4	not really
+qu27abj	5	not at all
+qu27abj	6	I do not know "missing"
+qu27abj	88	Question was not asked
+qu27abk	Variable Label	Andreas Lindenbaum neun
+qu27abk	1	very much
+qu27abk	2	somewhat
+qu27abk	3	neutral
+qu27abk	4	not really
+qu27abk	5	not at all
+qu27abk	6	I do not know "missing"
+qu27abk	88	Question was not asked
+qu27aca	Variable Label	Wolfgang Rihm Bild (eine Chiffre) (1984)
+qu27aca	1	very much
+qu27aca	2	somewhat
+qu27aca	3	neutral
+qu27aca	4	not really
+qu27aca	5	not at all
+qu27aca	6	I do not know "missing"
+qu27aca	88	Question was not asked
+qu27acb	Variable Label	Morton Feldman Untitled Film Music (1960)
+qu27acb	1	very much
+qu27acb	2	somewhat
+qu27acb	3	neutral
+qu27acb	4	not really
+qu27acb	5	not at all
+qu27acb	6	I do not know "missing"
+qu27acb	88	Question was not asked
+qu27acc	Variable Label	Reinhard Fuchs Mania (2014, UA)
+qu27acc	1	very much
+qu27acc	2	somewhat
+qu27acc	3	neutral
+qu27acc	4	not really
+qu27acc	5	not at all
+qu27acc	6	I do not know "missing"
+qu27acc	88	Question was not asked
+qu27acd	Variable Label	Olga Neuwirth Diagonal Symphony (2007)
+qu27acd	1	very much
+qu27acd	2	somewhat
+qu27acd	3	neutral
+qu27acd	4	not really
+qu27acd	5	not at all
+qu27acd	6	I do not know "missing"
+qu27acd	88	Question was not asked
+qu27ace	Variable Label	Giacinto Scelsi Quattro Pezzi (1959)
+qu27ace	1	very much
+qu27ace	2	somewhat
+qu27ace	3	neutral
+qu27ace	4	not really
+qu27ace	5	not at all
+qu27ace	6	I do not know "missing"
+qu27ace	88	Question was not asked
+qu27acf	Variable Label	This music as film music
+qu27acf	1	very much
+qu27acf	2	somewhat
+qu27acf	3	neutral
+qu27acf	4	not really
+qu27acf	5	not at all
+qu27acf	6	I do not know "missing"
+qu27acf	88	Question was not asked
+qu27acZ	Variable Label	Arnold Schönberg
+qu27acZ	1	very much
+qu27acZ	2	somewhat
+qu27acZ	3	neutral
+qu27acZ	4	not really
+qu27acZ	5	not at all
+qu27acZ	6	I do not know "missing"
+qu27acZ	88	Question was not asked
+qu27ada	Variable Label	Georg F. Haas string quartet No. 2 (1997–98)
+qu27ada	1	very much
+qu27ada	2	somewhat
+qu27ada	3	neutral
+qu27ada	4	not really
+qu27ada	5	not at all
+qu27ada	6	I do not know "missing"
+qu27ada	88	Question was not asked
+qu27adb	Variable Label	Georg F. Haas string quartet No. 8 (2014, WP)
+qu27adb	1	very much
+qu27adb	2	somewhat
+qu27adb	3	neutral
+qu27adb	4	not really
+qu27adb	5	not at all
+qu27adb	6	I do not know "missing"
+qu27adb	88	Question was not asked
+qu27adc	Variable Label	Georg F. Haas string quartet No. 7 (2011)
+qu27adc	1	very much
+qu27adc	2	somewhat
+qu27adc	3	neutral
+qu27adc	4	not really
+qu27adc	5	not at all
+qu27adc	6	I do not know "missing"
+qu27adc	88	Question was not asked
+qu27add	Variable Label	Electronics in string qu. No. 7
+qu27add	1	very much
+qu27add	2	somewhat
+qu27add	3	neutral
+qu27add	4	not really
+qu27add	5	not at all
+qu27add	6	I do not know "missing"
+qu27add	88	Question was not asked
+qu27aea	Variable Label	Jukka Tiensuu Hei
+qu27aea	1	very much
+qu27aea	2	somewhat
+qu27aea	3	neutral
+qu27aea	4	not really
+qu27aea	5	not at all
+qu27aea	6	I do not know "missing"
+qu27aea	88	Question was not asked
+qu27aeb	Variable Label	Jorge Sanchez-Chiong Final Girl Resurrection...
+qu27aeb	1	very much
+qu27aeb	2	somewhat
+qu27aeb	3	neutral
+qu27aeb	4	not really
+qu27aeb	5	not at all
+qu27aeb	6	I do not know "missing"
+qu27aeb	88	Question was not asked
+qu27aec	Variable Label	Timothy McCormack Interfacing with the Surface
+qu27aec	1	very much
+qu27aec	2	somewhat
+qu27aec	3	neutral
+qu27aec	4	not really
+qu27aec	5	not at all
+qu27aec	6	I do not know "missing"
+qu27aec	88	Question was not asked
+qu27aed	Variable Label	Björn Wilker Schlagen
+qu27aed	1	very much
+qu27aed	2	somewhat
+qu27aed	3	neutral
+qu27aed	4	not really
+qu27aed	5	not at all
+qu27aed	6	I do not know "missing"
+qu27aed	88	Question was not asked
+qu27aee	Variable Label	Eva Reiter In groben Zügen
+qu27aee	1	very much
+qu27aee	2	somewhat
+qu27aee	3	neutral
+qu27aee	4	not really
+qu27aee	5	not at all
+qu27aee	6	I do not know "missing"
+qu27aee	88	Question was not asked
+qu27aef	Variable Label	Contributions by “Zirkus Maximus”
+qu27aef	1	very much
+qu27aef	2	somewhat
+qu27aef	3	neutral
+qu27aef	4	not really
+qu27aef	5	not at all
+qu27aef	6	I do not know "missing"
+qu27aef	88	Question was not asked
+qu27faa	Variable Label	Luigi Nono
+qu27faa	1	very much
+qu27faa	2	somewhat
+qu27faa	3	neutral
+qu27faa	4	not really
+qu27faa	5	not at all
+qu27faa	6	I do not know "missing"
+qu27faa	88	Question was not asked
+qu27fab	Variable Label	Helmut Lachenmann
+qu27fab	1	very much
+qu27fab	2	somewhat
+qu27fab	3	neutral
+qu27fab	4	not really
+qu27fab	5	not at all
+qu27fab	6	I do not know "missing"
+qu27fab	88	Question was not asked
+qu27fac	Variable Label	Clara Iannotta
+qu27fac	1	very much
+qu27fac	2	somewhat
+qu27fac	3	neutral
+qu27fac	4	not really
+qu27fac	5	not at all
+qu27fac	6	I do not know "missing"
+qu27fac	88	Question was not asked
+qu27fba	Variable Label	Lucinda Childs (choreography)
+qu27fba	1	very much
+qu27fba	2	somewhat
+qu27fba	3	neutral
+qu27fba	4	not really
+qu27fba	5	not at all
+qu27fba	6	I do not know "missing"
+qu27fba	88	Question was not asked
+qu27fbb	Variable Label	Philip Glass (musique)
+qu27fbb	1	very much
+qu27fbb	2	somewhat
+qu27fbb	3	neutral
+qu27fbb	4	not really
+qu27fbb	5	not at all
+qu27fbb	6	I do not know "missing"
+qu27fbb	88	Question was not asked
+qu27fbc	Variable Label	Sol LeWitt (film)
+qu27fbc	1	very much
+qu27fbc	2	somewhat
+qu27fbc	3	neutral
+qu27fbc	4	not really
+qu27fbc	5	not at all
+qu27fbc	6	I do not know "missing"
+qu27fbc	88	Question was not asked
+qu27fca	Variable Label	Luigi Nono
+qu27fca	1	very much
+qu27fca	2	somewhat
+qu27fca	3	neutral
+qu27fca	4	not really
+qu27fca	5	not at all
+qu27fca	6	I do not know "missing"
+qu27fca	88	Question was not asked
+qu27fcb	Variable Label	Olga Neuwirth
+qu27fcb	1	very much
+qu27fcb	2	somewhat
+qu27fcb	3	neutral
+qu27fcb	4	not really
+qu27fcb	5	not at all
+qu27fcb	6	I do not know "missing"
+qu27fcb	88	Question was not asked
+qu27fcc	Variable Label	Bruno Maderna
+qu27fcc	1	very much
+qu27fcc	2	somewhat
+qu27fcc	3	neutral
+qu27fcc	4	not really
+qu27fcc	5	not at all
+qu27fcc	6	I do not know "missing"
+qu27fcc	88	Question was not asked
+qu27fcd	Variable Label	Gérard Pesson
+qu27fcd	1	very much
+qu27fcd	2	somewhat
+qu27fcd	3	neutral
+qu27fcd	4	not really
+qu27fcd	5	not at all
+qu27fcd	6	I do not know "missing"
+qu27fcd	88	Question was not asked
+qu27fce	Variable Label	György Kurtág
+qu27fce	1	very much
+qu27fce	2	somewhat
+qu27fce	3	neutral
+qu27fce	4	not really
+qu27fce	5	not at all
+qu27fce	6	I do not know "missing"
+qu27fce	88	Question was not asked
+qu27fcf	Variable Label	Garth Knox
+qu27fcf	1	very much
+qu27fcf	2	somewhat
+qu27fcf	3	neutral
+qu27fcf	4	not really
+qu27fcf	5	not at all
+qu27fcf	6	I do not know "missing"
+qu27fcf	88	Question was not asked
+qu27fcg	Variable Label	Gérard Tamestit
+qu27fcg	1	very much
+qu27fcg	2	somewhat
+qu27fcg	3	neutral
+qu27fcg	4	not really
+qu27fcg	5	not at all
+qu27fcg	6	I do not know "missing"
+qu27fcg	88	Question was not asked
+qu27fch	Variable Label	Heinz Holliger
+qu27fch	1	very much
+qu27fch	2	somewhat
+qu27fch	3	neutral
+qu27fch	4	not really
+qu27fch	5	not at all
+qu27fch	6	I do not know "missing"
+qu27fch	88	Question was not asked
+qu27fda	Variable Label	Luciano Berio
+qu27fda	1	very much
+qu27fda	2	somewhat
+qu27fda	3	neutral
+qu27fda	4	not really
+qu27fda	5	not at all
+qu27fda	6	I do not know "missing"
+qu27fda	88	Question was not asked
+qu27fdb	Variable Label	Pierre-Yves Macé
+qu27fdb	1	very much
+qu27fdb	2	somewhat
+qu27fdb	3	neutral
+qu27fdb	4	not really
+qu27fdb	5	not at all
+qu27fdb	6	I do not know "missing"
+qu27fdb	88	Question was not asked
+qu27fdc	Variable Label	Karlheinz Stockhausen
+qu27fdc	1	very much
+qu27fdc	2	somewhat
+qu27fdc	3	neutral
+qu27fdc	4	not really
+qu27fdc	5	not at all
+qu27fdc	6	I do not know "missing"
+qu27fdc	88	Question was not asked
+qu27paa	Variable Label	 Artur Zagajewski
+qu27paa	1	very much
+qu27paa	2	somewhat
+qu27paa	3	neutral
+qu27paa	4	not really
+qu27paa	5	not at all
+qu27paa	6	I do not know "missing"
+qu27paa	88	Question was not asked
+qu27pab	Variable Label	Aureliano Cattaneo
+qu27pab	1	very much
+qu27pab	2	somewhat
+qu27pab	3	neutral
+qu27pab	4	not really
+qu27pab	5	not at all
+qu27pab	6	I do not know "missing"
+qu27pab	88	Question was not asked
+qu27pac	Variable Label	György Ligeti
+qu27pac	1	very much
+qu27pac	2	somewhat
+qu27pac	3	neutral
+qu27pac	4	not really
+qu27pac	5	not at all
+qu27pac	6	I do not know "missing"
+qu27pac	88	Question was not asked
+qu27pad	Variable Label	Martin Smolka
+qu27pad	1	very much
+qu27pad	2	somewhat
+qu27pad	3	neutral
+qu27pad	4	not really
+qu27pad	5	not at all
+qu27pad	6	I do not know "missing"
+qu27pad	88	Question was not asked
+qu27pba	Variable Label	I. EARTH
+qu27pba	1	very much
+qu27pba	2	somewhat
+qu27pba	3	neutral
+qu27pba	4	not really
+qu27pba	5	not at all
+qu27pba	6	I do not know "missing"
+qu27pba	88	Question was not asked
+qu27pbb	Variable Label	II. WATER
+qu27pbb	1	very much
+qu27pbb	2	somewhat
+qu27pbb	3	neutral
+qu27pbb	4	not really
+qu27pbb	5	not at all
+qu27pbb	6	I do not know "missing"
+qu27pbb	88	Question was not asked
+qu27pbc	Variable Label	III. FIRE
+qu27pbc	1	very much
+qu27pbc	2	somewhat
+qu27pbc	3	neutral
+qu27pbc	4	not really
+qu27pbc	5	not at all
+qu27pbc	6	I do not know "missing"
+qu27pbc	88	Question was not asked
+qu27pbd	Variable Label	IV. AIR
+qu27pbd	1	very much
+qu27pbd	2	somewhat
+qu27pbd	3	neutral
+qu27pbd	4	not really
+qu27pbd	5	not at all
+qu27pbd	6	I do not know "missing"
+qu27pbd	88	Question was not asked
+qu27pca	Variable Label	Agata Zubel
+qu27pca	1	very much
+qu27pca	2	somewhat
+qu27pca	3	neutral
+qu27pca	4	not really
+qu27pca	5	not at all
+qu27pca	6	I do not know "missing"
+qu27pca	88	Question was not asked
+qu27pcb	Variable Label	Jakub Sarwas
+qu27pcb	1	very much
+qu27pcb	2	somewhat
+qu27pcb	3	neutral
+qu27pcb	4	not really
+qu27pcb	5	not at all
+qu27pcb	6	I do not know "missing"
+qu27pcb	88	Question was not asked
+qu27pcc	Variable Label	Marcin Sta?czyk
+qu27pcc	1	very much
+qu27pcc	2	somewhat
+qu27pcc	3	neutral
+qu27pcc	4	not really
+qu27pcc	5	not at all
+qu27pcc	6	I do not know "missing"
+qu27pcc	88	Question was not asked
+qu27pcd	Variable Label	Djuro Živkovi?
+qu27pcd	1	very much
+qu27pcd	2	somewhat
+qu27pcd	3	neutral
+qu27pcd	4	not really
+qu27pcd	5	not at all
+qu27pcd	6	I do not know "missing"
+qu27pcd	88	Question was not asked
+qu27pda	Variable Label	reka
+qu27pda	1	very much
+qu27pda	2	somewhat
+qu27pda	3	neutral
+qu27pda	4	not really
+qu27pda	5	not at all
+qu27pda	6	I do not know "missing"
+qu27pda	88	Question was not asked
+qu27pea	Variable Label	venta
+qu27pea	1	very much
+qu27pea	2	somewhat
+qu27pea	3	neutral
+qu27pea	4	not really
+qu27pea	5	not at all
+qu27pea	6	I do not know "missing"
+qu27pea	88	Question was not asked
+qu28a	Variable Label	Atmosphere
+qu28a	1	very much
+qu28a	2	somewhat
+qu28a	3	neutral
+qu28a	4	not really
+qu28a	5	not at all
+qu28a	6	I do not know "missing"
+qu28b	Variable Label	Performance of the musician/artists
+qu28b	1	very much
+qu28b	2	somewhat
+qu28b	3	neutral
+qu28b	4	not really
+qu28b	5	not at all
+qu28b	6	I do not know "missing"
+qu28c	Variable Label	Hospitality
+qu28c	1	very much
+qu28c	2	somewhat
+qu28c	3	neutral
+qu28c	4	not really
+qu28c	5	not at all
+qu28c	6	I do not know "missing"
+qu28d	Variable Label	 Audience
+qu28d	1	very much
+qu28d	2	somewhat
+qu28d	3	neutral
+qu28d	4	not really
+qu28d	5	not at all
+qu28d	6	I do not know "missing"
+qu28e	Variable Label	General set-up
+qu28e	1	very much
+qu28e	2	somewhat
+qu28e	3	neutral
+qu28e	4	not really
+qu28e	5	not at all
+qu28e	6	I do not know "missing"
+qu28f	Variable Label	Suitability of the space/hall
+qu28f	1	very much
+qu28f	2	somewhat
+qu28f	3	neutral
+qu28f	4	not really
+qu28f	5	not at all
+qu28f	6	I do not know "missing"
+qu28g	Variable Label	Content and design of the printed programme
+qu28g	1	very much
+qu28g	2	somewhat
+qu28g	3	neutral
+qu28g	4	not really
+qu28g	5	not at all
+qu28g	6	I do not know "missing"
+qu28h	Variable Label	Stage design/lighting
+qu28h	1	very much
+qu28h	2	somewhat
+qu28h	3	neutral
+qu28h	4	not really
+qu28h	5	not at all
+qu28h	6	I do not know "missing"
+qu28i	Variable Label	Other
+qu28i	1	very much
+qu28i	2	somewhat
+qu28i	3	neutral
+qu28i	4	not really
+qu28i	5	not at all
+qu28i	6	I do not know "missing"
+qu3	Variable Label	Did you attend the previous editions of the festival?
+qu3	1	No, this is my first visit
+qu3	2	Yes, I attended 1-3 editions
+qu3	3	Yes, 4-6 editions
+qu3	4	Yes, more than 6 editions
+qu30	Variable Label	Do you consider this event a highlight of the festival?
+qu30	1	Yes, definitely
+qu30	2	(probably) yes
+qu30	3	(probably) no
+qu30	4	No, definitely not
+qu30	5	I do not know "missing"
+qu31	Variable Label	Do you feel this performance enriched your personal understanding of music?
+qu31	1	Yes, a lot
+qu31	2	Yes, somehow
+qu31	3	Only a little
+qu31	4	Not at all
+qu31	5	I don't know "missing"
+qu32	Variable Label	Was you curiosity/interest in CAM aroused by the event?
+qu32	1	Yes, a lot
+qu32	2	Yes, somehow
+qu32	3	Only a little
+qu32	4	Not at all
+qu32	5	I am already interested in contemporary art music
+qu32	6	Answer unclear
+qu32	8	I do not know "missing"
+qu33aa	Variable Label	(1.11.2014) If you intend to visit the Wien Modern talk with Bernhard Gander on
+qu33aa	1	Yes, a lot
+qu33aa	2	Yes, somehow
+qu33aa	3	Only a little
+qu33aa	4	Not at all
+qu33aa	5	I did not attend
+qu33aa	88	Question was not asked
+qu33ab	Variable Label	(9.11.2014, 16:00) This performance results from a music mediation project as pa
+qu33ab	1	Yes, a lot
+qu33ab	2	Yes, somehow
+qu33ab	3	Only a little
+qu33ab	4	Not at all
+qu33ab	5	I do not know "missing"
+qu33ab	88	Question was not asked
+qu33ac	Variable Label	(9.11.2014, 19:30) Do you know about the “Erste-Bank-Kompositionspreis“, whi
+qu33ac	1	Yes, definitely
+qu33ac	2	(probably) yes
+qu33ac	3	(probably) no
+qu33ac	4	No, definitely not
+qu33ac	5	I do not know "missing"
+qu33ac	88	Question was not askted
+qu33ad	Variable Label	(10.11.2014) In case you went to the WIEN-MODERN talk with Georg Friedrich Haas
+qu33ad	1	Yes, a lot
+qu33ad	2	Yes, somehow
+qu33ad	3	Only a little
+qu33ad	4	Not at all
+qu33ad	5	I don't know
+qu33ad	6	I was not there
+qu33ad	88	Question was not askted
+qu33ae	Variable Label	(14.11.2014)
+qu33ae	88	Question was not askted
+qu33f	Variable Label	If you participated in introductory lectures, did it support your understanding
+qu33f	1	Yes, a lot
+qu33f	2	Yes, somehow
+qu33f	3	Only a little
+qu33f	4	Not at all
+qu33f	5	I did not attend
+qu33f	88	Question was not asked
+qu33pa	Variable Label	(19.09.2014) If you read composers' bios and comments on their works from the pr
+qu33pa	1	Yes, a lot
+qu33pa	2	Yes, somehow
+qu33pa	3	Only a little
+qu33pa	4	Not at all
+qu33pa	5	I did not read
+qu33pa	88	Question was not asked
+qu33pb	Variable Label	(21.09.2014) Did you like the boomwhackers to be a part of the musical performan
+qu33pb	1	Yes, a lot
+qu33pb	2	Yes, somehow
+qu33pb	3	Only a little
+qu33pb	4	Not at all
+qu33pb	5	I do not know "missing"
+qu33pb	88	Question was not asked
+qu33pc	Variable Label	(22.09.2014) If you read composers' bios and comments on their works from the pr
+qu33pc	1	Yes, a lot
+qu33pc	2	Yes, somehow
+qu33pc	3	Only a little
+qu33pc	4	Not at all
+qu33pc	5	I do not know "missing"
+qu33pc	88	Question was not asked
+qu33pd	Variable Label	(24.09.2014) Did you like the non-professional and traditional singers as well a
+qu33pd	1	Yes, a lot
+qu33pd	2	Yes, somehow
+qu33pd	3	Only a little
+qu33pd	4	Not at all
+qu33pd	5	I do not know "missing"
+qu33pd	88	Question was not asked
+qu33pe	Variable Label	(26.09.2014) Did you like the idea of the piece being performed on vintage Sovie
+qu33pe	1	Yes, a lot
+qu33pe	2	Yes, somehow
+qu33pe	3	Only a little
+qu33pe	4	Not at all
+qu33pe	5	I do not know "missing"
+qu33pe	88	Question was not asked
+qu34	Variable Label	Did you inform yourself about the programme (composers, performances, pieces) be
+qu34	1	Yes
+qu34	2	A little
+qu34	3	No
+qu35aa	Variable Label	(1.11.2014) Will you visit more performances of Bernhard Gander Das Leben am Ran
+qu35aa	1	Yes, I was at the premiere
+qu35aa	2	Yes, “Staffel II”
+qu35aa	3	Yes, “Staffel III”
+qu35aa	4	Yes, “Staffel II and III”
+qu35aa	5	No, I will not watch any other part of this piece
+qu35aa	88	Question was not asked
+qu35ab	Variable Label	(9.11.2014, 16:00) Will you visit or did you already attend other performances o
+qu35ab	1	Yes, “HeldInnen” on Nov. 8
+qu35ab	2	Yes, a performance at Dschungel Wien (“Der kleine Maulwurf”)
+qu35ab	3	Yes, Bernhard Gander Monster and Angels on Nov. 14.
+qu35ab	4	No, I will not watch any other such event
+qu35ab	88	Question was not askted
+qu35ac	Variable Label	(9.11.2014, 19:30) Will you visit or did you already attend other performances o
+qu35ac	1	Yes, on Nov. 4 (ORF orch.)
+qu35ac	2	Yes, on Nov. 18 (PHACE)
+qu35ac	3	Yes, on Nov. 4 and Nov. 18
+qu35ac	4	No, I will not attend any other performance of Fuchs’ music
+qu35ac	88	Question was not asked
+qu35ad	Variable Label	(10.11.2014) Will you visit or did you already attend other performances of musi
+qu35ad	1	Yes, 1 or 2 more
+qu35ad	2	Yes, between 3 and 5 more
+qu35ad	3	Yes, more than 6
+qu35ad	4	Yes, I shall attend all of them (11)
+qu35ad	5	Yes, but only the concerts with the Arditti Quartet
+qu35ad	6	No, I will not attend any other performance of Haas’ music
+qu35ad	88	Question was not askted
+qu35ae	Variable Label	(14.11.2014) Will you visit or did you already visit events/parties of the serie
+qu35ae	1	Yes, 1 StudioNACHT
+qu35ae	2	Yes, 2
+qu35ae	3	Yes, all 3 of them
+qu35ae	4	No, I will not attend any of these events
+qu35ae	88	Question was not asked
+qu4	Variable Label	Are you attending this event with others?
+qu4	0	I came by myself
+qu4	1	accompanied by 1 person
+qu4	2	accompanied by 2 persons
+qu4	3	accompanied by 3 persons
+qu4	4	accompanied by more than 3 persons
+qu4	99	accompanied by
+qu4b	Variable Label	Accompanied by children (under 16)
+qu4b	0	not answered
+qu4b	1	answered
+qu5	Variable Label	Is the festival the reason for your visit to Warsaw?/Paris?/Vienna?
+qu5	1	I came here only because of the festival
+qu5	2	I came here mostly because of the festival
+qu5	3	I came here not only because of the festival, but it was an additional attraction
+qu5	4	I did not come here because of the festival
+qu6a	Variable Label	Newspapers and magazines
+qu6a	0	not answered
+qu6a	1	answered
+qu6b	Variable Label	Radio/TV
+qu6b	0	not answered
+qu6b	1	answered
+qu6c	Variable Label	Internet/social media
+qu6c	0	not answered
+qu6c	1	answered
+qu6d	Variable Label	Homepage of the festival
+qu6d	0	not answered
+qu6d	1	answered
+qu6e	Variable Label	Posters/flyers/info screens/festival programme
+qu6e	0	not answered
+qu6e	1	answered
+qu6f	Variable Label	Friends or family (oral news distribution)
+qu6f	0	not answered
+qu6f	1	answered
+qu6g	Variable Label	Tourist office/tourist guide/hotel
+qu6g	0	not answered
+qu6g	1	answered
+qu6h	Variable Label	School/university
+qu6h	0	not answered
+qu6h	1	answered
+qu6i	Variable Label	Former visit of the festival
+qu6i	0	not answered
+qu6i	1	answered
+qu6j	Variable Label	Email-Newsletter
+qu6j	0	not answered
+qu6j	1	answered
+qu6k	Variable Label	Accidentally
+qu6k	0	not answered
+qu6k	1	answered
+qu6l	Variable Label	Other
+qu6l	0	not answered
+qu6l	1	answered
+qu7a	Variable Label	To experience the atmosphere of a festival
+qu7a	0	not answered
+qu7a	1	answered
+qu7b	Variable Label	Tourist attraction
+qu7b	0	not answered
+qu7b	1	answered
+qu7c	Variable Label	To experience somethink new
+qu7c	0	not answered
+qu7c	1	answered
+qu7f	Variable Label	A world premiere happened
+qu7f	0	not answered
+qu7f	1	answered
+qu7g	Variable Label	 To encounter the performing artist(s) live
+qu7g	0	not answered
+qu7g	1	answered
+qu7h	Variable Label	Being with people who share my interests
+qu7h	0	not answered
+qu7h	1	answered
+qu7i	Variable Label	The venue/hall/space
+qu7i	0	not answered
+qu7i	1	answered
+qu7j	Variable Label	Music related professional reasons/networking
+qu7j	0	not answered
+qu7j	1	answered
+qu7k	Variable Label	To claim to have seen this cultural event
+qu7k	0	not answered
+qu7k	1	answered
+qu7l	Variable Label	To listen to “good” music
+qu7l	0	not answered
+qu7l	1	answered
+qu7m	Variable Label	To switch off/escape from everyday life
+qu7m	0	not answered
+qu7m	1	answered
+qu7n	Variable Label	To develop/educate myself
+qu7n	0	not answered
+qu7n	1	answered
+qu7o	Variable Label	 To share a special experience with others
+qu7o	0	not answered
+qu7o	1	answered
+qu7p	Variable Label	Nothing better to do
+qu7p	0	not answered
+qu7p	1	answered
+qu7r	Variable Label	Other
+qu7r	0	not answered
+qu7r	1	answered
+qu8a	Variable Label	The festival ... is a place of high culture.
+qu8a	1	strongly agree
+qu8a	2	agree
+qu8a	3	neither nor
+qu8a	4	disagree
+qu8a	5	strongly disagree
+qu8b	Variable Label	The festival ... is an open space for experiments.
+qu8b	1	strongly agree
+qu8b	2	agree
+qu8b	3	neither nor
+qu8b	4	disagree
+qu8b	5	strongly disagree
+qu8c	Variable Label	The festival ... is an important forum to support national contemporary art musi
+qu8c	1	strongly agree
+qu8c	2	agree
+qu8c	3	neither nor
+qu8c	4	disagree
+qu8c	5	strongly disagree
+qu8d	Variable Label	The festival ... is an important forum to support international contemporary art
+qu8d	1	strongly agree
+qu8d	2	agree
+qu8d	3	neither nor
+qu8d	4	disagree
+qu8d	5	strongly disagree
+qu8e	Variable Label	The festival ... provides essential opportunities to interact with contemporary
+qu8e	1	strongly agree
+qu8e	2	agree
+qu8e	3	neither nor
+qu8e	4	disagree
+qu8e	5	strongly disagree
+qu8f	Variable Label	The festival ... is a welcoming and friendly site.
+qu8f	1	strongly agree
+qu8f	2	agree
+qu8f	3	neither nor
+qu8f	4	disagree
+qu8f	5	strongly disagree
+qu8g	Variable Label	The festival ... serves as a space for a plurality of artistic styles.
+qu8g	1	strongly agree
+qu8g	2	agree
+qu8g	3	neither nor
+qu8g	4	disagree
+qu8g	5	strongly disagree
+qu8h	Variable Label	The festival ... is an international platform for artists from all over the worl
+qu8h	1	strongly agree
+qu8h	2	agree
+qu8h	3	neither nor
+qu8h	4	disagree
+qu8h	5	strongly disagree
+qu8i	Variable Label	The festival ... has an international audience.
+qu8i	1	strongly agree
+qu8i	2	agree
+qu8i	3	neither nor
+qu8i	4	disagree
+qu8i	5	strongly disagree
+qu8j	Variable Label	The festival ... is a place for experts only.
+qu8j	1	strongly agree
+qu8j	2	agree
+qu8j	3	neither nor
+qu8j	4	disagree
+qu8j	5	strongly disagree
+qu9	Variable Label	The festival also offers events and workshops in music education. Did/will you v
+qu9	1	I don’t know any of these events.
+qu9	2	I visited?/am going to attend these events
+qu9	3	I heard about these events, but did not attend them.
+Time	Variable Label	Time of event
+Type	Variable Label	Type of event
+Type	1	Larger ensemble
+Type	2	Mixed-arts, multimedia concert
+Type	3	Smaller ensemble
+Type	4	Music-theatre, Choir?/Vocal concert
+Type	5	Music mediation concert
+version	Variable Label	AUSSDA archive version

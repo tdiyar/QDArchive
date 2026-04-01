@@ -1,0 +1,459 @@
+﻿variable	value	Label
+doi	Variable Label	digital object identifier
+fr5	Variable Label	"Es wird mit einem neuen Sparpaket gerechent werden" & "Es wird mit neuerlichen Steuererhöhungen zu rechnen sein"
+fr5	Variable Label	genannt
+fr5	1	genannt
+fr5b	Variable Label	5a & 5b mit "nein" beantwortet
+fr5b	Variable Label	nicht genannt
+fr5b	1	genannt
+fr5c	Variable Label	<keine>
+gesamt	Variable Label	<keine>
+gesamt	1	Gesamt
+v10	Variable Label	Werde unterschreiben
+v10	1	ja
+v10	2	nein
+v10	3	W.N./K.A.
+v11	Variable Label	Gründe für Unterzeichnung des Volksbegehrens
+v11	1	Verfassungsmäßige Absicherung des Sozialstaates wichtig
+v11	2	Derzeitige Politik soll geändert werden
+v11	3	wichtig, notwendig, bedeutungsvoll
+v11	4	Weil es ein BürgerInnenrecht ist (direkte Demokratie)
+v11	5	Andere Antworten
+v11	6	W.N./K.A.
+v12	Variable Label	Gründe für Unterzeichnung des Volksbegehrens
+v12	1	Kein Vertrauen in den Nutzen von VB
+v12	2	zuwenig Information über das VB
+v12	3	Derzeitige Gesetzeslage reicht aus
+v12	4	Lehne das VB "Sozialstaat" ab
+v12	5	Volksbegehren ist mit unbekannt
+v12	6	Unterzeichnung des VB zu unbequem, zeitaufwändi
+v12	7	Andere Antworten
+v12	8	W.N./K.A.
+v13	Variable Label	Wem sollte die Absicherung im Fall von Krankheit, Unfall, Behinderung, Alter, Arbeitslosigkeit und Armut überlassen werden?
+v13	1	wie bisher
+v13	2	mehr privaten Initiativen
+v13	3	W.N./K.A.
+v14	Variable Label	Sollen soziale Einrichtungen nur mehr mit Zweidrittel-Mehrheit im Parlament abgeschafft werden können?
+v14	1	ja
+v14	2	nein
+v14	3	W.N./K.A.
+v15	Variable Label	Bekämen Gegner des Sozialstaats durch eine geringe Beteiligung am Volksbegehren "Sozialstaat Österreich" Auftrieb?
+v15	1	ja
+v15	2	nein
+v15	3	W.N./K.A.
+v16a	Variable Label	Bei Nationalratswahlen
+v16a	1	dafür
+v16a	2	dagegen
+v16a	3	W.N./K.A.
+v16b	Variable Label	Bei Gemeinderatswahlen
+v16b	1	dafür
+v16b	2	dagegen
+v16b	3	W.N./K.A.
+v17	Variable Label	Geschlecht
+v17	1	männlich
+v17	2	weiblich
+v18	Variable Label	Alter
+v18	1	bis 25 Jahre
+v18	2	26-35 Jahre
+v18	3	36-50 Jahre
+v18	4	51-65 Jahre
+v18	5	ab 66 Jahre
+v19	Variable Label	Schulbildung
+v19	1	Hochschule
+v19	2	Mittelschule
+v19	3	Berufs- oder Handelsschule
+v19	4	Pflichtschule ohne weitere Ausbildung (Volks- u. Hauptsch.)
+v1a1	Variable Label	W.N./K.A.
+v1a1	Variable Label	nicht genannt
+v1a1	1	genannt
+v1a10	Variable Label	BM Dr. Ferrero-Waldner
+v1a10	Variable Label	nicht genannt
+v1a10	1	genannt
+v1a11	Variable Label	NR-Präs. Dr. Fischer
+v1a11	Variable Label	nicht genannt
+v1a11	1	genannt
+v1a12	Variable Label	BM Dr. Gehrer
+v1a12	Variable Label	nicht genannt
+v1a12	1	genannt
+v1a2	Variable Label	Niemand
+v1a2	Variable Label	nicht genannt
+v1a2	1	genannt
+v1a3	Variable Label	Andere
+v1a3	Variable Label	nicht genannt
+v1a3	1	genannt
+v1a4	Variable Label	Dr. Androsch
+v1a4	Variable Label	nicht genannt
+v1a4	1	genannt
+v1a5	Variable Label	BM Dr. Bartenstein
+v1a5	Variable Label	nicht genannt
+v1a5	1	genannt
+v1a6	Variable Label	BM Dr. Böhmdorfer
+v1a6	Variable Label	nicht genannt
+v1a6	1	genannt
+v1a7	Variable Label	Dr. Cap
+v1a7	Variable Label	nicht genannt
+v1a7	1	genannt
+v1a8	Variable Label	Ao. z. NR Edlinger
+v1a8	Variable Label	nicht genannt
+v1a8	1	genannt
+v1a9	Variable Label	Dr. Einem
+v1a9	Variable Label	nicht genannt
+v1a9	1	genannt
+v1b1	Variable Label	BM Mag. Grasser
+v1b1	Variable Label	nicht genannt
+v1b1	1	genannt
+v1b10	Variable Label	BM Molterer
+v1b10	Variable Label	nicht genannt
+v1b10	1	genannt
+v1b11	Variable Label	Dr. Pilz
+v1b11	Variable Label	nicht genannt
+v1b11	1	genannt
+v1b12	Variable Label	Dipl.Ing. Prinzhorn
+v1b12	Variable Label	nicht genannt
+v1b12	1	genannt
+v1b2	Variable Label	Dr. Gusenbauer
+v1b2	Variable Label	nicht genannt
+v1b2	1	genannt
+v1b3	Variable Label	LH Dr. Haider
+v1b3	Variable Label	nicht genannt
+v1b3	1	genannt
+v1b4	Variable Label	BM Haupt
+v1b4	Variable Label	nicht genannt
+v1b4	1	genannt
+v1b5	Variable Label	BM Dr. Häupl
+v1b5	Variable Label	nicht genannt
+v1b5	1	genannt
+v1b6	Variable Label	Dr. Khol
+v1b6	Variable Label	nicht genannt
+v1b6	1	genannt
+v1b7	Variable Label	LH Klasnic
+v1b7	Variable Label	nicht genannt
+v1b7	1	genannt
+v1b8	Variable Label	BP Dr. Klestil
+v1b8	Variable Label	nicht genannt
+v1b8	1	genannt
+v1b9	Variable Label	Dr. Leitl
+v1b9	Variable Label	nicht genannt
+v1b9	1	genannt
+v1c1	Variable Label	LH Dr. Pröll
+v1c1	Variable Label	nicht genannt
+v1c1	1	genannt
+v1c10	Variable Label	Präs. Verzetnitsch
+v1c10	Variable Label	nicht genannt
+v1c10	1	genannt
+v1c11	Variable Label	Dr. Vranitzky
+v1c11	Variable Label	nicht genannt
+v1c11	1	genannt
+v1c12	Variable Label	Ing. Westenthaler
+v1c12	Variable Label	nicht genannt
+v1c12	1	genannt
+v1c2	Variable Label	LH Dr. Pühringer
+v1c2	Variable Label	nicht genannt
+v1c2	1	genannt
+v1c3	Variable Label	Rauch-Kallat
+v1c3	Variable Label	nicht genannt
+v1c3	1	genannt
+v1c4	Variable Label	Dr. Riess-Passer
+v1c4	Variable Label	nicht genannt
+v1c4	1	genannt
+v1c5	Variable Label	Sallmutter
+v1c5	Variable Label	nicht genannt
+v1c5	1	genannt
+v1c6	Variable Label	BM Scheibner
+v1c6	Variable Label	nicht genannt
+v1c6	1	genannt
+v1c7	Variable Label	BK Dr. Schüssel
+v1c7	Variable Label	nicht genannt
+v1c7	1	genannt
+v1c8	Variable Label	BM Strasser
+v1c8	Variable Label	nicht genannt
+v1c8	1	genannt
+v1c9	Variable Label	Dr. Van der Bellen
+v1c9	Variable Label	nicht genannt
+v1c9	1	genannt
+v20	Variable Label	Tätigkeit
+v20	1	In Ausbildung (Schule, Lehre, Universität)
+v20	2	Pension
+v20	3	Nur im Haushalt tätig
+v20	4	Arbeitslos
+v20	5	Selbständig
+v20	6	Landwirt
+v20	7	Hilfsarbeiter
+v20	8	Facharbeiter
+v20	9	Angestellter
+v20	10	Beamter
+v20	11	Anderes
+v21	Variable Label	Aktuelle Parteipräferenz
+v21	1	SPÖ
+v21	2	FPÖ
+v21	3	ÖVP
+v21	4	Grüne
+v21	5	LIF
+v21	6	KPÖ
+v21	7	Keine
+v21	8	K.A.
+v22	Variable Label	Parteipräferenz früher
+v22	1	SPÖ
+v22	2	FPÖ
+v22	3	ÖVP
+v22	4	Grüne
+v22	5	LIF
+v22	6	KPÖ
+v22	7	Keine
+v22	8	K.A.
+v23	Variable Label	Bundesland
+v23	1	Burgenland
+v23	2	Kärnten
+v23	3	Niederösterreich
+v23	4	Oberösterreich
+v23	5	Salzburg
+v23	6	Steiermark
+v23	7	Tirol
+v23	8	Vorarlberg
+v23	9	Wien
+v24a	Variable Label	Weil die Partei meine Berufsgruppe nicht mehr vertritt
+v24a	Variable Label	nicht genannt
+v24a	1	genannt
+v24b	Variable Label	Weil die Partei die Ausländerproblematik nicht ernst nimmt
+v24b	Variable Label	nicht genannt
+v24b	1	genannt
+v24c	Variable Label	Weil die Partei die Jugend nicht vertritt
+v24c	Variable Label	nicht genannt
+v24c	1	genannt
+v24d	Variable Label	Weil in der Partei so viel gestritten wird
+v24d	Variable Label	nicht genannt
+v24d	1	genannt
+v24e	Variable Label	Weil die Partei nichts zu bieten hat, wofür man sich begeistern kann
+v24e	Variable Label	nicht genannt
+v24e	1	genannt
+v24f	Variable Label	Weil die Partei die Pensionisten schlechter stellen will
+v24f	Variable Label	nicht genannt
+v24f	1	genannt
+v24g	Variable Label	Weil sich die Funktionäre der Partei schlecht aufführen
+v24g	Variable Label	nicht genannt
+v24g	1	genannt
+v24h	Variable Label	Weil ich einige Spitzenkandidaten als Person ablehne
+v24h	Variable Label	nicht genannt
+v24h	1	genannt
+v24i	Variable Label	Weil die Partei ihre Grundsätze vernachlässigt hat
+v24i	Variable Label	nicht genannt
+v24i	1	genannt
+v24j	Variable Label	Weil man sich nicht mehr auskennt, welche Ziele die Politiker tatsächlich verfolgen
+v24j	Variable Label	nicht genannt
+v24j	1	genannt
+v24k	Variable Label	Weil beim Budget die Ärmeren benachteiligt werden, und zwar zu Gunsten der Reicheren
+v24k	Variable Label	nicht genannt
+v24k	1	genannt
+v24l	Variable Label	Weil Politiker, die ich hoch schätze, sich zurückgezogen haben
+v24l	Variable Label	nicht genannt
+v24l	1	genannt
+v24m	Variable Label	Anderes
+v24m	Variable Label	nicht genannt
+v24m	1	genannt
+v24n	Variable Label	W.N./K.A.
+v24n	Variable Label	nicht genannt
+v24n	1	genannt
+v2a1	Variable Label	W.N./K.A.
+v2a1	Variable Label	nicht genannt
+v2a1	1	genannt
+v2a10	Variable Label	BM Dr. Ferrero-Waldner
+v2a10	Variable Label	nicht genannt
+v2a10	1	genannt
+v2a11	Variable Label	NR-Präs. Dr. Fischer
+v2a11	Variable Label	nicht genannt
+v2a11	1	genannt
+v2a12	Variable Label	BM Dr. Gehrer
+v2a12	Variable Label	nicht genannt
+v2a12	1	genannt
+v2a2	Variable Label	Niemand
+v2a2	Variable Label	nicht genannt
+v2a2	1	genannt
+v2a3	Variable Label	Andere
+v2a3	Variable Label	nicht genannt
+v2a3	1	genannt
+v2a4	Variable Label	Dr. Androsch
+v2a4	Variable Label	nicht genannt
+v2a4	1	genannt
+v2a5	Variable Label	BM Bartenstein
+v2a5	Variable Label	nicht genannt
+v2a5	1	genannt
+v2a6	Variable Label	BM Böhmdorfer
+v2a6	Variable Label	nicht genannt
+v2a6	1	genannt
+v2a7	Variable Label	Dr. Cap
+v2a7	Variable Label	nicht genannt
+v2a7	1	genannt
+v2a8	Variable Label	Ao. z. NR Edlinger
+v2a8	Variable Label	nicht genannt
+v2a8	1	genannt
+v2a9	Variable Label	Dr. Einem
+v2a9	Variable Label	nicht genannt
+v2a9	1	genannt
+v2b1	Variable Label	BM Mag. Grasser
+v2b1	Variable Label	nicht genannt
+v2b1	1	genannt
+v2b10	Variable Label	BM Molterer
+v2b10	Variable Label	nicht genannt
+v2b10	1	genannt
+v2b11	Variable Label	Dr. Pilz
+v2b11	Variable Label	nicht genannt
+v2b11	1	genannt
+v2b12	Variable Label	Dipl.Ing. Prinzhorn
+v2b12	Variable Label	nicht genannt
+v2b12	1	genannt
+v2b2	Variable Label	Dr. Gusenbauer
+v2b2	Variable Label	nicht genannt
+v2b2	1	genannt
+v2b3	Variable Label	LH Dr. Haider
+v2b3	Variable Label	nicht genannt
+v2b3	1	genannt
+v2b4	Variable Label	BM Haupt
+v2b4	Variable Label	nicht genannt
+v2b4	1	genannt
+v2b5	Variable Label	BM Dr. Häupl
+v2b5	Variable Label	nicht genannt
+v2b5	1	genannt
+v2b6	Variable Label	Dr. Khol
+v2b6	Variable Label	nicht genannt
+v2b6	1	genannt
+v2b7	Variable Label	LH Klasnic
+v2b7	Variable Label	nicht genannt
+v2b7	1	genannt
+v2b8	Variable Label	BP Dr. Klestil
+v2b8	Variable Label	nicht genannt
+v2b8	1	genannt
+v2b9	Variable Label	Dr. Leitl
+v2b9	Variable Label	nicht genannt
+v2b9	1	genannt
+v2c1	Variable Label	LH Dr. Pröll
+v2c1	Variable Label	nicht genannt
+v2c1	1	genannt
+v2c10	Variable Label	Präs. Verzetnitsch
+v2c10	Variable Label	nicht genannt
+v2c10	1	genannt
+v2c11	Variable Label	Dr. Vranitzky
+v2c11	Variable Label	nicht genannt
+v2c11	1	genannt
+v2c12	Variable Label	Ing. Westenthaler
+v2c12	Variable Label	nicht genannt
+v2c12	1	genannt
+v2c2	Variable Label	LH Dr. Pühringer
+v2c2	Variable Label	nicht genannt
+v2c2	1	genannt
+v2c3	Variable Label	Rauch-Kallat
+v2c3	Variable Label	nicht genannt
+v2c3	1	genannt
+v2c4	Variable Label	Dr. Riess-Passer
+v2c4	Variable Label	nicht genannt
+v2c4	1	genannt
+v2c5	Variable Label	Sallmutter
+v2c5	Variable Label	nicht genannt
+v2c5	1	genannt
+v2c6	Variable Label	BM Scheibner
+v2c6	Variable Label	nicht genannt
+v2c6	1	genannt
+v2c7	Variable Label	BK Dr. Schüssel
+v2c7	Variable Label	nicht genannt
+v2c7	1	genannt
+v2c8	Variable Label	BM Strasser
+v2c8	Variable Label	nicht genannt
+v2c8	1	genannt
+v2c9	Variable Label	Dr. Van der Bellen
+v2c9	Variable Label	nicht genannt
+v2c9	1	genannt
+v3	Variable Label	Einstellung zu Eigentümerverhältnissen der österreichischen Wasserkraft
+v3	1	Mehrheitlich in österr. Hand bleiben
+v3	2	Ins Ausland verkauft werden
+v3	3	Ist mir egal
+v3	4	W.N./K.A.
+v4	Variable Label	Ist eine Steuersenkung unter der Voraussetzung des Nulldefizits möglich?
+v4	1	ja
+v4	2	nein
+v4	3	W.N./K.A.
+v5a	Variable Label	Mit einem neuen Sparpaket
+v5a	1	ja
+v5a	2	nein
+v5a	3	W.N./K.A.
+v5b	Variable Label	Mit neuerlichen Steuererhöhungen
+v5b	1	ja
+v5b	2	nein
+v5b	3	W.N./K.A.
+v6	Variable Label	Wahscheinlichkeit eines Unfalls wie in Tschernobyl in einem grenznahen AKW
+v6	1	sehr wahrscheinlich
+v6	2	eher wahrscheinlich
+v6	3	eher unwahrscheinlich
+v6	4	völlig unwahrscheinlich
+v6	5	W.N./K.A.
+v7a	Variable Label	..dem Austreten einer radioaktiven Dampfwolke bei einem Unfall
+v7a	1	sehr
+v7a	2	etwas
+v7a	3	wenig
+v7a	4	gar nicht
+v7a	5	W.N./K.A.
+v7b	Variable Label	..einer Verstrahlung beim Transport von radioaktivem Material
+v7b	1	sehr
+v7b	2	etwas
+v7b	3	wenig
+v7b	4	gar nicht
+v7b	5	W.N./K.A.
+v7c	Variable Label	..einem ausbrechenden Chaos nach einem radioaktiven Störfall
+v7c	1	sehr
+v7c	2	etwas
+v7c	3	wenig
+v7c	4	gar nicht
+v7c	5	W.N./K.A.
+v7d	Variable Label	..Gesundheitsgefährdung (erhöhtes Krebsrisiko)
+v7d	1	sehr
+v7d	2	etwas
+v7d	3	wenig
+v7d	4	gar nicht
+v7d	5	W.N./K.A.
+v7e	Variable Label	..genetischen Schädigungen (Missbildungen)
+v7e	1	sehr
+v7e	2	etwas
+v7e	3	wenig
+v7e	4	gar nicht
+v7e	5	W.N./K.A.
+v7f	Variable Label	..Schaden für die österreichische Landwirtschaft
+v7f	1	sehr
+v7f	2	etwas
+v7f	3	wenig
+v7f	4	gar nicht
+v7f	5	W.N./K.A.
+v7g	Variable Label	..Nahrungsmittelverstrahlung
+v7g	1	sehr
+v7g	2	etwas
+v7g	3	wenig
+v7g	4	gar nicht
+v7g	5	W.N./K.A.
+v7h	Variable Label	..einem Terrorangriff
+v7h	1	sehr
+v7h	2	etwas
+v7h	3	wenig
+v7h	4	gar nicht
+v7h	5	W.N./K.A.
+v8a	Variable Label	In der Wohnung bleiben und Fenster schließen
+v8a	1	ja
+v8a	2	nein
+v8a	3	W.N./K.A.
+v8b	Variable Label	Einen Strahlenschutzkeller aufsuchen
+v8b	1	ja
+v8b	2	nein
+v8b	3	W.N./K.A.
+v8c	Variable Label	Jodtabletten essen
+v8c	1	ja
+v8c	2	nein
+v8c	3	W.N./K.A.
+v8d	Variable Label	Fenster öffnen und lüften
+v8d	1	ja
+v8d	2	nein
+v8d	3	W.N./K.A.
+v8e	Variable Label	Aus der Gefahrenzone flüchten
+v8e	1	ja
+v8e	2	nein
+v8e	3	W.N./K.A.
+v9	Variable Label	Kenntnis des Volksbegehrens "Sozialstaat Österreich"
+v9	1	ja
+v9	2	nein
+v9	3	W.N./K.A.
+version	Variable Label	AUSSDA archive version

@@ -17,7 +17,7 @@ from tqdm import tqdm
 API_BASE = "https://zenodo.org/api"
 REPOSITORY_ID = 1
 REPOSITORY_URL = "https://zenodo.org"
-TOO_LARGE_BYTES = 5_000_000_000  # 5 GB
+MAX_DOWNLOAD_SIZE = 10 * 1024 * 1024  # 10 MB
 
 _ROLE_MAP = {"uploader": "UPLOADER", "author": "AUTHOR", "owner": "OWNER"}
 
@@ -211,9 +211,10 @@ def _process_record(
             continue
 
         size = f.get("size") or 0
-        if size > TOO_LARGE_BYTES:
+        if size > MAX_DOWNLOAD_SIZE:
             with lock:
                 conn.execute("INSERT OR IGNORE INTO FILES(project_id,file_name,file_type,status) VALUES(?,?,?,?)", (pid, name, _ext(name), "FAILED_TOO_LARGE"))
+            tqdm.write(f"  [{rec_id}] SKIPPED {name} ({size / 1_000_000:.1f} MB > 10 MB limit)")
             failed += 1
             continue
 

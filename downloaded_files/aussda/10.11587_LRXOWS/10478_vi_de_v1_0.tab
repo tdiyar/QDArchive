@@ -1,0 +1,332 @@
+﻿variable	value	Label
+doi	Variable Label	digital object identifier
+v1	Variable Label	"Suchtmittel und Drogen in Österreich": ein Problem?
+v1	1	ein großes Problem
+v1	2	ein mittleres Problem
+v1	3	ein geringes Problem
+v1	4	kein wirkliches Problem
+v1	5	W.N./K.A.
+v10a	Variable Label	In der eigenen Familie
+v10a	1	Ja
+v10a	2	Nein
+v10b	Variable Label	Bei Nahestehenden und guten Bekannten
+v10b	1	Ja
+v10b	2	Nein
+v10c	Variable Label	Mit Suchtverhalten, das Sie bei sich selbst bekämpfen
+v10c	1	Ja
+v10c	2	Nein
+v10d	Variable Label	Mit Suchtverhalten, das Sie überwunden haben
+v10d	1	Ja
+v10d	2	Nein
+v11	Variable Label	Geschätzter Anteil junger Menschen in Österreich, die von harten, gefährlichen Drogen abhängig sind:
+v11	1	> 20%
+v11	2	10-20%
+v11	3	5-10%
+v11	4	2-5%
+v11	5	<2%
+v11	6	W.N./K.A.
+v12	Variable Label	In 20 Jahren: Mehr oder weniger Drogenabhängige unter der Jugend als heute?
+v12	1	mehr Drogenabhängige
+v12	2	weniger Drogenabhängige
+v12	3	gleich viele
+v12	4	W.N./K.A.
+v13	Variable Label	Geschätzter Anteil der Menschen in Österreich, die von Alkohol abhängig sind:
+v13	1	> 20%
+v13	2	10-20%
+v13	3	5-10%
+v13	4	2-5%
+v13	5	<2%
+v13	6	W.N./K.A.
+v14	Variable Label	Geschätzter Anteil junger Menschen in Österreich, die bewusst Suchtgifte vermeiden bzw. so gefestigt / so gut sozial eingebunden sind, dass sie nicht abhängig werden:
+v14	1	Die große Mehrheit
+v14	2	Mehr als die Hälfte
+v14	3	Mehr als ein Viertel
+v14	4	Nur ein kleiner Teil
+v14	5	Eigentlich niemand ist davor geschützt
+v14	6	W.N./K.A.
+v15	Variable Label	In 20 Jahren: Mehr, gleich viele oder weniger stabile junge Menschen als heute?
+v15	1	Viel mehr
+v15	2	Eher mehr
+v15	3	Gleich viel
+v15	4	Eher weniger
+v15	5	Viel weniger
+v15	6	Niemand wird davor geschützt sein
+v15	7	W.N./K.A.
+v16	Variable Label	Geschlecht
+v16	1	männlich
+v16	2	weiblich
+v17	Variable Label	Alter
+v17	1	bis 25 Jahre
+v17	2	26-35 Jahre
+v17	3	36-50 Jahre
+v17	4	51-65 Jahre
+v17	5	ab 66 Jahre
+v18	Variable Label	Schulbildung
+v18	1	Hochschule
+v18	2	Mittelschule
+v18	3	Berufs- oder Handelsschule
+v18	4	Pflichtschule ohne weitere Ausbildung (Volks- u. Hauptsch.)
+v19	Variable Label	Tätigkeit
+v19	1	In Ausbildung (Schule, Lehre, Universität)
+v19	2	Pension
+v19	3	Nur im Haushalt tätig
+v19	4	Arbeitslos
+v19	5	Selbständig
+v19	6	Landwirt
+v19	7	Hilfsarbeiter
+v19	8	Facharbeiter
+v19	9	Angestellter
+v19	10	Beamter
+v19	11	Anderes
+v20	Variable Label	Aktuelle Parteipräferenz
+v20	1	SPÖ
+v20	2	FPÖ
+v20	3	ÖVP
+v20	4	Grüne
+v20	5	LIF
+v20	6	KPÖ
+v20	7	Keine
+v20	8	K.A.
+v21	Variable Label	Parteipräferenz früher
+v21	1	SPÖ
+v21	2	FPÖ
+v21	3	ÖVP
+v21	4	Grüne
+v21	5	LIF
+v21	6	KPÖ
+v21	7	Keine
+v21	8	K.A.
+v22	Variable Label	Bundesland
+v22	1	Wien
+v22	2	Burgenland
+v22	3	Niederösterreich
+v22	4	Oberösterreich
+v22	5	Salzburg
+v22	6	Tirol
+v22	7	Vorarlberg
+v22	8	Steiermark
+v22	9	Kärnten
+v2a	Variable Label	Opiate, Heroin
+v2a	1	schon bei geringem Konsum gefährlich
+v2a	2	bei größerem Konsum gefährlich
+v2a	3	nur für den Abhängigen gefährlich
+v2a	4	überhaupt nicht sehr gefährlich
+v2a	5	W.N./K.A
+v2b	Variable Label	Kokain
+v2b	1	schon bei geringem Konsum gefährlich
+v2b	2	bei größerem Konsum gefährlich
+v2b	3	nur für den Abhängigen gefährlich
+v2b	4	überhaupt nicht sehr gefährlich
+v2b	5	W.N./K.A
+v2c	Variable Label	Amphetamine, Speed
+v2c	1	schon bei geringem Konsum gefährlich
+v2c	2	bei größerem Konsum gefährlich
+v2c	3	nur für den Abhängigen gefährlich
+v2c	4	überhaupt nicht sehr gefährlich
+v2c	5	W.N./K.A
+v2d	Variable Label	Ecstasy
+v2d	1	schon bei geringem Konsum gefährlich
+v2d	2	bei größerem Konsum gefährlich
+v2d	3	nur für den Abhängigen gefährlich
+v2d	4	überhaupt nicht sehr gefährlich
+v2d	5	W.N./K.A
+v2e	Variable Label	Haschisch, Marihuana (Cannabis)
+v2e	1	schon bei geringem Konsum gefährlich
+v2e	2	bei größerem Konsum gefährlich
+v2e	3	nur für den Abhängigen gefährlich
+v2e	4	überhaupt nicht sehr gefährlich
+v2e	5	W.N./K.A
+v2f	Variable Label	Alkohol
+v2f	1	schon bei geringem Konsum gefährlich
+v2f	2	bei größerem Konsum gefährlich
+v2f	3	nur für den Abhängigen gefährlich
+v2f	4	überhaupt nicht sehr gefährlich
+v2f	5	W.N./K.A
+v2g	Variable Label	Nikotin
+v2g	1	schon bei geringem Konsum gefährlich
+v2g	2	bei größerem Konsum gefährlich
+v2g	3	nur für den Abhängigen gefährlich
+v2g	4	überhaupt nicht sehr gefährlich
+v2g	5	W.N./K.A
+v2h	Variable Label	Medikamente (z.B. Beruhigungs- u. Schlafmittel)
+v2h	1	schon bei geringem Konsum gefährlich
+v2h	2	bei größerem Konsum gefährlich
+v2h	3	nur für den Abhängigen gefährlich
+v2h	4	überhaupt nicht sehr gefährlich
+v2h	5	W.N./K.A
+v3a	Variable Label	Angeborene Veranlagung
+v3a	1	vorwiegend
+v3a	2	eher schon
+v3a	3	eher nicht
+v3a	4	gar nicht
+v3a	5	W.N./K.A.
+v3b	Variable Label	Kindheitsprobleme in der Familie
+v3b	1	vorwiegend
+v3b	2	eher schon
+v3b	3	eher nicht
+v3b	4	gar nicht
+v3b	5	W.N./K.A.
+v3c	Variable Label	Schwierigkeiten in der Jugend
+v3c	1	vorwiegend
+v3c	2	eher schon
+v3c	3	eher nicht
+v3c	4	gar nicht
+v3c	5	W.N./K.A.
+v3d	Variable Label	Verführung im Freundeskreis
+v3d	1	vorwiegend
+v3d	2	eher schon
+v3d	3	eher nicht
+v3d	4	gar nicht
+v3d	5	W.N./K.A.
+v3e	Variable Label	Verführung durch Händler/Szene
+v3e	1	vorwiegend
+v3e	2	eher schon
+v3e	3	eher nicht
+v3e	4	gar nicht
+v3e	5	W.N./K.A.
+v3f	Variable Label	Schwierigkeiten im Beruf oder Partnerschaft
+v3f	1	vorwiegend
+v3f	2	eher schon
+v3f	3	eher nicht
+v3f	4	gar nicht
+v3f	5	W.N./K.A.
+v3g	Variable Label	Infolge längerer oder schwerer Krankheit
+v3g	1	vorwiegend
+v3g	2	eher schon
+v3g	3	eher nicht
+v3g	4	gar nicht
+v3g	5	W.N./K.A.
+v4a	Variable Label	Angeborene Veranlagung
+v4a	1	vorwiegend
+v4a	2	eher schon
+v4a	3	eher nicht
+v4a	4	gar nicht
+v4a	5	W.N./K.A.
+v4b	Variable Label	Kindheitsprobleme in der Familie
+v4b	1	vorwiegend
+v4b	2	eher schon
+v4b	3	eher nicht
+v4b	4	gar nicht
+v4b	5	W.N./K.A.
+v4c	Variable Label	Schwierigkeiten in der Jugend
+v4c	1	vorwiegend
+v4c	2	eher schon
+v4c	3	eher nicht
+v4c	4	gar nicht
+v4c	5	W.N./K.A.
+v4d	Variable Label	Verführung im Freundeskreis
+v4d	1	vorwiegend
+v4d	2	eher schon
+v4d	3	eher nicht
+v4d	4	gar nicht
+v4d	5	W.N./K.A.
+v4e	Variable Label	Verführung durch Werbung/Handel
+v4e	1	vorwiegend
+v4e	2	eher schon
+v4e	3	eher nicht
+v4e	4	gar nicht
+v4e	5	W.N./K.A.
+v4f	Variable Label	Schwierigkeiten im Beruf oder Partnerschaft
+v4f	1	vorwiegend
+v4f	2	eher schon
+v4f	3	eher nicht
+v4f	4	gar nicht
+v4f	5	W.N./K.A.
+v4g	Variable Label	durch Krankheit
+v4g	1	vorwiegend
+v4g	2	eher schon
+v4g	3	eher nicht
+v4g	4	gar nicht
+v4g	5	W.N./K.A.
+v5a	Variable Label	Opiate, Heroin
+v5a	Variable Label	nicht genannt
+v5a	1	genannt
+v5b	Variable Label	Kokain
+v5b	Variable Label	nicht genannt
+v5b	1	genannt
+v5c	Variable Label	Amphetamine, Speed
+v5c	Variable Label	nicht genannt
+v5c	1	genannt
+v5d	Variable Label	Ecstasy
+v5d	Variable Label	nicht genannt
+v5d	1	genannt
+v5e	Variable Label	Haschisch, Marihuana (Cannabis)
+v5e	Variable Label	nicht genannt
+v5e	1	genannt
+v5f	Variable Label	Alkohol
+v5f	Variable Label	nicht genannt
+v5f	1	genannt
+v5g	Variable Label	Nikotin
+v5g	Variable Label	nicht genannt
+v5g	1	genannt
+v5h	Variable Label	Medikamente (Beruhigungs- u. Schlafmittel)
+v5h	Variable Label	nicht genannt
+v5h	1	genannt
+v6a	Variable Label	Verbot des Konsums gefährlicher Suchtmittel und strenge Bestrafung des Handels damit
+v6a	1	in 1. Linie
+v6a	2	in 2. Linie
+v6a	3	auch noch
+v6a	4	eher nicht
+v6a	5	sicher nicht
+v6a	6	W.N./K.A.
+v6b	Variable Label	Intensive Betreuung und Therapie von allen Drogenabhängigen
+v6b	1	in 1. Linie
+v6b	2	in 2. Linie
+v6b	3	auch noch
+v6b	4	eher nicht
+v6b	5	sicher nicht
+v6b	6	W.N./K.A.
+v6c	Variable Label	Kontrollierte Abgabe von harten Drogen an Suchtkranke, um die Kriminalität der Drogenabhängigen einzudämmen
+v6c	1	in 1. Linie
+v6c	2	in 2. Linie
+v6c	3	auch noch
+v6c	4	eher nicht
+v6c	5	sicher nicht
+v6c	6	W.N./K.A.
+v6d	Variable Label	Vorbeugende und präventive Maßnahmen zur Suchtvermeidung für Kinder, Jugendliche und Eltern
+v6d	1	in 1. Linie
+v6d	2	in 2. Linie
+v6d	3	auch noch
+v6d	4	eher nicht
+v6d	5	sicher nicht
+v6d	6	W.N./K.A.
+v6e	Variable Label	Ständige aufklärende Information über Suchtgefahren durch Fernsehen, Rundfunk und Presse
+v6e	1	in 1. Linie
+v6e	2	in 2. Linie
+v6e	3	auch noch
+v6e	4	eher nicht
+v6e	5	sicher nicht
+v6e	6	W.N./K.A.
+v7	Variable Label	Weniger Drogenkonsum durch mehr Disziplin?
+v7	1	Ja
+v7	2	Nein
+v7	3	W.N./K.A.
+v8	Variable Label	Weniger Drogenkonsum durch weniger Stress, Vereinsamung und Überforderung in unserer Gesellschaft?
+v8	1	Ja
+v8	2	Nein
+v8	3	W.N./K.A.
+v9a	Variable Label	Opiate, Heroin
+v9a	1	Ja
+v9a	2	Nein
+v9b	Variable Label	Kokain
+v9b	1	Ja
+v9b	2	Nein
+v9c	Variable Label	Amphetamine, Speed
+v9c	1	Ja
+v9c	2	Nein
+v9d	Variable Label	Ecstasy
+v9d	1	Ja
+v9d	2	Nein
+v9e	Variable Label	Haschisch, Marihuana (Cannabis)
+v9e	1	Ja
+v9e	2	Nein
+v9f	Variable Label	Alkohol
+v9f	1	Ja
+v9f	2	Nein
+v9g	Variable Label	Nikotin
+v9g	1	Ja
+v9g	2	Nein
+v9h	Variable Label	Medikamente (Beruhigungs- u. Schlafmittel)
+v9h	1	Ja
+v9h	2	Nein
+version	Variable Label	AUSSDA archive version

@@ -1,0 +1,569 @@
+﻿variable	value	Label
+doi	Variable Label	digital object identifier
+M1	Variable Label	M1. Spreche ich mit jener Person, die damals teilgenommen hat?
+M1	1	Ja
+M1	2	Nein
+M1	99	Keine Angabe
+M11	Variable Label	M11. Interviewer: Gab es während des Interviews Unterbrechungen?
+M11	1	Nein
+M11	2	Ja, es gab eine kurze Unterbrechung (Minuten)
+M11	3	Ja, es gab eine längere Unterbrechung (Ein neuer Termin)
+M11	77	Anderes
+M12	Variable Label	M12. Interviewer: Wer beantwortete die Fragen?
+M12	1	Ausschließlich der Befragte
+M12	2	Der  Befragte hat das Telefon an jemanden anderen weitergegeben.
+M12	3	Der  Befragte hat das Telefon manchmal an jemanden anderen weitergegeben.
+M12	4	Der Befragte hat die Antworten manchmal mit einer anderen Person im Hintergrund besprochen.
+M12	5	Der Lautsprecher des Telefons war angestellt - mehrere Personen haben geantwortet.
+M12	77	Andere
+M2	Variable Label	M2. Möchten Sie an der Erhebung teilnehmen?
+M2	1	Ja
+M2	2	Nein
+M2	99	Keine Angabe
+M6	Variable Label	M6. Interviewer: Wie viele Kontaktversuchen waren nötig bis es zu dem Interview
+M8	Variable Label	M8. Interviewer: In welcher Sprache wurde das Interview hauptsächlich durchgefüh
+M8	1	Arabisch
+M8	2	Persisch
+M8	3	Kurdisch
+M8	4	Englisch
+M8	5	Deutsch
+M8	77	Andere
+M9	Variable Label	M9. Interviewer: Bitte das Geschlecht des/der Befragten auswählen
+M9	1	Männlich
+M9	2	Weiblich
+Q1_age_group	Variable Label	RECODE of age
+Q1_age_group	3	Below 18
+Q1_age_group	4	18-19
+Q1_age_group	5	20-24
+Q1_age_group	6	25-29
+Q1_age_group	7	30-34
+Q1_age_group	8	35-39
+Q1_age_group	9	40-44
+Q1_age_group	10	45-49
+Q1_age_group	11	50-54
+Q1_age_group	12	55-59
+Q1_age_group	13	60-64
+Q1_age_group	14	65-69
+Q1_age_group	15	70-74
+Q1_age_group	16	75-80
+Q10	Variable Label	Q10. Wie stark waren Ihre körperlichen Schmerzen in den vergangenen vier Wochen?
+Q10	1	Sehr leicht
+Q10	2	Leicht
+Q10	3	Mäßig
+Q10	4	Stark
+Q10	5	Sehr stark
+Q10	66	Frage nicht gestellt
+Q10	88	Weiß nicht
+Q10	99	Keine Angabe
+Q11	Variable Label	Q11. Ich habe wenig Interesse oder Freude an meinen Tätigkeiten.
+Q11	1	Nie
+Q11	2	An manchen Tagen
+Q11	3	An mehr als der Hälfte der Tage
+Q11	4	Beinahe jeden Tag
+Q11	88	Weiß nicht
+Q11	99	Keine Angabe
+Q12	Variable Label	Q12. Ich fühle mich niedergeschlagen, schwermütig oder hoffnungslos.
+Q12	1	Nie
+Q12	2	An manchen Tagen
+Q12	3	An mehr als der Hälfte der Tage
+Q12	4	Beinahe jeden Tag
+Q12	88	Weiß nicht
+Q12	99	Keine Angabe
+Q13	Variable Label	Q13. Ich habe Schwierigkeiten ein- oder durchzuschlafen oder habe übermäßigen Sc
+Q13	1	Nie
+Q13	2	An manchen Tagen
+Q13	3	An mehr als der Hälfte der Tage
+Q13	4	Beinahe jeden Tag
+Q13	88	Weiß nicht
+Q13	99	Keine Angabe
+Q14	Variable Label	Q14. Ich fühle mich müde oder habe das Gefühl, wenig Energie zu haben.
+Q14	1	Nie
+Q14	2	An manchen Tagen
+Q14	3	An mehr als der Hälfte der Tage
+Q14	4	Beinahe jeden Tag
+Q14	88	Weiß nicht
+Q14	99	Keine Angabe
+Q15	Variable Label	Q15. Ich habe verminderten Appetit oder stark gesteigerten Appetit.
+Q15	1	Nie
+Q15	2	An manchen Tagen
+Q15	3	An mehr als der Hälfte der Tage
+Q15	4	Beinahe jeden Tag
+Q15	88	Weiß nicht
+Q15	99	Keine Angabe
+Q16	Variable Label	Q16. Ich habe eine schlechte Meinung von mir selbst, das Gefühl versagt zu haben
+Q16	1	Nie
+Q16	2	An manchen Tagen
+Q16	3	An mehr als der Hälfte der Tage
+Q16	4	Beinahe jeden Tag
+Q16	88	Weiß nicht
+Q16	99	Keine Angabe
+Q17	Variable Label	Q17. Ich habe Schwierigkeiten mich auf etwas zu konzentrieren, z.B. beim Zeitung
+Q17	1	Nie
+Q17	2	An manchen Tagen
+Q17	3	An mehr als der Hälfte der Tage
+Q17	4	Beinahe jeden Tag
+Q17	88	Weiß nicht
+Q17	99	Keine Angabe
+Q18	Variable Label	Q18. Ich bin bei Bewegungen oder beim Sprechen so stark verlangsamt, dass es and
+Q18	1	Nie
+Q18	2	An manchen Tagen
+Q18	3	An mehr als der Hälfte der Tage
+Q18	4	Beinahe jeden Tag
+Q18	88	Weiß nicht
+Q18	99	Keine Angabe
+Q19	Variable Label	Q19. Ich fühle mich nervös, ängstlich oder angespannt.
+Q19	1	Nie
+Q19	2	An manchen Tagen
+Q19	3	An mehr als der Hälfte der Tage
+Q19	4	Beinahe jeden Tag
+Q19	88	Weiß nicht
+Q19	99	Keine Angabe
+Q2	Variable Label	Q2. Bitte geben Sie nochmal Ihre Staatsbürgerschaft an.
+Q2	1	Syrien
+Q2	2	Irak
+Q2	3	Afghanistan
+Q2	77	Andere
+Q20	Variable Label	Q20. Ich kann meine Sorgen nicht stoppen oder kontrollieren.
+Q20	1	Nie
+Q20	2	An manchen Tagen
+Q20	3	An mehr als der Hälfte der Tage
+Q20	4	Beinahe jeden Tag
+Q20	88	Weiß nicht
+Q20	99	Keine Angabe
+Q21	Variable Label	Q21. Ich habe übermäßige Sorgen bezüglich verschiedener Angelegenheiten.
+Q21	1	Nie
+Q21	2	An manchen Tagen
+Q21	3	An mehr als der Hälfte der Tage
+Q21	4	Beinahe jeden Tag
+Q21	88	Weiß nicht
+Q21	99	Keine Angabe
+Q22	Variable Label	Q22. Ich habe Schwierigkeiten zu entspannen.
+Q22	1	Nie
+Q22	2	An manchen Tagen
+Q22	3	An mehr als der Hälfte der Tage
+Q22	4	Beinahe jeden Tag
+Q22	88	Weiß nicht
+Q22	99	Keine Angabe
+Q23	Variable Label	Q23. Ich fühle mich rastlos, so dass Stillsitzen schwer fällt.
+Q23	1	Nie
+Q23	2	An manchen Tagen
+Q23	3	An mehr als der Hälfte der Tage
+Q23	4	Beinahe jeden Tag
+Q23	88	Weiß nicht
+Q23	99	Keine Angabe
+Q24	Variable Label	Q24. Ich bin schnell verärgert oder gereizt.
+Q24	1	Nie
+Q24	2	An manchen Tagen
+Q24	3	An mehr als der Hälfte der Tage
+Q24	4	Beinahe jeden Tag
+Q24	88	Weiß nicht
+Q24	99	Keine Angabe
+Q25	Variable Label	Q25. Ich habe ein Gefühl der Angst, so als würde etwas Schlimmes passieren.
+Q25	1	Nie
+Q25	2	An manchen Tagen
+Q25	3	An mehr als der Hälfte der Tage
+Q25	4	Beinahe jeden Tag
+Q25	88	Weiß nicht
+Q25	99	Keine Angabe
+Q26	Variable Label	Q26. Ich habe Albträume.
+Q26	1	Nie
+Q26	2	An manchen Nächten
+Q26	3	An mehr als der Hälfte der Nächte
+Q26	4	Beinahe jede Nacht
+Q26	88	Weiß nicht
+Q26	99	Keine Angabe
+Q27	Variable Label	Q27. Waren Sie in den letzten 12 Monaten bei einem Arzt oder Therapeuten?
+Q27	1	Ja
+Q27	2	Nein
+Q27	88	Weiß nicht
+Q27	99	Keine Angabe
+Q28_1	Variable Label	Q28 Gewesen bei: Arzt für Allgemeinmedizin
+Q28_1	1	Option gewählt
+Q28_1	2	Option nicht gewählt
+Q28_1	66	Frage nicht gestellt
+Q28_2	Variable Label	Q28 Gewesen bei: Zahnarzt
+Q28_2	1	Option gewählt
+Q28_2	2	Option nicht gewählt
+Q28_2	66	Frage nicht gestellt
+Q28_3	Variable Label	Q28 Gewesen bei: Facharzt (z.B. für Augen, innere Medizin)
+Q28_3	1	Option gewählt
+Q28_3	2	Option nicht gewählt
+Q28_3	66	Frage nicht gestellt
+Q28_4	Variable Label	Q28 Gewesen bei: Psychologen, Psychotherapeuten oder Psychiater
+Q28_4	1	Option gewählt
+Q28_4	2	Option nicht gewählt
+Q28_4	66	Frage nicht gestellt
+Q28_5	Variable Label	Q28 Gewesen bei: Physiotherapeuten
+Q28_5	1	Option gewählt
+Q28_5	2	Option nicht gewählt
+Q28_5	66	Frage nicht gestellt
+Q28_88	Variable Label	Q28 Gewesen bei: Weiß nicht
+Q28_88	1	Option gewählt
+Q28_88	2	Option nicht gewählt
+Q28_88	66	Frage nicht gestellt
+Q28_99	Variable Label	<keine>
+Q28_99	1	Option gewählt
+Q28_99	2	Option nicht gewählt
+Q28_99	66	Frage nicht gestellt
+Q29	Variable Label	Q29. Haben Sie in den letzten 12 Monaten einen Arzt oder Therapeuten benötigt, a
+Q29	1	Ja
+Q29	2	Nein
+Q29	88	Weiß nicht
+Q29	99	Keine Angabe
+Q29_1	Variable Label	Q29 Benötigt, aber nicht beansprucht: Arzt für Allgemeinmedizin
+Q29_1	1	Option gewählt
+Q29_1	2	Option nicht gewählt
+Q29_2	Variable Label	Q29 Benötigt, aber nicht beansprucht: Zahnarzt
+Q29_2	1	Option gewählt
+Q29_2	2	Option nicht gewählt
+Q29_3	Variable Label	Q29 Benötigt, aber nicht beansprucht: Facharzt (z.B. für Augen, innere Medizin)
+Q29_3	1	Option gewählt
+Q29_3	2	Option nicht gewählt
+Q29_4	Variable Label	Q29 Benötigt, aber nicht beansprucht: Psychologen, Psychotherapeuten oder Psychi
+Q29_4	1	Option gewählt
+Q29_4	2	Option nicht gewählt
+Q29_5	Variable Label	Q29 Benötigt, aber nicht beansprucht: Physiotherapeuten
+Q29_5	1	Option gewählt
+Q29_5	2	Option nicht gewählt
+Q29_6	Variable Label	Q29 Benötigt, aber nicht beansprucht: Nein
+Q29_6	1	Option gewählt
+Q29_6	2	Option nicht gewählt
+Q29_88	Variable Label	Q29 Benötigt, aber nicht beansprucht: Weiß nicht
+Q29_88	1	Option gewählt
+Q29_88	2	Option nicht gewählt
+Q29_99	Variable Label	Q29 Benötigt, aber nicht beansprucht: Keine Angabe
+Q29_99	1	Option gewählt
+Q29_99	2	Option nicht gewählt
+Q2a	Variable Label	Q2[other]. Bitte geben Sie nochmal Ihre Staatsbürgerschaft an. [Sonstiges]
+Q3	Variable Label	Q3. Bitte geben Sie nochmal Ihr Geburtsland an.
+Q3	1	Syrien
+Q3	2	Irak
+Q3	3	Afghanistan
+Q3	77	Andere
+Q30_1	Variable Label	Q30 Warum nicht: Die Kosten waren zu hoch für mich
+Q30_1	1	Option gewählt
+Q30_1	2	Option nicht gewählt
+Q30_10	Variable Label	Q30 Warum nicht: Ich kenne keinen guten Arzt / Therapeuten
+Q30_10	1	Option gewählt
+Q30_10	2	Option nicht gewählt
+Q30_11	Variable Label	Q30 Warum nicht: Anderer Grund
+Q30_11	1	Option gewählt
+Q30_11	2	Option nicht gewählt
+Q30_2	Variable Label	Q30 Warum nicht: Die Wartezeit ist zu lang oder: ich bin auf einer Warteliste
+Q30_2	1	Option gewählt
+Q30_2	2	Option nicht gewählt
+Q30_3	Variable Label	Q30 Warum nicht: Die Behandlung / Untersuchung ist zeitlich für mich nicht mögli
+Q30_3	1	Option gewählt
+Q30_3	2	Option nicht gewählt
+Q30_4	Variable Label	Q30 Warum nicht: Die Erreichbarkeit ist nicht gegeben
+Q30_4	1	Option gewählt
+Q30_4	2	Option nicht gewählt
+Q30_5	Variable Label	Q30 Warum nicht: Ich habe Angst vor der Behandlung oder Ärzten
+Q30_5	1	Option gewählt
+Q30_5	2	Option nicht gewählt
+Q30_6	Variable Label	Q30 Warum nicht: Ich verstehe die Sprache nicht oder: ich kann nicht erklären wa
+Q30_6	1	Option gewählt
+Q30_6	2	Option nicht gewählt
+Q30_7	Variable Label	Q30 Warum nicht: Ich weiß nicht ob man mir helfen kann
+Q30_7	1	Option gewählt
+Q30_7	2	Option nicht gewählt
+Q30_8	Variable Label	Q30 Warum nicht: Ich habe kein Vertrauen in die Ärzte hier in Österreich
+Q30_8	1	Option gewählt
+Q30_8	2	Option nicht gewählt
+Q30_88	Variable Label	Q30 Warum nicht: Weiß nicht
+Q30_88	1	Option gewählt
+Q30_88	2	Option nicht gewählt
+Q30_9	Variable Label	Q30 Warum nicht: Ich warte ob das Problem von selbst besser wird
+Q30_9	1	Option gewählt
+Q30_9	2	Option nicht gewählt
+Q30_99	Variable Label	Q30 Warum nicht: Keine Angabe
+Q30_99	1	Option gewählt
+Q30_99	2	Option nicht gewählt
+Q31	Variable Label	Q31. Waren Sie in den letzten 12 Monaten in einem Krankenhaus, Ambulanz oder Kli
+Q31	1	Ja
+Q31	2	Nein
+Q31	88	Weiß nicht
+Q31	99	Keine Angabe
+Q31_1	Variable Label	Q31 Waren sie in Behandlung: Ja, als stationärer Patient, d.h. für eine Nacht od
+Q31_1	1	Option gewählt
+Q31_1	2	Option nicht gewählt
+Q31_2	Variable Label	Q31 Waren sie in Behandlung: Ja, in Krankenhausambulanz bzw. als Tagespatient, d
+Q31_2	1	Option gewählt
+Q31_2	2	Option nicht gewählt
+Q31_3	Variable Label	Q31 Waren sie in Behandlung: Nein
+Q31_3	1	Option gewählt
+Q31_3	2	Option nicht gewählt
+Q31_88	Variable Label	Q31 Waren sie in Behandlung: Weiß nicht
+Q31_88	1	Option gewählt
+Q31_88	2	Option nicht gewählt
+Q31_99	Variable Label	<keine>
+Q31_99	1	Option gewählt
+Q31_99	2	Option nicht gewählt
+Q32	Variable Label	Q32. Wie gut fühlen Sie sich gegenwärtig in Österreich gesundheitlich versorgt?
+Q32	1	1 Ganz und gar schlecht versorgt
+Q32	2	2
+Q32	3	3
+Q32	4	4
+Q32	5	5
+Q32	6	6
+Q32	7	7
+Q32	8	8
+Q32	9	9
+Q32	10	10 Ganz und gar gut versorgt
+Q32	88	Weiß nicht
+Q32	99	Keine Angabe
+Q33	Variable Label	Q33. Wie zufrieden sind Sie gegenwärtig mit Ihrer Gesundheit?
+Q33	1	1 Ganz und gar unzufrieden
+Q33	2	2
+Q33	3	3
+Q33	4	4
+Q33	5	5
+Q33	6	6
+Q33	7	7
+Q33	8	8
+Q33	9	9
+Q33	10	10 Ganz und gar gut zufrieden
+Q33	88	Weiß nicht
+Q33	99	Keine Angabe
+Q34	Variable Label	Q34. Machen Sie sich Sorgen?
+Q34	1	Ja, große Sorgen
+Q34	2	Ja, einige Sorgen
+Q34	3	Nein, keine Sorgen
+Q34	88	Weiß nicht
+Q34	99	Keine Angabe
+Q35_1	Variable Label	Q35 Worüber große Sorgen: Nicht in Österreich bleiben zu können
+Q35_1	1	Option gewählt
+Q35_1	2	Option nicht gewählt
+Q35_1	66	Frage nicht gestellt
+Q35_2	Variable Label	Q35 Worüber große Sorgen: Keine Arbeit zu finden
+Q35_2	1	Option gewählt
+Q35_2	2	Option nicht gewählt
+Q35_2	66	Frage nicht gestellt
+Q35_3	Variable Label	Q35 Worüber große Sorgen: Meine Familie/Freunde in der Heimat
+Q35_3	1	Option gewählt
+Q35_3	2	Option nicht gewählt
+Q35_3	66	Frage nicht gestellt
+Q35_4	Variable Label	Q35 Worüber große Sorgen: Meine Familie/Freunde in Österreich
+Q35_4	1	Option gewählt
+Q35_4	2	Option nicht gewählt
+Q35_4	66	Frage nicht gestellt
+Q35_5	Variable Label	Q35 Worüber große Sorgen: Meine Gesundheit
+Q35_5	1	Option gewählt
+Q35_5	2	Option nicht gewählt
+Q35_5	66	Frage nicht gestellt
+Q35_6	Variable Label	Q35 Worüber große Sorgen: Nicht mehr ins Heimatland zurückkehren zu können, weil
+Q35_6	1	Option gewählt
+Q35_6	2	Option nicht gewählt
+Q35_6	66	Frage nicht gestellt
+Q35_7	Variable Label	Q35 Worüber große Sorgen: Anderer Grund
+Q35_7	1	Option gewählt
+Q35_7	2	Option nicht gewählt
+Q35_7	66	Frage nicht gestellt
+Q35_88	Variable Label	Q35 Worüber große Sorgen: Weiß nicht
+Q35_88	1	Option gewählt
+Q35_88	2	Option nicht gewählt
+Q35_88	66	Frage nicht gestellt
+Q35_99	Variable Label	Q35 Worüber große Sorgen: Keine Angabe
+Q35_99	1	Option gewählt
+Q35_99	2	Option nicht gewählt
+Q35_99	66	Frage nicht gestellt
+Q36	Variable Label	Q36. Wie oft haben Sie das Gefühl, dass Ihnen die Gesellschaft anderer fehlt?
+Q36	1	Sehr oft
+Q36	2	Oft
+Q36	3	Manchmal
+Q36	4	Selten
+Q36	5	Nie
+Q36	88	Weiß nicht
+Q36	99	Keine Angabe
+Q37	Variable Label	Q37. Wie beurteilen Sie Ihre Lebensqualität?
+Q37	1	Sehr gut
+Q37	2	Gut
+Q37	3	Teils/teils
+Q37	4	Schlecht
+Q37	5	Sehr schlecht
+Q37	88	Weiß nicht
+Q37	99	Keine Angabe
+Q38	Variable Label	Q38. Wieviel hatten Sie in den letzten 4 Wochen zu tun?
+Q38	1	1 Ich hatte viel zu wenig zu tun.
+Q38	2	2
+Q38	3	3
+Q38	4	4
+Q38	5	5 Ich hatte optimal viel zu tun.
+Q38	6	6
+Q38	7	7
+Q38	8	8
+Q38	9	9
+Q38	10	10 Ich hatte viel zu viel zu tun.
+Q38	88	Weiß nicht
+Q38	99	Keine Angabe
+Q39	Variable Label	Q39. Haben Sie die Möglichkeit zu sinnvollen Aufgaben oder Tätigkeiten?
+Q39	1	Immer
+Q39	2	Oft
+Q39	3	Manchmal
+Q39	4	Selten
+Q39	5	Nie
+Q39	88	Weiß nicht
+Q39	99	Keine Angabe
+Q3a	Variable Label	Q3[other]. Bitte geben Sie nochmal Ihr Geburtsland an. [Sonstiges]
+Q4	Variable Label	Q4. In welchem Bundesland wohnen Sie aktuell?
+Q4	1	Wien
+Q4	2	Niederösterreich
+Q4	3	Burgenland
+Q4	4	Oberösterreich
+Q4	5	Steiermark
+Q4	6	Salzburg
+Q4	7	Kärnten
+Q4	8	Tirol
+Q4	9	Vorarlberg
+Q4	77	Nicht mehr in Österreich
+Q4	99	Keine Angabe
+Q40	Variable Label	Q40. Können Sie Ihr Leben selbstbestimmt gestalten?
+Q40	1	Voll und ganz
+Q40	2	Überwiegend
+Q40	3	In mancher Beziehung
+Q40	4	Kaum
+Q40	5	Gar nicht
+Q40	88	Weiß nicht
+Q40	99	Keine Angabe
+Q41	Variable Label	Q41. Wie positiv sehen Sie Ihre Zukunft?
+Q41	1	Gar nicht
+Q41	2	Kaum
+Q41	3	Teils/teils
+Q41	4	Sehr
+Q41	5	Außerordentlich
+Q41	88	Weiß nicht
+Q41	99	Keine Angabe
+Q42	Variable Label	Q42. Hatten Sie bei Ihrer Ankunft in Österreich das Gefühl, willkommen zu sein?
+Q42	1	Voll und ganz
+Q42	2	Überwiegend
+Q42	3	In mancher Beziehung
+Q42	4	Kaum
+Q42	5	Gar nicht
+Q42	88	Weiß nicht
+Q42	99	Keine Angabe
+Q43	Variable Label	Q43. Und wie ist das jetzt: Fühlen Sie sich heute in Österreich willkommen?
+Q43	1	Voll und ganz
+Q43	2	Überwiegend
+Q43	3	In mancher Beziehung
+Q43	4	Kaum
+Q43	5	Gar nicht
+Q43	88	Weiß nicht
+Q43	99	Keine Angabe
+Q44	Variable Label	Q44. Haben Sie, bevor Sie nach [Wohnort] gekommen sind, woanders in Österreich g
+Q44	1	Ja
+Q44	2	Nein
+Q44	88	Weiß nicht
+Q44	99	Keine Angabe
+Q44a_bundesland	Variable Label	Q44. Haben Sie, bevor Sie nach [Wohnort] gekommen sind, woanders in Österreich g
+Q44a_bundesland	1	Wien
+Q44a_bundesland	2	Niederösterreich
+Q44a_bundesland	3	Burgenland
+Q44a_bundesland	4	Oberösterreich
+Q44a_bundesland	5	Steiermark
+Q44a_bundesland	6	Salzburg
+Q44a_bundesland	7	Kärnten
+Q44a_bundesland	8	Tirol
+Q44a_bundesland	9	Vorarlberg
+Q44a_bundesland	77	Nicht mehr in Österreich
+Q44a_bundesland	99	Keine Angabe
+Q45_1	Variable Label	Q45 Warum hierher gekommen: Weil es hier leichter ist, Deutsch zu lernen bzw. De
+Q45_1	1	Option gewählt
+Q45_1	2	Option nicht gewählt
+Q45_2	Variable Label	Q45 Warum hierher gekommen: Weil es hier leichter ist, Arbeit zu finden.
+Q45_2	1	Option gewählt
+Q45_2	2	Option nicht gewählt
+Q45_3	Variable Label	Q45 Warum hierher gekommen: Weil es hier leichter ist, Kontakte zu knüpfen.
+Q45_3	1	Option gewählt
+Q45_3	2	Option nicht gewählt
+Q45_4	Variable Label	Q45 Warum hierher gekommen: Weil es hier leichter ist, eine Wohnung zu finden.
+Q45_4	1	Option gewählt
+Q45_4	2	Option nicht gewählt
+Q45_5	Variable Label	Q45 Warum hierher gekommen: Weil es hier eine bessere Verwaltung gibt
+Q45_5	1	Option gewählt
+Q45_5	2	Option nicht gewählt
+Q45_6	Variable Label	Q45 Warum hierher gekommen: Weil es hier bessere Sozialleistungen gibt
+Q45_6	1	Option gewählt
+Q45_6	2	Option nicht gewählt
+Q45_7	Variable Label	Q45 Warum hierher gekommen: Weil es hier eine bessere ärztliche Versorgung gibt.
+Q45_7	1	Option gewählt
+Q45_7	2	Option nicht gewählt
+Q45_8	Variable Label	Q45 Warum hierher gekommen: Ich wollte von Anfang an nach [Wohnort]
+Q45_8	1	Option gewählt
+Q45_8	2	Option nicht gewählt
+Q45_9	Variable Label	Q45 Warum hierher gekommen: Aus anderen Gründen
+Q45_9	1	Option gewählt
+Q45_9	2	Option nicht gewählt
+Q45_99	Variable Label	Q45 Warum hierher gekommen: Keine Angabe
+Q45_99	1	Option gewählt
+Q45_99	2	Option nicht gewählt
+Q46_1	Variable Label	Q46 Warum weg (in Ö): Weil ich dort schlechte Erfahrungen gemacht habe.
+Q46_1	1	Option gewählt
+Q46_1	2	Option nicht gewählt
+Q46_1	66	Frage nicht gestellt
+Q46_2	Variable Label	Q46 Warum weg (in Ö): Weil es dort zu weit zum Einkaufen war.
+Q46_2	1	Option gewählt
+Q46_2	2	Option nicht gewählt
+Q46_2	66	Frage nicht gestellt
+Q46_3	Variable Label	Q46 Warum weg (in Ö): Weil es dort zu weit zur nächsten medizinischen Versorgung
+Q46_3	1	Option gewählt
+Q46_3	2	Option nicht gewählt
+Q46_3	66	Frage nicht gestellt
+Q46_4	Variable Label	Q46 Warum weg (in Ö): Weil ich dort keine Perspektiven gesehen habe.
+Q46_4	1	Option gewählt
+Q46_4	2	Option nicht gewählt
+Q46_4	66	Frage nicht gestellt
+Q46_5	Variable Label	Q46 Warum weg (in Ö): Weil es dort nicht genügend Kurse und Ausbildungsmöglichke
+Q46_5	1	Option gewählt
+Q46_5	2	Option nicht gewählt
+Q46_5	66	Frage nicht gestellt
+Q46_6	Variable Label	Q46 Warum weg (in Ö): Aus anderen Gründen
+Q46_6	1	Option gewählt
+Q46_6	2	Option nicht gewählt
+Q46_6	66	Frage nicht gestellt
+Q46_99	Variable Label	Q46 Warum weg (in Ö): Keine Angabe
+Q46_99	1	Option gewählt
+Q46_99	2	Option nicht gewählt
+Q46_99	66	Frage nicht gestellt
+Q47	Variable Label	Q47. Alles in allem ist [Wien]/[Wohnort] ein/e lebenswerte/r [Stadt]/[Wohnort]
+Q47	1	Trifft voll zu
+Q47	2	Trifft eher zu
+Q47	3	Teils/teils
+Q47	4	Trifft eher nicht zu
+Q47	5	Trifft gar nicht zu
+Q47	99	Keine Angabe
+Q6	Variable Label	Q6. Wie würden Sie Ihren gegenwärtigen Gesundheitszustand beschreiben?
+Q6	1	Sehr gut
+Q6	2	Gut
+Q6	3	Zufriedenstellend
+Q6	4	Weniger gut
+Q6	5	Schlecht
+Q6	88	Weiß nicht
+Q6	99	Keine Angabe
+Q7	Variable Label	Q7. Wie sehr sind Sie seit zumindest einem halben Jahr durch ein gesundheitliche
+Q7	1	Stark eingeschränkt
+Q7	2	Etwas eingeschränkt
+Q7	3	Nicht eingeschränkt
+Q7	88	Weiß nicht
+Q7	99	Keine Angabe
+Q8	Variable Label	Q8. Fühlen Sie sich arbeitsfit?
+Q8	1	1 Ganz und gar nicht arbeitsfit
+Q8	2	2
+Q8	3	3
+Q8	4	4
+Q8	5	5
+Q8	6	6
+Q8	7	7
+Q8	8	8
+Q8	9	9
+Q8	10	10 Ganz und gar arbeitsfit
+Q8	88	Weiß nicht
+Q8	99	Keine Angabe
+Q9	Variable Label	Q9. Wie oft hatten Sie in den vergangenen vier Wochen körperliche Schmerzen?
+Q9	1	Keine Schmerzen
+Q9	2	An manchen Tagen
+Q9	3	An mehr als der Hälfte der Tage
+Q9	4	Beinahe jeden Tag
+Q9	88	Weiß nicht
+Q9	99	Keine Angabe
+REHIS_ID	Variable Label	id. Antwort ID
+version	Variable Label	AUSSDA archive version

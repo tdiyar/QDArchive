@@ -1,0 +1,315 @@
+﻿variable	value	Label
+doi	Variable Label	digital object identifier
+v10a	Variable Label	Internetzugang zuhause
+v10a	1	Ja
+v10a	2	Nein
+v10b	Variable Label	Internetzugang in der Arbeit
+v10b	1	Ja
+v10b	2	Nein
+v10c	Variable Label	Internetzugang bei Freunden/Verwandten
+v10c	1	Ja
+v10c	2	Nein
+v10d	Variable Label	Internetzugang in Internetcafes
+v10d	1	Ja
+v10d	2	Nein
+v11a	Variable Label	"Zufriedenheit mit Kontakten": Mit Gleichaltrigen
+v11a	1	1
+v11a	2	2
+v11a	3	3
+v11a	4	4
+v11a	5	5
+v11b	Variable Label	"Zufriedenheit mit Kontakten": Mit Jüngeren
+v11b	1	1
+v11b	2	2
+v11b	3	3
+v11b	4	4
+v11b	5	5
+v11c	Variable Label	"Zufriedenheit mit Kontakten": Mit Älteren
+v11c	1	1
+v11c	2	2
+v11c	3	3
+v11c	4	4
+v11c	5	5
+v12	Variable Label	Gefühlslage
+v12	1	fröhlich, ausgeglichen, glücklich
+v12	2	meistens fröhlich, manchmal verärgert
+v12	3	wechselnd, öfter unglücklich, gereizt
+v12	4	sehr oft unglücklich
+v12	5	leidend, von schwerem Schicksalsschlag betroffen
+v13	Variable Label	Geschlecht
+v13	1	männlich
+v13	2	weiblich
+v14	Variable Label	Alter
+v14	1	bis 25 Jahre
+v14	2	26-35 Jahre
+v14	3	36-50 Jahre
+v14	4	51-65 Jahre
+v14	5	ab 66 Jahre
+v15	Variable Label	Schulbildung
+v15	1	Hochschule
+v15	2	Mittelschule
+v15	3	Berufs- oder Handelsschule
+v15	4	Pflichtschule ohne weitere Ausbildung (Volks- u. Hauptsch.)
+v16	Variable Label	Tätigkeit
+v16	1	In Ausbildung (Schule, Lehre, Universität)
+v16	2	Pension
+v16	3	Nur im Haushalt tätig
+v16	4	Arbeitslos
+v16	5	Selbständig
+v16	6	Landwirt
+v16	7	Hilfsarbeiter
+v16	8	Facharbeiter
+v16	9	Angestellter
+v16	10	Beamter
+v16	11	Anderes
+v17	Variable Label	Aktuelle Parteipräferenz
+v17	1	SPÖ
+v17	2	ÖVP
+v17	3	Grüne
+v17	4	FPÖ
+v17	5	BZÖ
+v17	6	Andere
+v17	7	Keine
+v17	8	K.A.
+v18	Variable Label	Lebensform
+v18	1	lebe alleine
+v18	2	lebe mit Partner/in
+v18	3	lebe in einer Familie
+v19	Variable Label	Anzahl der Kinder
+v1a	Variable Label	"Unterhaltung": Mit Gleichaltrigen
+v1a	1	mehrmals in der Woche
+v1a	2	mehrmals im Monat
+v1a	3	mehrmals im Jahr
+v1a	4	seltener
+v1a	5	W.N./K.A.
+v1b	Variable Label	"Unterhaltung": Mit Jüngeren
+v1b	1	mehrmals in der Woche
+v1b	2	mehrmals im Monat
+v1b	3	mehrmals im Jahr
+v1b	4	seltener
+v1b	5	W.N./K.A.
+v1c	Variable Label	"Unterhaltung": Mit Älteren
+v1c	1	mehrmals in der Woche
+v1c	2	mehrmals im Monat
+v1c	3	mehrmals im Jahr
+v1c	4	seltener
+v1c	5	W.N./K.A.
+v20	Variable Label	Anzahl der Enkelkinder
+v21	Variable Label	Anzahl der Personen im Haushalt
+v22	Variable Label	Wiener Wohnbezirk
+v22	1	1
+v22	2	2
+v22	3	3
+v22	4	4
+v22	5	5
+v22	6	6
+v22	7	7
+v22	8	8
+v22	9	9
+v22	10	10
+v22	11	11
+v22	12	12
+v22	13	13
+v22	14	14
+v22	15	15
+v22	16	16
+v22	17	17
+v22	18	18
+v22	19	19
+v22	20	20
+v2a	Variable Label	"Treffen mit Verwandten": Gleichaltrige
+v2a	1	mehrmals in der Woche
+v2a	2	mehrmals im Monat
+v2a	3	mehrmals im Jahr
+v2a	4	seltener
+v2a	5	W.N./K.A.
+v2b	Variable Label	"Treffen mit Verwandten": Jüngere
+v2b	1	mehrmals in der Woche
+v2b	2	mehrmals im Monat
+v2b	3	mehrmals im Jahr
+v2b	4	seltener
+v2b	5	W.N./K.A.
+v2c	Variable Label	"Treffen mit Verwandten": Ältere
+v2c	1	mehrmals in der Woche
+v2c	2	mehrmals im Monat
+v2c	3	mehrmals im Jahr
+v2c	4	seltener
+v2c	5	W.N./K.A.
+v3a	Variable Label	"Treffen mit Freunden oder Bekannten": Gleichaltrige
+v3a	1	mehrmals in der Woche
+v3a	2	mehrmals im Monat
+v3a	3	mehrmals im Jahr
+v3a	4	seltener
+v3a	5	W.N./K.A.
+v3b	Variable Label	"Treffen mit Freunden oder Bekannten": Jüngere
+v3b	1	mehrmals in der Woche
+v3b	2	mehrmals im Monat
+v3b	3	mehrmals im Jahr
+v3b	4	seltener
+v3b	5	W.N./K.A.
+v3c	Variable Label	"Treffen mit Freunden oder Bekannten": Ältere
+v3c	1	mehrmals in der Woche
+v3c	2	mehrmals im Monat
+v3c	3	mehrmals im Jahr
+v3c	4	seltener
+v3c	5	W.N./K.A.
+v4a	Variable Label	"Telefonate": Mit Gleichaltrigen
+v4a	1	mehrmals in der Woche
+v4a	2	mehrmals im Monat
+v4a	3	mehrmals im Jahr
+v4a	4	seltener
+v4a	5	W.N./K.A.
+v4b	Variable Label	"Telefonate": Mit Jüngeren
+v4b	1	mehrmals in der Woche
+v4b	2	mehrmals im Monat
+v4b	3	mehrmals im Jahr
+v4b	4	seltener
+v4b	5	W.N./K.A.
+v4c	Variable Label	"Telefonate": Mit Älteren
+v4c	1	mehrmals in der Woche
+v4c	2	mehrmals im Monat
+v4c	3	mehrmals im Jahr
+v4c	4	seltener
+v4c	5	W.N./K.A.
+v5a	Variable Label	"Schriftlicher Kontakt": Mit Gleichaltrigen
+v5a	1	mehrmals in der Woche
+v5a	2	mehrmals im Monat
+v5a	3	mehrmals im Jahr
+v5a	4	seltener
+v5a	5	W.N./K.A.
+v5b	Variable Label	"Schriftlicher Kontakt": Mit Jüngeren
+v5b	1	mehrmals in der Woche
+v5b	2	mehrmals im Monat
+v5b	3	mehrmals im Jahr
+v5b	4	seltener
+v5b	5	W.N./K.A.
+v5c	Variable Label	"Schriftlicher Kontakt": Mit Älteren
+v5c	1	mehrmals in der Woche
+v5c	2	mehrmals im Monat
+v5c	3	mehrmals im Jahr
+v5c	4	seltener
+v5c	5	W.N./K.A.
+v6a	Variable Label	"E-mail-Kontakt": Mit Gleichaltrigen
+v6a	1	mehrmals in der Woche
+v6a	2	mehrmals im Monat
+v6a	3	mehrmals im Jahr
+v6a	4	seltener
+v6a	5	nie
+v6a	6	W.N./K.A.
+v6b	Variable Label	"E-mail-Kontakt": Mit Jüngeren
+v6b	1	mehrmals in der Woche
+v6b	2	mehrmals im Monat
+v6b	3	mehrmals im Jahr
+v6b	4	seltener
+v6b	5	nie
+v6b	6	W.N./K.A.
+v6c	Variable Label	"E-mail-Kontakt": Mit Älteren
+v6c	1	mehrmals in der Woche
+v6c	2	mehrmals im Monat
+v6c	3	mehrmals im Jahr
+v6c	4	seltener
+v6c	5	nie
+v6c	6	W.N./K.A.
+v7a	Variable Label	"Internet-Chats": Mit Gleichaltrigen
+v7a	1	mehrmals in der Woche
+v7a	2	mehrmals im Monat
+v7a	3	mehrmals im Jahr
+v7a	4	seltener
+v7a	5	nie
+v7a	6	W.N./K.A.
+v7b	Variable Label	"Internet-Chats": Mit Jüngeren
+v7b	1	mehrmals in der Woche
+v7b	2	mehrmals im Monat
+v7b	3	mehrmals im Jahr
+v7b	4	seltener
+v7b	5	nie
+v7b	6	W.N./K.A.
+v7c	Variable Label	"Internet-Chats": Mit Älteren
+v7c	1	mehrmals in der Woche
+v7c	2	mehrmals im Monat
+v7c	3	mehrmals im Jahr
+v7c	4	seltener
+v7c	5	nie
+v7c	6	W.N./K.A.
+v8a	Variable Label	Was Sie in den letzten Tagen erlebt oder gehört haben
+v8a	1	mehrmals in der Woche
+v8a	2	mehrmals im Monat
+v8a	3	mehrmals im Monat
+v8a	4	seltener
+v8a	5	W.N./K.A.
+v8b	Variable Label	Über Gesundheit bzw. Krankheit
+v8b	1	mehrmals in der Woche
+v8b	2	mehrmals im Monat
+v8b	3	mehrmals im Monat
+v8b	4	seltener
+v8b	5	W.N./K.A.
+v8c	Variable Label	Über andere Leute
+v8c	1	mehrmals in der Woche
+v8c	2	mehrmals im Monat
+v8c	3	mehrmals im Monat
+v8c	4	seltener
+v8c	5	W.N./K.A.
+v8d	Variable Label	Über Radio- u. Fernsehsendungen
+v8d	1	mehrmals in der Woche
+v8d	2	mehrmals im Monat
+v8d	3	mehrmals im Monat
+v8d	4	seltener
+v8d	5	W.N./K.A.
+v8e	Variable Label	Über die Vergangenheit
+v8e	1	mehrmals in der Woche
+v8e	2	mehrmals im Monat
+v8e	3	mehrmals im Monat
+v8e	4	seltener
+v8e	5	W.N./K.A.
+v8f	Variable Label	Über eigene Erlebnisse
+v8f	1	mehrmals in der Woche
+v8f	2	mehrmals im Monat
+v8f	3	mehrmals im Monat
+v8f	4	seltener
+v8f	5	W.N./K.A.
+v8g	Variable Label	Über Berufliches
+v8g	1	mehrmals in der Woche
+v8g	2	mehrmals im Monat
+v8g	3	mehrmals im Monat
+v8g	4	seltener
+v8g	5	W.N./K.A.
+v8h	Variable Label	Über die Zukunft, Pläne
+v8h	1	mehrmals in der Woche
+v8h	2	mehrmals im Monat
+v8h	3	mehrmals im Monat
+v8h	4	seltener
+v8h	5	W.N./K.A.
+v8i	Variable Label	Über Sport
+v8i	1	mehrmals in der Woche
+v8i	2	mehrmals im Monat
+v8i	3	mehrmals im Monat
+v8i	4	seltener
+v8i	5	W.N./K.A.
+v8j	Variable Label	Über kulturelle Veranstaltungen
+v8j	1	mehrmals in der Woche
+v8j	2	mehrmals im Monat
+v8j	3	mehrmals im Monat
+v8j	4	seltener
+v8j	5	W.N./K.A.
+v8k	Variable Label	Über Politik
+v8k	1	mehrmals in der Woche
+v8k	2	mehrmals im Monat
+v8k	3	mehrmals im Monat
+v8k	4	seltener
+v8k	5	W.N./K.A.
+v8l	Variable Label	Über Essen und Trinken, Restaurants
+v8l	1	mehrmals in der Woche
+v8l	2	mehrmals im Monat
+v8l	3	mehrmals im Monat
+v8l	4	seltener
+v8l	5	W.N./K.A.
+v9a	Variable Label	Festnetzanschluss
+v9a	1	Ja
+v9a	2	Nein
+v9b	Variable Label	Handy
+v9b	1	Ja
+v9b	2	Nein
+v9c	Variable Label	Computer / Notebook
+v9c	1	Ja
+v9c	2	Nein
+version	Variable Label	AUSSDA archive version

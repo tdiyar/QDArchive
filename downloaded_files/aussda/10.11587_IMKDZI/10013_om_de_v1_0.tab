@@ -1,0 +1,819 @@
+﻿variable	value	Label
+age	Variable Label	ALTER (AM WAHLTAG)
+c1	Variable Label	META: MOBIL ODER FESTNETZ
+c1	1	Mobiltelefon
+c1	2	Festnetz
+c1	77	verweigert
+c2	Variable Label	META: ZU HAUSE FESTNETZ
+c2	1	ja
+c2	2	nein
+c2	77	verweigert
+c3	Variable Label	META: WEITERES MOBILTELEFON
+c3	1	ja
+c3	2	nein
+c3	77	verweigert
+c4	Variable Label	META: MEHRERE MOBILTELEFONE
+c4	1	ja, eines
+c4	2	ja, mehrere
+c4	3	nein
+c4	77	verweigert
+d01b	Variable Label	GEBURTSJAHR
+d02	Variable Label	GESCHLECHT
+d02	1	Mann
+d02	2	Frau
+d02	5	anderes
+d02	77	verweigert
+d03c	Variable Label	HOECHSTER BILDUNGSABSCHLUSS - REKODIERT
+d03c	3	keine Schule besucht/abgeschlossen, Volksschule oder weniger
+d03c	4	Hauptschule oder AHS Unterstufe
+d03c	5	Sonderschule
+d03c	6	Polytechnikum
+d03c	7	Lehre, Berufsschule
+d03c	8	BMS (Fachschule)
+d03c	9	AHS mit Matura
+d03c	10	BHS mit Matura
+d03c	11	Hochschulverwandte Lehranstalt
+d03c	12	Kolleg
+d03c	13	Bachelor
+d03c	14	Magister/Master/DI/FH
+d03c	15	Doktor/PhD
+d03c	16	andere
+d03c	77	verweigert
+d03c	88	weiss nicht
+d04	Variable Label	FAMILIENSTAND
+d04	1	verheiratet oder mit Partner lebend
+d04	2	verwitwet
+d04	3	geschieden oder getrennt
+d04	4	ledig
+d04	77	verweigert
+d04	88	weiss nicht
+d05	Variable Label	GEWERKSCHAFTSMITGLIED
+d05	1	ja
+d05	2	nein
+d05	77	verweigert
+d05	88	weiss nicht
+d06	Variable Label	BERUFLICHE SITUATION
+d06	1	berufstaetig, mehr als 32 Stunden pro Woche
+d06	2	berufstaetig, zwischen 15 und 32 Stunden pro Woche
+d06	3	berufstaetig, weniger als 15 Stunden pro Woche
+d06	4	mithelfend im Familienbetrieb
+d06	5	Lehrling
+d06	6	Student, Schueler, in Ausbildung
+d06	7	in Pension
+d06	8	Hausfrau/-mann
+d06	9	dauerhaft arbeitsunfaehig
+d06	10	andere, nicht erwerbstaetig
+d06	77	verweigert
+d06	88	weiss nicht
+d07	Variable Label	ISCO-CODING
+d07	1	Offiziere in regulaeren Streitkraeften
+d07	2	Unteroffiziere in regulaeren Streitkraeften
+d07	3	Angehoerige der regulaeren Streitkraefte in sonstigen Raengen
+d07	11	Geschaeftsfuehrer, Vorstaende, leitende Verwaltungsbedienstete und Angehoerige gesetzgebender Koerperschaften
+d07	12	Fuehrungskraefte im kaufmaennischen Bereich
+d07	13	Fuehrungskraefte in der Produktion und bei speziellen Dienstleistungen
+d07	14	Fuehrungskraefte in Hotels und Restaurants, im Handel und in der Erbringung sonstiger Dienstleistungen
+d07	21	Naturwissenschaftler, Mathematiker und Ingenieure
+d07	22	Akademische und verwandte Gesundheitsberufe
+d07	23	Lehrkraefte
+d07	24	Betriebswirte und vergleichbare akademische Berufe
+d07	25	Akademische und vergleichbare Fachkraefte in der Informations- und Kommunikationstechnologie
+d07	26	Juristen, Sozialwissenschaftler und Kulturberufe
+d07	31	Ingenieurtechnische und vergleichbare Fachkraefte
+d07	32	Assistenzberufe im Gesundheitswesen
+d07	33	Nicht akademische betriebswirtschaftliche und kaufmaennische Fachkraefte und Verwaltungsfachkraefte
+d07	34	Nicht akademische juristische, sozialpflegerische, kulturelle und verwandte Fachkraefte
+d07	35	Informations- und Kommunikationstechniker
+d07	41	Allgemeine Buero- und Sekretariatskraefte
+d07	42	Buerokraefte mit Kundenkontakt
+d07	43	Buerokraefte im Finanz- und Rechnungswesen, in der Statistik und in der Materialwirtschaft
+d07	44	Sonstige Buerokraefte und verwandte Berufe
+d07	51	Berufe im Bereich personenbezogener Dienstleistungen
+d07	52	Verkaufskraefte
+d07	53	Betreuungsberufe
+d07	54	Schutzkraefte und Sicherheitsbedienstete
+d07	61	Fachkraefte in der Landwirtschaft
+d07	62	Fachkraefte in Forstwirtschaft, Fischerei und Jagd – Marktproduktion
+d07	63	Landwirte, Fischer, Jaeger und Sammler fuer den Eigenbedarf
+d07	71	Bau- und Ausbaufachkraefte sowie verwandte Berufe, ausgenommen Elektriker
+d07	72	Metallarbeiter, Mechaniker und verwandte Berufe
+d07	73	Praezisionshandwerker, Drucker und kunsthandwerkliche Berufe
+d07	74	Elektriker und Elektroniker
+d07	75	Berufe in der Nahrungsmittelverarbeitung, Holzverarbeitung und Bekleidungsherstellung und verwandte handwerkliche Fachkr
+d07	81	Bediener stationaerer Anlagen und Maschinen
+d07	82	Montageberufe
+d07	83	Fahrzeugfuehrer und Bediener mobiler Anlagen
+d07	91	Reinigungspersonal und Hilfskraefte
+d07	92	Hilfsarbeiter in der Land- und Forstwirtschaft und Fischerei
+d07	93	Hilfsarbeiter im Bergbau, im Bau, bei der Herstellung von Waren und im Transportwesen
+d07	94	Hilfskraefte in der Nahrungsmittelzubereitung
+d07	95	Strassenhaendler und auf der Strasse arbeitende Dienstleistungskraefte
+d07	96	Abfallentsorgungsarbeiter und sonstige Hilfsarbeitskraefte
+d07	99	verweigert
+d07a	Variable Label	BERUFLICHE STELLUNG
+d07a	1	Angestellter
+d07a	2	Arbeiter
+d07a	3	Beamter
+d07a	4	Vertragsbediensteter
+d07a	5	selbstaendig oder freiberuflich ohne Mitarbeiter
+d07a	6	selbstaendig oder freiberuflich mit Mitarbeitern
+d07a	7	freier Dienstnehmer
+d07a	8	Landwirt
+d07a	77	verweigert
+d07a	88	weiss nicht
+d08	Variable Label	SEKTOR
+d08	1	oeffentlicher Dienst
+d08	2	Privatwirtschaft
+d08	3	(ueberwiegend) staatl. Unternehmen
+d08	4	gemeinnuetziges Unternehmen
+d08	77	verweigert
+d08	88	weiss nicht
+d09	Variable Label	NETTO-HAUSHALTSEINKOMMEN
+d09	1	unter 450 €
+d09	2	450 bis unter 600 €
+d09	3	600 bis unter 750 €
+d09	4	750 bis unter 900 €
+d09	5	900 bis unter 1050 €
+d09	6	1050 bis unter 1.200 €
+d09	7	1.200 bis unter 1.350 €
+d09	8	1.350 bis unter 1.500 €
+d09	9	1.500 bis unter 1.650 €
+d09	10	1.650 bis unter 1.800 €
+d09	11	1.800 bis unter 1.950 €
+d09	12	1.950 bis unter 2.100 €
+d09	13	2.100 bis unter 2.250 €
+d09	14	2.250 bis unter 2.400 €
+d09	15	2.400 bis unter 2.700 €
+d09	16	2.700 bis unter 3.000 €
+d09	17	3.000 bis unter 3.300 €
+d09	18	3.300 bis unter 3.600 €
+d09	19	3.600 bis unter 3.900 €
+d09	20	3.900 € und mehr
+d09	77	verweigert
+d09	88	weiss nicht
+d10c	Variable Label	RELIGIONSGEMEINSCHAFT - REKODIERT
+d10c	1101	Roemisch-Katholische Kirche
+d10c	1200	Evangelische Kirche
+d10c	1600	Christlich-Orthodoxe Kirche
+d10c	3000	Einer Islamischen Glaubensgemeinschaft
+d10c	7777	verweigert
+d10c	8300	keiner
+d10c	8888	weiss nicht
+d10c	9600	andere
+d11	Variable Label	BESUCH GOTTESDIENST
+d11	1	nie
+d11	2	einmal im Jahr
+d11	3	zwei bis elfmal im Jahr
+d11	4	einmal im Monat
+d11	5	zweimal oder oefter im Monat
+d11	6	einmal pro Woche oder öfter
+d11	77	verweigert
+d11	88	weiss nicht
+d14c	Variable Label	GEBURTSLAND R. - REKODIERT
+d14c	1	Oesterreich
+d14c	2	Deutschland
+d14c	3	Bosnien, Kroatien, Serbien
+d14c	4	Polen, Slowenien, Tschechien, Ungarn
+d14c	5	Anderes Land
+d15	Variable Label	ELTERN: GEBURT IM AUSLAND
+d15	1	ja
+d15	5	nein
+d15	77	verweigert
+d15	88	weiss nicht
+d16	Variable Label	NORMALERWEISE ANDERE SPRACHE ALS DEUTSCH SPRECHEN
+d16	1	ja
+d16	2	nein
+d16	77	verweigert
+d16	88	weiss nicht
+d17	Variable Label	BUNDESLAND
+d17	1	Vorarlberg
+d17	2	Tirol
+d17	3	Salzburg
+d17	4	Oberoesterreich
+d17	5	Kaernten
+d17	6	Steiermark
+d17	7	Burgenland
+d17	8	Niederoesterreich
+d17	9	Wien
+d17	77	verweigert
+d17	88	weiss nicht
+d19	Variable Label	BESCHREIBUNG WOHNGEBIET
+d19	1	Dorf
+d19	2	Kleinstadt
+d19	3	eine mittlere Stadt
+d19	4	im Zentrum einer Grossstadt
+d19	5	am Stadtrand einer Grossstadt
+d19	77	verweigert
+d19	88	weiss nicht
+d20c	Variable Label	HAUSHALTSGROESSE - REKODIERT
+d20c	6	6 oder mehr Personen
+d20c	77	verweigert
+day	Variable Label	INTERVIEWDATUM: TAG
+doi	Variable Label	digital object identifier
+f1	Variable Label	FACEBOOK-AFFAERE: AUFMERKSAMKEIT
+f1	1	sehr aufmerksam
+f1	2	ziemlich aufmerksam
+f1	3	wenig aufmerksam
+f1	4	gar nicht aufmerksam
+f1	77	verweigert
+f2	Variable Label	FACEBOOK-AFFAERE: EINFLUSS AUF WAHLENTSCHEIDUNG
+f2	1	Ja, habe deshalb eine andere Partei gewaehlt
+f2	2	Ja, bin bewusst bei meiner Entscheidung geblieben
+f2	3	Ja, habe deshalb nicht gewaehlt
+f2	4	Nein, hat mich nicht beeinflusst
+f2	88	weiß nicht
+f3	Variable Label	FACEBOOK-AFFAERE: URSPRUENGLICHE WAHLENTSCHEIDUNG
+f3	1	SPOE
+f3	2	OEVP/Liste Sebastian Kurz - die Neue Volkspartei
+f3	3	FPOE
+f3	4	Gruene
+f3	5	NEOS
+f3	6	Liste Peter Pilz
+f3	7	Die Weissen
+f3	8	FLOE (Liste Dr. Schnell)
+f3	9	KPOE PLUS
+f3	10	Liste Roland Dueringer
+f3	11	andere Partei
+f3	77	verweigert
+f3	88	weiss nicht
+f4	Variable Label	FACEBOOK-AFFAERE: VERHALTEN SPOE
+f4	1	voellig richtig gehandelt
+f4	2	eher richtig gehandelt
+f4	3	eher falsch gehandelt
+f4	4	voellig falsch gehandelt
+f4	77	verweigert
+f4	88	weiss nicht
+f5	Variable Label	FACEBOOK-AFFAERE: VERHALTEN OEVP
+f5	1	voellig richtig gehandelt
+f5	2	eher richtig gehandelt
+f5	3	eher falsch gehandelt
+f5	4	voellig falsch gehandelt
+f5	77	verweigert
+f5	88	weiss nicht
+gew	Variable Label	GEWICHT:  DEMOGRAPHIE + POLITISCH (GETRIMMT)
+gew_roh	Variable Label	GEWICHT: DEMOGRAPHIE + POLITISCH (ROH)
+intnr	Variable Label	INTERVIEWERNUMMER
+intsex	Variable Label	INTERVIEWER: GESCHLECHT
+intsex	1	weiblich
+intsex	2	maennlich
+month	Variable Label	INTERVIEWDATUM: MONAT
+noresp	Variable Label	RESPONDENTENNUMMER
+popnum	Variable Label	EINWOHNERZAHL (KATEGORISIERT)
+popnum	0	<2.500
+popnum	1	2.500-
+popnum	2	5.000-
+popnum	3	10.000-
+popnum	4	50.000-
+popnum	5	1M.+
+q01	Variable Label	POLITISCHES INTERESSE
+q01	1	sehr interessiert
+q01	2	ziemlich interessiert
+q01	3	wenig interessiert
+q01	4	gar nicht interessiert
+q01	77	verweigert
+q01	88	weiss nicht
+q02	Variable Label	MEDIALE AUFMERKSAMKEIT POLITIK
+q02	1	sehr aufmerksam
+q02	2	ziemlich aufmerksam
+q02	3	wenig aufmerksam
+q02	4	gar nicht aufmerksam
+q02	77	verweigert
+q02	88	weiß nicht
+q03	Variable Label	MEINUNG: IM ALLGEMEINEN WEISS ICH RECHT VIEL UEBER POLITIK
+q03	1	trifft sehr zu
+q03	2	trifft eher zu
+q03	3	teils-teils
+q03	4	trifft eher nicht zu
+q03	5	trifft gar nicht zu
+q03	77	verweigert
+q03	88	weiss nicht
+q04a	Variable Label	MEINUNG: KOMPROMISS HEISST PRINZIPIEN VERKAUFEN
+q04a	1	trifft sehr zu
+q04a	2	trifft eher zu
+q04a	3	teils-teils
+q04a	4	trifft eher nicht zu
+q04a	5	trifft gar nicht zu
+q04a	77	verweigert
+q04a	88	weiss nicht
+q04b	Variable Label	MEINUNG: POLITIKER INTERESSIEREN SICH NICHT FUER DIE MEINUNG DER BUERGER
+q04b	1	trifft sehr zu
+q04b	2	trifft eher zu
+q04b	3	teils-teils
+q04b	4	trifft eher nicht zu
+q04b	5	trifft gar nicht zu
+q04b	77	verweigert
+q04b	88	weiss nicht
+q04c	Variable Label	MEINUNG: DIE MEISTEN POLITIKER SIND VERTRAUENSWUERDIG
+q04c	1	trifft sehr zu
+q04c	2	trifft eher zu
+q04c	3	teils-teils
+q04c	4	trifft eher nicht zu
+q04c	5	trifft gar nicht zu
+q04c	77	verweigert
+q04c	88	weiss nicht
+q04d	Variable Label	MEINUNG: DIE POLITIKER SIND HAUPTPROBLEM IN OESTERREICH
+q04d	1	trifft sehr zu
+q04d	2	trifft eher zu
+q04d	3	teils-teils
+q04d	4	trifft eher nicht zu
+q04d	5	trifft gar nicht zu
+q04d	77	verweigert
+q04d	88	weiss nicht
+q04e	Variable Label	MEINUNG: STARKE FUEHRUNGSPERSOENLICHKEIT, ENTSCHEIDET IM ALLEINGANG
+q04e	1	trifft sehr zu
+q04e	2	trifft eher zu
+q04e	3	teils-teils
+q04e	4	trifft eher nicht zu
+q04e	5	trifft gar nicht zu
+q04e	77	verweigert
+q04e	88	weiss nicht
+q04f	Variable Label	MEINUNG: VOLK, NICHT POLITIKER, SOLLTE ENTSCHEIDUNGEN TREFFEN
+q04f	1	trifft sehr zu
+q04f	2	trifft eher zu
+q04f	3	teils-teils
+q04f	4	trifft eher nicht zu
+q04f	5	trifft gar nicht zu
+q04f	77	verweigert
+q04f	88	weiss nicht
+q04g	Variable Label	MEINUNG: POLITIKER KUEMMERN SICH NUR UM REICHE
+q04g	1	trifft sehr zu
+q04g	2	trifft eher zu
+q04g	3	teils-teils
+q04g	4	trifft eher nicht zu
+q04g	5	trifft gar nicht zu
+q04g	77	verweigert
+q04g	88	weiss nicht
+q04h	Variable Label	MEINUNG: BEVORZUGE UNABHAENGIGE BUERGER STATT PARTEIMITGLIED
+q04h	1	trifft sehr zu
+q04h	2	trifft eher zu
+q04h	3	teils-teils
+q04h	4	trifft eher nicht zu
+q04h	5	trifft gar nicht zu
+q04h	77	verweigert
+q04h	88	weiss nicht
+q04i	Variable Label	MEINUNG: KONZERNE, NICHT REGIERUNGEN, BESTIMMEN DIE POLITIK
+q04i	1	trifft sehr zu
+q04i	2	trifft eher zu
+q04i	3	teils-teils
+q04i	4	trifft eher nicht zu
+q04i	5	trifft gar nicht zu
+q04i	77	verweigert
+q04i	88	weiss nicht
+q05a	Variable Label	MEINUNG: MINDERHEITEN SOLLEN SICH GEPFLOGENHEITEN ANPASSEN
+q05a	1	trifft sehr zu
+q05a	2	trifft eher zu
+q05a	3	teils-teils
+q05a	4	trifft eher nicht zu
+q05a	5	trifft gar nicht zu
+q05a	77	verweigert
+q05a	88	weiss nicht
+q05b	Variable Label	MEINUNG: MEHRHEITSWILLE HAT VORRANG
+q05b	1	trifft sehr zu
+q05b	2	trifft eher zu
+q05b	3	teils-teils
+q05b	4	trifft eher nicht zu
+q05b	5	trifft gar nicht zu
+q05b	77	verweigert
+q05b	88	weiss nicht
+q05c	Variable Label	MEINUNG: ZUWANDERER IM ALLGEMEINEN GUT FUER WIRTSCHAFT
+q05c	1	trifft sehr zu
+q05c	2	trifft eher zu
+q05c	3	teils-teils
+q05c	4	trifft eher nicht zu
+q05c	5	trifft gar nicht zu
+q05c	77	verweigert
+q05c	88	weiss nicht
+q05d	Variable Label	MEINUNG: OESTERREICHISCHE KULTUR IM ALLGEMEINEN DURCH ZUWANDERER BEDROHT
+q05d	1	trifft sehr zu
+q05d	2	trifft eher zu
+q05d	3	teils-teils
+q05d	4	trifft eher nicht zu
+q05d	5	trifft gar nicht zu
+q05d	77	verweigert
+q05d	88	weiss nicht
+q05e	Variable Label	MEINUNG: DURCH ZUWANDERER NIMMT KRIMINALITAET IN OESTERREICH ZU
+q05e	1	trifft sehr zu
+q05e	2	trifft eher zu
+q05e	3	teils-teils
+q05e	4	trifft eher nicht zu
+q05e	5	trifft gar nicht zu
+q05e	77	verweigert
+q05e	88	weiss nicht
+q05f	Variable Label	MEINUNG: ZUWANDERER NEHMEN OESTERREICHERN ARBEITSPLAETZE WEG
+q05f	1	trifft sehr zu
+q05f	2	trifft eher zu
+q05f	3	teils-teils
+q05f	4	trifft eher nicht zu
+q05f	5	trifft gar nicht zu
+q05f	77	verweigert
+q05f	88	weiss nicht
+q05g	Variable Label	MEINUNG: ZUWANDERER ZAHLEN MEHR IN SOZIALSYSTEM EIN
+q05g	1	trifft sehr zu
+q05g	2	trifft eher zu
+q05g	3	teils-teils
+q05g	4	trifft eher nicht zu
+q05g	5	trifft gar nicht zu
+q05g	77	verweigert
+q05g	88	weiss nicht
+q05h	Variable Label	MEINUNG: ZUWANDERER SOLLTEN LEBENSSTIL BEIBEHALTEN KOENNEN
+q05h	1	trifft sehr zu
+q05h	2	trifft eher zu
+q05h	3	teils-teils
+q05h	4	trifft eher nicht zu
+q05h	5	trifft gar nicht zu
+q05h	77	verweigert
+q05h	88	weiss nicht
+q05i	Variable Label	MEINUNG: ZUWANDERUNG HAT KEINEN EINFLUSS AUF TERRORGEFAHR
+q05i	1	trifft sehr zu
+q05i	2	trifft eher zu
+q05i	3	teils-teils
+q05i	4	trifft eher nicht zu
+q05i	5	trifft gar nicht zu
+q05i	77	verweigert
+q05i	88	weiss nicht
+q06a	Variable Label	OESTERREICHER SEIN: GEBURT IN OE
+q06a	1	sehr wichtig
+q06a	2	eher wichtig
+q06a	3	eher nicht wichtig
+q06a	4	gar nicht wichtig
+q06a	77	verweigert
+q06a	88	weiss nicht
+q06b	Variable Label	OESTERREICHER SEIN: VORFAHREN
+q06b	1	sehr wichtig
+q06b	2	eher wichtig
+q06b	3	eher nicht wichtig
+q06b	4	gar nicht wichtig
+q06b	77	verweigert
+q06b	88	weiss nicht
+q06c	Variable Label	OESTERREICHER SEIN: DEUTSCH SPRECHEN
+q06c	1	sehr wichtig
+q06c	2	eher wichtig
+q06c	3	eher nicht wichtig
+q06c	4	gar nicht wichtig
+q06c	77	verweigert
+q06c	88	weiss nicht
+q06d	Variable Label	OESTERREICHER SEIN: OESTERREICHISCHE TRADITIONEN BEFOLGEN
+q06d	1	sehr wichtig
+q06d	2	eher wichtig
+q06d	3	eher nicht wichtig
+q06d	4	gar nicht wichtig
+q06d	77	verweigert
+q06d	88	weiss nicht
+q06e	Variable Label	OESTERREICHER SEIN: LEBENSORT OE
+q06e	1	sehr wichtig
+q06e	2	eher wichtig
+q06e	3	eher nicht wichtig
+q06e	4	gar nicht wichtig
+q06e	77	verweigert
+q06e	88	weiss nicht
+q06f	Variable Label	OESTERREICHER SEIN: INSTITUTIONEN RESPEKTIEREN
+q06f	1	sehr wichtig
+q06f	2	eher wichtig
+q06f	3	eher nicht wichtig
+q06f	4	gar nicht wichtig
+q06f	77	verweigert
+q06f	88	weiss nicht
+q06g	Variable Label	OESTERREICHER SEIN: ALS OESTERREICHER FUEHLEN
+q06g	1	sehr wichtig
+q06g	2	eher wichtig
+q06g	3	eher nicht wichtig
+q06g	4	gar nicht wichtig
+q06g	77	verweigert
+q06g	88	weiss nicht
+q06h	Variable Label	OESTERREICHER SEIN: CHRISTENTUM
+q06h	1	sehr wichtig
+q06h	2	eher wichtig
+q06h	3	eher nicht wichtig
+q06h	4	gar nicht wichtig
+q06h	77	verweigert
+q06h	88	weiss nicht
+q07	Variable Label	VERBREITUNG KORRUPTION
+q07	1	sehr verbreitet
+q07	2	eher verbreitet
+q07	3	wenig verbreitet
+q07	4	gar nicht verbreitet
+q07	77	verweigert
+q07	88	weiss nicht
+q08	Variable Label	MEINUNG: POLITIK SOLLTE EINKOMMENSUNTERSCHIEDE VERKLEINERN
+q08	1	trifft sehr zu
+q08	2	trifft eher zu
+q08	3	teils-teils
+q08	4	trifft eher nicht zu
+q08	5	trifft gar nicht zu
+q08	77	verweigert
+q08	88	weiss nicht
+q08a	Variable Label	MEINUNG: SOZIALSTAAT MACHT MENSCHEN FAUL
+q08a	1	trifft sehr zu
+q08a	2	trifft eher zu
+q08a	3	teils-teils
+q08a	4	trifft eher nicht zu
+q08a	5	trifft gar nicht zu
+q08a	77	verweigert
+q08a	88	weiss nicht
+q08b	Variable Label	MEINUNG: ARBEITSLOSIGKEIT MUSS BEKAEMPFT WERDEN
+q08b	1	trifft sehr zu
+q08b	2	trifft eher zu
+q08b	3	teils-teils
+q08b	4	trifft eher nicht zu
+q08b	5	trifft gar nicht zu
+q08b	77	verweigert
+q08b	88	weiss nicht
+q08c	Variable Label	MEINUNG: UNGLEICHHEIT IN OE ZU GROSS
+q08c	1	trifft sehr zu
+q08c	2	trifft eher zu
+q08c	3	teils-teils
+q08c	4	trifft eher nicht zu
+q08c	5	trifft gar nicht zu
+q08c	77	verweigert
+q08c	88	weiss nicht
+q08d	Variable Label	MEINUNG: JEDE GESELLSCHAFT BRAUCHT OBEN UND UNTEN
+q08d	1	trifft sehr zu
+q08d	2	trifft eher zu
+q08d	3	teils-teils
+q08d	4	trifft eher nicht zu
+q08d	5	trifft gar nicht zu
+q08d	77	verweigert
+q08d	88	weiss nicht
+q08e	Variable Label	MEINUNG: KEINE GRUPPE SOLLTE VORRECHTE HABEN
+q08e	1	trifft sehr zu
+q08e	2	trifft eher zu
+q08e	3	teils-teils
+q08e	4	trifft eher nicht zu
+q08e	5	trifft gar nicht zu
+q08e	77	verweigert
+q08e	88	weiss nicht
+q08f	Variable Label	MEINUNG: VERSUCH, ALLE GLEICH ZU MACHEN IST UNGERECHT
+q08f	1	trifft sehr zu
+q08f	2	trifft eher zu
+q08f	3	teils-teils
+q08f	4	trifft eher nicht zu
+q08f	5	trifft gar nicht zu
+q08f	77	verweigert
+q08f	88	weiss nicht
+q08g	Variable Label	MEINUNG: GLEICHE CHANCEN FUER ALLE GRUPPEN
+q08g	1	trifft sehr zu
+q08g	2	trifft eher zu
+q08g	3	teils-teils
+q08g	4	trifft eher nicht zu
+q08g	5	trifft gar nicht zu
+q08g	77	verweigert
+q08g	88	weiss nicht
+q09	Variable Label	ZUFRIEDENHEIT MIT LETZTER BUNDESREGIERUNG (SPOE-OEVP)
+q09	1	sehr gute Arbeit
+q09	2	gute Arbeit
+q09	3	schlechte Arbeit
+q09	4	sehr schlechte Arbeit
+q09	77	verweigert
+q09	88	weiss nicht
+q10a	Variable Label	INTERESSEN DURCH PARTEI VERTRETEN: JA/NEIN
+q10a	1	ja
+q10a	5	nein
+q10a	77	verweigert
+q10a	88	weiss nicht
+q10b	Variable Label	INTERESSEN DURCH PARTEI VERTRETEN: PARTEI
+q10b	1	SPOE
+q10b	2	OEVP/Liste Sebastian Kurz - die Neue Volkspartei
+q10b	3	FPOE
+q10b	4	Gruene
+q10b	5	NEOS
+q10b	6	Liste Peter Pilz
+q10b	7	Die Weissen
+q10b	8	FLOE (Liste Dr. Schnell)
+q10b	9	KPOE PLUS
+q10b	10	Liste Roland Dueringer
+q10b	11	andere Partei
+q10b	77	verweigert
+q10b	88	weiss nicht
+q11	Variable Label	WIRTSCHAFTSLAGE OESTERREICH: RETROSPEKTIV (LETZTE 12 MONATE)
+q11	1	viel besser geworden
+q11	2	etwas besser geworden
+q11	3	gleich geblieben
+q11	4	etwas schlechter geworden
+q11	5	viel schlechter geworden
+q11	77	verweigert
+q11	88	weiss nicht
+q12a	Variable Label	WAHLTEILNAHME: NATIONALRATSWAHL 2017
+q12a	1	habe nicht gewaehlt
+q12a	2	habe in Erwaegung gezogen zu waehlen, es diesmal aber nicht gemacht
+q12a	3	normalerweise waehle ich, diesmal nicht
+q12a	4	Ich bin sicher, gewaehlt zu haben
+q12a	77	verweigert
+q12a	88	weiss nicht
+q12b	Variable Label	WAHLENTSCHEIDUNG: NATIONALRATSWAHL 2017
+q12b	1	SPOE
+q12b	2	OEVP/Liste Sebastian Kurz - die Neue Volkspartei
+q12b	3	FPOE
+q12b	4	Gruene
+q12b	5	NEOS
+q12b	6	Liste Peter Pilz
+q12b	7	Die Weissen
+q12b	8	FLOE (Liste Dr. Schnell)
+q12b	9	KPOE PLUS
+q12b	10	Liste Roland Dueringer
+q12b	11	andere Partei
+q12b	66	habe ungueltig gewaehlt
+q12b	77	verweigert
+q12b	88	weiss nicht
+q12c	Variable Label	VORZUGSSTIMME: NATIONALRATSWAHL 2017
+q12c	1	ja, Vorzugsstimme vergeben
+q12c	2	nein, keine Vorzugsstimme vergeben
+q12c	6	habe ungueltig gewaehlt
+q12c	77	verweigert
+q12c	88	weiss nicht
+q12d1	Variable Label	VORZUGSSTIMME: REGIONALLISTE
+q12d1	1	genannt
+q12d2	Variable Label	VORZUGSSTIMME: LANDESLISTE
+q12d2	1	genannt
+q12d3	Variable Label	VORZUGSSTIMME: BUNDESLISTE
+q12d3	1	genannt
+q12d4	Variable Label	VORZUGSSTIMME: KEINE VERGEBEN
+q12d4	1	genannt
+q12d5	Variable Label	VORZUGSSTIMME: WEISS NICHT
+q12d5	1	genannt
+q12d6	Variable Label	VORZUGSSTIMME: KEINE ANGABE
+q12d6	1	genannt
+q13a	Variable Label	WAHLTEILNAHME: NATIONALRATSWAHL 2013
+q13a	1	habe nicht gewaehlt
+q13a	2	habe in Erwaegung gezogen zu waehlen, es damals aber nicht gemacht
+q13a	3	normalerweise waehle ich, damals nicht
+q13a	4	Ich bin sicher, gewaehlt zu haben
+q13a	66	war nicht wahlberechtigt
+q13a	77	verweigert
+q13a	88	weiss nicht
+q13b	Variable Label	WAHLENTSCHEIDUNG: NATIONALRATSWAHL 2013
+q13b	1	SPOE
+q13b	2	OEVP
+q13b	3	FPOE
+q13b	4	BZOE
+q13b	5	Gruene
+q13b	6	Team Stronach
+q13b	7	KPOE
+q13b	8	NEOS
+q13b	9	Piraten
+q13b	10	CPOE (Christliche Partei OE)
+q13b	11	andere Partei
+q13b	66	habe ungueltig gewaehlt
+q13b	77	verweigert
+q13b	88	weiss nicht
+q14a	Variable Label	MEINUNG: WER AN DER MACHT IST MACHT EINEN UNTERSCHIED
+q14a	1	Macht keinen Unterschied
+q14a	5	Macht einen großen Unterschied
+q14a	77	verweigert
+q14a	88	weiss nicht
+q14b	Variable Label	MEINUNG: WAS MAN WAEHLT MACHT KEINEN UNTERSCHIED
+q14b	1	Macht keinen Unterschied
+q14b	5	Macht einen großen Unterschied
+q14b	77	verweigert
+q14b	88	weiss nicht
+q15a	Variable Label	SYMPATHIE: SPOE
+q15a	0	gar nicht sympathisch
+q15a	10	sehr sympathisch
+q15a	66	kenne Partei nicht
+q15a	77	verweigert
+q15a	88	weiss nicht
+q15b	Variable Label	SYMPATHIE: OEVP
+q15b	0	gar nicht sympathisch
+q15b	10	sehr sympathisch
+q15b	66	kenne Partei nicht
+q15b	77	verweigert
+q15b	88	weiss nicht
+q15c	Variable Label	SYMPATHIE: FPOE
+q15c	0	gar nicht sympathisch
+q15c	10	sehr sympathisch
+q15c	66	kenne Partei nicht
+q15c	77	verweigert
+q15c	88	weiss nicht
+q15d	Variable Label	SYMPATHIE: GRUENE
+q15d	0	gar nicht sympathisch
+q15d	10	sehr sympathisch
+q15d	66	kenne Partei nicht
+q15d	77	verweigert
+q15d	88	weiss nicht
+q15e	Variable Label	SYMPATHIE: NEOS
+q15e	0	gar nicht sympathisch
+q15e	10	sehr sympathisch
+q15e	66	kenne Partei nicht
+q15e	77	verweigert
+q15e	88	weiss nicht
+q15f	Variable Label	SYMPATHIE: LISTE PETER PILZ
+q15f	0	gar nicht sympathisch
+q15f	10	sehr sympathisch
+q15f	66	kenne Partei nicht
+q15f	77	verweigert
+q15f	88	weiss nicht
+q16a	Variable Label	SYMPATHIE: CHRISTIAN KERN
+q16a	0	gar nicht sympathisch
+q16a	10	sehr sympathisch
+q16a	66	kenne Person nicht
+q16a	77	verweigert
+q16a	88	weiss nicht
+q16b	Variable Label	SYMPATHIE: SEBASTIAN KURZ
+q16b	0	gar nicht sympathisch
+q16b	10	sehr sympathisch
+q16b	66	kenne Person nicht
+q16b	77	verweigert
+q16b	88	weiss nicht
+q16c	Variable Label	SYMPATHIE: HEINZ-CHRISTIAN STRACHE
+q16c	0	gar nicht sympathisch
+q16c	10	sehr sympathisch
+q16c	66	kenne Person nicht
+q16c	77	verweigert
+q16c	88	weiss nicht
+q16d	Variable Label	SYMPATHIE: ULRIKE LUNACEK
+q16d	0	gar nicht sympathisch
+q16d	10	sehr sympathisch
+q16d	66	kenne Person nicht
+q16d	77	verweigert
+q16d	88	weiss nicht
+q16e	Variable Label	SYMPATHIE: MATTHIAS STROLZ
+q16e	0	gar nicht sympathisch
+q16e	10	sehr sympathisch
+q16e	66	kenne Person nicht
+q16e	77	verweigert
+q16e	88	weiss nicht
+q16f	Variable Label	SYMPATHIE: PETER PILZ
+q16f	0	gar nicht sympathisch
+q16f	10	sehr sympathisch
+q16f	66	kenne Person nicht
+q16f	77	verweigert
+q16f	88	weiss nicht
+q17a	Variable Label	LINKS-RECHTS EINSTUFUNG: SPOE
+q17a	0	links
+q17a	10	rechts
+q17a	66	kenne Partei nicht
+q17a	77	verweigert
+q17a	88	weiss nicht
+q17b	Variable Label	LINKS-RECHTS EINSTUFUNG: OEVP
+q17b	0	links
+q17b	10	rechts
+q17b	66	kenne Partei nicht
+q17b	77	verweigert
+q17b	88	weiss nicht
+q17c	Variable Label	LINKS-RECHTS EINSTUFUNG: FPOE
+q17c	0	links
+q17c	10	rechts
+q17c	66	kenne Partei nicht
+q17c	77	verweigert
+q17c	88	weiss nicht
+q17d	Variable Label	LINKS-RECHTS EINSTUFUNG: GRUENE
+q17d	0	links
+q17d	10	rechts
+q17d	66	kenne Partei nicht
+q17d	77	verweigert
+q17d	88	weiss nicht
+q17e	Variable Label	LINKS-RECHTS EINSTUFUNG: NEOS
+q17e	0	links
+q17e	10	rechts
+q17e	66	kenne Partei nicht
+q17e	77	verweigert
+q17e	88	weiss nicht
+q17f	Variable Label	LINKS-RECHTS EINSTUFUNG: LISTE PETER PILZ
+q17f	0	links
+q17f	10	rechts
+q17f	66	kenne Partei nicht
+q17f	77	verweigert
+q17f	88	weiss nicht
+q18	Variable Label	LINKS-RECHTS SELBSTEINSTUFUNG
+q18	0	links
+q18	10	rechts
+q18	77	verweigert
+q18	88	weiss nicht
+q21	Variable Label	DEMOKRATIEZUFRIEDENHEIT: OESTERREICH
+q21	1	sehr zufrieden
+q21	2	eher zufrieden
+q21	3	eher nicht zufrieden
+q21	4	gar nicht zufrieden
+q21	77	verweigert
+q21	88	weiss nicht
+q22a	Variable Label	PARTEIIDENTIFIKATION VORHANDEN
+q22a	1	ja
+q22a	5	nein
+q22a	77	verweigert
+q22a	88	weiss nicht
+q22b	Variable Label	PARTEIIDENTIFIKATION TENDENZ
+q22b	1	ja
+q22b	5	nein
+q22b	77	verweigert
+q22b	88	weiss nicht
+q22c	Variable Label	PARTEIIDENTIFIKATION MIT WELCHER PARTEI
+q22c	1	SPOE
+q22c	2	OEVP/Liste Sebastian Kurz - die Neue Volkspartei
+q22c	3	FPOE
+q22c	4	Gruene
+q22c	5	NEOS
+q22c	6	Liste Peter Pilz
+q22c	7	Die Weissen
+q22c	8	FLOE (Liste Dr. Schnell)
+q22c	9	KPOE PLUS
+q22c	10	Liste Roland Dueringer
+q22c	11	andere Partei
+q22c	77	verweigert
+q22c	88	weiss nicht
+q22d	Variable Label	STAERKE PARTEIIDENTIFIKATION
+q22d	1	sehr nahe
+q22d	2	ziemlich nahe
+q22d	3	nicht sehr nahe
+q22d	77	verweigert
+q22d	88	weiss nicht
+version	Variable Label	AUSSDA archive version
+year	Variable Label	INTERVIEWDATUM: JAHR

@@ -1,0 +1,2425 @@
+﻿variable	value	Label
+country	Variable Label	ISO 3166-1 country code
+doi	Variable Label	digital object identifier
+evs_main	Variable Label	Data source
+evs_main	1	EVS Main Study
+evs_main	2	Migrant Oversample
+id	Variable Label	id - casenumber
+MigHint	Variable Label	Migration Background
+MigHint	1	Turkey
+MigHint	2	bcs
+MigHint	3	other
+MigHint	4	none
+MigHint2	Variable Label	Migration Background - West/East - other
+MigHint2	1	Western
+MigHint2	2	Eastern
+MigHint2	3	Non-European
+MigHint2	4	none
+mode	Variable Label	mode of data collection
+mode	1	capi
+mode	2	papi
+mode	3	cawi
+mode	4	Mail
+mode	5	Other
+PSU_ID	Variable Label	Primary Sampling Unit
+PSU_ID	-9	not available
+STRAT_PSU	Variable Label	Stratification of PSUs
+v1	Variable Label	how important in your life: work (Q1A)
+v1	1	very important
+v1	2	quite important
+v1	3	not important
+v1	4	not at all important
+v1	8	dk
+v1	9	na
+v1_at	Variable Label	There is a God who attends to every human being personally. (Q1_at_A)
+v1_at	1	agree strongly
+v1_at	2	agree
+v1_at	3	disagree
+v1_at	4	disagree strongly
+v1_at	8	dk
+v1_at	9	na
+v10	Variable Label	do you belong to: cultural activities (Q4B)
+v10	1	mentioned
+v10	2	not mentioned
+v10	8	dk
+v10	9	na
+v10_at	Variable Label	Which party did you elect during the last parliamentary election on October 15t
+v10_at	1	AT: Social Democratic Party of Austria - SPÖ
+v10_at	2	AT: List Kurz / Austrian People's Party - ÖVP
+v10_at	3	AT: Freedom Party of Austria - FPÖ
+v10_at	4	AT: The Greens - The Green Alternative
+v10_at	5	AT: The new Austria - NEOS
+v10_at	6	AT: List Peter Pilz
+v10_at	26	AT: Other
+v10_at	27	AT: didn't vote
+v10_at	77	AT: not eligible to vote
+v10_at	88	AT: dk
+v10_at	99	AT: na
+v100	Variable Label	political action: attending lawful demonstrations (Q30C)
+v100	1	have done
+v100	2	might do
+v100	3	would never do
+v100	8	dk
+v100	9	na
+v101	Variable Label	joining unofficial strikes (Q30D)
+v101	1	have done
+v101	2	might do
+v101	3	would never do
+v101	8	dk
+v101	9	na
+v102	Variable Label	political view: left-right (Q31)
+v102	1	the left
+v102	10	the right
+v102	88	dk
+v102	99	na
+v103	Variable Label	individual vs. state responsibility for providing (Q32A)
+v103	1	individual responsibility
+v103	10	state responsibility
+v103	88	dk
+v103	99	na
+v104	Variable Label	take any job vs. right to refuse job when unemployed (Q32B)
+v104	1	unemployed take any job
+v104	10	unemployed right to refuse a job
+v104	88	dk
+v104	99	na
+v105	Variable Label	competition is good vs. harmful (Q32C)
+v105	1	competition good
+v105	10	competition harmful
+v105	88	dk
+v105	99	na
+v106	Variable Label	equalize incomes vs. incentives for individual effort (Q32D)
+v106	1	incomes more equal
+v106	10	incentives to individual efforts
+v106	88	dk
+v106	99	na
+v107	Variable Label	private vs. government ownership business (Q32E)
+v107	1	private ownership increased
+v107	10	government ownership increased
+v107	88	dk
+v107	99	na
+v108	Variable Label	aims of this country: most important (Q33)
+v108	1	high level of economic growth
+v108	2	strong defense forces
+v108	3	more say at their jobs/ in communities
+v108	4	make cities/countryside more beautiful
+v108	8	dk
+v108	9	na
+v109	Variable Label	aims of this country: 2nd most important (Q33a)
+v109	1	high level of economic growth
+v109	2	strong defense forces
+v109	3	more say at their jobs/ in communities
+v109	4	make cities/countryside more beautiful
+v109	8	dk
+v109	9	na
+v10a_at	Variable Label	Which party did you elect during the last parliamentary election on October 15t
+v11	Variable Label	do you belong to: trade unions (Q4C)
+v11	1	mentioned
+v11	2	not mentioned
+v11	8	dk
+v11	9	na
+v11_at	Variable Label	good/bad: more emphasis on the development of technology (Q37C_at)
+v11_at	1	good
+v11_at	2	bad
+v11_at	3	dont mind
+v11_at	8	dk
+v11_at	9	na
+v110	Variable Label	aims of respondent: most important (Q34)
+v110	1	maintaining order in nation
+v110	2	more say in important government decisions
+v110	3	fighting rising prices
+v110	4	protect freedom of speech
+v110	8	dk
+v110	9	na
+v111	Variable Label	aims of respondent: 2nd most important (Q35)
+v111	1	maintaining order in nation
+v111	2	more say in important government decisions
+v111	3	fighting rising prices
+v111	4	protect freedom of speech
+v111	8	dk
+v111	9	na
+v112	Variable Label	are you willing to fight for country (Q36)
+v112	1	yes
+v112	2	no
+v112	8	dk
+v112	9	na
+v113	Variable Label	good/bad: decrease work importance (Q37A)
+v113	1	good
+v113	2	bad
+v113	3	dont mind
+v113	8	dk
+v113	9	na
+v114	Variable Label	good/bad: greater respect for authority (Q37B)
+v114	1	good
+v114	2	bad
+v114	3	dont mind
+v114	8	dk
+v114	9	na
+v115	Variable Label	how much confidence in: church (Q38A)
+v115	1	a great deal
+v115	2	quite a lot
+v115	3	not very much
+v115	4	none at all
+v115	8	dk
+v115	9	na
+v116	Variable Label	how much confidence in: armed forces (Q38B)
+v116	1	a great deal
+v116	2	quite a lot
+v116	3	not very much
+v116	4	none at all
+v116	8	dk
+v116	9	na
+v117	Variable Label	how much confidence in: education system (Q38C)
+v117	1	a great deal
+v117	2	quite a lot
+v117	3	not very much
+v117	4	none at all
+v117	8	dk
+v117	9	na
+v118	Variable Label	how much confidence in: the press (Q38D)
+v118	1	a great deal
+v118	2	quite a lot
+v118	3	not very much
+v118	4	none at all
+v118	8	dk
+v118	9	na
+v119	Variable Label	how much confidence in: trade unions (Q38E)
+v119	1	a great deal
+v119	2	quite a lot
+v119	3	not very much
+v119	4	none at all
+v119	8	dk
+v119	9	na
+v12	Variable Label	do you belong to: political parties/groups (Q4D)
+v12	1	mentioned
+v12	2	not mentioned
+v12	8	dk
+v12	9	na
+v12_at	Variable Label	good/bad: greater emphasis on the development of the individual (Q37D_at)
+v12_at	1	good
+v12_at	2	bad
+v12_at	3	dont mind
+v12_at	8	dk
+v12_at	9	na
+v120	Variable Label	how much confidence in: the police (Q38F)
+v120	1	a great deal
+v120	2	quite a lot
+v120	3	not very much
+v120	4	none at all
+v120	8	dk
+v120	9	na
+v121	Variable Label	how much confidence in: parliament (Q38G)
+v121	1	a great deal
+v121	2	quite a lot
+v121	3	not very much
+v121	4	none at all
+v121	8	dk
+v121	9	na
+v122	Variable Label	how much confidence in: civil service (Q38H)
+v122	1	a great deal
+v122	2	quite a lot
+v122	3	not very much
+v122	4	none at all
+v122	8	dk
+v122	9	na
+v123	Variable Label	how much confidence in: social security system (Q38I)
+v123	1	a great deal
+v123	2	quite a lot
+v123	3	not very much
+v123	4	none at all
+v123	8	dk
+v123	9	na
+v124	Variable Label	how much confidence in: European Union (Q38J)
+v124	1	a great deal
+v124	2	quite a lot
+v124	3	not very much
+v124	4	none at all
+v124	8	dk
+v124	9	na
+v125	Variable Label	how much confidence in: United Nations Organisation (Q38K)
+v125	1	a great deal
+v125	2	quite a lot
+v125	3	not very much
+v125	4	none at all
+v125	8	dk
+v125	9	na
+v126	Variable Label	how much confidence in: health care system (Q38L)
+v126	1	a great deal
+v126	2	quite a lot
+v126	3	not very much
+v126	4	none at all
+v126	8	dk
+v126	9	na
+v127	Variable Label	how much confidence in: justice system (Q38M)
+v127	1	a great deal
+v127	2	quite a lot
+v127	3	not very much
+v127	4	none at all
+v127	8	dk
+v127	9	na
+v128	Variable Label	how much confidence in: major companies (Q38N)
+v128	1	a great deal
+v128	2	quite a lot
+v128	3	not very much
+v128	4	none at all
+v128	8	dk
+v128	9	na
+v129	Variable Label	how much confidence in: environmental organizations (Q38O)
+v129	1	a great deal
+v129	2	quite a lot
+v129	3	not very much
+v129	4	none at all
+v129	8	dk
+v129	9	na
+v13	Variable Label	do you belong to: environment, ecology, animal rights (Q4E)
+v13	1	mentioned
+v13	2	not mentioned
+v13	8	dk
+v13	9	na
+v13_at	Variable Label	good/bad: more emphasis on family life (Q37E_at)
+v13_at	1	good
+v13_at	2	bad
+v13_at	3	dont mind
+v13_at	8	dk
+v13_at	9	na
+v130	Variable Label	how much confidence in: political parties (Q38P)
+v130	1	a great deal
+v130	2	quite a lot
+v130	3	not very much
+v130	4	none at all
+v130	8	dk
+v130	9	na
+v131	Variable Label	how much confidence in: government (Q38Q)
+v131	1	a great deal
+v131	2	quite a lot
+v131	3	not very much
+v131	4	none at all
+v131	8	dk
+v131	9	na
+v132	Variable Label	how much confidence in: social media (Q38R)
+v132	1	a great deal
+v132	2	quite a lot
+v132	3	not very much
+v132	4	none at all
+v132	8	dk
+v132	9	na
+v133	Variable Label	democracy: governments tax the rich and subsidize the poor (Q39A)
+v133	0	it is against democracy
+v133	1	not at all an essential characteristic of democracy
+v133	10	an essential characteristic of democracy
+v133	88	dk
+v133	99	na
+v134	Variable Label	democracy: religious authorities interpret the laws (Q39B)
+v134	0	it is against democracy
+v134	1	not at all an essential characteristic of democracy
+v134	10	an essential characteristic of democracy
+v134	88	dk
+v134	99	na
+v135	Variable Label	democracy: people choose their leaders in free elections (Q39C)
+v135	0	it is against democracy
+v135	1	not at all an essential characteristic of democracy
+v135	10	an essential characteristic of democracy
+v135	88	dk
+v135	99	na
+v136	Variable Label	democracy: people receive state aid for unemployment (Q39D)
+v136	0	it is against democracy
+v136	1	not at all an essential characteristic of democracy
+v136	10	an essential characteristic of democracy
+v136	88	dk
+v136	99	na
+v137	Variable Label	democracy: the army takes over when government is incompetent (Q39E)
+v137	0	it is against democracy
+v137	1	not at all an essential characteristic of democracy
+v137	10	an essential characteristic of democracy
+v137	88	dk
+v137	99	na
+v138	Variable Label	democracy: civil rights protect people from state oppression (Q39F)
+v138	0	it is against democracy
+v138	1	not at all an essential characteristic of democracy
+v138	10	an essential characteristic of democracy
+v138	88	dk
+v138	99	na
+v139	Variable Label	democracy: the state makes people's incomes equal (Q39G)
+v139	0	it is against democracy
+v139	1	not at all an essential characteristic of democracy
+v139	10	an essential characteristic of democracy
+v139	88	dk
+v139	99	na
+v14	Variable Label	do you belong to: professional associations (Q4F)
+v14	1	mentioned
+v14	2	not mentioned
+v14	8	dk
+v14	9	na
+v14_at	Variable Label	good/bad: a simple and more natural life (Q37F_at)
+v14_at	1	good
+v14_at	2	bad
+v14_at	3	dont mind
+v14_at	8	dk
+v14_at	9	na
+v140	Variable Label	democracy: people obey their rulers (Q39H)
+v140	0	it is against democracy
+v140	1	not at all an essential characteristic of democracy
+v140	10	an essential characteristic of democracy
+v140	88	dk
+v140	99	na
+v141	Variable Label	democracy: women have the same rights as men (Q39I)
+v141	0	it is against democracy
+v141	1	not at all an essential characteristic of democracy
+v141	10	an essential characteristic of democracy
+v141	88	dk
+v141	99	na
+v142	Variable Label	importance of democracy (Q40)
+v142	1	not at all important
+v142	10	absolutely important
+v142	88	dk
+v142	99	na
+v143	Variable Label	democracy in own country (Q41)
+v143	1	not at all democratic
+v143	10	completely democratic
+v143	88	dk
+v143	99	na
+v144	Variable Label	satisfaction political system (Q42)
+v144	1	not satisfied at all
+v144	10	completely satisfied
+v144	88	dk
+v144	99	na
+v145	Variable Label	political system: strong leader (Q43A)
+v145	1	very good
+v145	2	fairly good
+v145	3	fairly bad
+v145	4	very bad
+v145	8	dk
+v145	9	na
+v146	Variable Label	political system: experts making decisions (Q43B)
+v146	1	very good
+v146	2	fairly good
+v146	3	fairly bad
+v146	4	very bad
+v146	8	dk
+v146	9	na
+v147	Variable Label	political system: the army ruling (Q43C)
+v147	1	very good
+v147	2	fairly good
+v147	3	fairly bad
+v147	4	very bad
+v147	8	dk
+v147	9	na
+v148	Variable Label	political system: democratic (Q43D)
+v148	1	very good
+v148	2	fairly good
+v148	3	fairly bad
+v148	4	very bad
+v148	8	dk
+v148	9	na
+v149	Variable Label	do you justify: claiming state benefits (Q44A)
+v149	1	never
+v149	10	always
+v149	88	dk
+v149	99	na
+v15	Variable Label	do you belong to: sports/recreation (Q4G)
+v15	1	mentioned
+v15	2	not mentioned
+v15	8	dk
+v15	9	na
+v15_at	Variable Label	Where there is strict authority, there is also justice. (Q3_at_A)
+v15_at	1	agree strongly
+v15_at	2	agree
+v15_at	3	neither agree nor disagree
+v15_at	4	disagree
+v15_at	5	disagree strongly
+v15_at	8	dk
+v15_at	9	na
+v150	Variable Label	do you justify: cheating on tax (Q44B)
+v150	1	never
+v150	10	always
+v150	88	dk
+v150	99	na
+v151	Variable Label	do you justify: taking soft drugs (Q44C)
+v151	1	never
+v151	10	always
+v151	88	dk
+v151	99	na
+v152	Variable Label	do you justify: accepting a bribe (Q44D)
+v152	1	never
+v152	10	always
+v152	88	dk
+v152	99	na
+v153	Variable Label	do you justify: homosexuality (Q44E)
+v153	1	never
+v153	10	always
+v153	88	dk
+v153	99	na
+v154	Variable Label	do you justify: abortion (Q44F)
+v154	1	never
+v154	10	always
+v154	88	dk
+v154	99	na
+v155	Variable Label	do you justify: divorce (Q44G)
+v155	1	never
+v155	10	always
+v155	88	dk
+v155	99	na
+v156	Variable Label	do you justify: euthanasia (Q44H)
+v156	1	never
+v156	10	always
+v156	88	dk
+v156	99	na
+v157	Variable Label	do you justify: suicide (Q44I)
+v157	1	never
+v157	10	always
+v157	88	dk
+v157	99	na
+v158	Variable Label	do you justify: having casual sex (Q44J)
+v158	1	never
+v158	10	always
+v158	88	dk
+v158	99	na
+v159	Variable Label	do you justify: avoiding a fare on public transport (Q44K)
+v159	1	never
+v159	10	always
+v159	88	dk
+v159	99	na
+v16	Variable Label	do you belong to: charitable/humanitarian organization (Q4H)
+v16	1	mentioned
+v16	2	not mentioned
+v16	8	dk
+v16	9	na
+v16_at	Variable Label	Only those who have earned sufficient status through hard work should have a ri
+v16_at	1	agree strongly
+v16_at	2	agree
+v16_at	3	neither agree nor disagree
+v16_at	4	disagree
+v16_at	5	disagree strongly
+v16_at	8	dk
+v16_at	9	na
+v160	Variable Label	do you justify: prostitution (Q44L)
+v160	1	never
+v160	10	always
+v160	88	dk
+v160	99	na
+v161	Variable Label	do you justify: artificial insemination or in-vitro fertilization (Q44M)
+v161	1	never
+v161	10	always
+v161	88	dk
+v161	99	na
+v162	Variable Label	do you justify: political violence (Q44N)
+v162	1	never
+v162	10	always
+v162	88	dk
+v162	99	na
+v163	Variable Label	do you justify: death penalty (Q44O)
+v163	1	never
+v163	10	always
+v163	88	dk
+v163	99	na
+v164	Variable Label	how close do you feel: to own town/city (Q45A)
+v164	1	very close
+v164	2	close
+v164	3	not very close
+v164	4	not close at all
+v164	8	dk
+v164	9	na
+v165	Variable Label	how close do you feel: to your region (Q45B)
+v165	1	very close
+v165	2	close
+v165	3	not very close
+v165	4	not close at all
+v165	8	dk
+v165	9	na
+v166	Variable Label	how close do you fell: to Austria (Q45C)
+v166	1	very close
+v166	2	close
+v166	3	not very close
+v166	4	not close at all
+v166	8	dk
+v166	9	na
+v167	Variable Label	how close do you feel: to Europe (Q45D)
+v167	1	very close
+v167	2	close
+v167	3	not very close
+v167	4	not close at all
+v167	8	dk
+v167	9	na
+v168	Variable Label	how close do you feel: to world (Q45E)
+v168	1	very close
+v168	2	close
+v168	3	not very close
+v168	4	not close at all
+v168	8	dk
+v168	9	na
+v169	Variable Label	do you have Austria's nationality (Q46)
+v169	1	yes
+v169	2	no
+v169	8	dk
+v169	9	na
+v17	Variable Label	do you belong to: consumer organization (Q4I)
+v17	1	mentioned
+v17	2	not mentioned
+v17	8	dk
+v17	9	na
+v17_at	Variable Label	The meaning of life consists of attaining a respectable position. (Q3_at_C)
+v17_at	1	agree strongly
+v17_at	2	agree
+v17_at	3	neither agree nor disagree
+v17_at	4	disagree
+v17_at	5	disagree strongly
+v17_at	8	dk
+v17_at	9	na
+v170	Variable Label	how proud are you to be an Austrian citizen (Q47)
+v170	1	very proud
+v170	2	quite proud
+v170	3	not very proud
+v170	4	not at all proud
+v170	7	nap
+v170	8	dk
+v170	9	na
+v171	Variable Label	vote in elections: local level (Q48A)
+v171	1	always
+v171	2	usually
+v171	3	never
+v171	7	not allowed to vote
+v171	8	dk
+v171	9	na
+v172	Variable Label	vote in elections: national level (Q48B)
+v172	1	always
+v172	2	usually
+v172	3	never
+v172	7	not allowed to vote
+v172	8	dk
+v172	9	na
+v173	Variable Label	vote in elections: European level (Q48C)
+v173	1	always
+v173	2	usually
+v173	3	never
+v173	7	not allowed to vote
+v173	8	dk
+v173	9	na
+v174	Variable Label	which political party appeals to you most (Q49)
+v174	1	AT: Social Democratic Party of Austria - SPÖ
+v174	2	AT: List Kurz / Austrian People's Party - ÖVP
+v174	3	AT: Freedom Party of Austria - FPÖ
+v174	4	AT: The Greens - The Green Alternative
+v174	5	AT: The new Austria - NEOS
+v174	6	AT: List Peter Pilz
+v174	26	AT: Other
+v174	66	No party appeals to me (spontaneous)
+v174	88	dk
+v174	99	na
+v175	Variable Label	is there another party that appeals to you (Q49a)
+v175	1	AT: Social Democratic Party of Austria - SPÖ
+v175	2	AT: List Kurz / Austrian People's Party - ÖVP
+v175	3	AT: Freedom Party of Austria - FPÖ
+v175	4	AT: The Greens - The Green Alternative
+v175	5	AT: The new Austria - NEOS
+v175	6	AT: List Peter Pilz
+v175	26	AT: Other
+v175	66	No, no other party appeals to me
+v175	88	dk
+v175	99	na
+v176	Variable Label	how often in Austria's elections: votes are counted fairly (Q50A)
+v176	1	very often
+v176	2	fairly often
+v176	3	not often
+v176	4	not at all often
+v176	8	dk
+v176	9	na
+v177	Variable Label	how often in Austria's elections: opposition candidates are prevented from runn
+v177	1	very often
+v177	2	fairly often
+v177	3	not often
+v177	4	not at all often
+v177	8	dk
+v177	9	na
+v178	Variable Label	how often in Austria's elections: TV news favors the governing party (Q50C)
+v178	1	very often
+v178	2	fairly often
+v178	3	not often
+v178	4	not at all often
+v178	8	dk
+v178	9	na
+v179	Variable Label	how often in Austria's elections: voters are bribed (Q50D)
+v179	1	very often
+v179	2	fairly often
+v179	3	not often
+v179	4	not at all often
+v179	8	dk
+v179	9	na
+v18	Variable Label	do you belong to: self-help group, mutual aid group (Q4J)
+v18	1	mentioned
+v18	2	not mentioned
+v18	8	dk
+v18	9	na
+v18_at	Variable Label	Security and prosperity are more important than freedom. (Q3_at_D)
+v18_at	1	agree strongly
+v18_at	2	agree
+v18_at	3	neither agree nor disagree
+v18_at	4	disagree
+v18_at	5	disagree strongly
+v18_at	8	dk
+v18_at	9	na
+v180	Variable Label	how often in Austria's elections: journalists provide fair coverage of election
+v180	1	very often
+v180	2	fairly often
+v180	3	not often
+v180	4	not at all often
+v180	8	dk
+v180	9	na
+v181	Variable Label	how often in Austria's elections: election officials are fair (Q50F)
+v181	1	very often
+v181	2	fairly often
+v181	3	not often
+v181	4	not at all often
+v181	8	dk
+v181	9	na
+v182	Variable Label	how often in Austria's elections: rich people buy elections (Q50G)
+v182	1	very often
+v182	2	fairly often
+v182	3	not often
+v182	4	not at all often
+v182	8	dk
+v182	9	na
+v183	Variable Label	how often in Austria's elections: voters are threatened with violence at the po
+v183	1	very often
+v183	2	fairly often
+v183	3	not often
+v183	4	not at all often
+v183	8	dk
+v183	9	na
+v184	Variable Label	immigrants: impact on the development of Austria (Q51)
+v184	1	very bad
+v184	2	quite bad
+v184	3	neither good, nor bad
+v184	4	quite good
+v184	5	very good
+v184	8	dk
+v184	9	na
+v185	Variable Label	immigrants take away jobs from Austrians (Q52A)
+v185	1	take away
+v185	10	do not take away
+v185	88	dk
+v185	99	na
+v186	Variable Label	immigrants increase crime problems (Q52B)
+v186	1	make it worse
+v186	10	do not make it worse
+v186	88	dk
+v186	99	na
+v187	Variable Label	immigrants are a strain on welfare system (Q52C)
+v187	1	are a strain
+v187	10	are not a strain
+v187	88	dk
+v187	99	na
+v188	Variable Label	better if immigrants maintain/not maintain own customs (Q52D)
+v188	1	maintain distinct customs and traditions
+v188	10	do not maintain distinct customs and traditions
+v188	88	dk
+v188	99	na
+v189	Variable Label	important: to have been born in Austria (Q53A)
+v189	1	very important
+v189	2	quite important
+v189	3	not important
+v189	4	not at all important
+v189	8	dk
+v189	9	na
+v19	Variable Label	do you belong to: other groups (Q4K)
+v19	1	mentioned
+v19	2	not mentioned
+v19	8	dk
+v19	9	na
+v19_at	Variable Label	It's important to live life as comfortably / pleasant / convenient as possible.
+v19_at	1	agree strongly
+v19_at	2	agree
+v19_at	3	neither agree nor disagree
+v19_at	4	disagree
+v19_at	5	disagree strongly
+v19_at	8	dk
+v19_at	9	na
+v190	Variable Label	important: to respect Austrian political institutions and laws (Q53B)
+v190	1	very important
+v190	2	quite important
+v190	3	not important
+v190	4	not at all important
+v190	8	dk
+v190	9	na
+v191	Variable Label	important: to have Austrian ancestry (Q53C)
+v191	1	very important
+v191	2	quite important
+v191	3	not important
+v191	4	not at all important
+v191	8	dk
+v191	9	na
+v192	Variable Label	important: to be able to speak German (Q53D)
+v192	1	very important
+v192	2	quite important
+v192	3	not important
+v192	4	not at all important
+v192	8	dk
+v192	9	na
+v193	Variable Label	important: to share Austrian culture (Q53E)
+v193	1	very important
+v193	2	quite important
+v193	3	not important
+v193	4	not at all important
+v193	8	dk
+v193	9	na
+v194	Variable Label	important: to be born in Europe (Q54A)
+v194	1	very important
+v194	2	quite important
+v194	3	not important
+v194	4	not at all important
+v194	8	dk
+v194	9	na
+v195	Variable Label	important: to have European ancestry (Q54B)
+v195	1	very important
+v195	2	quite important
+v195	3	not important
+v195	4	not at all important
+v195	8	dk
+v195	9	na
+v196	Variable Label	important: to be a Christian (Q54C)
+v196	1	very important
+v196	2	quite important
+v196	3	not important
+v196	4	not at all important
+v196	8	dk
+v196	9	na
+v197	Variable Label	important: to share European culture (Q54D)
+v197	1	very important
+v197	2	quite important
+v197	3	not important
+v197	4	not at all important
+v197	8	dk
+v197	9	na
+v198	Variable Label	European Union enlargement (Q55)
+v198	1	should go further
+v198	10	has gone too far
+v198	88	dk
+v198	99	na
+v199	Variable Label	environment: giving part of income (Q56A)
+v199	1	agree strongly
+v199	2	agree
+v199	3	neither agree nor disagree
+v199	4	disagree
+v199	5	disagree strongly
+v199	8	dk
+v199	9	na
+v2	Variable Label	how important in your life: family (Q1B)
+v2	1	very important
+v2	2	quite important
+v2	3	not important
+v2	4	not at all important
+v2	8	dk
+v2	9	na
+v2_at	Variable Label	For me, life carries its meaning within itself. (Q1_at_C)
+v2_at	1	agree strongly
+v2_at	2	agree
+v2_at	3	disagree
+v2_at	4	disagree strongly
+v2_at	8	dk
+v2_at	9	na
+v20	Variable Label	do you belong to: none (Q4)
+v20	1	mentioned
+v20	2	not mentioned
+v20	8	dk
+v20	9	na
+v20_at	Variable Label	It's important for a person to be happy. How they do that is everyone's own bus
+v20_at	1	agree strongly
+v20_at	2	agree
+v20_at	3	neither agree nor disagree
+v20_at	4	disagree
+v20_at	5	disagree strongly
+v20_at	8	dk
+v20_at	9	na
+v200	Variable Label	environment: too difficult for me to do much about the environment (Q56B)
+v200	1	agree strongly
+v200	2	agree
+v200	3	neither agree nor disagree
+v200	4	disagree
+v200	5	disagree strongly
+v200	8	dk
+v200	9	na
+v201	Variable Label	environment: there are more important things to do (Q56C)
+v201	1	agree strongly
+v201	2	agree
+v201	3	neither agree nor disagree
+v201	4	disagree
+v201	5	disagree strongly
+v201	8	dk
+v201	9	na
+v202	Variable Label	environment: no point unless others do the same (Q56D)
+v202	1	agree strongly
+v202	2	agree
+v202	3	neither agree nor disagree
+v202	4	disagree
+v202	5	disagree strongly
+v202	8	dk
+v202	9	na
+v203	Variable Label	environment: environmental threats are exaggerated (Q56E)
+v203	1	agree strongly
+v203	2	agree
+v203	3	neither agree nor disagree
+v203	4	disagree
+v203	5	disagree strongly
+v203	8	dk
+v203	9	na
+v204	Variable Label	protecting environment vs. economic growth (Q57)
+v204	1	Protecting the environment should be given priority, even if it causes slower ec
+v204	2	Economic growth and creating jobs should be the top priority, even if the enviro
+v204	3	Other answer (code if volunteered only!).
+v204	8	dk
+v204	9	na
+v205	Variable Label	government: public area under video surveillance (Q58A)
+v205	1	definitely should have the right
+v205	2	probably should have the right
+v205	3	probably should not have the right
+v205	4	definitely should not have the right
+v205	8	dk
+v205	9	na
+v206	Variable Label	government: monitor all information exchanged on the internet (Q58B)
+v206	1	definitely should have the right
+v206	2	probably should have the right
+v206	3	probably should not have the right
+v206	4	definitely should not have the right
+v206	8	dk
+v206	9	na
+v207	Variable Label	government: collect information about anyone without their knowledge (Q58C)
+v207	1	definitely should have the right
+v207	2	probably should have the right
+v207	3	probably should not have the right
+v207	4	definitely should not have the right
+v207	8	dk
+v207	9	na
+v208	Variable Label	how often do you follow politics: on television (Q59A)
+v208	1	every day
+v208	2	several times a week
+v208	3	once or twice a week
+v208	4	less often
+v208	5	never
+v208	8	dk
+v208	9	na
+v209	Variable Label	how often do you follow politics: on the radio (Q59B)
+v209	1	every day
+v209	2	several times a week
+v209	3	once or twice a week
+v209	4	less often
+v209	5	never
+v209	8	dk
+v209	9	na
+v20a	Variable Label	do you belong to: I dont know (MQ: to complete question) (Q4)
+v20a	1	mentioned
+v20a	2	not mentioned
+v20b	Variable Label	do you belong to: no answer (MQ: to complete question) (Q4)
+v20b	1	mentioned
+v20b	2	not mentioned
+v21	Variable Label	did you do voluntary work in the last 6 months (Q5)
+v21	1	yes
+v21	2	no
+v21	8	dk
+v21	9	na
+v21_at	Variable Label	Foreigners should adapt their lifestyle more to that of the local people. (Q3_a
+v21_at	1	agree strongly
+v21_at	2	agree
+v21_at	3	neither agree nor disagree
+v21_at	4	disagree
+v21_at	5	disagree strongly
+v21_at	8	dk
+v21_at	9	na
+v210	Variable Label	how often do you follow politics: in the daily papers (Q59C)
+v210	1	every day
+v210	2	several times a week
+v210	3	once or twice a week
+v210	4	less often
+v210	5	never
+v210	8	dk
+v210	9	na
+v211	Variable Label	how often do you follow politics: on social media (Q59D)
+v211	1	every day
+v211	2	several times a week
+v211	3	once or twice a week
+v211	4	less often
+v211	5	never
+v211	8	dk
+v211	9	na
+v212	Variable Label	are you concerned with: people neighbourhood (Q60A)
+v212	1	very much
+v212	2	much
+v212	3	to a certain extent
+v212	4	not so much
+v212	5	not at all
+v212	8	dk
+v212	9	na
+v213	Variable Label	are you concerned with: people own region (Q60B)
+v213	1	very much
+v213	2	much
+v213	3	to a certain extent
+v213	4	not so much
+v213	5	not at all
+v213	8	dk
+v213	9	na
+v214	Variable Label	are you concerned with: fellow countrymen (Q60C)
+v214	1	very much
+v214	2	much
+v214	3	to a certain extent
+v214	4	not so much
+v214	5	not at all
+v214	8	dk
+v214	9	na
+v215	Variable Label	are you concerned with: Europeans (Q60D)
+v215	1	very much
+v215	2	much
+v215	3	to a certain extent
+v215	4	not so much
+v215	5	not at all
+v215	8	dk
+v215	9	na
+v216	Variable Label	are you concerned with: humankind (Q60E)
+v216	1	very much
+v216	2	much
+v216	3	to a certain extent
+v216	4	not so much
+v216	5	not at all
+v216	8	dk
+v216	9	na
+v217	Variable Label	are you concerned with: elderly people (Q61A)
+v217	1	very much
+v217	2	much
+v217	3	to a certain extent
+v217	4	not so much
+v217	5	not at all
+v217	8	dk
+v217	9	na
+v218	Variable Label	are you concerned with: unemployed people (Q61B)
+v218	1	very much
+v218	2	much
+v218	3	to a certain extent
+v218	4	not so much
+v218	5	not at all
+v218	8	dk
+v218	9	na
+v219	Variable Label	are you concerned with: immigrants (Q61C)
+v219	1	very much
+v219	2	much
+v219	3	to a certain extent
+v219	4	not so much
+v219	5	not at all
+v219	8	dk
+v219	9	na
+v22	Variable Label	dont like as neighbours: people of different race (Q6A)
+v22	1	mentioned
+v22	2	not mentioned
+v22	8	dk
+v22	9	na
+v22_at	Variable Label	When jobs become scarce, foreigners should be sent back to their home countries
+v22_at	1	agree strongly
+v22_at	2	agree
+v22_at	3	neither agree nor disagree
+v22_at	4	disagree
+v22_at	5	disagree strongly
+v22_at	8	dk
+v22_at	9	na
+v220	Variable Label	are you concerned with: sick and disabled (Q61D)
+v220	1	very much
+v220	2	much
+v220	3	to a certain extent
+v220	4	not so much
+v220	5	not at all
+v220	8	dk
+v220	9	na
+v221	Variable Label	important: eliminating income inequalities (Q62A)
+v221	1	very important
+v221	2	quite important
+v221	3	not important
+v221	4	not at all important
+v221	8	dk
+v221	9	na
+v222	Variable Label	important: basic needs for all (Q62B)
+v222	1	very important
+v222	2	quite important
+v222	3	not important
+v222	4	not at all important
+v222	8	dk
+v222	9	na
+v223	Variable Label	important: recognizing people on merits (Q62C)
+v223	1	very important
+v223	2	quite important
+v223	3	not important
+v223	4	not at all important
+v223	8	dk
+v223	9	na
+v224	Variable Label	important: protecting against terrorism (Q62D)
+v224	1	very important
+v224	2	quite important
+v224	3	not important
+v224	4	not at all important
+v224	8	dk
+v224	9	na
+v225	Variable Label	sex respondent (Q63)
+v225	1	male
+v225	2	female
+v225	8	dk
+v225	9	na
+v226	Variable Label	year of birth respondent (Q64)
+v226	1935	1935 and before
+v226	8888	dk
+v226	9999	na
+v227	Variable Label	respondent born in Austria (Q65)
+v227	1	yes
+v227	2	no
+v227	8	dk
+v227	9	na
+v228b	Variable Label	respondents country of birth - ISO 3166-1 or -3 code (Q66)
+v229	Variable Label	year in which respondent came to live in Austria (Q67)
+v229	1941	1941 and before
+v229	7777	nap
+v229	8888	dk
+v229	9999	na
+v23	Variable Label	dont like as neighbours: heavy drinkers (Q6B)
+v23	1	mentioned
+v23	2	not mentioned
+v23	8	dk
+v23	9	na
+v23_at	Variable Label	Foreigners should be banned from all political participation in our country. (Q
+v23_at	1	agree strongly
+v23_at	2	agree
+v23_at	3	neither agree nor disagree
+v23_at	4	disagree
+v23_at	5	disagree strongly
+v23_at	8	dk
+v23_at	9	na
+v230	Variable Label	father born in Austria (Q68)
+v230	1	yes
+v230	2	no
+v230	7	nap
+v230	8	dk
+v230	9	na
+v231b	Variable Label	fathers country of birth - ISO 3166-1 or -3 code (Q69)
+v232	Variable Label	mother born in Austria (Q70)
+v232	1	yes
+v232	2	no
+v232	7	nap
+v232	8	dk
+v232	9	na
+v233b	Variable Label	mothers country of birth - ISO 3166-1 or -3 code (Q71)
+v234	Variable Label	current legal marital status respondent (Q72)
+v234	1	married
+v234	2	registered partnership
+v234	3	widowed
+v234	4	divorced
+v234	5	separated
+v234	6	never married and never registered partnership
+v234	8	dk
+v234	9	na
+v235	Variable Label	lived with partner before marriage (Q73)
+v235	1	yes
+v235	2	no
+v235	7	nap
+v235	8	dk
+v235	9	na
+v236	Variable Label	living with partner (Q74)
+v236	1	yes
+v236	2	no
+v236	7	nap
+v236	8	dk
+v236	9	na
+v237	Variable Label	having steady relationship (Q75)
+v237	1	yes
+v237	2	no
+v237	7	nap
+v237	8	dk
+v237	9	na
+v238	Variable Label	do you live with your parents/parents in law (Q76)
+v238	1	no
+v238	2	yes, own parent(s)
+v238	3	yes, parent(s) in law
+v238	4	yes, both own parent(s) and parent(s) in law
+v238	8	dk
+v238	9	na
+v239_r	Variable Label	number of children (constructed) (Q77)
+v239_r	-6	na (survey break-off)
+v239_r	-5	other missing
+v239_r	-4	item not included
+v239_r	-3	not applicable
+v239_r	-2	no answer
+v239_r	-1	dont know
+v239_r	5	5 and more
+v239_r	99	na
+v239a	Variable Label	number of children in household (Q77A)
+v239a	4	4 or more
+v239a	66	no children
+v239a	99	na
+v239b	Variable Label	number of children outside household (Q77B)
+v239b	3	3 or more
+v239b	66	no children
+v239b	99	na
+v24	Variable Label	dont like as neighbours: immigrants/foreign workers (Q6C)
+v24	1	mentioned
+v24	2	not mentioned
+v24	8	dk
+v24	9	na
+v24_at	Variable Label	The most important thing that children have to learn, is sharing with others. (
+v24_at	1	agree strongly
+v24_at	2	agree
+v24_at	3	neither agree nor disagree
+v24_at	4	disagree
+v24_at	5	disagree strongly
+v24_at	8	dk
+v24_at	9	na
+v240	Variable Label	number of people in household (Q78)
+v240	1	I live alone
+v240	7	7 or more
+v240	99	na
+v241	Variable Label	age of youngest person in household (Q79)
+v241	80	80 and older
+v241	777	nap
+v241	999	na
+v242	Variable Label	age completed education respondent (Q80)
+v242	0	no formal education
+v242	70	70 and older
+v242	888	dk
+v242	999	na
+v243	Variable Label	highest level education respondent (Q81)
+v243	1	Not completed
+v243	2	Completed primary education
+v243	3	Completed Lower Secundary Education, New Secundary School
+v243	4	Completed Polytechnic School, or one-year Middle School
+v243	5	Completed Academic Secondary School (AHS), elementary level
+v243	6	Completed apprenticeship (final apprenticeship examination)
+v243	7	Completed Vocational Middle School (at least 2 years, e.g. commercial school, pr
+v243	8	Completed Higher School Certificate (matriculation, general qualification for un
+v243	9	Completed degree in health or nursing care
+v243	10	Completed Higher School Certificate in Vocational Higher School
+v243	11	Completed advanced vocational training
+v243	12	Completed pedagoical/educational/medical degree
+v243	13	Completed Bachelor's degree at a university of applied sciences
+v243	14	Completed Bachelor's degree at a university
+v243	15	Completed Master's degree at a university of applied sciences
+v243	16	Completed Master's degree at a university
+v243	17	Completed post-graduate university courses (e.g. MBA)
+v243	18	Completed doctorate/PhD
+v243	19	other
+v243	20	dont know
+v243	88	dk
+v243	99	na
+v243_ISCED_1	Variable Label	educational level respondent: ISCED-code one digit (Q81)
+v243_ISCED_1	0	Less than primary
+v243_ISCED_1	1	Primary
+v243_ISCED_1	2	Lower secondary
+v243_ISCED_1	3	Upper secondary
+v243_ISCED_1	4	Post-secondary non tertiary
+v243_ISCED_1	5	Short-cycle tertiary
+v243_ISCED_1	6	Bachelor or equivalent
+v243_ISCED_1	7	Master or equivalent
+v243_ISCED_1	8	Doctoral or equivalent
+v243_ISCED_1	55	design specific missing value
+v243_ISCED_1	66	other
+v243_ISCED_1	77	not applicable
+v243_ISCED_1	88	dont know (spontaneous)
+v243_ISCED_1	99	no answer (spontaneous)
+v243_r	Variable Label	educational level respondent: (recoded)
+v243_r	1	lower
+v243_r	2	medium
+v243_r	3	higher
+v243_r	55	design specific missing value
+v243_r	66	other
+v243_r	77	not applicable
+v243_r	88	dont know (spontaneous)
+v243_r	99	no answer (spontaneous)
+v244	Variable Label	paid employment/no paid employment (Q82)
+v244	1	30h a week or more
+v244	2	less then 30h a week
+v244	3	self employed
+v244	4	military service
+v244	5	retired/pensioned
+v244	6	homemaker not otherwise employed
+v244	7	student
+v244	8	unemployed
+v244	9	disabled
+v244	10	other
+v244	88	dk
+v244	99	na
+v245	Variable Label	employment/self-employment: last job (Q83)
+v245	1	employed
+v245	2	self-employed
+v245	6	never had a paid job
+v245	7	nap
+v245	8	dk
+v245	9	na
+v246_ISCO_2	Variable Label	kind of job respondent - 2 digit ISCO08 code(Q84a)
+v246_ISCO_2	1	Commissioned Armed Forced Officers
+v246_ISCO_2	2	Non-commissioned armed forces officers
+v246_ISCO_2	3	Armed forces occupations, other ranks
+v246_ISCO_2	11	Chief executives, senior officials and legislators
+v246_ISCO_2	12	Administrative and commercial managers
+v246_ISCO_2	13	Production and specialized services managers
+v246_ISCO_2	14	Hospitality, retail and other services managers
+v246_ISCO_2	21	Science and engineering professionals
+v246_ISCO_2	22	Health professionals
+v246_ISCO_2	23	Teaching professionals
+v246_ISCO_2	24	Business and administration professionals
+v246_ISCO_2	25	Information and communications technology professionals
+v246_ISCO_2	26	Legal, social and cultural professionals
+v246_ISCO_2	31	Science and engineering associate professionals
+v246_ISCO_2	32	Health associate professionals
+v246_ISCO_2	33	Business and administration associate professionals
+v246_ISCO_2	34	Legal, social, cultural and related associate professionals
+v246_ISCO_2	35	Information and communications technicians
+v246_ISCO_2	41	General and keyboard clerks
+v246_ISCO_2	42	Customer services clerks
+v246_ISCO_2	43	Numerical and material recording clerks
+v246_ISCO_2	44	Other clerical support workers
+v246_ISCO_2	51	Personal service workers
+v246_ISCO_2	52	Sales workers
+v246_ISCO_2	53	Personal care workers
+v246_ISCO_2	54	Protective services workers
+v246_ISCO_2	61	Market-oriented skilled agricultural workers
+v246_ISCO_2	62	Market-oriented skilled forestry, fishery and hunting workers
+v246_ISCO_2	63	Subsistence farmers, fishers, hunters and gatherers
+v246_ISCO_2	71	Building and related trades workers, excluding electricians
+v246_ISCO_2	72	Metal, machinery and related trades workers
+v246_ISCO_2	73	Handicraft and printing workers
+v246_ISCO_2	74	Electrical and electronic trades workers
+v246_ISCO_2	75	Food processing, wood working, garment and other craft and related trades worker
+v246_ISCO_2	81	Stationary plant and machine operators
+v246_ISCO_2	82	Assemblers
+v246_ISCO_2	83	Drivers and mobile plant operators
+v246_ISCO_2	91	Cleaners and helpers
+v246_ISCO_2	92	Agricultural, forestry and fishery labourers
+v246_ISCO_2	93	Labourers in mining, construction, manufacturing and transport
+v246_ISCO_2	94	Food preparation assistants
+v246_ISCO_2	95	Street and related sales and service workers
+v246_ISCO_2	96	Refuse workers and other elementary workers
+v246_ISCO_2	777	nap
+v246_ISCO_2	888	dk
+v246_ISCO_2	999	na
+v247	Variable Label	respondent had/has how many employees (Q85)
+v247	1	none
+v247	2	1-9
+v247	3	10-24
+v247	4	25 or more
+v247	7	nap
+v247	8	dk
+v247	9	na
+v248	Variable Label	do/did you supervise someone (Q86)
+v248	1	yes
+v248	2	no
+v248	7	nap
+v248	8	dk
+v248	9	na
+v248a	Variable Label	how many people do/did you supervise (Q86a)
+v248a	1	1-9
+v248a	2	10-24
+v248a	3	25 or more
+v248a	7	nap
+v248a	8	dk
+v248a	9	na
+v249	Variable Label	do/did you work for (Q87)
+v249	1	government or public institution
+v249	2	private business or industry
+v249	3	private non-profit organization
+v249	7	nap
+v249	8	dk
+v249	9	na
+v25	Variable Label	dont like as neighbours: drug addicts (Q6D)
+v25	1	mentioned
+v25	2	not mentioned
+v25	8	dk
+v25	9	na
+v25_at	Variable Label	Sharing can be learned best from one's own family. (Q3_at_K)
+v25_at	1	agree strongly
+v25_at	2	agree
+v25_at	3	neither agree nor disagree
+v25_at	4	disagree
+v25_at	5	disagree strongly
+v25_at	8	dk
+v25_at	9	na
+v250	Variable Label	partner/spouse born in Austria (Q88)
+v250	1	yes
+v250	2	no
+v250	7	nap
+v250	8	dk
+v250	9	na
+v251b	Variable Label	spouse/partners country of birth - ISO 3166-1 or -3 code (Q88a)
+v252	Variable Label	highest level education spouse/partner (Q89)
+v252	1	Not completed
+v252	2	Completed primary education
+v252	3	Completed Lower Secundary Education, New Secundary School
+v252	4	Completed Polytechnic School, or one-year Middle School
+v252	5	Completed Academic Secondary School (AHS), elementary level
+v252	6	Completed apprenticeship (final apprenticeship examination)
+v252	7	Completed Vocational Middle School (at least 2 years, e.g. commercial school, pr
+v252	8	Completed Higher School Certificate (matriculation, general qualification for un
+v252	9	Completed degree in health or nursing care
+v252	10	Completed Higher School Certificate in Vocational Higher School
+v252	11	Completed advanced vocational training
+v252	12	Completed pedagoical/educational/medical degree
+v252	13	Completed Bachelor's degree at a university of applied sciences
+v252	14	Completed Bachelor's degree at a university
+v252	15	Completed Master's degree at a university of applied sciences
+v252	16	Completed Master's degree at a university
+v252	17	Completed post-graduate university courses (e.g. MBA)
+v252	18	Completed doctorate/PhD
+v252	19	other
+v252	20	dont know
+v252	77	nap
+v252	88	dk
+v252	99	na
+v252_ISCED_1	Variable Label	educational level spouse/partner: ISCED-code one digit (Q89)
+v252_ISCED_1	0	Less than primary
+v252_ISCED_1	1	Primary
+v252_ISCED_1	2	Lower secondary
+v252_ISCED_1	3	Upper secondary
+v252_ISCED_1	4	Post-secondary non tertiary
+v252_ISCED_1	5	Short-cycle tertiary
+v252_ISCED_1	6	Bachelor or equivalent
+v252_ISCED_1	7	Master or equivalent
+v252_ISCED_1	8	Doctoral or equivalent
+v252_ISCED_1	55	design specific missing value
+v252_ISCED_1	66	other
+v252_ISCED_1	77	not applicable
+v252_ISCED_1	88	dont know (spontaneous)
+v252_ISCED_1	99	no answer (spontaneous)
+v252_r	Variable Label	educational level spouse/partner: (recoded)
+v252_r	1	lower
+v252_r	2	medium
+v252_r	3	higher
+v252_r	6	other
+v252_r	9	na
+v252_r	55	design specific missing value
+v252_r	66	other
+v252_r	77	not applicable
+v252_r	88	dont know (spontaneous)
+v252_r	99	no answer (spontaneous)
+v253	Variable Label	paid employment/no paid employment spouse/partner (Q90)
+v253	1	30h a week or more
+v253	2	less then 30h a week
+v253	3	self employed
+v253	4	military service
+v253	5	retired/pensioned
+v253	6	homemaker not otherwise employed
+v253	7	student
+v253	8	unemployed
+v253	9	disabled
+v253	10	other
+v253	77	nap
+v253	88	dk
+v253	99	na
+v254	Variable Label	employment/self-employment (spouse/partner): last job (Q91)
+v254	1	employed
+v254	2	self-employed
+v254	6	never had a paid job
+v254	7	nap
+v254	8	dk
+v254	9	na
+v255_ISCO_2	Variable Label	kind of job spouse/partner - 2 digit ISCO08 code(Q92a)
+v255_ISCO_2	1	Commissioned Armed Forced Officers
+v255_ISCO_2	2	Non-commissioned armed forces officers
+v255_ISCO_2	3	Armed forces occupations, other ranks
+v255_ISCO_2	11	Chief executives, senior officials and legislators
+v255_ISCO_2	12	Administrative and commercial managers
+v255_ISCO_2	13	Production and specialized services managers
+v255_ISCO_2	14	Hospitality, retail and other services managers
+v255_ISCO_2	21	Science and engineering professionals
+v255_ISCO_2	22	Health professionals
+v255_ISCO_2	23	Teaching professionals
+v255_ISCO_2	24	Business and administration professionals
+v255_ISCO_2	25	Information and communications technology professionals
+v255_ISCO_2	26	Legal, social and cultural professionals
+v255_ISCO_2	31	Science and engineering associate professionals
+v255_ISCO_2	32	Health associate professionals
+v255_ISCO_2	33	Business and administration associate professionals
+v255_ISCO_2	34	Legal, social, cultural and related associate professionals
+v255_ISCO_2	35	Information and communications technicians
+v255_ISCO_2	41	General and keyboard clerks
+v255_ISCO_2	42	Customer services clerks
+v255_ISCO_2	43	Numerical and material recording clerks
+v255_ISCO_2	44	Other clerical support workers
+v255_ISCO_2	51	Personal service workers
+v255_ISCO_2	52	Sales workers
+v255_ISCO_2	53	Personal care workers
+v255_ISCO_2	54	Protective services workers
+v255_ISCO_2	61	Market-oriented skilled agricultural workers
+v255_ISCO_2	62	Market-oriented skilled forestry, fishery and hunting workers
+v255_ISCO_2	63	Subsistence farmers, fishers, hunters and gatherers
+v255_ISCO_2	71	Building and related trades workers, excluding electricians
+v255_ISCO_2	72	Metal, machinery and related trades workers
+v255_ISCO_2	73	Handicraft and printing workers
+v255_ISCO_2	74	Electrical and electronic trades workers
+v255_ISCO_2	75	Food processing, wood working, garment and other craft and related trades worker
+v255_ISCO_2	81	Stationary plant and machine operators
+v255_ISCO_2	82	Assemblers
+v255_ISCO_2	83	Drivers and mobile plant operators
+v255_ISCO_2	91	Cleaners and helpers
+v255_ISCO_2	92	Agricultural, forestry and fishery labourers
+v255_ISCO_2	93	Labourers in mining, construction, manufacturing and transport
+v255_ISCO_2	94	Food preparation assistants
+v255_ISCO_2	95	Street and related sales and service workers
+v255_ISCO_2	96	Refuse workers and other elementary workers
+v255_ISCO_2	777	nap
+v255_ISCO_2	888	dk
+v255_ISCO_2	999	na
+v256	Variable Label	spouse/partner had/has how many employees (Q93)
+v256	1	none
+v256	2	1-9
+v256	3	10-24
+v256	4	25 or more
+v256	7	nap
+v256	8	dk
+v256	9	na
+v257	Variable Label	does/did spouse/partner supervise someone (Q94)
+v257	1	yes
+v257	2	no
+v257	7	nap
+v257	8	dk
+v257	9	na
+v258	Variable Label	how many people does she/he supervise (Q95)
+v258	1	1-9
+v258	2	10-24
+v258	3	25 or more
+v258	7	nap
+v258	8	dk
+v258	9	na
+v259	Variable Label	respondent experienced unemployment longer than 3 months (Q96)
+v259	1	yes
+v259	2	no
+v259	8	dk
+v259	9	na
+v26	Variable Label	dont like as neighbours: homosexuals (Q6E)
+v26	1	mentioned
+v26	2	not mentioned
+v26	8	dk
+v26	9	na
+v26_at	Variable Label	One cannot learn to solve conflicts without a family. (Q3_at_L)
+v26_at	1	agree strongly
+v26_at	2	agree
+v26_at	3	neither agree nor disagree
+v26_at	4	disagree
+v26_at	5	disagree strongly
+v26_at	8	dk
+v26_at	9	na
+v260	Variable Label	dependency on social security during last 5 years respondent (Q97)
+v260	1	yes
+v260	2	no
+v260	8	dk
+v260	9	na
+v261	Variable Label	household income (Q98)
+v261	1	A - less than 1.190 €
+v261	2	B - 1.190 to under 1.600 €
+v261	3	C - 1.600 to under 1.990 €
+v261	4	D - 1.990 to under 2.410 €
+v261	5	E - 2.410 to under 2.910 €
+v261	6	F - 2.910 to under 3.440 €
+v261	7	G - 3.440 to under 4.060 €
+v261	8	H - 4.060 to under 4.800 €
+v261	9	I - 4.800 to under 5.975 €
+v261	10	J - more than 5.975 €
+v261	88	dk
+v261	99	na
+v262	Variable Label	highest level education father (Q99)
+v262	1	Not completed
+v262	2	Completed primary education
+v262	3	Completed Lower Secundary Education, New Secundary School
+v262	4	Completed Polytechnic School, or one-year Middle School
+v262	5	Completed Academic Secondary School (AHS), elementary level
+v262	6	Completed apprenticeship (final apprenticeship examination)
+v262	7	Completed Vocational Middle School (at least 2 years, e.g. commercial school, pr
+v262	8	Completed Higher School Certificate (matriculation, general qualification for un
+v262	9	Completed degree in health or nursing care
+v262	10	Completed Higher School Certificate in Vocational Higher School
+v262	11	Completed advanced vocational training
+v262	12	Completed pedagoical/educational/medical degree
+v262	13	Completed Bachelor's degree at a university of applied sciences
+v262	14	Completed Bachelor's degree at a university
+v262	15	Completed Master's degree at a university of applied sciences
+v262	16	Completed Master's degree at a university of applied sciences
+v262	17	Completed post-graduate university courses (e.g. MBA)
+v262	18	Completed doctorate/PhD
+v262	19	other
+v262	20	dont know
+v262	77	nap
+v262	88	dk
+v262	99	na
+v262_ISCED_1	Variable Label	educational level father: ISCED-code one digit (Q99)
+v262_ISCED_1	0	Less than primary
+v262_ISCED_1	1	Primary
+v262_ISCED_1	2	Lower secondary
+v262_ISCED_1	3	Upper secondary
+v262_ISCED_1	4	Post-secondary non tertiary
+v262_ISCED_1	5	Short-cycle tertiary
+v262_ISCED_1	6	Bachelor or equivalent
+v262_ISCED_1	7	Master or equivalent
+v262_ISCED_1	8	Doctoral or equivalent
+v262_ISCED_1	55	design specific missing value
+v262_ISCED_1	66	other
+v262_ISCED_1	77	not applicable
+v262_ISCED_1	88	dont know (spontaneous)
+v262_ISCED_1	99	no answer (spontaneous)
+v262_r	Variable Label	educational level father (recoded)
+v262_r	1	lower
+v262_r	2	medium
+v262_r	3	higher
+v262_r	6	other
+v262_r	9	na
+v262_r	55	design specific missing value
+v262_r	66	other
+v262_r	77	not applicable
+v262_r	88	dont know (spontaneous)
+v262_r	99	no answer (spontaneous)
+v263	Variable Label	highest level education mother (Q100)
+v263	1	Not completed
+v263	2	Completed primary education
+v263	3	Completed Lower Secundary Education, New Secundary School
+v263	4	Completed Polytechnic School, or one-year Middle School
+v263	5	Completed Academic Secondary School (AHS), elementary level
+v263	6	Completed apprenticeship (final apprenticeship examination)
+v263	7	Completed Vocational Middle School (at least 2 years, e.g. commercial school, pr
+v263	8	Completed Higher School Certificate (matriculation, general qualification for un
+v263	9	Completed degree in health or nursing care
+v263	10	Completed Higher School Certificate in Vocational Higher School
+v263	11	Completed advanced vocational training
+v263	12	Completed pedagoical/educational/medical degree
+v263	13	Completed Bachelor's degree at a university of applied sciences
+v263	14	Completed Bachelor's degree at a university
+v263	15	Completed Master's degree at a university of applied sciences
+v263	16	Completed Master's degree at a university
+v263	17	Completed post-graduate university courses (e.g. MBA)
+v263	18	Completed doctorate/PhD
+v263	19	other
+v263	20	dont know
+v263	77	nap
+v263	88	dk
+v263	99	na
+v263_ISCED_1	Variable Label	educational level mother: ISCED-code one digit (Q100)
+v263_ISCED_1	0	Less than primary
+v263_ISCED_1	1	Primary
+v263_ISCED_1	2	Lower secondary
+v263_ISCED_1	3	Upper secondary
+v263_ISCED_1	4	Post-secondary non tertiary
+v263_ISCED_1	5	Short-cycle tertiary
+v263_ISCED_1	6	Bachelor or equivalent
+v263_ISCED_1	7	Master or equivalent
+v263_ISCED_1	8	Doctoral or equivalent
+v263_ISCED_1	55	design specific missing value
+v263_ISCED_1	66	other
+v263_ISCED_1	77	not applicable
+v263_ISCED_1	88	dont know (spontaneous)
+v263_ISCED_1	99	no answer (spontaneous)
+v263_r	Variable Label	educational level mother (recoded)
+v263_r	1	lower
+v263_r	2	medium
+v263_r	3	higher
+v263_r	6	other
+v263_r	9	na
+v263_r	55	design specific missing value
+v263_r	66	other
+v263_r	77	not applicable
+v263_r	88	dont know (spontaneous)
+v263_r	99	no answer (spontaneous)
+v264	Variable Label	father employed at respondents age of 14 (Q101)
+v264	1	yes employed
+v264	2	yes self employed
+v264	3	no
+v264	6	does not apply to me (spontaneous)
+v264	8	dk
+v264	9	na
+v265	Variable Label	mother employed at respondents age of 14 (Q102)
+v265	1	yes employed
+v265	2	yes self employed
+v265	3	no
+v265	6	does not apply to me (spontaneous)
+v265	8	dk
+v265	9	na
+v266	Variable Label	at age 14, which group did your parent (main earner) belong to (Q103)
+v266	1	professional and technical (for example: doctor, teacher, engineer, artist, acco
+v266	2	higher administrative (for example: banker, executive in big business, high gove
+v266	3	clerical (for example: secretary, clerk, office manager, civil servant, bookkeep
+v266	4	sales (for example: sales manager, shop owner, shop assistant, insurance agent,
+v266	5	service (for example: restaurant owner, police officer, waitress, barber, careta
+v266	6	skilled worker (for example: foreman, motor mechanic, printer, seamstress, tool
+v266	7	semi-skilled worker (for example: bricklayer, bus driver, cannery worker, carpen
+v266	8	unskilled worker (for example: laborer, porter, unskilled factory worker, cleane
+v266	9	farm worker (for example: farm laborer, tractor driver)
+v266	10	farm proprietor, farm manager
+v266	66	does not apply to me (spontaneous)
+v266	88	dk
+v266	99	na
+v267	Variable Label	mother liked to read books (Q104A)
+v267	1	yes
+v267	2	to some extent
+v267	3	a little bit
+v267	4	no
+v267	6	does not apply to me (spontaneous)
+v267	8	dk
+v267	9	na
+v268	Variable Label	discussed politics with mother (Q104B)
+v268	1	yes
+v268	2	to some extent
+v268	3	a little bit
+v268	4	no
+v268	6	does not apply to me (spontaneous)
+v268	8	dk
+v268	9	na
+v269	Variable Label	mother liked to follow the news (Q104C)
+v269	1	yes
+v269	2	to some extent
+v269	3	a little bit
+v269	4	no
+v269	6	does not apply to me (spontaneous)
+v269	8	dk
+v269	9	na
+v27	Variable Label	dont like as neighbours: christians (Q6F)
+v27	1	mentioned
+v27	2	not mentioned
+v27	8	dk
+v27	9	na
+v27_at	Variable Label	The meaning of life is to make the most of it. (Q3_at_M)
+v27_at	1	agree strongly
+v27_at	2	agree
+v27_at	3	neither agree nor disagree
+v27_at	4	disagree
+v27_at	5	disagree strongly
+v27_at	8	dk
+v27_at	9	na
+v270	Variable Label	parent(s) had problems making ends meet (Q104D)
+v270	1	yes
+v270	2	to some extent
+v270	3	a little bit
+v270	4	no
+v270	6	does not apply to me (spontaneous)
+v270	8	dk
+v270	9	na
+v271	Variable Label	father liked to read books (Q104E)
+v271	1	yes
+v271	2	to some extent
+v271	3	a little bit
+v271	4	no
+v271	6	does not apply to me (spontaneous)
+v271	8	dk
+v271	9	na
+v272	Variable Label	discussed politics with father (Q104F)
+v272	1	yes
+v272	2	to some extent
+v272	3	a little bit
+v272	4	no
+v272	6	does not apply to me (spontaneous)
+v272	8	dk
+v272	9	na
+v273	Variable Label	father liked to follow the news (Q104G)
+v273	1	yes
+v273	2	to some extent
+v273	3	a little bit
+v273	4	no
+v273	6	does not apply to me (spontaneous)
+v273	8	dk
+v273	9	na
+v274	Variable Label	parent(s) had problems replacing broken things (Q104H)
+v274	1	yes
+v274	2	to some extent
+v274	3	a little bit
+v274	4	no
+v274	6	does not apply to me (spontaneous)
+v274	8	dk
+v274	9	na
+v275a	Variable Label	region where interview was conducted (Q105)
+v275a	1	Burgenland
+v275a	2	Carinthia
+v275a	3	Lower Austria
+v275a	4	Upper Austria
+v275a	5	Salzburg
+v275a	6	Styria
+v275a	7	Tyrol
+v275a	8	Vorarlberg
+v275a	9	Vienna
+v276_r	Variable Label	size of town where interview was conducted (5 categories)
+v276_r	-3	not applicable
+v276_r	-2	no answer
+v276_r	-1	dont know
+v276_r	1	under 5000
+v276_r	2	5000-20000
+v276_r	3	20000-100000
+v276_r	4	100000-500000
+v276_r	5	500000 and more
+v277	Variable Label	date of interview (Q107)
+v28	Variable Label	dont like as neighbours: muslims (Q6G)
+v28	1	mentioned
+v28	2	not mentioned
+v28	8	dk
+v28	9	na
+v28_at	Variable Label	Decisions should be made by those who are successful in life. (Q3_at_N)
+v28_at	1	agree strongly
+v28_at	2	agree
+v28_at	3	neither agree nor disagree
+v28_at	4	disagree
+v28_at	5	disagree strongly
+v28_at	8	dk
+v28_at	9	na
+v280	Variable Label	interest of respondent during interview (Q109)
+v280	1	very interested
+v280	2	somewhat interested
+v280	3	not very interested
+v281	Variable Label	language of interview (Q110)
+v281a	Variable Label	language of interview - ISO  639-1 code (Q110)
+v282	Variable Label	interviewer number (Q111)
+v29	Variable Label	dont like as neighbours: jews (Q6H)
+v29	1	mentioned
+v29	2	not mentioned
+v29	8	dk
+v29	9	na
+v29_at	Variable Label	The weaker members of society should be subordinate to the stronger ones. (Q3_a
+v29_at	1	agree strongly
+v29_at	2	agree
+v29_at	3	neither agree nor disagree
+v29_at	4	disagree
+v29_at	5	disagree strongly
+v29_at	8	dk
+v29_at	9	na
+v3	Variable Label	how important in your life: friends and acquaintances (Q1C)
+v3	1	very important
+v3	2	quite important
+v3	3	not important
+v3	4	not at all important
+v3	8	dk
+v3	9	na
+v3_at	Variable Label	In the end, life is determined by the laws of nature. (Q1_at_E)
+v3_at	1	agree strongly
+v3_at	2	agree
+v3_at	3	disagree
+v3_at	4	disagree strongly
+v3_at	8	dk
+v3_at	9	na
+v30	Variable Label	dont like as neighbours: gypsies (Q6I)
+v30	1	mentioned
+v30	2	not mentioned
+v30	8	dk
+v30	9	na
+v30_at	Variable Label	Thinking up new ideas and being creative is important to her. She likes to do t
+v30_at	1	very much like me
+v30_at	2	like me
+v30_at	3	somewhat like me
+v30_at	4	a little like me
+v30_at	5	not like me
+v30_at	6	not like me at all
+v30_at	8	dk
+v30_at	9	na
+v31	Variable Label	people can be trusted/cant be too careful (Q7)
+v31	1	most people can be trusted
+v31	2	cannot be too careful
+v31	8	dk
+v31	9	na
+v31_at	Variable Label	It is important to her to be rich. She wants to have a lot of money and expensi
+v31_at	1	very much like me
+v31_at	2	like me
+v31_at	3	somewhat like me
+v31_at	4	a little like me
+v31_at	5	not like me
+v31_at	6	not like me at all
+v31_at	8	dk
+v31_at	9	na
+v32	Variable Label	how much you trust: your family (Q8A)
+v32	1	trust completely
+v32	2	trust somewhat
+v32	3	do not trust very much
+v32	4	do not trust at all
+v32	8	dk
+v32	9	na
+v32_at	Variable Label	It is important to her to live in secure surroundings. She avoids anything that
+v32_at	1	very much like me
+v32_at	2	like me
+v32_at	3	somewhat like me
+v32_at	4	a little like me
+v32_at	5	not like me
+v32_at	6	not like me at all
+v32_at	8	dk
+v32_at	9	na
+v33	Variable Label	how much you trust: people in your neighborhood (Q8B)
+v33	1	trust completely
+v33	2	trust somewhat
+v33	3	do not trust very much
+v33	4	do not trust at all
+v33	8	dk
+v33	9	na
+v33_at	Variable Label	Having a good time is important to her. She likes to 'spoil' herself. (Q4_at_
+v33_at	1	very much like me
+v33_at	2	like me
+v33_at	3	somewhat like me
+v33_at	4	a little like me
+v33_at	5	not like me
+v33_at	6	not like me at all
+v33_at	8	dk
+v33_at	9	na
+v34	Variable Label	how much you trust: people you know personally (Q8C)
+v34	1	trust completely
+v34	2	trust somewhat
+v34	3	do not trust very much
+v34	4	do not trust at all
+v34	8	dk
+v34	9	na
+v34_at	Variable Label	It's very important to her to help the people around her. She wants to care for
+v34_at	1	very much like me
+v34_at	2	like me
+v34_at	3	somewhat like me
+v34_at	4	a little like me
+v34_at	5	not like me
+v34_at	6	not like me at all
+v34_at	8	dk
+v34_at	9	na
+v35	Variable Label	how much you trust: people you meet for the first time (Q8D)
+v35	1	trust completely
+v35	2	trust somewhat
+v35	3	do not trust very much
+v35	4	do not trust at all
+v35	8	dk
+v35	9	na
+v35_at	Variable Label	Being very successful is important to her. She hopes people will recognise her
+v35_at	1	very much like me
+v35_at	2	like me
+v35_at	3	somewhat like me
+v35_at	4	a little like me
+v35_at	5	not like me
+v35_at	6	not like me at all
+v35_at	8	dk
+v35_at	9	na
+v36	Variable Label	how much you trust: people of another religion (Q8E)
+v36	1	trust completely
+v36	2	trust somewhat
+v36	3	do not trust very much
+v36	4	do not trust at all
+v36	8	dk
+v36	9	na
+v36_at	Variable Label	She looks for adventures and likes to take risks. She wants to have an exciting
+v36_at	1	very much like me
+v36_at	2	like me
+v36_at	3	somewhat like me
+v36_at	4	a little like me
+v36_at	5	not like me
+v36_at	6	not like me at all
+v36_at	8	dk
+v36_at	9	na
+v37	Variable Label	how much you trust: people of another nationality (Q8F)
+v37	1	trust completely
+v37	2	trust somewhat
+v37	3	do not trust very much
+v37	4	do not trust at all
+v37	8	dk
+v37	9	na
+v37_at	Variable Label	It is important to her always to behave properly. She wants to avoid doing anyt
+v37_at	1	very much like me
+v37_at	2	like me
+v37_at	3	somewhat like me
+v37_at	4	a little like me
+v37_at	5	not like me
+v37_at	6	not like me at all
+v37_at	8	dk
+v37_at	9	na
+v38	Variable Label	how much control over your life (Q9)
+v38	1	none at all
+v38	10	a great deal
+v38	88	dk
+v38	99	na
+v38_at	Variable Label	She strongly believes that people should care for nature. Looking after the env
+v38_at	1	very much like me
+v38_at	2	like me
+v38_at	3	somewhat like me
+v38_at	4	a little like me
+v38_at	5	not like me
+v38_at	6	not like me at all
+v38_at	8	dk
+v38_at	9	na
+v39	Variable Label	how satisfied are you with your life (Q10)
+v39	1	dissatisfied
+v39	10	satisfied
+v39	88	dk
+v39	99	na
+v39_at	Variable Label	Tradition is important to her. She tries to follow the customs handed down by h
+v39_at	1	very much like me
+v39_at	2	like me
+v39_at	3	somewhat like me
+v39_at	4	a little like me
+v39_at	5	not like me
+v39_at	6	not like me at all
+v39_at	8	dk
+v39_at	9	na
+v4	Variable Label	how important in your life: leisure time (Q1D)
+v4	1	very important
+v4	2	quite important
+v4	3	not important
+v4	4	not at all important
+v4	8	dk
+v4	9	na
+v4_at	Variable Label	There is something like a higher power. (Q1_at_G)
+v4_at	1	agree strongly
+v4_at	2	agree
+v4_at	3	disagree
+v4_at	4	disagree strongly
+v4_at	8	dk
+v4_at	9	na
+v40	Variable Label	important in a job: good pay (Q11A)
+v40	1	mentioned
+v40	2	not mentioned
+v40	8	dk
+v40	9	na
+v41	Variable Label	important in a job: good hours (Q11B)
+v41	1	mentioned
+v41	2	not mentioned
+v41	8	dk
+v41	9	na
+v42	Variable Label	important in a job: opportunity to use initiative (Q11C)
+v42	1	mentioned
+v42	2	not mentioned
+v42	8	dk
+v42	9	na
+v43	Variable Label	important in a job: generous holidays (Q11D)
+v43	1	mentioned
+v43	2	not mentioned
+v43	8	dk
+v43	9	na
+v44	Variable Label	important in a job: achieving something (Q11E)
+v44	1	mentioned
+v44	2	not mentioned
+v44	8	dk
+v44	9	na
+v45	Variable Label	important in a job: responsible job (Q11F)
+v45	1	mentioned
+v45	2	not mentioned
+v45	8	dk
+v45	9	na
+v45a	Variable Label	important in a job: none of these (Q11)
+v45a	1	mentioned
+v45a	2	not mentioned
+v45a	8	dk
+v45a	9	na
+v45b	Variable Label	important in a job: I dont know (MQ: to complete question) (Q11)
+v45b	1	mentioned
+v45b	2	not mentioned
+v45c	Variable Label	important in a job: no answer (MQ: to complete question) (Q11)
+v45c	1	mentioned
+v45c	2	not mentioned
+v46	Variable Label	job needed to develop talents (Q12A)
+v46	1	agree strongly
+v46	2	agree
+v46	3	neither agree nor disagree
+v46	4	disagree
+v46	5	disagree strongly
+v46	8	dk
+v46	9	na
+v47	Variable Label	humiliating receiving money without working (Q12B)
+v47	1	agree strongly
+v47	2	agree
+v47	3	neither agree nor disagree
+v47	4	disagree
+v47	5	disagree strongly
+v47	8	dk
+v47	9	na
+v48	Variable Label	people turn lazy not working (Q12C)
+v48	1	agree strongly
+v48	2	agree
+v48	3	neither agree nor disagree
+v48	4	disagree
+v48	5	disagree strongly
+v48	8	dk
+v48	9	na
+v49	Variable Label	work is a duty towards society (Q12D)
+v49	1	agree strongly
+v49	2	agree
+v49	3	neither agree nor disagree
+v49	4	disagree
+v49	5	disagree strongly
+v49	8	dk
+v49	9	na
+v5	Variable Label	how important in your life: politics (Q1E)
+v5	1	very important
+v5	2	quite important
+v5	3	not important
+v5	4	not at all important
+v5	8	dk
+v5	9	na
+v5_at	Variable Label	There is a God who revealed Himself in Jesus. (Q1_at_H)
+v5_at	1	agree strongly
+v5_at	2	agree
+v5_at	3	disagree
+v5_at	4	disagree strongly
+v5_at	8	dk
+v5_at	9	na
+v50	Variable Label	work comes always first (Q12E)
+v50	1	agree strongly
+v50	2	agree
+v50	3	neither agree nor disagree
+v50	4	disagree
+v50	5	disagree strongly
+v50	8	dk
+v50	9	na
+v51	Variable Label	do you belong to a religious denomination (Q13)
+v51	1	yes
+v51	2	no
+v51	8	dk
+v51	9	na
+v52	Variable Label	(Do you belong to a religious denomination?) Which one?
+v52	1	Roman catholic
+v52	2	Protestant
+v52	3	Free church/Non-conformist/Evangelical
+v52	4	Jew
+v52	5	Islamic
+v52	6	Hindu
+v52	7	Buddhist
+v52	8	Orthodox
+v52	9	Other
+v52	55	design specific missing value
+v52	77	not applicable
+v52	88	dont know (spontaneous)
+v52	99	no answer (spontaneous)
+v53	Variable Label	did you belong to a religious denomination (Q14)
+v53	1	yes
+v53	2	no
+v53	7	nap
+v53	8	dk
+v53	9	na
+v54	Variable Label	how often attend religious services (Q15)
+v54	1	more than once week
+v54	2	once a week
+v54	3	once a month
+v54	4	only on specific holy days
+v54	5	once a year
+v54	6	less often
+v54	7	never, practically never
+v54	8	dk
+v54	9	na
+v55	Variable Label	how often attend religious services 12 years old (Q16)
+v55	1	more than once week
+v55	2	once a week
+v55	3	once a month
+v55	4	only on specific holy days
+v55	5	once a year
+v55	6	less often
+v55	7	never, practically never
+v55	8	dk
+v55	9	na
+v56	Variable Label	are you a religious person (Q17)
+v56	1	a religious person
+v56	2	not a religious person
+v56	3	a convinced atheist
+v56	8	dk
+v56	9	na
+v57	Variable Label	do you believe in: God (Q18A)
+v57	1	yes
+v57	2	no
+v57	8	dk
+v57	9	na
+v58	Variable Label	do you believe in: life after death (Q18B)
+v58	1	yes
+v58	2	no
+v58	8	dk
+v58	9	na
+v59	Variable Label	do you believe in: hell (Q18C)
+v59	1	yes
+v59	2	no
+v59	8	dk
+v59	9	na
+v6	Variable Label	how important in your life: religion (Q1F)
+v6	1	very important
+v6	2	quite important
+v6	3	not important
+v6	4	not at all important
+v6	8	dk
+v6	9	na
+v6_at	Variable Label	The resurrection of Jesus gives meaning to my death. (Q1_at_K)
+v6_at	1	agree strongly
+v6_at	2	agree
+v6_at	3	disagree
+v6_at	4	disagree strongly
+v6_at	8	dk
+v6_at	9	na
+v60	Variable Label	do you believe in: heaven (Q18D)
+v60	1	yes
+v60	2	no
+v60	8	dk
+v60	9	na
+v61	Variable Label	do you believe in: re-incarnation (Q19)
+v61	1	yes
+v61	2	no
+v61	8	dk
+v61	9	na
+v62	Variable Label	which statement closest to your beliefs (Q20)
+v62	1	personal God
+v62	2	spirit or life force
+v62	3	dont know what to think
+v62	4	no spirit, God or life force
+v62	8	dk
+v62	9	na
+v63	Variable Label	how important is God in your life (Q21)
+v63	1	not at all important
+v63	10	very important
+v63	88	dk
+v63	99	na
+v64	Variable Label	how often do you pray outside religious services (Q22)
+v64	1	every day
+v64	2	more than once week
+v64	3	once a week
+v64	4	at least once a month
+v64	5	several times a year
+v64	6	less often
+v64	7	never
+v64	8	dk
+v64	9	na
+v65	Variable Label	important in marriage: faithfulness (Q23A)
+v65	1	very important
+v65	2	rather important
+v65	3	not very important
+v65	8	dk
+v65	9	na
+v66	Variable Label	important in marriage: adequate income (Q23B)
+v66	1	very important
+v66	2	rather important
+v66	3	not very important
+v66	8	dk
+v66	9	na
+v67	Variable Label	important in marriage: good housing (Q23C)
+v67	1	very important
+v67	2	rather important
+v67	3	not very important
+v67	8	dk
+v67	9	na
+v68	Variable Label	important in marriage: share household chores (Q23D)
+v68	1	very important
+v68	2	rather important
+v68	3	not very important
+v68	8	dk
+v68	9	na
+v69	Variable Label	important in marriage: children (Q23E)
+v69	1	very important
+v69	2	rather important
+v69	3	not very important
+v69	8	dk
+v69	9	na
+v7	Variable Label	taking all things together how happy are you (Q2)
+v7	1	very happy
+v7	2	quite happy
+v7	3	not very happy
+v7	4	not at all happy
+v7	8	dk
+v7	9	na
+v7_at	Variable Label	The future lies in the Kingdom of God that has been promised by Jesus. (Q1_at_L
+v7_at	1	agree strongly
+v7_at	2	agree
+v7_at	3	disagree
+v7_at	4	disagree strongly
+v7_at	8	dk
+v7_at	9	na
+v70	Variable Label	important in marriage: time for friends and personal hobbies (Q23F)
+v70	1	very important
+v70	2	rather important
+v70	3	not very important
+v70	8	dk
+v70	9	na
+v71	Variable Label	marriage is outdated (Q24)
+v71	1	agree
+v71	2	disagree
+v71	8	dk
+v71	9	na
+v72	Variable Label	child suffers with working mother (Q25A)
+v72	1	agree strongly
+v72	2	agree
+v72	3	disagree
+v72	4	disagree strongly
+v72	8	dk
+v72	9	na
+v73	Variable Label	women really want home and children (Q25B)
+v73	1	agree strongly
+v73	2	agree
+v73	3	disagree
+v73	4	disagree strongly
+v73	8	dk
+v73	9	na
+v74	Variable Label	family life suffers when woman has full-time job (Q25C)
+v74	1	agree strongly
+v74	2	agree
+v74	3	disagree
+v74	4	disagree strongly
+v74	8	dk
+v74	9	na
+v75	Variable Label	man's job is to earn money; woman's job is to look after home and family (Q25D)
+v75	1	agree strongly
+v75	2	agree
+v75	3	disagree
+v75	4	disagree strongly
+v75	8	dk
+v75	9	na
+v76	Variable Label	men make better political leaders than women (Q25E)
+v76	1	agree strongly
+v76	2	agree
+v76	3	disagree
+v76	4	disagree strongly
+v76	8	dk
+v76	9	na
+v77	Variable Label	university education more important for a boy than for a girl (Q25F)
+v77	1	agree strongly
+v77	2	agree
+v77	3	disagree
+v77	4	disagree strongly
+v77	8	dk
+v77	9	na
+v78	Variable Label	men make better business executives than women (Q25G)
+v78	1	agree strongly
+v78	2	agree
+v78	3	disagree
+v78	4	disagree strongly
+v78	8	dk
+v78	9	na
+v79	Variable Label	one of main goals in life has been to make my parents proud (Q25H)
+v79	1	agree strongly
+v79	2	agree
+v79	3	disagree
+v79	4	disagree strongly
+v79	8	dk
+v79	9	na
+v8	Variable Label	describe your state of health these days (Q3)
+v8	1	very good
+v8	2	good
+v8	3	fair
+v8	4	poor
+v8	5	very poor
+v8	8	dk
+v8	9	na
+v8_at	Variable Label	Death is a transition to another form of existence. (Q1_at_M)
+v8_at	1	agree strongly
+v8_at	2	agree
+v8_at	3	disagree
+v8_at	4	disagree strongly
+v8_at	8	dk
+v8_at	9	na
+v80	Variable Label	jobs are scarce: giving Austrians priority (Q26A)
+v80	1	agree strongly
+v80	2	agree
+v80	3	neither agree nor disagree
+v80	4	disagree
+v80	5	disagree strongly
+v80	8	dk
+v80	9	na
+v81	Variable Label	jobs are scarce: giving men priority (Q26B)
+v81	1	agree strongly
+v81	2	agree
+v81	3	neither agree nor disagree
+v81	4	disagree
+v81	5	disagree strongly
+v81	8	dk
+v81	9	na
+v82	Variable Label	homosexual couples - as good parents as other couples (Q27A)
+v82	1	agree strongly
+v82	2	agree
+v82	3	neither agree nor disagree
+v82	4	disagree
+v82	5	disagree strongly
+v82	8	dk
+v82	9	na
+v83	Variable Label	duty towards society to have children (Q27B)
+v83	1	agree strongly
+v83	2	agree
+v83	3	neither agree nor disagree
+v83	4	disagree
+v83	5	disagree strongly
+v83	8	dk
+v83	9	na
+v84	Variable Label	It is childs duty to provide long-term care for parents (Q27C)
+v84	1	agree strongly
+v84	2	agree
+v84	3	neither agree nor disagree
+v84	4	disagree
+v84	5	disagree strongly
+v84	8	dk
+v84	9	na
+v85	Variable Label	learn children at home: good manners (Q28A)
+v85	1	mentioned
+v85	2	not mentioned
+v85	8	dk
+v85	9	na
+v86	Variable Label	learn children at home: independence (Q28B)
+v86	1	mentioned
+v86	2	not mentioned
+v86	8	dk
+v86	9	na
+v87	Variable Label	learn children at home: hard work (Q28C)
+v87	1	mentioned
+v87	2	not mentioned
+v87	8	dk
+v87	9	na
+v88	Variable Label	learn children at home: feeling of responsibility (Q28D)
+v88	1	mentioned
+v88	2	not mentioned
+v88	8	dk
+v88	9	na
+v89	Variable Label	learn children at home: imagination (Q28E)
+v89	1	mentioned
+v89	2	not mentioned
+v89	8	dk
+v89	9	na
+v9	Variable Label	do you belong to: religious organisation (Q4A)
+v9	1	mentioned
+v9	2	not mentioned
+v9	8	dk
+v9	9	na
+v9_at	Variable Label	Reincarnation of the soul (rebirth) in another life exists. (Q1_at_N)
+v9_at	1	agree strongly
+v9_at	2	agree
+v9_at	3	disagree
+v9_at	4	disagree strongly
+v9_at	8	dk
+v9_at	9	na
+v90	Variable Label	learn children at home: tolerance+respect (Q28F)
+v90	1	mentioned
+v90	2	not mentioned
+v90	8	dk
+v90	9	na
+v91	Variable Label	learn children at home: thrift, saving money and things (Q28G)
+v91	1	mentioned
+v91	2	not mentioned
+v91	8	dk
+v91	9	na
+v92	Variable Label	learn children at home: determination, perseverance (Q28H)
+v92	1	mentioned
+v92	2	not mentioned
+v92	8	dk
+v92	9	na
+v93	Variable Label	learn children at home: religious faith (Q28I)
+v93	1	mentioned
+v93	2	not mentioned
+v93	8	dk
+v93	9	na
+v94	Variable Label	learn children at home: unselfishness (Q28J)
+v94	1	mentioned
+v94	2	not mentioned
+v94	8	dk
+v94	9	na
+v95	Variable Label	learn children at home: obedience (Q28K)
+v95	1	mentioned
+v95	2	not mentioned
+v95	8	dk
+v95	9	na
+v96	Variable Label	learn children at home: none (Q28)
+v96	1	mentioned
+v96	2	not mentioned
+v96	8	dk
+v96	9	na
+v96a	Variable Label	learn children at home: I dont know (MQ: to complete question) (Q28)
+v96a	1	mentioned
+v96a	2	not mentioned
+v96b	Variable Label	learn children at home: no answer (MQ: to complete question)(Q28)
+v96b	1	mentioned
+v96b	2	not mentioned
+v97	Variable Label	how interested are you in politics (Q29)
+v97	1	very interested
+v97	2	somewhat interested
+v97	3	not very interested
+v97	4	not at all interested
+v97	8	dk
+v97	9	na
+v98	Variable Label	political action: signing a petition (Q30A)
+v98	1	have done
+v98	2	might do
+v98	3	would never do
+v98	8	dk
+v98	9	na
+v99	Variable Label	political action: joining in boycotts (Q30B)
+v99	1	have done
+v99	2	might do
+v99	3	would never do
+v99	8	dk
+v99	9	na
+version	Variable Label	AUSSDA archive version
+Weight_All	Variable Label	Post stratification weight (everybody)
+Weight_Mig	Variable Label	Post stratification weight (all migrants)
