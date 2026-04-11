@@ -12,7 +12,7 @@ def main() -> None:
     p.add_argument("--limit", type=int, default=None, help="Max records (for testing)")
     p.add_argument("--workers", type=int, default=3, help="Parallel workers (default: 3)")
     p.add_argument("--download-dir", type=Path, default=Path("downloaded_files"))
-    p.add_argument("--db-path", type=Path, default=Path("downloaded_files/metadata.db"))
+    p.add_argument("--db-path", type=Path, default=Path("23711815-seeding.db"))
     p.add_argument("--no-download", action="store_true", help="Metadata only, skip file downloads")
     args = p.parse_args()
 
